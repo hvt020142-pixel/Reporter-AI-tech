@@ -1,8 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-14T20:31:23.565462+00:00 (UTC) — cửa sổ 72h — 45 mục — nguồn sơ cấp/uy tín.*
-
-> ⚠️ 4 nguồn lỗi lần này (bỏ qua): Anthropic, Microsoft AI, Meta AI, Stability AI
+*Cập nhật: 2026-06-14T20:33:14.246664+00:00 (UTC) — cửa sổ 72h — 44 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -150,9 +148,6 @@
 - 🔵 **Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world** — TechCrunch AI — `2026-06-12T01:04:38+00:00`
   - https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
   - The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.
-- 🔵 **SpaceX officially prices shares at $135 in the largest IPO ever** — TechCrunch AI — `2026-06-11T20:33:10+00:00`
-  - https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/
-  - Wits its official share pricing announcement, SpaceX's IPO has begun.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

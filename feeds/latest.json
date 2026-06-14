@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-14T20:31:23.565462+00:00",
+  "generated_at": "2026-06-14T20:33:14.246664+00:00",
   "lookback_hours": 72,
-  "item_count": 45,
+  "item_count": 44,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -35,32 +35,32 @@
     },
     {
       "source": "arXiv cs.AI",
-      "url": "http://export.arxiv.org/rss/cs.AI",
+      "url": "https://rss.arxiv.org/rss/cs.AI",
       "items_kept": 0,
       "items_total": 0
     },
     {
       "source": "arXiv cs.CL",
-      "url": "http://export.arxiv.org/rss/cs.CL",
+      "url": "https://rss.arxiv.org/rss/cs.CL",
       "items_kept": 0,
       "items_total": 0
     },
     {
       "source": "arXiv cs.LG",
-      "url": "http://export.arxiv.org/rss/cs.LG",
+      "url": "https://rss.arxiv.org/rss/cs.LG",
       "items_kept": 0,
       "items_total": 0
     },
     {
       "source": "arXiv cs.CV",
-      "url": "http://export.arxiv.org/rss/cs.CV",
+      "url": "https://rss.arxiv.org/rss/cs.CV",
       "items_kept": 0,
       "items_total": 0
     },
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 18,
+      "items_kept": 17,
       "items_total": 20
     },
     {
@@ -94,28 +94,7 @@
       "items_total": 30
     }
   ],
-  "sources_failed": [
-    {
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/rss.xml",
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    },
-    {
-      "source": "Microsoft AI",
-      "url": "https://blogs.microsoft.com/ai/feed/",
-      "error": "HTTPError: HTTP Error 410: Gone"
-    },
-    {
-      "source": "Meta AI",
-      "url": "https://ai.meta.com/blog/rss/",
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    },
-    {
-      "source": "Stability AI",
-      "url": "https://stability.ai/news?format=rss",
-      "error": "ParseError: syntax error: line 1, column 0"
-    }
-  ],
+  "sources_failed": [],
   "items": [
     {
       "title": "China may have accessed Mythos",
@@ -556,16 +535,6 @@
       "published_iso": "2026-06-12T00:00:00+00:00",
       "published_ts": 1781222400.0,
       "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
-    },
-    {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-11T20:33:10+00:00",
-      "published_ts": 1781209990.0,
-      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun."
     }
   ]
 }
