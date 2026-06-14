@@ -1,0 +1,61 @@
+name: Send report to Telegram
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'reports/**'
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2   # cần commit trước đó để biết file nào vừa đổi
+
+      - name: Find newest report
+        id: pick
+        run: |
+          set -euo pipefail
+          # Lấy file .md dưới reports/ vừa được thêm/sửa trong lần push này
+          if git rev-parse HEAD^ >/dev/null 2>&1; then
+            FILE=$(git diff --name-only --diff-filter=AM HEAD^ HEAD \
+                   | grep -E '^reports/.*\.md$' | sort | tail -n1 || true)
+          else
+            FILE=""
+          fi
+          # Dự phòng: nếu không xác định được, lấy file mới nhất theo tên
+          if [ -z "${FILE}" ]; then
+            FILE=$(ls -1 reports/*.md 2>/dev/null | sort | tail -n1 || true)
+          fi
+          if [ -z "${FILE}" ]; then
+            echo "Không tìm thấy file .md nào trong reports/"; exit 1
+          fi
+          echo "Chọn file: ${FILE}"
+          echo "file=${FILE}"               >> "$GITHUB_OUTPUT"
+          echo "name=$(basename "${FILE}")"  >> "$GITHUB_OUTPUT"
+
+      - name: Send document to Telegram
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT:  ${{ secrets.TELEGRAM_CHAT_ID }}
+          FILE: ${{ steps.pick.outputs.file }}
+          NAME: ${{ steps.pick.outputs.name }}
+        run: |
+          set -euo pipefail
+          RESP=$(curl -sS -w '\n%{http_code}' \
+            -F "chat_id=${TG_CHAT}" \
+            -F "document=@${FILE};type=text/markdown" \
+            -F "caption=🤖 Bản tin AI — ${NAME}" \
+            "https://api.telegram.org/bot${TG_TOKEN}/sendDocument")
+          BODY=$(printf '%s' "$RESP" | sed '$d')
+          CODE=$(printf '%s' "$RESP" | tail -n1)
+          echo "HTTP ${CODE}"; echo "$BODY"
+          if [ "$CODE" != "200" ]; then
+            echo "Gửi Telegram thất bại (xem phản hồi ở trên)"; exit 1
+          fi
