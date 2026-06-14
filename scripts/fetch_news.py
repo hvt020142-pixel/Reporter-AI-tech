@@ -47,20 +47,19 @@ import xml.etree.ElementTree as ET
 FEEDS = [
     # --- Blog hãng (nguồn sơ cấp) ---
     ("OpenAI",            "https://openai.com/news/rss.xml",                              "Mô hình & LLM",        "primary"),
-    ("Anthropic",         "https://www.anthropic.com/rss.xml",                            "Mô hình & LLM",        "primary"),
     ("Google DeepMind",   "https://deepmind.google/blog/rss.xml",                         "Mô hình & LLM",        "primary"),
     ("Google (Keyword AI)","https://blog.google/technology/ai/rss/",                      "Mô hình & LLM",        "primary"),
-    ("Microsoft AI",      "https://blogs.microsoft.com/ai/feed/",                         "Agent & ứng dụng",     "primary"),
     ("NVIDIA",            "https://blogs.nvidia.com/feed/",                               "Hạ tầng & phần cứng",  "primary"),
-    ("Meta AI",           "https://ai.meta.com/blog/rss/",                                "Mô hình & LLM",        "primary"),
     ("Hugging Face",      "https://huggingface.co/blog/feed.xml",                         "Mô hình mở",           "primary"),
-    ("Stability AI",      "https://stability.ai/news?format=rss",                         "Đa phương thức",       "primary"),
+    # Đã gỡ (URL xác nhận hỏng khi chạy thật 14/06): Anthropic (404), Microsoft AI (410),
+    # Meta AI (404), Stability AI (không phải XML). Anthropic/Meta không có RSS công khai ổn định;
+    # tin của họ vẫn được bắt qua TechCrunch/The Verge/Ars Technica bên dưới.
 
-    # --- arXiv (nghiên cứu sơ cấp) ---
-    ("arXiv cs.AI",       "http://export.arxiv.org/rss/cs.AI",                            "Nghiên cứu",           "primary"),
-    ("arXiv cs.CL",       "http://export.arxiv.org/rss/cs.CL",                            "Nghiên cứu",           "primary"),
-    ("arXiv cs.LG",       "http://export.arxiv.org/rss/cs.LG",                            "Nghiên cứu",           "primary"),
-    ("arXiv cs.CV",       "http://export.arxiv.org/rss/cs.CV",                            "Nghiên cứu",           "primary"),
+    # --- arXiv (nghiên cứu sơ cấp) — dùng host RSS mới của arXiv (RSS 2.0) ---
+    ("arXiv cs.AI",       "https://rss.arxiv.org/rss/cs.AI",                              "Nghiên cứu",           "primary"),
+    ("arXiv cs.CL",       "https://rss.arxiv.org/rss/cs.CL",                              "Nghiên cứu",           "primary"),
+    ("arXiv cs.LG",       "https://rss.arxiv.org/rss/cs.LG",                              "Nghiên cứu",           "primary"),
+    ("arXiv cs.CV",       "https://rss.arxiv.org/rss/cs.CV",                              "Nghiên cứu",           "primary"),
 
     # --- Báo / tạp chí uy tín ---
     ("TechCrunch AI",     "https://techcrunch.com/category/artificial-intelligence/feed/","Tin tức",             "reputable"),
