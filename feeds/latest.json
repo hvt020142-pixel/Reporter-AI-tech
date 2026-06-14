@@ -1,0 +1,571 @@
+{
+  "generated_at": "2026-06-14T20:31:23.565462+00:00",
+  "lookback_hours": 72,
+  "item_count": 45,
+  "sources_ok": [
+    {
+      "source": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "items_kept": 2,
+      "items_total": 1005
+    },
+    {
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "items_kept": 0,
+      "items_total": 100
+    },
+    {
+      "source": "Google (Keyword AI)",
+      "url": "https://blog.google/technology/ai/rss/",
+      "items_kept": 0,
+      "items_total": 20
+    },
+    {
+      "source": "NVIDIA",
+      "url": "https://blogs.nvidia.com/feed/",
+      "items_kept": 1,
+      "items_total": 18
+    },
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "items_kept": 1,
+      "items_total": 798
+    },
+    {
+      "source": "arXiv cs.AI",
+      "url": "http://export.arxiv.org/rss/cs.AI",
+      "items_kept": 0,
+      "items_total": 0
+    },
+    {
+      "source": "arXiv cs.CL",
+      "url": "http://export.arxiv.org/rss/cs.CL",
+      "items_kept": 0,
+      "items_total": 0
+    },
+    {
+      "source": "arXiv cs.LG",
+      "url": "http://export.arxiv.org/rss/cs.LG",
+      "items_kept": 0,
+      "items_total": 0
+    },
+    {
+      "source": "arXiv cs.CV",
+      "url": "http://export.arxiv.org/rss/cs.CV",
+      "items_kept": 0,
+      "items_total": 0
+    },
+    {
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "items_kept": 18,
+      "items_total": 20
+    },
+    {
+      "source": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "items_kept": 0,
+      "items_total": 7
+    },
+    {
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "items_kept": 10,
+      "items_total": 10
+    },
+    {
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/feed/",
+      "items_kept": 8,
+      "items_total": 20
+    },
+    {
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "items_kept": 4,
+      "items_total": 10
+    },
+    {
+      "source": "IEEE Spectrum AI",
+      "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "items_kept": 1,
+      "items_total": 30
+    }
+  ],
+  "sources_failed": [
+    {
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/rss.xml",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "Microsoft AI",
+      "url": "https://blogs.microsoft.com/ai/feed/",
+      "error": "HTTPError: HTTP Error 410: Gone"
+    },
+    {
+      "source": "Meta AI",
+      "url": "https://ai.meta.com/blog/rss/",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "Stability AI",
+      "url": "https://stability.ai/news?format=rss",
+      "error": "ParseError: syntax error: line 1, column 0"
+    }
+  ],
+  "items": [
+    {
+      "title": "China may have accessed Mythos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-14T18:27:55+00:00",
+      "published_ts": 1781461675.0,
+      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious na"
+    },
+    {
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-14T16:38:09+00:00",
+      "published_ts": 1781455089.0,
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
+    },
+    {
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-14T03:00:00+00:00",
+      "published_ts": 1781406000.0,
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
+    },
+    {
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-14T00:03:49+00:00",
+      "published_ts": 1781395429.0,
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+    },
+    {
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T21:39:26+00:00",
+      "published_ts": 1781386766.0,
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon"
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T20:42:31+00:00",
+      "published_ts": 1781383351.0,
+      "summary": "Once again, AI proves to be an unreliable source of information about AI."
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T19:11:41+00:00",
+      "published_ts": 1781377901.0,
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T16:47:18+00:00",
+      "published_ts": 1781369238.0,
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
+    },
+    {
+      "title": "Visual Language Models Train Robots to Read Human Emotions",
+      "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T13:00:01+00:00",
+      "published_ts": 1781355601.0,
+      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabi"
+    },
+    {
+      "title": "My yard is dying, so I made an app for that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T13:00:00+00:00",
+      "published_ts": 1781355600.0,
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#"
+    },
+    {
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T12:55:49+00:00",
+      "published_ts": 1781355349.0,
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the "
+    },
+    {
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T12:00:00+00:00",
+      "published_ts": 1781352000.0,
+      "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [&#8230;]"
+    },
+    {
+      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T11:00:00+00:00",
+      "published_ts": 1781348400.0,
+      "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of ch"
+    },
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T04:14:19+00:00",
+      "published_ts": 1781324059.0,
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back."
+    },
+    {
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T03:00:34+00:00",
+      "published_ts": 1781319634.0,
+      "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat."
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-13T02:26:30+00:00",
+      "published_ts": 1781317590.0,
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post."
+    },
+    {
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T23:15:14+00:00",
+      "published_ts": 1781306114.0,
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document."
+    },
+    {
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T23:00:54+00:00",
+      "published_ts": 1781305254.0,
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
+    },
+    {
+      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T22:20:06+00:00",
+      "published_ts": 1781302806.0,
+      "summary": "As of today, SpaceX is owned by investors who will want to see it make money."
+    },
+    {
+      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+      "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-06-12T21:00:08+00:00",
+      "published_ts": 1781298008.0,
+      "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance acr"
+    },
+    {
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T20:38:09+00:00",
+      "published_ts": 1781296689.0,
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
+    },
+    {
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T18:45:40+00:00",
+      "published_ts": 1781289940.0,
+      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded."
+    },
+    {
+      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+      "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T18:03:29+00:00",
+      "published_ts": 1781287409.0,
+      "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots."
+    },
+    {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T17:38:11+00:00",
+      "published_ts": 1781285891.0,
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
+    },
+    {
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T17:18:49+00:00",
+      "published_ts": 1781284729.0,
+      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\""
+    },
+    {
+      "title": "Siri is good now??",
+      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T17:17:04+00:00",
+      "published_ts": 1781284624.0,
+      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#823"
+    },
+    {
+      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T16:51:38+00:00",
+      "published_ts": 1781283098.0,
+      "summary": "Even moderately sized data centers can have an outsized local impact."
+    },
+    {
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T16:34:36+00:00",
+      "published_ts": 1781282076.0,
+      "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites."
+    },
+    {
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T16:24:39+00:00",
+      "published_ts": 1781281479.0,
+      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and ha"
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T16:23:25+00:00",
+      "published_ts": 1781281405.0,
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch "
+    },
+    {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-12T15:56:10+00:00",
+      "published_ts": 1781279770.0,
+      "summary": ""
+    },
+    {
+      "title": "It’s hot IPO summer, and the MANGOS are ripe",
+      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T15:50:52+00:00",
+      "published_ts": 1781279452.0,
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch "
+    },
+    {
+      "title": "SpaceX’s massive IPO: all the latest news",
+      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T14:35:48+00:00",
+      "published_ts": 1781274948.0,
+      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his ho"
+    },
+    {
+      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T14:03:39+00:00",
+      "published_ts": 1781273019.0,
+      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first"
+    },
+    {
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T12:10:00+00:00",
+      "published_ts": 1781266200.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing "
+    },
+    {
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T11:15:41+00:00",
+      "published_ts": 1781262941.0,
+      "summary": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny."
+    },
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-12T10:00:00+00:00",
+      "published_ts": 1781258400.0,
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
+    },
+    {
+      "title": "You do your own time",
+      "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T10:00:00+00:00",
+      "published_ts": 1781258400.0,
+      "summary": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the "
+    },
+    {
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T09:00:00+00:00",
+      "published_ts": 1781254800.0,
+      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vi"
+    },
+    {
+      "title": "Inside interoception: The hidden sense of how you feel inside",
+      "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T09:00:00+00:00",
+      "published_ts": 1781254800.0,
+      "summary": "MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on you"
+    },
+    {
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T04:30:00+00:00",
+      "published_ts": 1781238600.0,
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation."
+    },
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T01:48:07+00:00",
+      "published_ts": 1781228887.0,
+      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured."
+    },
+    {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-12T01:04:38+00:00",
+      "published_ts": 1781226278.0,
+      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
+    },
+    {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-12T00:00:00+00:00",
+      "published_ts": 1781222400.0,
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+    },
+    {
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-11T20:33:10+00:00",
+      "published_ts": 1781209990.0,
+      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun."
+    }
+  ]
+}
