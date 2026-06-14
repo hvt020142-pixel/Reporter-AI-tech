@@ -1,0 +1,60 @@
+name: Fetch realtime AI news
+
+# Kéo tin từ nguồn sơ cấp (RSS/Atom của blog hãng, arXiv, báo uy tín) theo lịch.
+# Ghi vào feeds/latest.json + feeds/latest.md. KHÔNG đụng tới reports/ nên
+# KHÔNG kích hoạt workflow gửi Telegram (vốn chỉ theo dõi reports/**).
+
+on:
+  schedule:
+    - cron: '15 */2 * * *'   # mỗi 2 giờ, phút thứ 15
+  workflow_dispatch:          # cho phép chạy tay từ tab Actions
+    inputs:
+      lookback_hours:
+        description: 'Cửa sổ thời gian (giờ)'
+        required: false
+        default: '72'
+
+permissions:
+  contents: write             # cần để commit feeds/ vào repo
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch feeds
+        env:
+          LOOKBACK_HOURS: ${{ github.event.inputs.lookback_hours || '72' }}
+        run: python3 scripts/fetch_news.py
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name  "reporter-ai-bot"
+          git config user.email "actions@github.com"
+          git add feeds/latest.json feeds/latest.md
+          if git diff --cached --quiet; then
+            echo "Không có thay đổi — bỏ qua commit."
+            exit 0
+          fi
+          STAMP=$(date -u +%FT%TZ)
+          git commit -m "Cập nhật dòng tin AI (feeds) — ${STAMP}"
+          # Đẩy lên nhánh hiện tại, thử lại nếu có push đồng thời
+          for i in 1 2 3 4; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "Đã push."; break
+            fi
+            echo "push lỗi, thử lại ($i)"; sleep $((2**i))
+          done
