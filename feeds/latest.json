@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T18:45:31.129948+00:00",
+  "generated_at": "2026-06-15T22:27:08.759878+00:00",
   "lookback_hours": 72,
   "item_count": 197,
   "sources_ok": [
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 18
     },
     {
@@ -72,19 +72,19 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 9,
+      "items_kept": 10,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 3,
+      "items_kept": 4,
       "items_total": 10
     },
     {
@@ -96,6 +96,56 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-15T21:50:21+00:00",
+      "published_ts": 1781560221.0,
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference."
+    },
+    {
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-15T21:15:08+00:00",
+      "published_ts": 1781558108.0,
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including p"
+    },
+    {
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-15T19:07:02+00:00",
+      "published_ts": 1781550422.0,
+      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing."
+    },
+    {
+      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-15T19:04:53+00:00",
+      "published_ts": 1781550293.0,
+      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said &#8220;Fable 5’s capabilit"
+    },
+    {
+      "title": "Why do South Koreans love AI so much?",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-15T18:46:08+00:00",
+      "published_ts": 1781549168.0,
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face an"
+    },
     {
       "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
       "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
@@ -144,7 +194,7 @@
       "tier": "reputable",
       "published_iso": "2026-06-15T15:29:51+00:00",
       "published_ts": 1781537391.0,
-      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products."
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products."
     },
     {
       "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
@@ -167,7 +217,7 @@
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
     },
     {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
       "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
@@ -1977,16 +2027,6 @@
       "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [&#8230;]"
     },
     {
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-13T11:00:00+00:00",
-      "published_ts": 1781348400.0,
-      "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of ch"
-    },
-    {
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
       "source": "TechCrunch AI",
@@ -2025,46 +2065,6 @@
       "published_iso": "2026-06-12T23:00:54+00:00",
       "published_ts": 1781305254.0,
       "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
-    },
-    {
-      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-12T22:20:06+00:00",
-      "published_ts": 1781302806.0,
-      "summary": "As of today, SpaceX is owned by investors who will want to see it make money."
-    },
-    {
-      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-      "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-12T21:00:08+00:00",
-      "published_ts": 1781298008.0,
-      "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance acr"
-    },
-    {
-      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-12T20:38:09+00:00",
-      "published_ts": 1781296689.0,
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
-    },
-    {
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-12T18:45:40+00:00",
-      "published_ts": 1781289940.0,
-      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded."
     }
   ]
 }

@@ -1,13 +1,7 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-15T18:45:31.129948+00:00 (UTC) — cửa sổ 72h — 197 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-15T22:27:08.759878+00:00 (UTC) — cửa sổ 72h — 197 mục — nguồn sơ cấp/uy tín.*
 
-
-## Hạ tầng & phần cứng
-
-- 🟢 **NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark** — NVIDIA — `2026-06-12T21:00:08+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/
-  - AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance acr
 
 ## Mô hình & LLM
 
@@ -503,6 +497,9 @@
 
 ## Phân tích
 
+- 🔵 **Why do South Koreans love AI so much?** — MIT Tech Review — `2026-06-15T18:46:08+00:00`
+  - https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face an
 - 🔵 **This man with ALS is “the first power user” of a brain implant that lets him speak** — MIT Tech Review — `2026-06-15T15:12:28+00:00`
   - https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/
   - Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked 
@@ -518,6 +515,18 @@
 
 ## Tin tức
 
+- 🔵 **The US government’s Anthropic models ban was never about an AI jailbreak** — TechCrunch AI — `2026-06-15T21:50:21+00:00`
+  - https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/
+  - The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.
+- 🔵 **Facebook’s new AI Mode search gets its info from public posts** — The Verge AI — `2026-06-15T21:15:08+00:00`
+  - https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook
+  - Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the "AI Mode" option will appear alongside the usual search modes like "People" and "Marketplace." It's one of several new AI features Meta is rolling out starting today, including p
+- 🔵 **Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021** — Ars Technica AI — `2026-06-15T19:07:02+00:00`
+  - https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/
+  - Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.
+- 🔵 **All the news about Anthropic&#8217;s new AI fight with the White House** — The Verge AI — `2026-06-15T19:04:53+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown
+  - Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said &#8220;Fable 5’s capabilit
 - 🔵 **Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms** — TechCrunch AI — `2026-06-15T18:30:58+00:00`
   - https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/
   - Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.
@@ -532,8 +541,8 @@
   - For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-
 - 🔵 **Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models** — TechCrunch AI — `2026-06-15T15:29:51+00:00`
   - https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/
-  - A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.
-- 🔵 **Salesforce acquires AI customer service platform Fin for $3.6 billion** — TechCrunch AI — `2026-06-15T14:34:45+00:00`
+  - A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.
+- 🔵 **Salesforce acquires AI customer service platform Fin for $3.6B** — TechCrunch AI — `2026-06-15T14:34:45+00:00`
   - https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/
   - Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.
 - 🔵 **Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use** — The Verge AI — `2026-06-15T14:00:00+00:00`
@@ -584,9 +593,6 @@
 - 🔵 **Apple’s new AI photo editing tools mostly work, for better and worse** — The Verge AI — `2026-06-13T12:00:00+00:00`
   - https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on
   - The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [&#8230;]
-- 🔵 **The future of Hollywood isn’t feeding prompts into vanilla gen AI models** — The Verge AI — `2026-06-13T11:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai
-  - For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of ch
 - 🔵 **Andrew Yang thinks the next big startup opportunity is lowering the cost of living** — TechCrunch AI — `2026-06-13T04:14:19+00:00`
   - https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/
   - Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.
@@ -599,15 +605,6 @@
 - 🔵 **Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it** — TechCrunch AI — `2026-06-12T23:00:54+00:00`
   - https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/
   - A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.
-- 🔵 **SpaceX is now a public company valued for its AI potential, so what comes next?** — Ars Technica AI — `2026-06-12T22:20:06+00:00`
-  - https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/
-  - As of today, SpaceX is owned by investors who will want to see it make money.
-- 🔵 **Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google** — TechCrunch AI — `2026-06-12T20:38:09+00:00`
-  - https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/
-  - The tech giant said a group called "Outsider Enterprise" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.
-- 🔵 **Here's what Jeff Bezos' new startup Prometheus will do** — Ars Technica AI — `2026-06-12T18:45:40+00:00`
-  - https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/
-  - It isn't the only startup tackling physical AI, but it's one of the best-funded.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
