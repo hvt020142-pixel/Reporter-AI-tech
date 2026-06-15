@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-15T05:24:50.731256+00:00 (UTC) — cửa sổ 72h — 201 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-15T12:39:41.840735+00:00 (UTC) — cửa sổ 72h — 198 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,9 +14,6 @@
 - 🟢 **Introducing the OpenAI Partner Network** — OpenAI — `2026-06-14T17:00:00+00:00`
   - https://openai.com/index/introducing-openai-partner-network
   - OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.
-- 🟢 **New OpenAI Academy courses for the next era of work** — OpenAI — `2026-06-12T10:00:00+00:00`
-  - https://openai.com/index/academy-courses-applying-ai-at-work
-  - OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.
 
 ## Mô hình mở
 
@@ -508,24 +505,21 @@
 
 ## Phân tích
 
+- 🔵 **The Download: cutting AC emissions, and nature’s drug designer** — MIT Tech Review — `2026-06-15T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, 
+- 🔵 **These new solid-state ACs promise a cool future. Scientists aren’t so sure.** — MIT Tech Review — `2026-06-15T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/
+  - After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 p
 - 🔵 **Visual Language Models Train Robots to Read Human Emotions** — IEEE Spectrum AI — `2026-06-13T13:00:01+00:00`
   - https://spectrum.ieee.org/robot-emotions-visual-language-models
   - This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabi
-- 🔵 **The Download: “reprogramming” aging, and the hidden sense of interoception** — MIT Tech Review — `2026-06-12T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing 
-- 🔵 **You do your own time** — MIT Tech Review — `2026-06-12T10:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/
-  - There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the 
-- 🔵 **Why “reprogramming” is the buzziest approach to reversing aging right now** — MIT Tech Review — `2026-06-12T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/
-  - Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vi
-- 🔵 **Inside interoception: The hidden sense of how you feel inside** — MIT Tech Review — `2026-06-12T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/
-  - MIT Technology Review&#160;Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.&#160;You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on you
 
 ## Tin tức
 
+- 🔵 **The AI layoff wave is becoming a powder keg** — TechCrunch AI — `2026-06-15T07:25:41+00:00`
+  - https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/
+  - What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.
 - 🔵 **China may have accessed Mythos** — The Verge AI — `2026-06-14T18:27:55+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos
   - According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious na
@@ -540,7 +534,7 @@
   - Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.
 - 🔵 **Amazon security research reportedly led to the White House’s Anthropic Fable ban** — The Verge AI — `2026-06-13T21:39:26+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
-  - According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon
+  - According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Am
 - 🔵 **KPMG pulls report on AI usage due to apparent hallucinations** — TechCrunch AI — `2026-06-13T20:42:31+00:00`
   - https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/
   - Once again, AI proves to be an unreliable source of information about AI.
@@ -619,9 +613,6 @@
 - 🔵 **Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’** — The Verge AI — `2026-06-12T14:03:39+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer
   - Amazon founder Jeff Bezos says his new AI startup will work toward developing an "artificial general engineer," according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first
-- 🔵 **Pokémon Go players unwittingly contributed to tech with military drone uses** — Ars Technica AI — `2026-06-12T11:15:41+00:00`
-  - https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/
-  - The repurposing of Pokémon Go data for AI training continues to draw scrutiny.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
