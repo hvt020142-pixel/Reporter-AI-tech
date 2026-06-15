@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-15T12:39:41.840735+00:00 (UTC) — cửa sổ 72h — 198 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-15T18:45:31.129948+00:00 (UTC) — cửa sổ 72h — 197 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -11,14 +11,12 @@
 
 ## Mô hình & LLM
 
+- 🟢 **We’re strengthening our presence in Alabama through new investments and community support.** — Google (Keyword AI) — `2026-06-15T15:00:00+00:00`
+  - https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/
+  - Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…
 - 🟢 **Introducing the OpenAI Partner Network** — OpenAI — `2026-06-14T17:00:00+00:00`
   - https://openai.com/index/introducing-openai-partner-network
   - OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.
-
-## Mô hình mở
-
-- 🟢 **olmo-eval: An evaluation workbench for the model development loop** — Hugging Face — `2026-06-12T15:56:10+00:00`
-  - https://huggingface.co/blog/allenai/olmo-eval
 
 ## Nghiên cứu
 
@@ -505,6 +503,9 @@
 
 ## Phân tích
 
+- 🔵 **This man with ALS is “the first power user” of a brain implant that lets him speak** — MIT Tech Review — `2026-06-15T15:12:28+00:00`
+  - https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/
+  - Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked 
 - 🔵 **The Download: cutting AC emissions, and nature’s drug designer** — MIT Tech Review — `2026-06-15T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, 
@@ -517,9 +518,39 @@
 
 ## Tin tức
 
+- 🔵 **Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms** — TechCrunch AI — `2026-06-15T18:30:58+00:00`
+  - https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/
+  - Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.
+- 🔵 **SpaceX is public: Everything you need to know post-IPO** — TechCrunch AI — `2026-06-15T18:30:34+00:00`
+  - https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/
+  - TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.
+- 🔵 **Trump’s Anthropic shutdown just made the case for non-American AI** — The Verge AI — `2026-06-15T18:10:27+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai
+  - At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sober
+- 🔵 **Big Tech’s desperate last push at AI regulation** — The Verge AI — `2026-06-15T17:44:10+00:00`
+  - https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress
+  - For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-
+- 🔵 **Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models** — TechCrunch AI — `2026-06-15T15:29:51+00:00`
+  - https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/
+  - A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.
+- 🔵 **Salesforce acquires AI customer service platform Fin for $3.6 billion** — TechCrunch AI — `2026-06-15T14:34:45+00:00`
+  - https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/
+  - Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.
+- 🔵 **Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use** — The Verge AI — `2026-06-15T14:00:00+00:00`
+  - https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military
+  - Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s laptop in our podcast studio in New York and fly an indoor drone around our office
+- 🔵 **Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech** — TechCrunch AI — `2026-06-15T13:46:08+00:00`
+  - https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/
+  - Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.
+- 🔵 **As AI agents become employees, NewCore emerges with $66M to give them identities** — TechCrunch AI — `2026-06-15T13:00:00+00:00`
+  - https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/
+  - NewCore argues the next challenge in enterprise security will be managing AI agents, not people.
+- 🔵 **A satellite just learned to find things on its own — here’s what that means** — TechCrunch AI — `2026-06-15T12:00:00+00:00`
+  - https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/
+  - In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.
 - 🔵 **The AI layoff wave is becoming a powder keg** — TechCrunch AI — `2026-06-15T07:25:41+00:00`
   - https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/
-  - What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.
+  - At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.
 - 🔵 **China may have accessed Mythos** — The Verge AI — `2026-06-14T18:27:55+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos
   - According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious na
@@ -531,7 +562,7 @@
   - Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.
 - 🔵 **Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand** — TechCrunch AI — `2026-06-14T00:03:49+00:00`
   - https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/
-  - Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.
+  - This is the most concrete step yet toward complying with a divestiture order Beijing issued roughly two months ago on national security grounds.
 - 🔵 **Amazon security research reportedly led to the White House’s Anthropic Fable ban** — The Verge AI — `2026-06-13T21:39:26+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
   - According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Am
@@ -565,9 +596,6 @@
 - 🔵 **Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI** — TechCrunch AI — `2026-06-13T02:26:30+00:00`
   - https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/
   - Anthropic isn't hiding its frustration. "We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," the company wrote in a blog post.
-- 🔵 **SpaceX IPO: Live updates on everything you need to know** — TechCrunch AI — `2026-06-12T23:15:14+00:00`
-  - https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/
-  - TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.
 - 🔵 **Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it** — TechCrunch AI — `2026-06-12T23:00:54+00:00`
   - https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/
   - A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.
@@ -580,39 +608,6 @@
 - 🔵 **Here's what Jeff Bezos' new startup Prometheus will do** — Ars Technica AI — `2026-06-12T18:45:40+00:00`
   - https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/
   - It isn't the only startup tackling physical AI, but it's one of the best-funded.
-- 🔵 **Ukraine's one-time test used fully autonomous drones to kill Russian soldiers** — Ars Technica AI — `2026-06-12T18:03:29+00:00`
-  - https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/
-  - Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.
-- 🔵 **Mistral is rumored to be raising €3B at €20B valuation** — TechCrunch AI — `2026-06-12T17:38:11+00:00`
-  - https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/
-  - The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.
-- 🔵 **$130 billion in data center projects blocked by protests so far this year** — Ars Technica AI — `2026-06-12T17:18:49+00:00`
-  - https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/
-  - Winning fight against AI data centers gives people a "taste of political power."
-- 🔵 **Siri is good now??** — The Verge AI — `2026-06-12T17:17:04+00:00`
-  - https://www.theverge.com/podcast/949079/siri-ai-good-vergecast
-  - You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between "sort of useful at a few things" and "utterly disastrous, why did I even try, can it honestly not even set a timer." But the wildest thing just happened: Apple put out a new version of [&#823
-- 🔵 **When it comes to total water use, AI data centers are a drop in the bucket** — Ars Technica AI — `2026-06-12T16:51:38+00:00`
-  - https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/
-  - Even moderately sized data centers can have an outsized local impact.
-- 🔵 **Google sues Chinese cybercrime network that used Gemini to automate scams** — Ars Technica AI — `2026-06-12T16:34:36+00:00`
-  - https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/
-  - The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.
-- 🔵 **Elon Musk is the world&#8217;s first trillionaire** — The Verge AI — `2026-06-12T16:24:39+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo
-  - Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and ha
-- 🔵 **SpaceX, Anthropic, and OpenAI’s hot IPO summer** — TechCrunch AI — `2026-06-12T16:23:25+00:00`
-  - https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/
-  - The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch 
-- 🔵 **It’s hot IPO summer, and the MANGOS are ripe** — TechCrunch AI — `2026-06-12T15:50:52+00:00`
-  - https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/
-  - The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch 
-- 🔵 **SpaceX’s massive IPO: all the latest news** — The Verge AI — `2026-06-12T14:35:48+00:00`
-  - https://www.theverge.com/business/948996/spacex-ipo-elon-musk
-  - SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his ho
-- 🔵 **Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’** — The Verge AI — `2026-06-12T14:03:39+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer
-  - Amazon founder Jeff Bezos says his new AI startup will work toward developing an "artificial general engineer," according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
