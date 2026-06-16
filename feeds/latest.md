@@ -1,7 +1,16 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-16T11:32:18.312348+00:00 (UTC) — cửa sổ 72h — 198 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-16T17:19:13.307508+00:00 (UTC) — cửa sổ 72h — 204 mục — nguồn sơ cấp/uy tín.*
 
+
+## Hạ tầng & phần cứng
+
+- 🟢 **HPE AI Factory With NVIDIA Expands for the Era of Agents** — NVIDIA — `2026-06-16T16:30:27+00:00`
+  - https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/
+  - Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NV
+- 🟢 **Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0** — NVIDIA — `2026-06-16T15:00:36+00:00`
+  - https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/
+  - Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the de
 
 ## Mô hình & LLM
 
@@ -497,6 +506,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: the first brain implant power user and South Korea’s AI obsession** — MIT Tech Review — `2026-06-16T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for
 - 🔵 **Want to get a data center online quickly? Give it some flex.** — MIT Tech Review — `2026-06-16T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/
   - At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82
@@ -512,21 +524,54 @@
 - 🔵 **These new solid-state ACs promise a cool future. Scientists aren’t so sure.** — MIT Tech Review — `2026-06-15T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/
   - After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 p
-- 🔵 **Visual Language Models Train Robots to Read Human Emotions** — IEEE Spectrum AI — `2026-06-13T13:00:01+00:00`
-  - https://spectrum.ieee.org/robot-emotions-visual-language-models
-  - This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabi
 
 ## Tin tức
 
+- 🔵 **Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone** — The Verge AI — `2026-06-16T17:04:05+00:00`
+  - https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor
+  - Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, 
+- 🔵 **Qualcomm’s latest chip hints that more powerful smart glasses could be on the way** — The Verge AI — `2026-06-16T17:00:00+00:00`
+  - https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables
+  - Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a devi
+- 🔵 **Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds** — TechCrunch AI — `2026-06-16T16:49:44+00:00`
+  - https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/
+  - WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.
+- 🔵 **SpaceX acquires AI coding platform Cursor for $60 billion** — Ars Technica AI — `2026-06-16T16:37:45+00:00`
+  - https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/
+  - Separately, neither could compete. Now they hope they can.
+- 🔵 **Leaked financial docs show OpenAI is losing billions of dollars a year** — Ars Technica AI — `2026-06-16T16:18:07+00:00`
+  - https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/
+  - Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.
+- 🔵 **SpaceX is public: Everything you need to know post-IPO** — TechCrunch AI — `2026-06-16T15:53:12+00:00`
+  - https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/
+  - TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.
+- 🔵 **DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’** — TechCrunch AI — `2026-06-16T15:05:03+00:00`
+  - https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/
+  - The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.
+- 🔵 **Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers** — TechCrunch AI — `2026-06-16T15:00:00+00:00`
+  - https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/
+  - Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.
+- 🔵 **Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it** — TechCrunch AI — `2026-06-16T14:50:09+00:00`
+  - https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/
+  - Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.
+- 🔵 **SpaceX passes Amazon as valuation balloons to $2.7T** — TechCrunch AI — `2026-06-16T13:48:37+00:00`
+  - https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/
+  - SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.
+- 🔵 **Probably raises $9M to build a more reliable kind of AI** — TechCrunch AI — `2026-06-16T13:15:09+00:00`
+  - https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/
+  - Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.
+- 🔵 **SpaceX is officially buying Cursor for $60 billion** — The Verge AI — `2026-06-16T11:41:31+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion
+  - Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI. The takeover was not entirely unexpe
 - 🔵 **SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO** — TechCrunch AI — `2026-06-16T11:21:41+00:00`
   - https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/
   - The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.
-- 🔵 **Critical Copilot vulnerability allowed hackers to seal 2FA code from users** — Ars Technica AI — `2026-06-16T11:15:46+00:00`
+- 🔵 **Critical Copilot vulnerability allowed hackers to steal 2FA code from users** — Ars Technica AI — `2026-06-16T11:15:46+00:00`
   - https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
   - SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
 - 🔵 **Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions** — TechCrunch AI — `2026-06-16T06:59:00+00:00`
   - https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/
-  - Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.
+  - Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.
 - 🔵 **Inside the fight over Claude Mythos 5** — The Verge AI — `2026-06-16T03:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls
   - As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Myt
@@ -548,9 +593,6 @@
 - 🔵 **Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms** — TechCrunch AI — `2026-06-15T18:30:58+00:00`
   - https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/
   - Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.
-- 🔵 **SpaceX is public: Everything you need to know post-IPO** — TechCrunch AI — `2026-06-15T18:30:34+00:00`
-  - https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/
-  - TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.
 - 🔵 **Trump’s Anthropic shutdown just made the case for non-American AI** — The Verge AI — `2026-06-15T18:10:27+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai
   - At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sober
@@ -587,27 +629,6 @@
 - 🔵 **As Anthropic suspends access to new models, India debates its AI future** — TechCrunch AI — `2026-06-14T03:00:00+00:00`
   - https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/
   - Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.
-- 🔵 **Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand** — TechCrunch AI — `2026-06-14T00:03:49+00:00`
-  - https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/
-  - This is the most concrete step yet toward complying with a divestiture order Beijing issued roughly two months ago on national security grounds.
-- 🔵 **Amazon security research reportedly led to the White House’s Anthropic Fable ban** — The Verge AI — `2026-06-13T21:39:26+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
-  - According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Am
-- 🔵 **KPMG pulls report on AI usage due to apparent hallucinations** — TechCrunch AI — `2026-06-13T20:42:31+00:00`
-  - https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/
-  - Once again, AI proves to be an unreliable source of information about AI.
-- 🔵 **Amazon CEO reportedly raised Anthropic model concerns before government crackdown** — TechCrunch AI — `2026-06-13T19:11:41+00:00`
-  - https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/
-  - Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.
-- 🔵 **OpenAI faces investigation from state attorneys general** — TechCrunch AI — `2026-06-13T16:47:18+00:00`
-  - https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/
-  - It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.
-- 🔵 **My yard is dying, so I made an app for that** — The Verge AI — `2026-06-13T13:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing
-  - When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. "~ Channel is unrecoverably broken and will be disposed!" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#
-- 🔵 **Anthropic cuts off Fable 5 and Mythos 5 access following government order** — The Verge AI — `2026-06-13T12:55:49+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security
-  - On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the 
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
