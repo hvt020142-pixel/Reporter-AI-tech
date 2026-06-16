@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-16T05:28:03.209827+00:00 (UTC) — cửa sổ 72h — 194 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-16T11:32:18.312348+00:00 (UTC) — cửa sổ 72h — 198 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -497,9 +497,12 @@
 
 ## Phân tích
 
+- 🔵 **Want to get a data center online quickly? Give it some flex.** — MIT Tech Review — `2026-06-16T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/
+  - At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82
 - 🔵 **Why do South Koreans love AI so much?** — MIT Tech Review — `2026-06-15T18:46:08+00:00`
   - https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face an
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa
 - 🔵 **This man with ALS is “the first power user” of a brain implant that lets him speak** — MIT Tech Review — `2026-06-15T15:12:28+00:00`
   - https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/
   - Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked 
@@ -515,6 +518,15 @@
 
 ## Tin tức
 
+- 🔵 **SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO** — TechCrunch AI — `2026-06-16T11:21:41+00:00`
+  - https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/
+  - The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.
+- 🔵 **Critical Copilot vulnerability allowed hackers to seal 2FA code from users** — Ars Technica AI — `2026-06-16T11:15:46+00:00`
+  - https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
+  - SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
+- 🔵 **Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions** — TechCrunch AI — `2026-06-16T06:59:00+00:00`
+  - https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/
+  - Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.
 - 🔵 **Inside the fight over Claude Mythos 5** — The Verge AI — `2026-06-16T03:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls
   - As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Myt
