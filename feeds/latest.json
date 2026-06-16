@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-16T17:19:13.307508+00:00",
+  "generated_at": "2026-06-16T21:16:54.032520+00:00",
   "lookback_hours": 72,
-  "item_count": 204,
+  "item_count": 208,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 1,
-      "items_total": 1006
+      "items_kept": 2,
+      "items_total": 1007
     },
     {
       "source": "Google DeepMind",
@@ -78,13 +78,13 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 4,
+      "items_kept": 6,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 10
     },
     {
@@ -96,6 +96,56 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T21:00:35+00:00",
+      "published_ts": 1781643635.0,
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs."
+    },
+    {
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T20:35:02+00:00",
+      "published_ts": 1781642102.0,
+      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by Jame"
+    },
+    {
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T20:11:00+00:00",
+      "published_ts": 1781640660.0,
+      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday."
+    },
+    {
+      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T18:11:05+00:00",
+      "published_ts": 1781633465.0,
+      "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools."
+    },
+    {
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T18:00:00+00:00",
+      "published_ts": 1781632800.0,
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices."
+    },
     {
       "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
       "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
@@ -117,7 +167,7 @@
       "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a devi"
     },
     {
-      "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
       "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
@@ -127,7 +177,7 @@
       "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel."
     },
     {
-      "title": "SpaceX acquires AI coding platform Cursor for $60 billion",
+      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
       "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
       "source": "Ars Technica AI",
       "category": "Tin tức",
@@ -207,16 +257,6 @@
       "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs."
     },
     {
-      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
-      "url": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T13:48:37+00:00",
-      "published_ts": 1781617717.0,
-      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday."
-    },
-    {
       "title": "Probably raises $9M to build a more reliable kind of AI",
       "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
       "source": "TechCrunch AI",
@@ -265,6 +305,16 @@
       "published_iso": "2026-06-16T11:15:46+00:00",
       "published_ts": 1781608546.0,
       "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over."
+    },
+    {
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T10:30:00+00:00",
+      "published_ts": 1781605800.0,
+      "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million."
     },
     {
       "title": "Want to get a data center online quickly? Give it some flex.",
@@ -1897,6 +1947,16 @@
       "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Myt"
     },
     {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-16T00:00:00+00:00",
+      "published_ts": 1781568000.0,
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+    },
+    {
       "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
       "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
       "source": "TechCrunch AI",
@@ -2115,26 +2175,6 @@
       "published_iso": "2026-06-14T17:00:00+00:00",
       "published_ts": 1781456400.0,
       "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
-    },
-    {
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-14T16:38:09+00:00",
-      "published_ts": 1781455089.0,
-      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
-    },
-    {
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-14T03:00:00+00:00",
-      "published_ts": 1781406000.0,
-      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
     }
   ]
 }

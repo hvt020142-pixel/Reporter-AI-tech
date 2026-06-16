@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-16T17:19:13.307508+00:00 (UTC) — cửa sổ 72h — 204 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-16T21:16:54.032520+00:00 (UTC) — cửa sổ 72h — 208 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,6 +14,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Predicting model behavior before release by simulating deployment** — OpenAI — `2026-06-16T00:00:00+00:00`
+  - https://openai.com/index/deployment-simulation
+  - OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.
 - 🟢 **We’re strengthening our presence in Alabama through new investments and community support.** — Google (Keyword AI) — `2026-06-15T15:00:00+00:00`
   - https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/
   - Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…
@@ -506,6 +509,9 @@
 
 ## Phân tích
 
+- 🔵 **Exclusive eBook: How AI is becoming the next military advisor** — MIT Tech Review — `2026-06-16T20:35:02+00:00`
+  - https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
+  - A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by Jame
 - 🔵 **The Download: the first brain implant power user and South Korea’s AI obsession** — MIT Tech Review — `2026-06-16T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for
@@ -527,16 +533,28 @@
 
 ## Tin tức
 
+- 🔵 **Anthropic "pauses" token-based billing for its Claude Agent SDK** — Ars Technica AI — `2026-06-16T21:00:35+00:00`
+  - https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/
+  - Move originally planned for Monday would have heavily increased power users' costs.
+- 🔵 **SpaceX valuation balloons to $2.6T, briefly passes Amazon** — TechCrunch AI — `2026-06-16T20:11:00+00:00`
+  - https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/
+  - SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.
+- 🔵 **Pentagon boasts of using AI to write reports mandated by Congress** — Ars Technica AI — `2026-06-16T18:11:05+00:00`
+  - https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/
+  - Pentagon also claims 1.5 million personnel are using generative AI tools.
+- 🔵 **Android 17 launches with new multitasking tools as Google expands Gemini features** — TechCrunch AI — `2026-06-16T18:00:00+00:00`
+  - https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/
+  - Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.
 - 🔵 **Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone** — The Verge AI — `2026-06-16T17:04:05+00:00`
   - https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor
   - Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, 
 - 🔵 **Qualcomm’s latest chip hints that more powerful smart glasses could be on the way** — The Verge AI — `2026-06-16T17:00:00+00:00`
   - https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables
   - Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a devi
-- 🔵 **Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds** — TechCrunch AI — `2026-06-16T16:49:44+00:00`
+- 🔵 **Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds** — TechCrunch AI — `2026-06-16T16:49:44+00:00`
   - https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/
   - WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.
-- 🔵 **SpaceX acquires AI coding platform Cursor for $60 billion** — Ars Technica AI — `2026-06-16T16:37:45+00:00`
+- 🔵 **SpaceX to acquire AI coding platform Cursor for $60 billion** — Ars Technica AI — `2026-06-16T16:37:45+00:00`
   - https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/
   - Separately, neither could compete. Now they hope they can.
 - 🔵 **Leaked financial docs show OpenAI is losing billions of dollars a year** — Ars Technica AI — `2026-06-16T16:18:07+00:00`
@@ -554,9 +572,6 @@
 - 🔵 **Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it** — TechCrunch AI — `2026-06-16T14:50:09+00:00`
   - https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/
   - Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.
-- 🔵 **SpaceX passes Amazon as valuation balloons to $2.7T** — TechCrunch AI — `2026-06-16T13:48:37+00:00`
-  - https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/
-  - SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.
 - 🔵 **Probably raises $9M to build a more reliable kind of AI** — TechCrunch AI — `2026-06-16T13:15:09+00:00`
   - https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/
   - Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.
@@ -569,6 +584,9 @@
 - 🔵 **Critical Copilot vulnerability allowed hackers to steal 2FA code from users** — Ars Technica AI — `2026-06-16T11:15:46+00:00`
   - https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
   - SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
+- 🔵 **ChatGPT’s market share slips below 50% for first time** — TechCrunch AI — `2026-06-16T10:30:00+00:00`
+  - https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/
+  - The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.
 - 🔵 **Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions** — TechCrunch AI — `2026-06-16T06:59:00+00:00`
   - https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/
   - Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.
@@ -623,12 +641,6 @@
 - 🔵 **China may have accessed Mythos** — The Verge AI — `2026-06-14T18:27:55+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos
   - According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious na
-- 🔵 **As AI companies race to go public, who else is along for the ride?** — TechCrunch AI — `2026-06-14T16:38:09+00:00`
-  - https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/
-  - Startups are trying to "ride that SpaceX IPO wave."
-- 🔵 **As Anthropic suspends access to new models, India debates its AI future** — TechCrunch AI — `2026-06-14T03:00:00+00:00`
-  - https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/
-  - Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
