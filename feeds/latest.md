@@ -1,10 +1,16 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-16T21:16:54.032520+00:00 (UTC) — cửa sổ 72h — 208 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-16T23:46:06.835920+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses** — NVIDIA — `2026-06-16T22:30:41+00:00`
+  - https://blogs.nvidia.com/blog/nvidia-xr-ai/
+  - NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;
+- 🟢 **Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone** — NVIDIA — `2026-06-16T22:10:56+00:00`
+  - https://blogs.nvidia.com/blog/coherent-texas-ai-optical/
+  - AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the worl
 - 🟢 **HPE AI Factory With NVIDIA Expands for the Era of Agents** — NVIDIA — `2026-06-16T16:30:27+00:00`
   - https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/
   - Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NV
@@ -14,6 +20,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Unlocking UK house-building with AI-accelerated planning** — Google DeepMind — `2026-06-16T21:29:50+00:00`
+  - https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
+  - UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.
 - 🟢 **Predicting model behavior before release by simulating deployment** — OpenAI — `2026-06-16T00:00:00+00:00`
   - https://openai.com/index/deployment-simulation
   - OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.
@@ -533,6 +542,12 @@
 
 ## Tin tức
 
+- 🔵 **Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests** — TechCrunch AI — `2026-06-16T22:34:17+00:00`
+  - https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/
+  - Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.
+- 🔵 **Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines** — Ars Technica AI — `2026-06-16T22:22:44+00:00`
+  - https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/
+  - NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.
 - 🔵 **Anthropic "pauses" token-based billing for its Claude Agent SDK** — Ars Technica AI — `2026-06-16T21:00:35+00:00`
   - https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/
   - Move originally planned for Monday would have heavily increased power users' costs.
@@ -635,9 +650,6 @@
 - 🔵 **A satellite just learned to find things on its own — here’s what that means** — TechCrunch AI — `2026-06-15T12:00:00+00:00`
   - https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/
   - In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.
-- 🔵 **The AI layoff wave is becoming a powder keg** — TechCrunch AI — `2026-06-15T07:25:41+00:00`
-  - https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/
-  - At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.
 - 🔵 **China may have accessed Mythos** — The Verge AI — `2026-06-14T18:27:55+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos
   - According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious na

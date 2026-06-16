@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-16T21:16:54.032520+00:00",
+  "generated_at": "2026-06-16T23:46:06.835920+00:00",
   "lookback_hours": 72,
-  "item_count": 208,
+  "item_count": 212,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -12,7 +12,7 @@
     {
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/rss.xml",
-      "items_kept": 0,
+      "items_kept": 1,
       "items_total": 100
     },
     {
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 2,
+      "items_kept": 4,
       "items_total": 18
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 20
     },
     {
@@ -96,6 +96,56 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T22:34:17+00:00",
+      "published_ts": 1781649257.0,
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
+    },
+    {
+      "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-06-16T22:30:41+00:00",
+      "published_ts": 1781649041.0,
+      "summary": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;"
+    },
+    {
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T22:22:44+00:00",
+      "published_ts": 1781648564.0,
+      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center."
+    },
+    {
+      "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+      "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-06-16T22:10:56+00:00",
+      "published_ts": 1781647856.0,
+      "summary": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the worl"
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "source": "Google DeepMind",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-16T21:29:50+00:00",
+      "published_ts": 1781645390.0,
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+    },
     {
       "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
       "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
@@ -2145,16 +2195,6 @@
       "published_iso": "2026-06-15T09:00:00+00:00",
       "published_ts": 1781514000.0,
       "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 p"
-    },
-    {
-      "title": "The AI layoff wave is becoming a powder keg",
-      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T07:25:41+00:00",
-      "published_ts": 1781508341.0,
-      "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend."
     },
     {
       "title": "China may have accessed Mythos",
