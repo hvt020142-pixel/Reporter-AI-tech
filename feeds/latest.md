@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-17T18:30:51.329230+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-17T22:11:08.353568+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -26,6 +26,9 @@
 - 🟢 **A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry** — OpenAI — `2026-06-17T10:00:00+00:00`
   - https://openai.com/index/ai-chemist-improves-reaction
   - OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
+- 🟢 **Introducing LifeSciBench** — OpenAI — `2026-06-17T00:00:00+00:00`
+  - https://openai.com/index/introducing-life-sci-bench
+  - Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.
 - 🟢 **Unlocking UK house-building with AI-accelerated planning** — Google DeepMind — `2026-06-16T21:29:50+00:00`
   - https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
   - UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.
@@ -571,12 +574,33 @@
 
 ## Tin tức
 
+- 🔵 **Roelof Botha joins SpaceX’s board of directors** — TechCrunch AI — `2026-06-17T20:32:52+00:00`
+  - https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/
+  - The former Sequoia Capital leader is filling an "existing vacancy" on SpaceX's board, days after the company went public in the largest IPO ever.
+- 🔵 **After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive** — TechCrunch AI — `2026-06-17T20:24:28+00:00`
+  - https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/
+  - Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.
+- 🔵 **NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI** — TechCrunch AI — `2026-06-17T20:17:38+00:00`
+  - https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/
+  - Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses 
+- 🔵 **AI coding agents taught robots how to install GPUs and cut zip ties** — Ars Technica AI — `2026-06-17T19:25:19+00:00`
+  - https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
+  - Nvidia's self-improvement program for robots enlists teams of AI coding agents.
+- 🔵 **World leaders want American AI. They just don’t want America to be able to turn it off.** — TechCrunch AI — `2026-06-17T19:01:19+00:00`
+  - https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/
+  - French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.
+- 🔵 **Anthropic becomes first AI startup to join the Frontier carbon removal coalition** — TechCrunch AI — `2026-06-17T18:30:56+00:00`
+  - https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/
+  - Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.
 - 🔵 **Anthropic got hit by export rules nobody understands** — The Verge AI — `2026-06-17T18:28:50+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls
   - Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 f
 - 🔵 **Social media’s next evolution: user-controlled algorithms** — TechCrunch AI — `2026-06-17T18:19:48+00:00`
   - https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/
   - Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.
+- 🔵 **NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning** — TechCrunch AI — `2026-06-17T18:00:00+00:00`
+  - https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/
+  - Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses 
 - 🔵 **"Dangerous" AI models are coming no matter what** — Ars Technica AI — `2026-06-17T17:50:46+00:00`
   - https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/
   - AI models with advanced hacking capabilities will soon be the norm.
@@ -661,27 +685,9 @@
 - 🔵 **Leaked financial docs show OpenAI is losing billions of dollars a year** — Ars Technica AI — `2026-06-16T16:18:07+00:00`
   - https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/
   - Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.
-- 🔵 **SpaceX is public: Everything you need to know post-IPO** — TechCrunch AI — `2026-06-16T15:53:12+00:00`
-  - https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/
-  - TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.
-- 🔵 **DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’** — TechCrunch AI — `2026-06-16T15:05:03+00:00`
-  - https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/
-  - The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.
-- 🔵 **Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers** — TechCrunch AI — `2026-06-16T15:00:00+00:00`
-  - https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/
-  - Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.
-- 🔵 **Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it** — TechCrunch AI — `2026-06-16T14:50:09+00:00`
-  - https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/
-  - Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.
-- 🔵 **Probably raises $9M to build a more reliable kind of AI** — TechCrunch AI — `2026-06-16T13:15:09+00:00`
-  - https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/
-  - Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.
 - 🔵 **SpaceX is officially buying Cursor for $60 billion** — The Verge AI — `2026-06-16T11:41:31+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion
   - Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI. The takeover was not entirely unexpe
-- 🔵 **SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO** — TechCrunch AI — `2026-06-16T11:21:41+00:00`
-  - https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/
-  - The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.
 - 🔵 **Critical Copilot vulnerability allowed hackers to steal 2FA code from users** — Ars Technica AI — `2026-06-16T11:15:46+00:00`
   - https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
   - SearchLeak exploit shows why the industry's approach to LLM security fails over and over.

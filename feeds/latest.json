@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-17T18:30:51.329230+00:00",
+  "generated_at": "2026-06-17T22:11:08.353568+00:00",
   "lookback_hours": 72,
-  "item_count": 224,
+  "item_count": 226,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 2,
-      "items_total": 1008
+      "items_kept": 3,
+      "items_total": 1009
     },
     {
       "source": "Google DeepMind",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 9,
+      "items_kept": 10,
       "items_total": 20
     },
     {
@@ -96,6 +96,66 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Roelof Botha joins SpaceX’s board of directors",
+      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T20:32:52+00:00",
+      "published_ts": 1781728372.0,
+      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever."
+    },
+    {
+      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T20:24:28+00:00",
+      "published_ts": 1781727868.0,
+      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock."
+    },
+    {
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T20:17:38+00:00",
+      "published_ts": 1781727458.0,
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses "
+    },
+    {
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T19:25:19+00:00",
+      "published_ts": 1781724319.0,
+      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents."
+    },
+    {
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T19:01:19+00:00",
+      "published_ts": 1781722879.0,
+      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real."
+    },
+    {
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T18:30:56+00:00",
+      "published_ts": 1781721056.0,
+      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects."
+    },
     {
       "title": "Anthropic got hit by export rules nobody understands",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
@@ -115,6 +175,16 @@
       "published_iso": "2026-06-17T18:19:48+00:00",
       "published_ts": 1781720388.0,
       "summary": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations."
+    },
+    {
+      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T18:00:00+00:00",
+      "published_ts": 1781719200.0,
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses "
     },
     {
       "title": "\"Dangerous\" AI models are coming no matter what",
@@ -1987,6 +2057,16 @@
       "summary": "arXiv:2606.17557v1 Announce Type: new Abstract: Image restoration seeks to recover high-quality images from degraded inputs but becomes highly ill-posed under complex, mixed degradations. While unified all-in-one models are common, their performance declines as degradation complexity increases. Rece"
     },
     {
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-17T00:00:00+00:00",
+      "published_ts": 1781654400.0,
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+    },
+    {
       "title": "Agentic Resource Discovery: Let agents search",
       "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
       "source": "Hugging Face",
@@ -2157,26 +2237,6 @@
       "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses."
     },
     {
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T15:53:12+00:00",
-      "published_ts": 1781625192.0,
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document."
-    },
-    {
-      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T15:05:03+00:00",
-      "published_ts": 1781622303.0,
-      "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
-    },
-    {
       "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
       "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
       "source": "NVIDIA",
@@ -2185,36 +2245,6 @@
       "published_iso": "2026-06-16T15:00:36+00:00",
       "published_ts": 1781622036.0,
       "summary": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the de"
-    },
-    {
-      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T15:00:00+00:00",
-      "published_ts": 1781622000.0,
-      "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers."
-    },
-    {
-      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T14:50:09+00:00",
-      "published_ts": 1781621409.0,
-      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs."
-    },
-    {
-      "title": "Probably raises $9M to build a more reliable kind of AI",
-      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T13:15:09+00:00",
-      "published_ts": 1781615709.0,
-      "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems."
     },
     {
       "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
@@ -2235,16 +2265,6 @@
       "published_iso": "2026-06-16T11:41:31+00:00",
       "published_ts": 1781610091.0,
       "summary": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI. The takeover was not entirely unexpe"
-    },
-    {
-      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T11:21:41+00:00",
-      "published_ts": 1781608901.0,
-      "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI."
     },
     {
       "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
