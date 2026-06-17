@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T11:16:32.431083+00:00",
+  "generated_at": "2026-06-17T16:00:57.480715+00:00",
   "lookback_hours": 72,
-  "item_count": 216,
+  "item_count": 222,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -18,7 +18,7 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 20
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 799
     },
     {
@@ -78,24 +78,164 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 7,
+      "items_kept": 8,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 9,
+      "items_kept": 10,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 0,
+      "items_kept": 2,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "The Gemini-powered Google Home Speaker arrives on June 25 for $100",
+      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T15:57:14+00:00",
+      "published_ts": 1781711834.0,
+      "summary": "Google's new smart speaker is more about Gemini than audio quality."
+    },
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-17T15:26:44+00:00",
+      "published_ts": 1781710004.0,
+      "summary": ""
+    },
+    {
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+      "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T15:24:41+00:00",
+      "published_ts": 1781709881.0,
+      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”"
+    },
+    {
+      "title": "How Musicians Can Get Paid for Training AI",
+      "url": "https://spectrum.ieee.org/ai-music-attribution",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T15:04:23+00:00",
+      "published_ts": 1781708663.0,
+      "summary": "Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use” means. Underlying this is a simple economic principle: The more something is u"
+    },
+    {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "source": "Google (Keyword AI)",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-17T15:00:00+00:00",
+      "published_ts": 1781708400.0,
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management."
+    },
+    {
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T15:00:00+00:00",
+      "published_ts": 1781708400.0,
+      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved."
+    },
+    {
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T14:15:22+00:00",
+      "published_ts": 1781705722.0,
+      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium."
+    },
+    {
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T13:30:00+00:00",
+      "published_ts": 1781703000.0,
+      "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [&#8"
+    },
+    {
+      "title": "Google’s first smart speaker in six years arrives next week",
+      "url": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T13:00:00+00:00",
+      "published_ts": 1781701200.0,
+      "summary": "Google's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has changed hardware-wise in the nine months since the $99 speaker was announced. It has the same sligh"
+    },
+    {
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T12:38:09+00:00",
+      "published_ts": 1781699889.0,
+      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India."
+    },
+    {
+      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T12:14:44+00:00",
+      "published_ts": 1781698484.0,
+      "summary": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business."
+    },
+    {
+      "title": "The Download: a reality check for geoengineering and the science of interoception",
+      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T12:10:00+00:00",
+      "published_ts": 1781698200.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the c"
+    },
+    {
+      "title": "General Motors Is Cutting Its Development Cycles in Half",
+      "url": "https://spectrum.ieee.org/gm-ai-design",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T12:00:01+00:00",
+      "published_ts": 1781697601.0,
+      "summary": "For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and "
+    },
+    {
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T11:00:00+00:00",
+      "published_ts": 1781694000.0,
+      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface."
+    },
     {
       "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
@@ -2117,16 +2257,6 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa"
     },
     {
-      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T18:30:58+00:00",
-      "published_ts": 1781548258.0,
-      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform."
-    },
-    {
       "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
       "source": "The Verge AI",
@@ -2135,26 +2265,6 @@
       "published_iso": "2026-06-15T18:10:27+00:00",
       "published_ts": 1781547027.0,
       "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sober"
-    },
-    {
-      "title": "Big Tech’s desperate last push at AI regulation",
-      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T17:44:10+00:00",
-      "published_ts": 1781545450.0,
-      "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-"
-    },
-    {
-      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T15:29:51+00:00",
-      "published_ts": 1781537391.0,
-      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products."
     },
     {
       "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
@@ -2177,46 +2287,6 @@
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
     },
     {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T14:34:45+00:00",
-      "published_ts": 1781534085.0,
-      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks."
-    },
-    {
-      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
-      "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T14:00:00+00:00",
-      "published_ts": 1781532000.0,
-      "summary": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s laptop in our podcast studio in New York and fly an indoor drone around our office"
-    },
-    {
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T13:46:08+00:00",
-      "published_ts": 1781531168.0,
-      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup."
-    },
-    {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T13:00:00+00:00",
-      "published_ts": 1781528400.0,
-      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people."
-    },
-    {
       "title": "The Download: cutting AC emissions, and nature’s drug designer",
       "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
       "source": "MIT Tech Review",
@@ -2225,16 +2295,6 @@
       "published_iso": "2026-06-15T12:10:00+00:00",
       "published_ts": 1781525400.0,
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, "
-    },
-    {
-      "title": "A satellite just learned to find things on its own — here’s what that means",
-      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T12:00:00+00:00",
-      "published_ts": 1781524800.0,
-      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own."
     },
     {
       "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",

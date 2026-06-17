@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-17T11:16:32.431083+00:00 (UTC) — cửa sổ 72h — 216 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-17T16:00:57.480715+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,6 +20,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **New research shows how AMIE, our medical AI, could help manage health conditions.** — Google (Keyword AI) — `2026-06-17T15:00:00+00:00`
+  - https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/
+  - Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.
 - 🟢 **Unlocking UK house-building with AI-accelerated planning** — Google DeepMind — `2026-06-16T21:29:50+00:00`
   - https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
   - UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.
@@ -35,6 +38,8 @@
 
 ## Mô hình mở
 
+- 🟢 **MolmoMotion: Language-guided 3D motion forecasting** — Hugging Face — `2026-06-17T15:26:44+00:00`
+  - https://huggingface.co/blog/allenai/molmomotion
 - 🟢 **From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot** — Hugging Face — `2026-06-17T10:18:05+00:00`
   - https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware
 - 🟢 **GLM-5.2: Built for Long-Horizon Tasks** — Hugging Face — `2026-06-17T09:01:25+00:00`
@@ -525,6 +530,15 @@
 
 ## Phân tích
 
+- 🔵 **How Musicians Can Get Paid for Training AI** — IEEE Spectrum AI — `2026-06-17T15:04:23+00:00`
+  - https://spectrum.ieee.org/ai-music-attribution
+  - Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use” means. Underlying this is a simple economic principle: The more something is u
+- 🔵 **The Download: a reality check for geoengineering and the science of interoception** — MIT Tech Review — `2026-06-17T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the c
+- 🔵 **General Motors Is Cutting Its Development Cycles in Half** — IEEE Spectrum AI — `2026-06-17T12:00:01+00:00`
+  - https://spectrum.ieee.org/gm-ai-design
+  - For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and 
 - 🔵 **Entrepreneurs in Nairobi make the case for going solar** — MIT Tech Review — `2026-06-17T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/
   - Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have 
@@ -555,6 +569,33 @@
 
 ## Tin tức
 
+- 🔵 **The Gemini-powered Google Home Speaker arrives on June 25 for $100** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
+  - https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
+  - Google's new smart speaker is more about Gemini than audio quality.
+- 🔵 **The slowtech revolution is here to kill your phone addiction and rescue your attention span** — TechCrunch AI — `2026-06-17T15:24:41+00:00`
+  - https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/
+  - “People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”
+- 🔵 **Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.** — TechCrunch AI — `2026-06-17T15:00:00+00:00`
+  - https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/
+  - If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.
+- 🔵 **Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI** — TechCrunch AI — `2026-06-17T14:15:22+00:00`
+  - https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/
+  - Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.
+- 🔵 **AI search grounded in Facebook posts? What could go wrong?** — The Verge AI — `2026-06-17T13:30:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on
+  - AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of "What should I do this weekend?" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [&#8
+- 🔵 **Google’s first smart speaker in six years arrives next week** — The Verge AI — `2026-06-17T13:00:00+00:00`
+  - https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features
+  - Google's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has changed hardware-wise in the nine months since the $99 speaker was announced. It has the same sligh
+- 🔵 **Canadian pension giant joins race to fund India’s AI-fueled data center boom** — TechCrunch AI — `2026-06-17T12:38:09+00:00`
+  - https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/
+  - The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.
+- 🔵 **DeepL acquires Mixhalo for live-event audio streaming and translation** — TechCrunch AI — `2026-06-17T12:14:44+00:00`
+  - https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/
+  - With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.
+- 🔵 **Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’** — TechCrunch AI — `2026-06-17T11:00:00+00:00`
+  - https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/
+  - Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.
 - 🔵 **The next humanoid robot might not look human at all** — The Verge AI — `2026-06-17T09:46:56+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno
   - The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, "humanoid robots don't need to look human." That explains the look of Eno, the new robot from the French startup [&#8230;]
@@ -639,33 +680,9 @@
 - 🔵 **All the news about Anthropic&#8217;s new AI fight with the White House** — The Verge AI — `2026-06-15T19:04:53+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown
   - Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said &#8220;Fable 5’s capabilit
-- 🔵 **Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms** — TechCrunch AI — `2026-06-15T18:30:58+00:00`
-  - https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/
-  - Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.
 - 🔵 **Trump’s Anthropic shutdown just made the case for non-American AI** — The Verge AI — `2026-06-15T18:10:27+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai
   - At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sober
-- 🔵 **Big Tech’s desperate last push at AI regulation** — The Verge AI — `2026-06-15T17:44:10+00:00`
-  - https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress
-  - For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-
-- 🔵 **Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models** — TechCrunch AI — `2026-06-15T15:29:51+00:00`
-  - https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/
-  - A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.
-- 🔵 **Salesforce acquires AI customer service platform Fin for $3.6B** — TechCrunch AI — `2026-06-15T14:34:45+00:00`
-  - https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/
-  - Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.
-- 🔵 **Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use** — The Verge AI — `2026-06-15T14:00:00+00:00`
-  - https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military
-  - Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s laptop in our podcast studio in New York and fly an indoor drone around our office
-- 🔵 **Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech** — TechCrunch AI — `2026-06-15T13:46:08+00:00`
-  - https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/
-  - Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.
-- 🔵 **As AI agents become employees, NewCore emerges with $66M to give them identities** — TechCrunch AI — `2026-06-15T13:00:00+00:00`
-  - https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/
-  - NewCore argues the next challenge in enterprise security will be managing AI agents, not people.
-- 🔵 **A satellite just learned to find things on its own — here’s what that means** — TechCrunch AI — `2026-06-15T12:00:00+00:00`
-  - https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/
-  - In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
