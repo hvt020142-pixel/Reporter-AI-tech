@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-17T05:10:44.601069+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-17T11:16:32.431083+00:00 (UTC) — cửa sổ 72h — 216 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -32,6 +32,13 @@
 - 🟢 **Introducing the OpenAI Partner Network** — OpenAI — `2026-06-14T17:00:00+00:00`
   - https://openai.com/index/introducing-openai-partner-network
   - OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.
+
+## Mô hình mở
+
+- 🟢 **From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot** — Hugging Face — `2026-06-17T10:18:05+00:00`
+  - https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware
+- 🟢 **GLM-5.2: Built for Long-Horizon Tasks** — Hugging Face — `2026-06-17T09:01:25+00:00`
+  - https://huggingface.co/blog/zai-org/glm-52-blog
 
 ## Nghiên cứu
 
@@ -518,6 +525,12 @@
 
 ## Phân tích
 
+- 🔵 **Entrepreneurs in Nairobi make the case for going solar** — MIT Tech Review — `2026-06-17T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/
+  - Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have 
+- 🔵 **Hacking the atmosphere: Geoengineering gets a reality check** — MIT Tech Review — `2026-06-17T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/
+  - Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you c
 - 🔵 **Exclusive eBook: How AI is becoming the next military advisor** — MIT Tech Review — `2026-06-16T20:35:02+00:00`
   - https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
   - A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by Jame
@@ -542,6 +555,9 @@
 
 ## Tin tức
 
+- 🔵 **The next humanoid robot might not look human at all** — The Verge AI — `2026-06-17T09:46:56+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno
+  - The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, "humanoid robots don't need to look human." That explains the look of Eno, the new robot from the French startup [&#8230;]
 - 🔵 **Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests** — TechCrunch AI — `2026-06-16T22:34:17+00:00`
   - https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/
   - Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.
@@ -650,9 +666,6 @@
 - 🔵 **A satellite just learned to find things on its own — here’s what that means** — TechCrunch AI — `2026-06-15T12:00:00+00:00`
   - https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/
   - In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.
-- 🔵 **China may have accessed Mythos** — The Verge AI — `2026-06-14T18:27:55+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos
-  - According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious na
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

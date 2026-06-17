@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T05:10:44.601069+00:00",
+  "generated_at": "2026-06-17T11:16:32.431083+00:00",
   "lookback_hours": 72,
-  "item_count": 212,
+  "item_count": 216,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,8 +30,8 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 0,
-      "items_total": 797
+      "items_kept": 2,
+      "items_total": 799
     },
     {
       "source": "arXiv cs.AI",
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 7,
+      "items_kept": 9,
       "items_total": 10
     },
     {
@@ -96,6 +96,56 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-17T10:18:05+00:00",
+      "published_ts": 1781691485.0,
+      "summary": ""
+    },
+    {
+      "title": "The next humanoid robot might not look human at all",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T09:46:56+00:00",
+      "published_ts": 1781689616.0,
+      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]"
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-17T09:01:25+00:00",
+      "published_ts": 1781686885.0,
+      "summary": ""
+    },
+    {
+      "title": "Entrepreneurs in Nairobi make the case for going solar",
+      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T09:00:00+00:00",
+      "published_ts": 1781686800.0,
+      "summary": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have "
+    },
+    {
+      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T09:00:00+00:00",
+      "published_ts": 1781686800.0,
+      "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you c"
+    },
     {
       "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
       "url": "https://arxiv.org/abs/2606.17209",
@@ -2195,16 +2245,6 @@
       "published_iso": "2026-06-15T09:00:00+00:00",
       "published_ts": 1781514000.0,
       "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 p"
-    },
-    {
-      "title": "China may have accessed Mythos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-14T18:27:55+00:00",
-      "published_ts": 1781461675.0,
-      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious na"
     },
     {
       "title": "Introducing the OpenAI Partner Network",
