@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-17T16:00:57.480715+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-17T18:30:51.329230+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,6 +23,9 @@
 - 🟢 **New research shows how AMIE, our medical AI, could help manage health conditions.** — Google (Keyword AI) — `2026-06-17T15:00:00+00:00`
   - https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/
   - Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.
+- 🟢 **A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry** — OpenAI — `2026-06-17T10:00:00+00:00`
+  - https://openai.com/index/ai-chemist-improves-reaction
+  - OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
 - 🟢 **Unlocking UK house-building with AI-accelerated planning** — Google DeepMind — `2026-06-16T21:29:50+00:00`
   - https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
   - UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.
@@ -32,9 +35,6 @@
 - 🟢 **We’re strengthening our presence in Alabama through new investments and community support.** — Google (Keyword AI) — `2026-06-15T15:00:00+00:00`
   - https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/
   - Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…
-- 🟢 **Introducing the OpenAI Partner Network** — OpenAI — `2026-06-14T17:00:00+00:00`
-  - https://openai.com/index/introducing-openai-partner-network
-  - OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.
 
 ## Mô hình mở
 
@@ -44,6 +44,8 @@
   - https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware
 - 🟢 **GLM-5.2: Built for Long-Horizon Tasks** — Hugging Face — `2026-06-17T09:01:25+00:00`
   - https://huggingface.co/blog/zai-org/glm-52-blog
+- 🟢 **Agentic Resource Discovery: Let agents search** — Hugging Face — `2026-06-17T00:00:00+00:00`
+  - https://huggingface.co/blog/agentic-resource-discovery-launch
 
 ## Nghiên cứu
 
@@ -547,7 +549,7 @@
   - Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you c
 - 🔵 **Exclusive eBook: How AI is becoming the next military advisor** — MIT Tech Review — `2026-06-16T20:35:02+00:00`
   - https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
-  - A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by Jame
+  - A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. Stories
 - 🔵 **The Download: the first brain implant power user and South Korea’s AI obsession** — MIT Tech Review — `2026-06-16T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for
@@ -569,7 +571,34 @@
 
 ## Tin tức
 
-- 🔵 **The Gemini-powered Google Home Speaker arrives on June 25 for $100** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
+- 🔵 **Anthropic got hit by export rules nobody understands** — The Verge AI — `2026-06-17T18:28:50+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls
+  - Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 f
+- 🔵 **Social media’s next evolution: user-controlled algorithms** — TechCrunch AI — `2026-06-17T18:19:48+00:00`
+  - https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/
+  - Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.
+- 🔵 **"Dangerous" AI models are coming no matter what** — Ars Technica AI — `2026-06-17T17:50:46+00:00`
+  - https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/
+  - AI models with advanced hacking capabilities will soon be the norm.
+- 🔵 **World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names** — TechCrunch AI — `2026-06-17T17:43:07+00:00`
+  - https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/
+  - World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.
+- 🔵 **Two-thirds of Americans think AI is advancing too quickly** — The Verge AI — `2026-06-17T17:20:24+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly
+  - According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's
+- 🔵 **Only 16 percent of Americans think AI will have a positive impact on society, a new study shows** — TechCrunch AI — `2026-06-17T17:00:01+00:00`
+  - https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/
+  - Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.
+- 🔵 **Google bets on Gemini to reinvent the smart home speaker** — TechCrunch AI — `2026-06-17T16:30:09+00:00`
+  - https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/
+  - Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.
+- 🔵 **Vibe-decoding the White House-Anthropic fight over Fable** — The Verge AI — `2026-06-17T16:27:00+00:00`
+  - https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house
+  - Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier
+- 🔵 **Can anyone look cool wearing Snap’s $2,000 glasses?** — The Verge AI — `2026-06-17T16:13:34+00:00`
+  - https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion
+  - Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to "bring computing into the world" and "make it more human." He positioned them as a device to h
+- 🔵 **Ten months later, the $100 Google Home Speaker is finally available for preorder** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
   - https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
   - Google's new smart speaker is more about Gemini than audio quality.
 - 🔵 **The slowtech revolution is here to kill your phone addiction and rescue your attention span** — TechCrunch AI — `2026-06-17T15:24:41+00:00`
@@ -656,33 +685,9 @@
 - 🔵 **Critical Copilot vulnerability allowed hackers to steal 2FA code from users** — Ars Technica AI — `2026-06-16T11:15:46+00:00`
   - https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
   - SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
-- 🔵 **ChatGPT’s market share slips below 50% for first time** — TechCrunch AI — `2026-06-16T10:30:00+00:00`
-  - https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/
-  - The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.
-- 🔵 **Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions** — TechCrunch AI — `2026-06-16T06:59:00+00:00`
-  - https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/
-  - Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.
-- 🔵 **Inside the fight over Claude Mythos 5** — The Verge AI — `2026-06-16T03:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls
-  - As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Myt
-- 🔵 **Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties** — TechCrunch AI — `2026-06-15T23:51:44+00:00`
-  - https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/
-  - AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.
-- 🔵 **The US government’s Anthropic models ban was never about an AI jailbreak** — TechCrunch AI — `2026-06-15T21:50:21+00:00`
-  - https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/
-  - The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.
-- 🔵 **Facebook’s new AI Mode search gets its info from public posts** — The Verge AI — `2026-06-15T21:15:08+00:00`
-  - https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook
-  - Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the "AI Mode" option will appear alongside the usual search modes like "People" and "Marketplace." It's one of several new AI features Meta is rolling out starting today, including p
 - 🔵 **Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021** — Ars Technica AI — `2026-06-15T19:07:02+00:00`
   - https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/
   - Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.
-- 🔵 **All the news about Anthropic&#8217;s new AI fight with the White House** — The Verge AI — `2026-06-15T19:04:53+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown
-  - Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said &#8220;Fable 5’s capabilit
-- 🔵 **Trump’s Anthropic shutdown just made the case for non-American AI** — The Verge AI — `2026-06-15T18:10:27+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai
-  - At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sober
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
