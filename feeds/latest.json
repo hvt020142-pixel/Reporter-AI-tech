@@ -1,31 +1,37 @@
 {
-  "generated_at": "2026-06-18T10:46:02.686403+00:00",
+  "generated_at": "2026-06-18T15:50:54.192715+00:00",
   "lookback_hours": 72,
-  "item_count": 213,
+  "item_count": 233,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 3,
-      "items_total": 1009
+      "items_kept": 4,
+      "items_total": 1010
     },
     {
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/rss.xml",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 100
     },
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 20
     },
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 5,
+      "items_kept": 7,
       "items_total": 18
+    },
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "items_kept": 6,
+      "items_total": 802
     },
     {
       "source": "arXiv cs.AI",
@@ -70,6 +76,12 @@
       "items_total": 10
     },
     {
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/feed/",
+      "items_kept": 10,
+      "items_total": 20
+    },
+    {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
       "items_kept": 10,
@@ -78,23 +90,112 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 30
     }
   ],
-  "sources_failed": [
+  "sources_failed": [],
+  "items": [
     {
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/feed.xml",
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T15:20:37+00:00",
+      "published_ts": 1781796037.0,
+      "summary": "General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning."
     },
     {
-      "source": "Ars Technica AI",
-      "url": "https://arstechnica.com/ai/feed/",
-      "error": "HTTPError: HTTP Error 403: Forbidden"
-    }
-  ],
-  "items": [
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T15:13:21+00:00",
+      "published_ts": 1781795601.0,
+      "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom."
+    },
+    {
+      "title": "Who decides when AI is too dangerous?",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T14:00:00+00:00",
+      "published_ts": 1781791200.0,
+      "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new "
+    },
+    {
+      "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-06-18T13:00:43+00:00",
+      "published_ts": 1781787643.0,
+      "summary": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the sp"
+    },
+    {
+      "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-06-18T13:00:32+00:00",
+      "published_ts": 1781787632.0,
+      "summary": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce"
+    },
+    {
+      "title": "Sound Waves Give Neuromorphic Chips a Brain-Simulating Edge",
+      "url": "https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T13:00:01+00:00",
+      "published_ts": 1781787601.0,
+      "summary": "By mimicking how the brain operates, neuromorphic computing can use dramatically less energy than conventional electronic AI chips. However, even the most sophisticated neuromorphic devices today are still quite simple, using only a small fraction of the number of connections found in human neurons."
+    },
+    {
+      "title": "Photoshop and Premiere now have AI assistants",
+      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T13:00:00+00:00",
+      "published_ts": 1781787600.0,
+      "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assi"
+    },
+    {
+      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T13:00:00+00:00",
+      "published_ts": 1781787600.0,
+      "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, an"
+    },
+    {
+      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T12:10:00+00:00",
+      "published_ts": 1781784600.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading ca"
+    },
+    {
+      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+      "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T12:00:00+00:00",
+      "published_ts": 1781784000.0,
+      "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR)."
+    },
     {
       "title": "Geoengineering still faces major practical challenges",
       "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
@@ -114,6 +215,16 @@
       "published_iso": "2026-06-18T09:00:00+00:00",
       "published_ts": 1781773200.0,
       "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought"
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-18T08:00:00+00:00",
+      "published_ts": 1781769600.0,
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
     },
     {
       "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
@@ -1746,6 +1857,26 @@
       "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
     },
     {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-18T00:00:00+00:00",
+      "published_ts": 1781740800.0,
+      "summary": ""
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-18T00:00:00+00:00",
+      "published_ts": 1781740800.0,
+      "summary": ""
+    },
+    {
       "title": "Roelof Botha joins SpaceX’s board of directors",
       "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
       "source": "TechCrunch AI",
@@ -1774,6 +1905,16 @@
       "published_iso": "2026-06-17T20:17:38+00:00",
       "published_ts": 1781727458.0,
       "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses "
+    },
+    {
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T19:25:19+00:00",
+      "published_ts": 1781724319.0,
+      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents."
     },
     {
       "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
@@ -1824,6 +1965,16 @@
       "published_iso": "2026-06-17T18:00:00+00:00",
       "published_ts": 1781719200.0,
       "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses "
+    },
+    {
+      "title": "\"Dangerous\" AI models are coming no matter what",
+      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T17:50:46+00:00",
+      "published_ts": 1781718646.0,
+      "summary": "AI models with advanced hacking capabilities will soon be the norm."
     },
     {
       "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
@@ -1884,6 +2035,26 @@
       "published_iso": "2026-06-17T16:13:34+00:00",
       "published_ts": 1781712814.0,
       "summary": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computing into the world\" and \"make it more human.\" He positioned them as a device to h"
+    },
+    {
+      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-17T15:57:14+00:00",
+      "published_ts": 1781711834.0,
+      "summary": "Google's new smart speaker is more about Gemini than audio quality."
+    },
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-17T15:26:44+00:00",
+      "published_ts": 1781710004.0,
+      "summary": ""
     },
     {
       "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
@@ -2006,6 +2177,16 @@
       "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface."
     },
     {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-17T10:18:05+00:00",
+      "published_ts": 1781691485.0,
+      "summary": ""
+    },
+    {
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
       "source": "OpenAI",
@@ -2016,14 +2197,14 @@
       "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
     },
     {
-      "title": "The next humanoid robot might not look human at all",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T09:46:56+00:00",
-      "published_ts": 1781689616.0,
-      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]"
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-17T09:01:25+00:00",
+      "published_ts": 1781686885.0,
+      "summary": ""
     },
     {
       "title": "Entrepreneurs in Nairobi make the case for going solar",
@@ -2056,14 +2237,14 @@
       "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
     },
     {
-      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T22:34:17+00:00",
-      "published_ts": 1781649257.0,
-      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-17T00:00:00+00:00",
+      "published_ts": 1781654400.0,
+      "summary": ""
     },
     {
       "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
@@ -2074,6 +2255,16 @@
       "published_iso": "2026-06-16T22:30:41+00:00",
       "published_ts": 1781649041.0,
       "summary": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;"
+    },
+    {
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T22:22:44+00:00",
+      "published_ts": 1781648564.0,
+      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center."
     },
     {
       "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
@@ -2096,6 +2287,16 @@
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
     },
     {
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T21:00:35+00:00",
+      "published_ts": 1781643635.0,
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs."
+    },
+    {
       "title": "Exclusive eBook: How AI is becoming the next military advisor",
       "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
       "source": "MIT Tech Review",
@@ -2106,44 +2307,24 @@
       "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. Stories"
     },
     {
-      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-      "source": "TechCrunch AI",
+      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+      "source": "Ars Technica AI",
       "category": "Tin tức",
       "tier": "reputable",
-      "published_iso": "2026-06-16T20:11:00+00:00",
-      "published_ts": 1781640660.0,
-      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday."
+      "published_iso": "2026-06-16T18:11:05+00:00",
+      "published_ts": 1781633465.0,
+      "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools."
     },
     {
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-      "source": "TechCrunch AI",
+      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+      "source": "Ars Technica AI",
       "category": "Tin tức",
       "tier": "reputable",
-      "published_iso": "2026-06-16T18:00:00+00:00",
-      "published_ts": 1781632800.0,
-      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices."
-    },
-    {
-      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T17:04:05+00:00",
-      "published_ts": 1781629445.0,
-      "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, "
-    },
-    {
-      "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-      "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T17:00:00+00:00",
-      "published_ts": 1781629200.0,
-      "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a devi"
+      "published_iso": "2026-06-16T16:37:45+00:00",
+      "published_ts": 1781627865.0,
+      "summary": "Separately, neither could compete. Now they hope they can."
     },
     {
       "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
@@ -2154,6 +2335,26 @@
       "published_iso": "2026-06-16T16:30:27+00:00",
       "published_ts": 1781627427.0,
       "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NV"
+    },
+    {
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T16:18:07+00:00",
+      "published_ts": 1781626687.0,
+      "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses."
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "source": "Google DeepMind",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-16T15:46:31+00:00",
+      "published_ts": 1781624791.0,
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
     },
     {
       "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
@@ -2176,6 +2377,16 @@
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for"
     },
     {
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-16T11:15:46+00:00",
+      "published_ts": 1781608546.0,
+      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over."
+    },
+    {
       "title": "Want to get a data center online quickly? Give it some flex.",
       "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
       "source": "MIT Tech Review",
@@ -2196,6 +2407,16 @@
       "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
     },
     {
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-15T19:07:02+00:00",
+      "published_ts": 1781550422.0,
+      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing."
+    },
+    {
       "title": "Why do South Koreans love AI so much?",
       "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
       "source": "MIT Tech Review",
@@ -2204,26 +2425,6 @@
       "published_iso": "2026-06-15T18:46:08+00:00",
       "published_ts": 1781549168.0,
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa"
-    },
-    {
-      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T15:12:28+00:00",
-      "published_ts": 1781536348.0,
-      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked "
-    },
-    {
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "source": "Google (Keyword AI)",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-15T15:00:00+00:00",
-      "published_ts": 1781535600.0,
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
     }
   ]
 }

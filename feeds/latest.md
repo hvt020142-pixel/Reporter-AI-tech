@@ -1,12 +1,16 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-18T10:46:02.686403+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
-
-> ⚠️ 2 nguồn lỗi lần này (bỏ qua): Hugging Face, Ars Technica AI
+*Cập nhật: 2026-06-18T15:50:54.192715+00:00 (UTC) — cửa sổ 72h — 233 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI** — NVIDIA — `2026-06-18T13:00:43+00:00`
+  - https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/
+  - The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the sp
+- 🟢 **Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices** — NVIDIA — `2026-06-18T13:00:32+00:00`
+  - https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/
+  - Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce
 - 🟢 **France Advances Europe’s AI Future With NVIDIA Technologies** — NVIDIA — `2026-06-18T06:00:59+00:00`
   - https://blogs.nvidia.com/blog/france-advances-europes-ai-future/
   - A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying appl
@@ -25,6 +29,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Using AI to help physicians diagnose rare genetic diseases affecting children** — OpenAI — `2026-06-18T08:00:00+00:00`
+  - https://openai.com/index/diagnose-rare-childhood-diseases
+  - Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.
 - 🟢 **New research shows how AMIE, our medical AI, could help manage health conditions.** — Google (Keyword AI) — `2026-06-17T15:00:00+00:00`
   - https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/
   - Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.
@@ -37,12 +44,27 @@
 - 🟢 **Unlocking UK house-building with AI-accelerated planning** — Google DeepMind — `2026-06-16T21:29:50+00:00`
   - https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
   - UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.
+- 🟢 **Securing the future of AI agents** — Google DeepMind — `2026-06-16T15:46:31+00:00`
+  - https://deepmind.google/blog/securing-the-future-of-ai-agents/
+  - Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.
 - 🟢 **Predicting model behavior before release by simulating deployment** — OpenAI — `2026-06-16T00:00:00+00:00`
   - https://openai.com/index/deployment-simulation
   - OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.
-- 🟢 **We’re strengthening our presence in Alabama through new investments and community support.** — Google (Keyword AI) — `2026-06-15T15:00:00+00:00`
-  - https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/
-  - Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…
+
+## Mô hình mở
+
+- 🟢 **Beyond LoRA: Can you beat the most popular fine-tuning technique?** — Hugging Face — `2026-06-18T00:00:00+00:00`
+  - https://huggingface.co/blog/peft-beyond-lora
+- 🟢 **Is it agentic enough? Benchmarking open models on your own tooling** — Hugging Face — `2026-06-18T00:00:00+00:00`
+  - https://huggingface.co/blog/is-it-agentic-enough
+- 🟢 **MolmoMotion: Language-guided 3D motion forecasting** — Hugging Face — `2026-06-17T15:26:44+00:00`
+  - https://huggingface.co/blog/allenai/molmomotion
+- 🟢 **From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot** — Hugging Face — `2026-06-17T10:18:05+00:00`
+  - https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware
+- 🟢 **GLM-5.2: Built for Long-Horizon Tasks** — Hugging Face — `2026-06-17T09:01:25+00:00`
+  - https://huggingface.co/blog/zai-org/glm-52-blog
+- 🟢 **Agentic Resource Discovery: Let agents search** — Hugging Face — `2026-06-17T00:00:00+00:00`
+  - https://huggingface.co/blog/agentic-resource-discovery-launch
 
 ## Nghiên cứu
 
@@ -529,6 +551,12 @@
 
 ## Phân tích
 
+- 🔵 **Sound Waves Give Neuromorphic Chips a Brain-Simulating Edge** — IEEE Spectrum AI — `2026-06-18T13:00:01+00:00`
+  - https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips
+  - By mimicking how the brain operates, neuromorphic computing can use dramatically less energy than conventional electronic AI chips. However, even the most sophisticated neuromorphic devices today are still quite simple, using only a small fraction of the number of connections found in human neurons.
+- 🔵 **The Download: a new hunt for dark matter and Kenya’s case for going solar** — MIT Tech Review — `2026-06-18T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading ca
 - 🔵 **Geoengineering still faces major practical challenges** — MIT Tech Review — `2026-06-18T10:00:00+00:00`
   - https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/
   - Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicate
@@ -562,12 +590,27 @@
 - 🔵 **Why do South Koreans love AI so much?** — MIT Tech Review — `2026-06-15T18:46:08+00:00`
   - https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa
-- 🔵 **This man with ALS is “the first power user” of a brain implant that lets him speak** — MIT Tech Review — `2026-06-15T15:12:28+00:00`
-  - https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/
-  - Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked 
 
 ## Tin tức
 
+- 🔵 **General Intuition in talks to raise $300M at around $2B valuation** — TechCrunch AI — `2026-06-18T15:20:37+00:00`
+  - https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/
+  - General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning.
+- 🔵 **A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight** — TechCrunch AI — `2026-06-18T15:13:21+00:00`
+  - https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/
+  - Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.
+- 🔵 **Who decides when AI is too dangerous?** — The Verge AI — `2026-06-18T14:00:00+00:00`
+  - https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump
+  - On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new 
+- 🔵 **Photoshop and Premiere now have AI assistants** — The Verge AI — `2026-06-18T13:00:00+00:00`
+  - https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch
+  - Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assi
+- 🔵 **Adobe’s redesigned AI studio remembers what your creations look like** — The Verge AI — `2026-06-18T13:00:00+00:00`
+  - https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update
+  - Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a "reimagined" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you "persistent context, reusable assets, an
+- 🔵 **Pixi’s new iOS app turns text messages into interactive AR experiences** — TechCrunch AI — `2026-06-18T12:00:00+00:00`
+  - https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/
+  - Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).
 - 🔵 **Midjourney goes from generating cat images to full-body ultrasound scans** — The Verge AI — `2026-06-18T03:12:31+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
   - Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the "cat pictures" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses 
@@ -583,6 +626,9 @@
 - 🔵 **NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI** — TechCrunch AI — `2026-06-17T20:17:38+00:00`
   - https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/
   - Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses 
+- 🔵 **AI coding agents taught robots how to install GPUs and cut zip ties** — Ars Technica AI — `2026-06-17T19:25:19+00:00`
+  - https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
+  - Nvidia's self-improvement program for robots enlists teams of AI coding agents.
 - 🔵 **World leaders want American AI. They just don’t want America to be able to turn it off.** — TechCrunch AI — `2026-06-17T19:01:19+00:00`
   - https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/
   - French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.
@@ -598,6 +644,9 @@
 - 🔵 **NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning** — TechCrunch AI — `2026-06-17T18:00:00+00:00`
   - https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/
   - Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses 
+- 🔵 **"Dangerous" AI models are coming no matter what** — Ars Technica AI — `2026-06-17T17:50:46+00:00`
+  - https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/
+  - AI models with advanced hacking capabilities will soon be the norm.
 - 🔵 **World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names** — TechCrunch AI — `2026-06-17T17:43:07+00:00`
   - https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/
   - World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.
@@ -616,6 +665,9 @@
 - 🔵 **Can anyone look cool wearing Snap’s $2,000 glasses?** — The Verge AI — `2026-06-17T16:13:34+00:00`
   - https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion
   - Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to "bring computing into the world" and "make it more human." He positioned them as a device to h
+- 🔵 **Ten months later, the $100 Google Home Speaker is finally available for preorder** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
+  - https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
+  - Google's new smart speaker is more about Gemini than audio quality.
 - 🔵 **The slowtech revolution is here to kill your phone addiction and rescue your attention span** — TechCrunch AI — `2026-06-17T15:24:41+00:00`
   - https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/
   - “People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”
@@ -640,24 +692,27 @@
 - 🔵 **Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’** — TechCrunch AI — `2026-06-17T11:00:00+00:00`
   - https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/
   - Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.
-- 🔵 **The next humanoid robot might not look human at all** — The Verge AI — `2026-06-17T09:46:56+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno
-  - The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, "humanoid robots don't need to look human." That explains the look of Eno, the new robot from the French startup [&#8230;]
-- 🔵 **Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests** — TechCrunch AI — `2026-06-16T22:34:17+00:00`
-  - https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/
-  - Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.
-- 🔵 **SpaceX valuation balloons to $2.6T, briefly passes Amazon** — TechCrunch AI — `2026-06-16T20:11:00+00:00`
-  - https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/
-  - SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.
-- 🔵 **Android 17 launches with new multitasking tools as Google expands Gemini features** — TechCrunch AI — `2026-06-16T18:00:00+00:00`
-  - https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/
-  - Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.
-- 🔵 **Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone** — The Verge AI — `2026-06-16T17:04:05+00:00`
-  - https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor
-  - Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, 
-- 🔵 **Qualcomm’s latest chip hints that more powerful smart glasses could be on the way** — The Verge AI — `2026-06-16T17:00:00+00:00`
-  - https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables
-  - Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a devi
+- 🔵 **Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines** — Ars Technica AI — `2026-06-16T22:22:44+00:00`
+  - https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/
+  - NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.
+- 🔵 **Anthropic "pauses" token-based billing for its Claude Agent SDK** — Ars Technica AI — `2026-06-16T21:00:35+00:00`
+  - https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/
+  - Move originally planned for Monday would have heavily increased power users' costs.
+- 🔵 **Pentagon boasts of using AI to write reports mandated by Congress** — Ars Technica AI — `2026-06-16T18:11:05+00:00`
+  - https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/
+  - Pentagon also claims 1.5 million personnel are using generative AI tools.
+- 🔵 **SpaceX to acquire AI coding platform Cursor for $60 billion** — Ars Technica AI — `2026-06-16T16:37:45+00:00`
+  - https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/
+  - Separately, neither could compete. Now they hope they can.
+- 🔵 **Leaked financial docs show OpenAI is losing billions of dollars a year** — Ars Technica AI — `2026-06-16T16:18:07+00:00`
+  - https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/
+  - Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.
+- 🔵 **Critical Copilot vulnerability allowed hackers to steal 2FA code from users** — Ars Technica AI — `2026-06-16T11:15:46+00:00`
+  - https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
+  - SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
+- 🔵 **Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021** — Ars Technica AI — `2026-06-15T19:07:02+00:00`
+  - https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/
+  - Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
