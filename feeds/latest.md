@@ -1,10 +1,15 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-18T04:58:58.699739+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-18T10:46:02.686403+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
+
+> ⚠️ 2 nguồn lỗi lần này (bỏ qua): Hugging Face, Ars Technica AI
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **France Advances Europe’s AI Future With NVIDIA Technologies** — NVIDIA — `2026-06-18T06:00:59+00:00`
+  - https://blogs.nvidia.com/blog/france-advances-europes-ai-future/
+  - A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying appl
 - 🟢 **Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses** — NVIDIA — `2026-06-16T22:30:41+00:00`
   - https://blogs.nvidia.com/blog/nvidia-xr-ai/
   - NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;
@@ -38,17 +43,6 @@
 - 🟢 **We’re strengthening our presence in Alabama through new investments and community support.** — Google (Keyword AI) — `2026-06-15T15:00:00+00:00`
   - https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/
   - Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…
-
-## Mô hình mở
-
-- 🟢 **MolmoMotion: Language-guided 3D motion forecasting** — Hugging Face — `2026-06-17T15:26:44+00:00`
-  - https://huggingface.co/blog/allenai/molmomotion
-- 🟢 **From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot** — Hugging Face — `2026-06-17T10:18:05+00:00`
-  - https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware
-- 🟢 **GLM-5.2: Built for Long-Horizon Tasks** — Hugging Face — `2026-06-17T09:01:25+00:00`
-  - https://huggingface.co/blog/zai-org/glm-52-blog
-- 🟢 **Agentic Resource Discovery: Let agents search** — Hugging Face — `2026-06-17T00:00:00+00:00`
-  - https://huggingface.co/blog/agentic-resource-discovery-launch
 
 ## Nghiên cứu
 
@@ -535,6 +529,12 @@
 
 ## Phân tích
 
+- 🔵 **Geoengineering still faces major practical challenges** — MIT Tech Review — `2026-06-18T10:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/
+  - Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicate
+- 🔵 **The search for dark matter has been blown wide open** — MIT Tech Review — `2026-06-18T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/
+  - Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought
 - 🔵 **How Musicians Can Get Paid for Training AI** — IEEE Spectrum AI — `2026-06-17T15:04:23+00:00`
   - https://spectrum.ieee.org/ai-music-attribution
   - Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use” means. Underlying this is a simple economic principle: The more something is u
@@ -565,16 +565,10 @@
 - 🔵 **This man with ALS is “the first power user” of a brain implant that lets him speak** — MIT Tech Review — `2026-06-15T15:12:28+00:00`
   - https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/
   - Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked 
-- 🔵 **The Download: cutting AC emissions, and nature’s drug designer** — MIT Tech Review — `2026-06-15T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, 
-- 🔵 **These new solid-state ACs promise a cool future. Scientists aren’t so sure.** — MIT Tech Review — `2026-06-15T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/
-  - After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 p
 
 ## Tin tức
 
-- 🔵 **Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans** — The Verge AI — `2026-06-18T03:12:31+00:00`
+- 🔵 **Midjourney goes from generating cat images to full-body ultrasound scans** — The Verge AI — `2026-06-18T03:12:31+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
   - Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the "cat pictures" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses 
 - 🔵 **How to turn off AI in your Google Docs** — TechCrunch AI — `2026-06-18T01:23:51+00:00`
@@ -589,9 +583,6 @@
 - 🔵 **NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI** — TechCrunch AI — `2026-06-17T20:17:38+00:00`
   - https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/
   - Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses 
-- 🔵 **AI coding agents taught robots how to install GPUs and cut zip ties** — Ars Technica AI — `2026-06-17T19:25:19+00:00`
-  - https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
-  - Nvidia's self-improvement program for robots enlists teams of AI coding agents.
 - 🔵 **World leaders want American AI. They just don’t want America to be able to turn it off.** — TechCrunch AI — `2026-06-17T19:01:19+00:00`
   - https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/
   - French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.
@@ -607,9 +598,6 @@
 - 🔵 **NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning** — TechCrunch AI — `2026-06-17T18:00:00+00:00`
   - https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/
   - Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses 
-- 🔵 **"Dangerous" AI models are coming no matter what** — Ars Technica AI — `2026-06-17T17:50:46+00:00`
-  - https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/
-  - AI models with advanced hacking capabilities will soon be the norm.
 - 🔵 **World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names** — TechCrunch AI — `2026-06-17T17:43:07+00:00`
   - https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/
   - World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.
@@ -628,9 +616,6 @@
 - 🔵 **Can anyone look cool wearing Snap’s $2,000 glasses?** — The Verge AI — `2026-06-17T16:13:34+00:00`
   - https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion
   - Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to "bring computing into the world" and "make it more human." He positioned them as a device to h
-- 🔵 **Ten months later, the $100 Google Home Speaker is finally available for preorder** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
-  - https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
-  - Google's new smart speaker is more about Gemini than audio quality.
 - 🔵 **The slowtech revolution is here to kill your phone addiction and rescue your attention span** — TechCrunch AI — `2026-06-17T15:24:41+00:00`
   - https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/
   - “People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”
@@ -661,18 +646,9 @@
 - 🔵 **Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests** — TechCrunch AI — `2026-06-16T22:34:17+00:00`
   - https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/
   - Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.
-- 🔵 **Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines** — Ars Technica AI — `2026-06-16T22:22:44+00:00`
-  - https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/
-  - NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.
-- 🔵 **Anthropic "pauses" token-based billing for its Claude Agent SDK** — Ars Technica AI — `2026-06-16T21:00:35+00:00`
-  - https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/
-  - Move originally planned for Monday would have heavily increased power users' costs.
 - 🔵 **SpaceX valuation balloons to $2.6T, briefly passes Amazon** — TechCrunch AI — `2026-06-16T20:11:00+00:00`
   - https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/
   - SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.
-- 🔵 **Pentagon boasts of using AI to write reports mandated by Congress** — Ars Technica AI — `2026-06-16T18:11:05+00:00`
-  - https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/
-  - Pentagon also claims 1.5 million personnel are using generative AI tools.
 - 🔵 **Android 17 launches with new multitasking tools as Google expands Gemini features** — TechCrunch AI — `2026-06-16T18:00:00+00:00`
   - https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/
   - Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.
@@ -682,18 +658,6 @@
 - 🔵 **Qualcomm’s latest chip hints that more powerful smart glasses could be on the way** — The Verge AI — `2026-06-16T17:00:00+00:00`
   - https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables
   - Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a devi
-- 🔵 **SpaceX to acquire AI coding platform Cursor for $60 billion** — Ars Technica AI — `2026-06-16T16:37:45+00:00`
-  - https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/
-  - Separately, neither could compete. Now they hope they can.
-- 🔵 **Leaked financial docs show OpenAI is losing billions of dollars a year** — Ars Technica AI — `2026-06-16T16:18:07+00:00`
-  - https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/
-  - Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.
-- 🔵 **Critical Copilot vulnerability allowed hackers to steal 2FA code from users** — Ars Technica AI — `2026-06-16T11:15:46+00:00`
-  - https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
-  - SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
-- 🔵 **Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021** — Ars Technica AI — `2026-06-15T19:07:02+00:00`
-  - https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/
-  - Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

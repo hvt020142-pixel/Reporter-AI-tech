@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T04:58:58.699739+00:00",
+  "generated_at": "2026-06-18T10:46:02.686403+00:00",
   "lookback_hours": 72,
-  "item_count": 226,
+  "item_count": 213,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,14 +24,8 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 18
-    },
-    {
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 4,
-      "items_total": 800
     },
     {
       "source": "arXiv cs.AI",
@@ -76,12 +70,6 @@
       "items_total": 10
     },
     {
-      "source": "Ars Technica AI",
-      "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 10,
-      "items_total": 20
-    },
-    {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
       "items_kept": 10,
@@ -94,8 +82,49 @@
       "items_total": 30
     }
   ],
-  "sources_failed": [],
+  "sources_failed": [
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/feed/",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    }
+  ],
   "items": [
+    {
+      "title": "Geoengineering still faces major practical challenges",
+      "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T10:00:00+00:00",
+      "published_ts": 1781776800.0,
+      "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicate"
+    },
+    {
+      "title": "The search for dark matter has been blown wide open",
+      "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T09:00:00+00:00",
+      "published_ts": 1781773200.0,
+      "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought"
+    },
+    {
+      "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
+      "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-06-18T06:00:59+00:00",
+      "published_ts": 1781762459.0,
+      "summary": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying appl"
+    },
     {
       "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
       "url": "https://arxiv.org/abs/2606.17209",
@@ -1697,7 +1726,7 @@
       "summary": "arXiv:2606.18788v1 Announce Type: new Abstract: Teaching machines to emulate natural handwriting styles remains an open challenge, as it requires synthesizing stroke sequences that dynamically vary in shape, texture, pressure and script - not only across individuals, but also within a single person'"
     },
     {
-      "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
       "source": "The Verge AI",
       "category": "Tin tức",
@@ -1745,16 +1774,6 @@
       "published_iso": "2026-06-17T20:17:38+00:00",
       "published_ts": 1781727458.0,
       "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses "
-    },
-    {
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T19:25:19+00:00",
-      "published_ts": 1781724319.0,
-      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents."
     },
     {
       "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
@@ -1805,16 +1824,6 @@
       "published_iso": "2026-06-17T18:00:00+00:00",
       "published_ts": 1781719200.0,
       "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses "
-    },
-    {
-      "title": "\"Dangerous\" AI models are coming no matter what",
-      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T17:50:46+00:00",
-      "published_ts": 1781718646.0,
-      "summary": "AI models with advanced hacking capabilities will soon be the norm."
     },
     {
       "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
@@ -1875,26 +1884,6 @@
       "published_iso": "2026-06-17T16:13:34+00:00",
       "published_ts": 1781712814.0,
       "summary": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computing into the world\" and \"make it more human.\" He positioned them as a device to h"
-    },
-    {
-      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T15:57:14+00:00",
-      "published_ts": 1781711834.0,
-      "summary": "Google's new smart speaker is more about Gemini than audio quality."
-    },
-    {
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-17T15:26:44+00:00",
-      "published_ts": 1781710004.0,
-      "summary": ""
     },
     {
       "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
@@ -2017,16 +2006,6 @@
       "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface."
     },
     {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-17T10:18:05+00:00",
-      "published_ts": 1781691485.0,
-      "summary": ""
-    },
-    {
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
       "source": "OpenAI",
@@ -2045,16 +2024,6 @@
       "published_iso": "2026-06-17T09:46:56+00:00",
       "published_ts": 1781689616.0,
       "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]"
-    },
-    {
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-17T09:01:25+00:00",
-      "published_ts": 1781686885.0,
-      "summary": ""
     },
     {
       "title": "Entrepreneurs in Nairobi make the case for going solar",
@@ -2087,16 +2056,6 @@
       "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
     },
     {
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-17T00:00:00+00:00",
-      "published_ts": 1781654400.0,
-      "summary": ""
-    },
-    {
       "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
       "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
       "source": "TechCrunch AI",
@@ -2115,16 +2074,6 @@
       "published_iso": "2026-06-16T22:30:41+00:00",
       "published_ts": 1781649041.0,
       "summary": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;"
-    },
-    {
-      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T22:22:44+00:00",
-      "published_ts": 1781648564.0,
-      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center."
     },
     {
       "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
@@ -2147,16 +2096,6 @@
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
     },
     {
-      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T21:00:35+00:00",
-      "published_ts": 1781643635.0,
-      "summary": "Move originally planned for Monday would have heavily increased power users' costs."
-    },
-    {
       "title": "Exclusive eBook: How AI is becoming the next military advisor",
       "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
       "source": "MIT Tech Review",
@@ -2175,16 +2114,6 @@
       "published_iso": "2026-06-16T20:11:00+00:00",
       "published_ts": 1781640660.0,
       "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday."
-    },
-    {
-      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
-      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T18:11:05+00:00",
-      "published_ts": 1781633465.0,
-      "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools."
     },
     {
       "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
@@ -2217,16 +2146,6 @@
       "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a devi"
     },
     {
-      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T16:37:45+00:00",
-      "published_ts": 1781627865.0,
-      "summary": "Separately, neither could compete. Now they hope they can."
-    },
-    {
       "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
       "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
       "source": "NVIDIA",
@@ -2235,16 +2154,6 @@
       "published_iso": "2026-06-16T16:30:27+00:00",
       "published_ts": 1781627427.0,
       "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NV"
-    },
-    {
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T16:18:07+00:00",
-      "published_ts": 1781626687.0,
-      "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses."
     },
     {
       "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
@@ -2267,16 +2176,6 @@
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for"
     },
     {
-      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T11:15:46+00:00",
-      "published_ts": 1781608546.0,
-      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over."
-    },
-    {
       "title": "Want to get a data center online quickly? Give it some flex.",
       "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
       "source": "MIT Tech Review",
@@ -2295,16 +2194,6 @@
       "published_iso": "2026-06-16T00:00:00+00:00",
       "published_ts": 1781568000.0,
       "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
-    },
-    {
-      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T19:07:02+00:00",
-      "published_ts": 1781550422.0,
-      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing."
     },
     {
       "title": "Why do South Koreans love AI so much?",
@@ -2335,26 +2224,6 @@
       "published_iso": "2026-06-15T15:00:00+00:00",
       "published_ts": 1781535600.0,
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
-    },
-    {
-      "title": "The Download: cutting AC emissions, and nature’s drug designer",
-      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T12:10:00+00:00",
-      "published_ts": 1781525400.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, "
-    },
-    {
-      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
-      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T09:00:00+00:00",
-      "published_ts": 1781514000.0,
-      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 p"
     }
   ]
 }
