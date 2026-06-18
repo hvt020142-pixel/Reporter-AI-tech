@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-18T18:34:02.189180+00:00 (UTC) — cửa sổ 72h — 236 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-18T22:23:52.926048+00:00 (UTC) — cửa sổ 72h — 237 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability** — NVIDIA — `2026-06-18T20:00:27+00:00`
+  - https://blogs.nvidia.com/blog/ferc-large-load-interconnection/
+  - In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the 
 - 🟢 **At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI** — NVIDIA — `2026-06-18T13:00:43+00:00`
   - https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/
   - The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the sp
@@ -29,6 +32,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **New usage analytics and updated spend controls for enterprises** — OpenAI — `2026-06-18T17:00:00+00:00`
+  - https://openai.com/index/chatgpt-enterprise-spend-controls
+  - OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.
 - 🟢 **Improving health intelligence in ChatGPT** — OpenAI — `2026-06-18T11:00:00+00:00`
   - https://openai.com/index/improving-health-intelligence-in-chatgpt
   - Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.
@@ -592,12 +598,24 @@
 - 🔵 **Want to get a data center online quickly? Give it some flex.** — MIT Tech Review — `2026-06-16T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/
   - At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82
-- 🔵 **Why do South Koreans love AI so much?** — MIT Tech Review — `2026-06-15T18:46:08+00:00`
-  - https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa
 
 ## Tin tức
 
+- 🔵 **As China looms, Taiwan makes more drones for defense and the US military** — Ars Technica AI — `2026-06-18T21:21:26+00:00`
+  - https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/
+  - Taiwan's drone spending plans for defense could also boost business overseas.
+- 🔵 **AI inference startup Baseten reportedly raising $1.5B months after its last mega-round** — TechCrunch AI — `2026-06-18T21:20:13+00:00`
+  - https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/
+  - Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush" marches on.
+- 🔵 **Snap spins off AI video team into new company, Dotmo, due to costs** — TechCrunch AI — `2026-06-18T20:30:00+00:00`
+  - https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/
+  - The Snapchat maker is spinning off yet another internal unit. Dotmo will be comprised of current Snap staff who are leaving the social media company to focus on AI video development.
+- 🔵 **OpenAI is bringing on some big guns in the lead-up to its IPO** — TechCrunch AI — `2026-06-18T19:59:22+00:00`
+  - https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
+  - OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.
+- 🔵 **Almost half of U.S. singles feel negatively about AI in dating, Match says** — TechCrunch AI — `2026-06-18T18:51:46+00:00`
+  - https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/
+  - About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.
 - 🔵 **Amazon hopes to challenge Nvidia more directly by selling its AI chips** — TechCrunch AI — `2026-06-18T18:22:13+00:00`
   - https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/
   - AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.
@@ -676,12 +694,6 @@
 - 🔵 **Two-thirds of Americans think AI is advancing too quickly** — The Verge AI — `2026-06-17T17:20:24+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly
   - According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's
-- 🔵 **Only 16 percent of Americans think AI will have a positive impact on society, a new study shows** — TechCrunch AI — `2026-06-17T17:00:01+00:00`
-  - https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/
-  - Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.
-- 🔵 **Google bets on Gemini to reinvent the smart home speaker** — TechCrunch AI — `2026-06-17T16:30:09+00:00`
-  - https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/
-  - Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.
 - 🔵 **Vibe-decoding the White House-Anthropic fight over Fable** — The Verge AI — `2026-06-17T16:27:00+00:00`
   - https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house
   - Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier
@@ -691,12 +703,6 @@
 - 🔵 **Ten months later, the $100 Google Home Speaker is finally available for preorder** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
   - https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
   - Google's new smart speaker is more about Gemini than audio quality.
-- 🔵 **Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.** — TechCrunch AI — `2026-06-17T15:00:00+00:00`
-  - https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/
-  - If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.
-- 🔵 **Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI** — TechCrunch AI — `2026-06-17T14:15:22+00:00`
-  - https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/
-  - Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.
 - 🔵 **AI search grounded in Facebook posts? What could go wrong?** — The Verge AI — `2026-06-17T13:30:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on
   - AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of "What should I do this weekend?" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [&#8
@@ -718,9 +724,6 @@
 - 🔵 **Critical Copilot vulnerability allowed hackers to steal 2FA code from users** — Ars Technica AI — `2026-06-16T11:15:46+00:00`
   - https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
   - SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
-- 🔵 **Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021** — Ars Technica AI — `2026-06-15T19:07:02+00:00`
-  - https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/
-  - Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

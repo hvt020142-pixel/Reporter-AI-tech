@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-18T18:34:02.189180+00:00",
+  "generated_at": "2026-06-18T22:23:52.926048+00:00",
   "lookback_hours": 72,
-  "item_count": 236,
+  "item_count": 237,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 5,
-      "items_total": 1011
+      "items_kept": 6,
+      "items_total": 1012
     },
     {
       "source": "Google DeepMind",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 7,
+      "items_kept": 8,
       "items_total": 18
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 10,
+      "items_kept": 9,
       "items_total": 10
     },
     {
@@ -96,6 +96,66 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "As China looms, Taiwan makes more drones for defense and the US military",
+      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T21:21:26+00:00",
+      "published_ts": 1781817686.0,
+      "summary": "Taiwan's drone spending plans for defense could also boost business overseas."
+    },
+    {
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T21:20:13+00:00",
+      "published_ts": 1781817613.0,
+      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on."
+    },
+    {
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T20:30:00+00:00",
+      "published_ts": 1781814600.0,
+      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be comprised of current Snap staff who are leaving the social media company to focus on AI video development."
+    },
+    {
+      "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+      "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-06-18T20:00:27+00:00",
+      "published_ts": 1781812827.0,
+      "summary": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the "
+    },
+    {
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T19:59:22+00:00",
+      "published_ts": 1781812762.0,
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
+    },
+    {
+      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T18:51:46+00:00",
+      "published_ts": 1781808706.0,
+      "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters."
+    },
     {
       "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
       "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
@@ -145,6 +205,16 @@
       "published_iso": "2026-06-18T17:02:49+00:00",
       "published_ts": 1781802169.0,
       "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund."
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-18T17:00:00+00:00",
+      "published_ts": 1781802000.0,
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
     },
     {
       "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
@@ -2077,26 +2147,6 @@
       "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's"
     },
     {
-      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T17:00:01+00:00",
-      "published_ts": 1781715601.0,
-      "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows."
-    },
-    {
-      "title": "Google bets on Gemini to reinvent the smart home speaker",
-      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T16:30:09+00:00",
-      "published_ts": 1781713809.0,
-      "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions."
-    },
-    {
       "title": "Vibe-decoding the White House-Anthropic fight over Fable",
       "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
       "source": "The Verge AI",
@@ -2155,26 +2205,6 @@
       "published_iso": "2026-06-17T15:00:00+00:00",
       "published_ts": 1781708400.0,
       "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management."
-    },
-    {
-      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T15:00:00+00:00",
-      "published_ts": 1781708400.0,
-      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved."
-    },
-    {
-      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T14:15:22+00:00",
-      "published_ts": 1781705722.0,
-      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium."
     },
     {
       "title": "AI search grounded in Facebook posts? What could go wrong?",
@@ -2435,26 +2465,6 @@
       "published_iso": "2026-06-16T00:00:00+00:00",
       "published_ts": 1781568000.0,
       "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
-    },
-    {
-      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T19:07:02+00:00",
-      "published_ts": 1781550422.0,
-      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing."
-    },
-    {
-      "title": "Why do South Koreans love AI so much?",
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-15T18:46:08+00:00",
-      "published_ts": 1781549168.0,
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa"
     }
   ]
 }
