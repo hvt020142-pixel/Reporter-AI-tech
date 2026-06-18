@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-18T15:50:54.192715+00:00",
+  "generated_at": "2026-06-18T18:34:02.189180+00:00",
   "lookback_hours": 72,
-  "item_count": 233,
+  "item_count": 236,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 4,
-      "items_total": 1010
+      "items_kept": 5,
+      "items_total": 1011
     },
     {
       "source": "Google DeepMind",
@@ -30,8 +30,8 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 6,
-      "items_total": 802
+      "items_kept": 7,
+      "items_total": 803
     },
     {
       "source": "arXiv cs.AI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 10,
+      "items_kept": 11,
       "items_total": 20
     },
     {
@@ -97,6 +97,76 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T18:22:13+00:00",
+      "published_ts": 1781806933.0,
+      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company."
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-18T18:13:13+00:00",
+      "published_ts": 1781806393.0,
+      "summary": ""
+    },
+    {
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T17:49:23+00:00",
+      "published_ts": 1781804963.0,
+      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages."
+    },
+    {
+      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T17:16:30+00:00",
+      "published_ts": 1781802990.0,
+      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”"
+    },
+    {
+      "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T17:02:49+00:00",
+      "published_ts": 1781802169.0,
+      "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund."
+    },
+    {
+      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T16:55:04+00:00",
+      "published_ts": 1781801704.0,
+      "summary": "Karamo Brown, famous for his pep talks on Netflix&#8217;s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitness and nutrition to meditation, sobriety, relationships, and personal growth—Brown wants to he"
+    },
+    {
+      "title": "Amazon employees say they’re facing termination for backing data center limits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-18T16:00:00+00:00",
+      "published_ts": 1781798400.0,
+      "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating a"
+    },
+    {
       "title": "General Intuition in talks to raise $300M at around $2B valuation",
       "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
       "source": "TechCrunch AI",
@@ -104,7 +174,7 @@
       "tier": "reputable",
       "published_iso": "2026-06-18T15:20:37+00:00",
       "published_ts": 1781796037.0,
-      "summary": "General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning."
+      "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users."
     },
     {
       "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
@@ -195,6 +265,16 @@
       "published_iso": "2026-06-18T12:00:00+00:00",
       "published_ts": 1781784000.0,
       "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR)."
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-18T11:00:00+00:00",
+      "published_ts": 1781780400.0,
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
     },
     {
       "title": "Geoengineering still faces major practical challenges",
@@ -2057,16 +2137,6 @@
       "summary": ""
     },
     {
-      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
-      "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T15:24:41+00:00",
-      "published_ts": 1781709881.0,
-      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”"
-    },
-    {
       "title": "How Musicians Can Get Paid for Training AI",
       "url": "https://spectrum.ieee.org/ai-music-attribution",
       "source": "IEEE Spectrum AI",
@@ -2117,36 +2187,6 @@
       "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [&#8"
     },
     {
-      "title": "Google’s first smart speaker in six years arrives next week",
-      "url": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T13:00:00+00:00",
-      "published_ts": 1781701200.0,
-      "summary": "Google's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has changed hardware-wise in the nine months since the $99 speaker was announced. It has the same sligh"
-    },
-    {
-      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T12:38:09+00:00",
-      "published_ts": 1781699889.0,
-      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India."
-    },
-    {
-      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T12:14:44+00:00",
-      "published_ts": 1781698484.0,
-      "summary": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business."
-    },
-    {
       "title": "The Download: a reality check for geoengineering and the science of interoception",
       "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
       "source": "MIT Tech Review",
@@ -2165,16 +2205,6 @@
       "published_iso": "2026-06-17T12:00:01+00:00",
       "published_ts": 1781697601.0,
       "summary": "For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and "
-    },
-    {
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-      "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T11:00:00+00:00",
-      "published_ts": 1781694000.0,
-      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface."
     },
     {
       "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",

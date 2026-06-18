@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-18T15:50:54.192715+00:00 (UTC) — cửa sổ 72h — 233 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-18T18:34:02.189180+00:00 (UTC) — cửa sổ 72h — 236 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -29,6 +29,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Improving health intelligence in ChatGPT** — OpenAI — `2026-06-18T11:00:00+00:00`
+  - https://openai.com/index/improving-health-intelligence-in-chatgpt
+  - Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.
 - 🟢 **Using AI to help physicians diagnose rare genetic diseases affecting children** — OpenAI — `2026-06-18T08:00:00+00:00`
   - https://openai.com/index/diagnose-rare-childhood-diseases
   - Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.
@@ -53,6 +56,8 @@
 
 ## Mô hình mở
 
+- 🟢 **MosaicLeaks: Can your research agent keep a secret?** — Hugging Face — `2026-06-18T18:13:13+00:00`
+  - https://huggingface.co/blog/ServiceNow/mosaicleaks
 - 🟢 **Beyond LoRA: Can you beat the most popular fine-tuning technique?** — Hugging Face — `2026-06-18T00:00:00+00:00`
   - https://huggingface.co/blog/peft-beyond-lora
 - 🟢 **Is it agentic enough? Benchmarking open models on your own tooling** — Hugging Face — `2026-06-18T00:00:00+00:00`
@@ -593,9 +598,27 @@
 
 ## Tin tức
 
+- 🔵 **Amazon hopes to challenge Nvidia more directly by selling its AI chips** — TechCrunch AI — `2026-06-18T18:22:13+00:00`
+  - https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/
+  - AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.
+- 🔵 **AI data centers just got a government-mandated fast lane to the grid** — TechCrunch AI — `2026-06-18T17:49:23+00:00`
+  - https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/
+  - FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.
+- 🔵 **The smartphone era created an attention crisis. Slowtech is fixing it** — TechCrunch AI — `2026-06-18T17:16:30+00:00`
+  - https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/
+  - “People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”
+- 🔵 **Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry** — Ars Technica AI — `2026-06-18T17:02:49+00:00`
+  - https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/
+  - Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.
+- 🔵 **‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone** — TechCrunch AI — `2026-06-18T16:55:04+00:00`
+  - https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/
+  - Karamo Brown, famous for his pep talks on Netflix&#8217;s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitness and nutrition to meditation, sobriety, relationships, and personal growth—Brown wants to he
+- 🔵 **Amazon employees say they’re facing termination for backing data center limits** — The Verge AI — `2026-06-18T16:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action
+  - When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating a
 - 🔵 **General Intuition in talks to raise $300M at around $2B valuation** — TechCrunch AI — `2026-06-18T15:20:37+00:00`
   - https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/
-  - General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning.
+  - The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.
 - 🔵 **A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight** — TechCrunch AI — `2026-06-18T15:13:21+00:00`
   - https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/
   - Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.
@@ -668,9 +691,6 @@
 - 🔵 **Ten months later, the $100 Google Home Speaker is finally available for preorder** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
   - https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
   - Google's new smart speaker is more about Gemini than audio quality.
-- 🔵 **The slowtech revolution is here to kill your phone addiction and rescue your attention span** — TechCrunch AI — `2026-06-17T15:24:41+00:00`
-  - https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/
-  - “People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”
 - 🔵 **Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.** — TechCrunch AI — `2026-06-17T15:00:00+00:00`
   - https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/
   - If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.
@@ -680,18 +700,6 @@
 - 🔵 **AI search grounded in Facebook posts? What could go wrong?** — The Verge AI — `2026-06-17T13:30:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on
   - AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of "What should I do this weekend?" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [&#8
-- 🔵 **Google’s first smart speaker in six years arrives next week** — The Verge AI — `2026-06-17T13:00:00+00:00`
-  - https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features
-  - Google's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has changed hardware-wise in the nine months since the $99 speaker was announced. It has the same sligh
-- 🔵 **Canadian pension giant joins race to fund India’s AI-fueled data center boom** — TechCrunch AI — `2026-06-17T12:38:09+00:00`
-  - https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/
-  - The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.
-- 🔵 **DeepL acquires Mixhalo for live-event audio streaming and translation** — TechCrunch AI — `2026-06-17T12:14:44+00:00`
-  - https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/
-  - With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.
-- 🔵 **Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’** — TechCrunch AI — `2026-06-17T11:00:00+00:00`
-  - https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/
-  - Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.
 - 🔵 **Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines** — Ars Technica AI — `2026-06-16T22:22:44+00:00`
   - https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/
   - NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.
