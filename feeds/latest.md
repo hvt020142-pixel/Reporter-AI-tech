@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-19T15:38:40.647676+00:00 (UTC) — cửa sổ 72h — 235 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-19T18:05:59.189198+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,9 +23,6 @@
 - 🟢 **Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone** — NVIDIA — `2026-06-16T22:10:56+00:00`
   - https://blogs.nvidia.com/blog/coherent-texas-ai-optical/
   - AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the worl
-- 🟢 **HPE AI Factory With NVIDIA Expands for the Era of Agents** — NVIDIA — `2026-06-16T16:30:27+00:00`
-  - https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/
-  - Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NV
 
 ## Mô hình & LLM
 
@@ -50,9 +47,6 @@
 - 🟢 **Unlocking UK house-building with AI-accelerated planning** — Google DeepMind — `2026-06-16T21:29:50+00:00`
   - https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
   - UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.
-- 🟢 **Securing the future of AI agents** — Google DeepMind — `2026-06-16T15:46:31+00:00`
-  - https://deepmind.google/blog/securing-the-future-of-ai-agents/
-  - Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.
 
 ## Mô hình mở
 
@@ -556,6 +550,9 @@
 
 ## Phân tích
 
+- 🔵 **IEEE Rolls Out Large Language Models Virtual Training Course** — IEEE Spectrum AI — `2026-06-19T18:00:01+00:00`
+  - https://spectrum.ieee.org/large-language-models-ieee-course
+  - Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications.
 - 🔵 **The Download: AI bottleneck debates, and BCI trials take off** — MIT Tech Review — `2026-06-19T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h
@@ -598,6 +595,12 @@
 
 ## Tin tức
 
+- 🔵 **Is the US government’s Anthropic ban accidentally helping the brand?** — TechCrunch AI — `2026-06-19T16:08:17+00:00`
+  - https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/
+  - Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since 
+- 🔵 **The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care** — TechCrunch AI — `2026-06-19T16:01:03+00:00`
+  - https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/
+  - Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since 
 - 🔵 **Billionaire Ambani wants AI in every call, app, and home** — TechCrunch AI — `2026-06-19T15:23:28+00:00`
   - https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/
   - Reliance is weaving AI into telecom services used by more than 500 million people.
@@ -679,15 +682,9 @@
 - 🔵 **After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive** — TechCrunch AI — `2026-06-17T20:24:28+00:00`
   - https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/
   - Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.
-- 🔵 **NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI** — TechCrunch AI — `2026-06-17T20:17:38+00:00`
-  - https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/
-  - Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses 
 - 🔵 **AI coding agents taught robots how to install GPUs and cut zip ties** — Ars Technica AI — `2026-06-17T19:25:19+00:00`
   - https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
   - Nvidia's self-improvement program for robots enlists teams of AI coding agents.
-- 🔵 **World leaders want American AI. They just don’t want America to be able to turn it off.** — TechCrunch AI — `2026-06-17T19:01:19+00:00`
-  - https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/
-  - French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.
 - 🔵 **Anthropic got hit by export rules nobody understands** — The Verge AI — `2026-06-17T18:28:50+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls
   - Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 f
@@ -712,12 +709,6 @@
 - 🔵 **Pentagon boasts of using AI to write reports mandated by Congress** — Ars Technica AI — `2026-06-16T18:11:05+00:00`
   - https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/
   - Pentagon also claims 1.5 million personnel are using generative AI tools.
-- 🔵 **SpaceX to acquire AI coding platform Cursor for $60 billion** — Ars Technica AI — `2026-06-16T16:37:45+00:00`
-  - https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/
-  - Separately, neither could compete. Now they hope they can.
-- 🔵 **Leaked financial docs show OpenAI is losing billions of dollars a year** — Ars Technica AI — `2026-06-16T16:18:07+00:00`
-  - https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/
-  - Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

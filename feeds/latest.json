@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T15:38:40.647676+00:00",
+  "generated_at": "2026-06-19T18:05:59.189198+00:00",
   "lookback_hours": 72,
-  "item_count": 235,
+  "item_count": 232,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -12,7 +12,7 @@
     {
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/rss.xml",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 100
     },
     {
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 7,
+      "items_kept": 6,
       "items_total": 18
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 10,
+      "items_kept": 8,
       "items_total": 20
     },
     {
@@ -90,12 +90,42 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 3,
+      "items_kept": 4,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-19T18:00:01+00:00",
+      "published_ts": 1781892001.0,
+      "summary": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications."
+    },
+    {
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-19T16:08:17+00:00",
+      "published_ts": 1781885297.0,
+      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since "
+    },
+    {
+      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-19T16:01:03+00:00",
+      "published_ts": 1781884863.0,
+      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since "
+    },
     {
       "title": "Billionaire Ambani wants AI in every call, app, and home",
       "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
@@ -2147,16 +2177,6 @@
       "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock."
     },
     {
-      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T20:17:38+00:00",
-      "published_ts": 1781727458.0,
-      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses "
-    },
-    {
       "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
       "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
       "source": "Ars Technica AI",
@@ -2165,16 +2185,6 @@
       "published_iso": "2026-06-17T19:25:19+00:00",
       "published_ts": 1781724319.0,
       "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents."
-    },
-    {
-      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T19:01:19+00:00",
-      "published_ts": 1781722879.0,
-      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real."
     },
     {
       "title": "Anthropic got hit by export rules nobody understands",
@@ -2405,46 +2415,6 @@
       "published_iso": "2026-06-16T18:11:05+00:00",
       "published_ts": 1781633465.0,
       "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools."
-    },
-    {
-      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T16:37:45+00:00",
-      "published_ts": 1781627865.0,
-      "summary": "Separately, neither could compete. Now they hope they can."
-    },
-    {
-      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-      "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-16T16:30:27+00:00",
-      "published_ts": 1781627427.0,
-      "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NV"
-    },
-    {
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-16T16:18:07+00:00",
-      "published_ts": 1781626687.0,
-      "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses."
-    },
-    {
-      "title": "Securing the future of AI agents",
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "source": "Google DeepMind",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-16T15:46:31+00:00",
-      "published_ts": 1781624791.0,
-      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
     }
   ]
 }
