@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-19T18:05:59.189198+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-19T20:01:31.212965+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -610,15 +610,15 @@
 - 🔵 **The CEO of Allbirds’ new AI biz has a plan, but no employees** — TechCrunch AI — `2026-06-19T13:00:00+00:00`
   - https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/
   - Call it a startup with a sole founder and a very large seed round, but what's next is less clear.
-- 🔵 **The US says ASML’s top chip tool may be in China. ASML says it isn’t** — TechCrunch AI — `2026-06-19T07:59:12+00:00`
+- 🔵 **The US says ASML’s top chip tool may be in China. ASML says it isn’t.** — TechCrunch AI — `2026-06-19T07:59:12+00:00`
   - https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
   - There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
 - 🔵 **Barret Zoph is out at OpenAI again after just five months** — The Verge AI — `2026-06-19T04:49:33+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab
   - Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati
-- 🔵 **Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M** — TechCrunch AI — `2026-06-19T00:51:11+00:00`
+- 🔵 **Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M** — TechCrunch AI — `2026-06-19T00:51:11+00:00`
   - https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/
-  - DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.
+  - Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.
 - 🔵 **As China looms, Taiwan makes more drones for defense and the US military** — Ars Technica AI — `2026-06-18T21:21:26+00:00`
   - https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/
   - Taiwan's drone spending plans for defense could also boost business overseas.
@@ -706,9 +706,6 @@
 - 🔵 **Anthropic "pauses" token-based billing for its Claude Agent SDK** — Ars Technica AI — `2026-06-16T21:00:35+00:00`
   - https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/
   - Move originally planned for Monday would have heavily increased power users' costs.
-- 🔵 **Pentagon boasts of using AI to write reports mandated by Congress** — Ars Technica AI — `2026-06-16T18:11:05+00:00`
-  - https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/
-  - Pentagon also claims 1.5 million personnel are using generative AI tools.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
