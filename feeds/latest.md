@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-19T10:55:28.723937+00:00 (UTC) — cửa sổ 72h — 237 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-19T15:38:40.647676+00:00 (UTC) — cửa sổ 72h — 235 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -26,9 +26,6 @@
 - 🟢 **HPE AI Factory With NVIDIA Expands for the Era of Agents** — NVIDIA — `2026-06-16T16:30:27+00:00`
   - https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/
   - Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NV
-- 🟢 **Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0** — NVIDIA — `2026-06-16T15:00:36+00:00`
-  - https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/
-  - Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the de
 
 ## Mô hình & LLM
 
@@ -559,6 +556,12 @@
 
 ## Phân tích
 
+- 🔵 **The Download: AI bottleneck debates, and BCI trials take off** — MIT Tech Review — `2026-06-19T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h
+- 🔵 **A startup claims it broke through a bottleneck that’s holding back LLMs** — MIT Tech Review — `2026-06-19T10:40:24+00:00`
+  - https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/
+  - Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta
 - 🔵 **The inevitable weakness of metrics** — MIT Tech Review — `2026-06-19T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/
   - There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo
@@ -592,15 +595,18 @@
 - 🔵 **Hacking the atmosphere: Geoengineering gets a reality check** — MIT Tech Review — `2026-06-17T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/
   - Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you c
-- 🔵 **Exclusive eBook: How AI is becoming the next military advisor** — MIT Tech Review — `2026-06-16T20:35:02+00:00`
-  - https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/
-  - A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. Stories
-- 🔵 **The Download: the first brain implant power user and South Korea’s AI obsession** — MIT Tech Review — `2026-06-16T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for
 
 ## Tin tức
 
+- 🔵 **Billionaire Ambani wants AI in every call, app, and home** — TechCrunch AI — `2026-06-19T15:23:28+00:00`
+  - https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/
+  - Reliance is weaving AI into telecom services used by more than 500 million people.
+- 🔵 **The film about Sam Altman has been dropped by Amazon MGM** — The Verge AI — `2026-06-19T14:15:29+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
+  - Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast als
+- 🔵 **The CEO of Allbirds’ new AI biz has a plan, but no employees** — TechCrunch AI — `2026-06-19T13:00:00+00:00`
+  - https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/
+  - Call it a startup with a sole founder and a very large seed round, but what's next is less clear.
 - 🔵 **The US says ASML’s top chip tool may be in China. ASML says it isn’t** — TechCrunch AI — `2026-06-19T07:59:12+00:00`
   - https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
   - There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
@@ -682,15 +688,9 @@
 - 🔵 **World leaders want American AI. They just don’t want America to be able to turn it off.** — TechCrunch AI — `2026-06-17T19:01:19+00:00`
   - https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/
   - French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.
-- 🔵 **Anthropic becomes first AI startup to join the Frontier carbon removal coalition** — TechCrunch AI — `2026-06-17T18:30:56+00:00`
-  - https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/
-  - Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.
 - 🔵 **Anthropic got hit by export rules nobody understands** — The Verge AI — `2026-06-17T18:28:50+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls
   - Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 f
-- 🔵 **Social media’s next evolution: user-controlled algorithms** — TechCrunch AI — `2026-06-17T18:19:48+00:00`
-  - https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/
-  - Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.
 - 🔵 **"Dangerous" AI models are coming no matter what** — Ars Technica AI — `2026-06-17T17:50:46+00:00`
   - https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/
   - AI models with advanced hacking capabilities will soon be the norm.
@@ -700,9 +700,6 @@
 - 🔵 **Vibe-decoding the White House-Anthropic fight over Fable** — The Verge AI — `2026-06-17T16:27:00+00:00`
   - https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house
   - Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier
-- 🔵 **Can anyone look cool wearing Snap’s $2,000 glasses?** — The Verge AI — `2026-06-17T16:13:34+00:00`
-  - https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion
-  - Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to "bring computing into the world" and "make it more human." He positioned them as a device to h
 - 🔵 **Ten months later, the $100 Google Home Speaker is finally available for preorder** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
   - https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
   - Google's new smart speaker is more about Gemini than audio quality.
@@ -721,9 +718,6 @@
 - 🔵 **Leaked financial docs show OpenAI is losing billions of dollars a year** — Ars Technica AI — `2026-06-16T16:18:07+00:00`
   - https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/
   - Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.
-- 🔵 **Critical Copilot vulnerability allowed hackers to steal 2FA code from users** — Ars Technica AI — `2026-06-16T11:15:46+00:00`
-  - https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
-  - SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
