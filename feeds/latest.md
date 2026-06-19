@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-19T05:21:07.543676+00:00 (UTC) — cửa sổ 72h — 236 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-19T10:55:28.723937+00:00 (UTC) — cửa sổ 72h — 237 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -559,6 +559,12 @@
 
 ## Phân tích
 
+- 🔵 **The inevitable weakness of metrics** — MIT Tech Review — `2026-06-19T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/
+  - There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo
+- 🔵 **Brain-computer interface trials are taking off** — MIT Tech Review — `2026-06-19T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/
+  - This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf
 - 🔵 **Sound Waves Give Neuromorphic Chips a Brain-Simulating Edge** — IEEE Spectrum AI — `2026-06-18T13:00:01+00:00`
   - https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips
   - By mimicking how the brain operates, neuromorphic computing can use dramatically less energy than conventional electronic AI chips. However, even the most sophisticated neuromorphic devices today are still quite simple, using only a small fraction of the number of connections found in human neurons.
@@ -592,12 +598,12 @@
 - 🔵 **The Download: the first brain implant power user and South Korea’s AI obsession** — MIT Tech Review — `2026-06-16T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for
-- 🔵 **Want to get a data center online quickly? Give it some flex.** — MIT Tech Review — `2026-06-16T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/
-  - At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82
 
 ## Tin tức
 
+- 🔵 **The US says ASML’s top chip tool may be in China. ASML says it isn’t** — TechCrunch AI — `2026-06-19T07:59:12+00:00`
+  - https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
+  - There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
 - 🔵 **Barret Zoph is out at OpenAI again after just five months** — The Verge AI — `2026-06-19T04:49:33+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab
   - Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati
@@ -685,9 +691,6 @@
 - 🔵 **Social media’s next evolution: user-controlled algorithms** — TechCrunch AI — `2026-06-17T18:19:48+00:00`
   - https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/
   - Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.
-- 🔵 **NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning** — TechCrunch AI — `2026-06-17T18:00:00+00:00`
-  - https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/
-  - Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses 
 - 🔵 **"Dangerous" AI models are coming no matter what** — Ars Technica AI — `2026-06-17T17:50:46+00:00`
   - https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/
   - AI models with advanced hacking capabilities will soon be the norm.
