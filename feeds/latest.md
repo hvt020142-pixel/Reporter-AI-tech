@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-19T21:19:05.247734+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-19T23:12:15.090673+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -17,12 +17,6 @@
 - 🟢 **France Advances Europe’s AI Future With NVIDIA Technologies** — NVIDIA — `2026-06-18T06:00:59+00:00`
   - https://blogs.nvidia.com/blog/france-advances-europes-ai-future/
   - A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying appl
-- 🟢 **Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses** — NVIDIA — `2026-06-16T22:30:41+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-xr-ai/
-  - NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;
-- 🟢 **Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone** — NVIDIA — `2026-06-16T22:10:56+00:00`
-  - https://blogs.nvidia.com/blog/coherent-texas-ai-optical/
-  - AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the worl
 
 ## Mô hình & LLM
 
@@ -44,9 +38,6 @@
 - 🟢 **Introducing LifeSciBench** — OpenAI — `2026-06-17T00:00:00+00:00`
   - https://openai.com/index/introducing-life-sci-bench
   - Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.
-- 🟢 **Unlocking UK house-building with AI-accelerated planning** — Google DeepMind — `2026-06-16T21:29:50+00:00`
-  - https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
-  - UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.
 
 ## Mô hình mở
 
@@ -595,6 +586,9 @@
 
 ## Tin tức
 
+- 🔵 **Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work** — TechCrunch AI — `2026-06-19T22:40:14+00:00`
+  - https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/
+  - For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.
 - 🔵 **Is the US government’s Anthropic ban accidentally helping the brand?** — TechCrunch AI — `2026-06-19T16:08:17+00:00`
   - https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/
   - Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since 
@@ -604,7 +598,10 @@
 - 🔵 **Billionaire Ambani wants AI in every call, app, and home** — TechCrunch AI — `2026-06-19T15:23:28+00:00`
   - https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/
   - Reliance is weaving AI into telecom services used by more than 500 million people.
-- 🔵 **The CEO of Allbirds’ new AI biz has a plan, but no employees** — TechCrunch AI — `2026-06-19T13:00:00+00:00`
+- 🔵 **The film about Sam Altman has been dropped by Amazon MGM** — The Verge AI — `2026-06-19T14:15:29+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
+  - Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast als
+- 🔵 **The CEO of Allbirds’ new AI biz has a plan, but no team** — TechCrunch AI — `2026-06-19T13:00:00+00:00`
   - https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/
   - Call it a startup with a sole founder and a very large seed round, but what's next is less clear.
 - 🔵 **The US says ASML’s top chip tool may be in China. ASML says it isn’t.** — TechCrunch AI — `2026-06-19T07:59:12+00:00`
@@ -676,9 +673,6 @@
 - 🔵 **Roelof Botha joins SpaceX’s board of directors** — TechCrunch AI — `2026-06-17T20:32:52+00:00`
   - https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/
   - The former Sequoia Capital leader is filling an "existing vacancy" on SpaceX's board, days after the company went public in the largest IPO ever.
-- 🔵 **After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive** — TechCrunch AI — `2026-06-17T20:24:28+00:00`
-  - https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/
-  - Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.
 - 🔵 **AI coding agents taught robots how to install GPUs and cut zip ties** — Ars Technica AI — `2026-06-17T19:25:19+00:00`
   - https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
   - Nvidia's self-improvement program for robots enlists teams of AI coding agents.
@@ -694,15 +688,9 @@
 - 🔵 **Vibe-decoding the White House-Anthropic fight over Fable** — The Verge AI — `2026-06-17T16:27:00+00:00`
   - https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house
   - Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier
-- 🔵 **Can anyone look cool wearing Snap’s $2,000 glasses?** — The Verge AI — `2026-06-17T16:13:34+00:00`
-  - https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion
-  - Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to "bring computing into the world" and "make it more human." He positioned them as a device to h
 - 🔵 **Ten months later, the $100 Google Home Speaker is finally available for preorder** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
   - https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
   - Google's new smart speaker is more about Gemini than audio quality.
-- 🔵 **Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines** — Ars Technica AI — `2026-06-16T22:22:44+00:00`
-  - https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/
-  - NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
