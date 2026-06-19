@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-19T20:01:31.212965+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-19T21:19:05.247734+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -604,9 +604,6 @@
 - 🔵 **Billionaire Ambani wants AI in every call, app, and home** — TechCrunch AI — `2026-06-19T15:23:28+00:00`
   - https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/
   - Reliance is weaving AI into telecom services used by more than 500 million people.
-- 🔵 **The film about Sam Altman has been dropped by Amazon MGM** — The Verge AI — `2026-06-19T14:15:29+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
-  - Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast als
 - 🔵 **The CEO of Allbirds’ new AI biz has a plan, but no employees** — TechCrunch AI — `2026-06-19T13:00:00+00:00`
   - https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/
   - Call it a startup with a sole founder and a very large seed round, but what's next is less clear.
@@ -697,15 +694,15 @@
 - 🔵 **Vibe-decoding the White House-Anthropic fight over Fable** — The Verge AI — `2026-06-17T16:27:00+00:00`
   - https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house
   - Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier
+- 🔵 **Can anyone look cool wearing Snap’s $2,000 glasses?** — The Verge AI — `2026-06-17T16:13:34+00:00`
+  - https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion
+  - Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to "bring computing into the world" and "make it more human." He positioned them as a device to h
 - 🔵 **Ten months later, the $100 Google Home Speaker is finally available for preorder** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
   - https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
   - Google's new smart speaker is more about Gemini than audio quality.
 - 🔵 **Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines** — Ars Technica AI — `2026-06-16T22:22:44+00:00`
   - https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/
   - NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.
-- 🔵 **Anthropic "pauses" token-based billing for its Claude Agent SDK** — Ars Technica AI — `2026-06-16T21:00:35+00:00`
-  - https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/
-  - Move originally planned for Monday would have heavily increased power users' costs.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
