@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-20T09:35:34.861293+00:00 (UTC) — cửa sổ 72h — 141 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-20T12:07:12.489705+00:00 (UTC) — cửa sổ 72h — 138 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -32,9 +32,6 @@
 - 🟢 **New research shows how AMIE, our medical AI, could help manage health conditions.** — Google (Keyword AI) — `2026-06-17T15:00:00+00:00`
   - https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/
   - Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.
-- 🟢 **A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry** — OpenAI — `2026-06-17T10:00:00+00:00`
-  - https://openai.com/index/ai-chemist-improves-reaction
-  - OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
 
 ## Mô hình mở
 
@@ -46,8 +43,6 @@
   - https://huggingface.co/blog/is-it-agentic-enough
 - 🟢 **MolmoMotion: Language-guided 3D motion forecasting** — Hugging Face — `2026-06-17T15:26:44+00:00`
   - https://huggingface.co/blog/allenai/molmomotion
-- 🟢 **From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot** — Hugging Face — `2026-06-17T10:18:05+00:00`
-  - https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware
 
 ## Nghiên cứu
 
@@ -327,9 +322,6 @@
 - 🔵 **The Download: a reality check for geoengineering and the science of interoception** — MIT Tech Review — `2026-06-17T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the c
-- 🔵 **General Motors Is Cutting Its Development Cycles in Half** — IEEE Spectrum AI — `2026-06-17T12:00:01+00:00`
-  - https://spectrum.ieee.org/gm-ai-design
-  - For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and 
 
 ## Tin tức
 

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-20T09:35:34.861293+00:00",
+  "generated_at": "2026-06-20T12:07:12.489705+00:00",
   "lookback_hours": 72,
-  "item_count": 141,
+  "item_count": 138,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 1012
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 5,
+      "items_kept": 4,
       "items_total": 803
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 30
     }
   ],
@@ -1475,36 +1475,6 @@
       "published_iso": "2026-06-17T12:10:00+00:00",
       "published_ts": 1781698200.0,
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the c"
-    },
-    {
-      "title": "General Motors Is Cutting Its Development Cycles in Half",
-      "url": "https://spectrum.ieee.org/gm-ai-design",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T12:00:01+00:00",
-      "published_ts": 1781697601.0,
-      "summary": "For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and "
-    },
-    {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-17T10:18:05+00:00",
-      "published_ts": 1781691485.0,
-      "summary": ""
-    },
-    {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-17T10:00:00+00:00",
-      "published_ts": 1781690400.0,
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
     }
   ]
 }
