@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-20T17:44:31.375118+00:00 (UTC) — cửa sổ 72h — 131 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-20T19:52:41.056522+00:00 (UTC) — cửa sổ 72h — 129 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -314,6 +314,12 @@
 
 ## Tin tức
 
+- 🔵 **In the Weights is your new AI-centric vanity search** — TechCrunch AI — `2026-06-20T19:41:11+00:00`
+  - https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/
+  - So ... what's your In the Weights score?
+- 🔵 **The Atlantic created a searchable database of the music used to train AI** — The Verge AI — `2026-06-20T18:46:48+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
+  - Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o
 - 🔵 **Nobel laureate John Jumper is leaving DeepMind for rival Anthropic** — TechCrunch AI — `2026-06-20T16:39:57+00:00`
   - https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
   - Jumper isn't the only big name leaving Google DeepMind.
@@ -395,21 +401,9 @@
 - 🔵 **Adobe’s redesigned AI studio remembers what your creations look like** — The Verge AI — `2026-06-18T13:00:00+00:00`
   - https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update
   - Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a "reimagined" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you "persistent context, reusable assets, an
-- 🔵 **Pixi’s new iOS app turns text messages into interactive AR experiences** — TechCrunch AI — `2026-06-18T12:00:00+00:00`
-  - https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/
-  - Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).
 - 🔵 **Midjourney goes from generating cat images to full-body ultrasound scans** — The Verge AI — `2026-06-18T03:12:31+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
   - Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the "cat pictures" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses 
-- 🔵 **AI coding agents taught robots how to install GPUs and cut zip ties** — Ars Technica AI — `2026-06-17T19:25:19+00:00`
-  - https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
-  - Nvidia's self-improvement program for robots enlists teams of AI coding agents.
-- 🔵 **Anthropic got hit by export rules nobody understands** — The Verge AI — `2026-06-17T18:28:50+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls
-  - Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 f
-- 🔵 **"Dangerous" AI models are coming no matter what** — Ars Technica AI — `2026-06-17T17:50:46+00:00`
-  - https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/
-  - AI models with advanced hacking capabilities will soon be the norm.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
