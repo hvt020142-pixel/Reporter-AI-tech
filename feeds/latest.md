@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-20T04:38:18.517900+00:00 (UTC) — cửa sổ 72h — 144 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-20T09:35:34.861293+00:00 (UTC) — cửa sổ 72h — 141 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -48,8 +48,6 @@
   - https://huggingface.co/blog/allenai/molmomotion
 - 🟢 **From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot** — Hugging Face — `2026-06-17T10:18:05+00:00`
   - https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware
-- 🟢 **GLM-5.2: Built for Long-Horizon Tasks** — Hugging Face — `2026-06-17T09:01:25+00:00`
-  - https://huggingface.co/blog/zai-org/glm-52-blog
 
 ## Nghiên cứu
 
@@ -332,12 +330,6 @@
 - 🔵 **General Motors Is Cutting Its Development Cycles in Half** — IEEE Spectrum AI — `2026-06-17T12:00:01+00:00`
   - https://spectrum.ieee.org/gm-ai-design
   - For decades, automakers enjoyed a luxury that had nothing to do with the softest leather or the smoothest engines. Their luxury was time, with some popular cars and trucks enduring for a decade or longer before they received a full redesign. The clock is ticking faster now, thanks to China. BYD and 
-- 🔵 **Entrepreneurs in Nairobi make the case for going solar** — MIT Tech Review — `2026-06-17T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/
-  - Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have 
-- 🔵 **Hacking the atmosphere: Geoengineering gets a reality check** — MIT Tech Review — `2026-06-17T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/
-  - Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you c
 
 ## Tin tức
 
