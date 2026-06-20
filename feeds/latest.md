@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-20T14:27:30.737362+00:00 (UTC) — cửa sổ 72h — 137 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-20T17:44:31.375118+00:00 (UTC) — cửa sổ 72h — 131 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -29,9 +29,6 @@
 - 🟢 **Using AI to help physicians diagnose rare genetic diseases affecting children** — OpenAI — `2026-06-18T08:00:00+00:00`
   - https://openai.com/index/diagnose-rare-childhood-diseases
   - Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.
-- 🟢 **New research shows how AMIE, our medical AI, could help manage health conditions.** — Google (Keyword AI) — `2026-06-17T15:00:00+00:00`
-  - https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/
-  - Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.
 
 ## Mô hình mở
 
@@ -41,8 +38,6 @@
   - https://huggingface.co/blog/peft-beyond-lora
 - 🟢 **Is it agentic enough? Benchmarking open models on your own tooling** — Hugging Face — `2026-06-18T00:00:00+00:00`
   - https://huggingface.co/blog/is-it-agentic-enough
-- 🟢 **MolmoMotion: Language-guided 3D motion forecasting** — Hugging Face — `2026-06-17T15:26:44+00:00`
-  - https://huggingface.co/blog/allenai/molmomotion
 
 ## Nghiên cứu
 
@@ -316,12 +311,12 @@
 - 🔵 **The search for dark matter has been blown wide open** — MIT Tech Review — `2026-06-18T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/
   - Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought
-- 🔵 **How Musicians Can Get Paid for Training AI** — IEEE Spectrum AI — `2026-06-17T15:04:23+00:00`
-  - https://spectrum.ieee.org/ai-music-attribution
-  - Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use” means. Underlying this is a simple economic principle: The more something is u
 
 ## Tin tức
 
+- 🔵 **Nobel laureate John Jumper is leaving DeepMind for rival Anthropic** — TechCrunch AI — `2026-06-20T16:39:57+00:00`
+  - https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
+  - Jumper isn't the only big name leaving Google DeepMind.
 - 🔵 **From PGP to Mythos: a brief history of export controls that didn’t stop anyone** — TechCrunch AI — `2026-06-19T22:40:14+00:00`
   - https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/
   - For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.
@@ -406,9 +401,6 @@
 - 🔵 **Midjourney goes from generating cat images to full-body ultrasound scans** — The Verge AI — `2026-06-18T03:12:31+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
   - Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the "cat pictures" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses 
-- 🔵 **Roelof Botha joins SpaceX’s board of directors** — TechCrunch AI — `2026-06-17T20:32:52+00:00`
-  - https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/
-  - The former Sequoia Capital leader is filling an "existing vacancy" on SpaceX's board, days after the company went public in the largest IPO ever.
 - 🔵 **AI coding agents taught robots how to install GPUs and cut zip ties** — Ars Technica AI — `2026-06-17T19:25:19+00:00`
   - https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
   - Nvidia's self-improvement program for robots enlists teams of AI coding agents.
@@ -418,15 +410,6 @@
 - 🔵 **"Dangerous" AI models are coming no matter what** — Ars Technica AI — `2026-06-17T17:50:46+00:00`
   - https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/
   - AI models with advanced hacking capabilities will soon be the norm.
-- 🔵 **Two-thirds of Americans think AI is advancing too quickly** — The Verge AI — `2026-06-17T17:20:24+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly
-  - According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's
-- 🔵 **Vibe-decoding the White House-Anthropic fight over Fable** — The Verge AI — `2026-06-17T16:27:00+00:00`
-  - https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house
-  - Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier
-- 🔵 **Ten months later, the $100 Google Home Speaker is finally available for preorder** — Ars Technica AI — `2026-06-17T15:57:14+00:00`
-  - https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/
-  - Google's new smart speaker is more about Gemini than audio quality.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

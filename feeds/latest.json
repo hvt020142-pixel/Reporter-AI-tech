@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-20T14:27:30.737362+00:00",
+  "generated_at": "2026-06-20T17:44:31.375118+00:00",
   "lookback_hours": 72,
-  "item_count": 137,
+  "item_count": 131,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -18,7 +18,7 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 20
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 803
     },
     {
@@ -72,13 +72,13 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 10,
+      "items_kept": 8,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 5,
+      "items_kept": 4,
       "items_total": 20
     },
     {
@@ -90,12 +90,22 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-20T16:39:57+00:00",
+      "published_ts": 1781973597.0,
+      "summary": "Jumper isn't the only big name leaving Google DeepMind."
+    },
     {
       "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
       "url": "https://arxiv.org/abs/2606.19464",
@@ -1367,16 +1377,6 @@
       "summary": ""
     },
     {
-      "title": "Roelof Botha joins SpaceX’s board of directors",
-      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T20:32:52+00:00",
-      "published_ts": 1781728372.0,
-      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever."
-    },
-    {
       "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
       "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
       "source": "Ars Technica AI",
@@ -1405,66 +1405,6 @@
       "published_iso": "2026-06-17T17:50:46+00:00",
       "published_ts": 1781718646.0,
       "summary": "AI models with advanced hacking capabilities will soon be the norm."
-    },
-    {
-      "title": "Two-thirds of Americans think AI is advancing too quickly",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T17:20:24+00:00",
-      "published_ts": 1781716824.0,
-      "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's"
-    },
-    {
-      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-      "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T16:27:00+00:00",
-      "published_ts": 1781713620.0,
-      "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier"
-    },
-    {
-      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T15:57:14+00:00",
-      "published_ts": 1781711834.0,
-      "summary": "Google's new smart speaker is more about Gemini than audio quality."
-    },
-    {
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-17T15:26:44+00:00",
-      "published_ts": 1781710004.0,
-      "summary": ""
-    },
-    {
-      "title": "How Musicians Can Get Paid for Training AI",
-      "url": "https://spectrum.ieee.org/ai-music-attribution",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-17T15:04:23+00:00",
-      "published_ts": 1781708663.0,
-      "summary": "Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use” means. Underlying this is a simple economic principle: The more something is u"
-    },
-    {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "source": "Google (Keyword AI)",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-17T15:00:00+00:00",
-      "published_ts": 1781708400.0,
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management."
     }
   ]
 }
