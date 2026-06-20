@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-20T12:07:12.489705+00:00 (UTC) — cửa sổ 72h — 138 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-20T14:27:30.737362+00:00 (UTC) — cửa sổ 72h — 137 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -319,9 +319,6 @@
 - 🔵 **How Musicians Can Get Paid for Training AI** — IEEE Spectrum AI — `2026-06-17T15:04:23+00:00`
   - https://spectrum.ieee.org/ai-music-attribution
   - Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use” means. Underlying this is a simple economic principle: The more something is u
-- 🔵 **The Download: a reality check for geoengineering and the science of interoception** — MIT Tech Review — `2026-06-17T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the c
 
 ## Tin tức
 
