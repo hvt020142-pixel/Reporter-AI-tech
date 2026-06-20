@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-20T19:52:41.056522+00:00 (UTC) — cửa sổ 72h — 129 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-20T21:38:19.308748+00:00 (UTC) — cửa sổ 72h — 129 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -314,6 +314,9 @@
 
 ## Tin tức
 
+- 🔵 **Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’** — TechCrunch AI — `2026-06-20T20:32:29+00:00`
+  - https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/
+  - "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”
 - 🔵 **In the Weights is your new AI-centric vanity search** — TechCrunch AI — `2026-06-20T19:41:11+00:00`
   - https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/
   - So ... what's your In the Weights score?
@@ -389,9 +392,6 @@
 - 🔵 **General Intuition in talks to raise $300M at around $2B valuation** — TechCrunch AI — `2026-06-18T15:20:37+00:00`
   - https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/
   - The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.
-- 🔵 **A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight** — TechCrunch AI — `2026-06-18T15:13:21+00:00`
-  - https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/
-  - Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.
 - 🔵 **Who decides when AI is too dangerous?** — The Verge AI — `2026-06-18T14:00:00+00:00`
   - https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump
   - On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new 
