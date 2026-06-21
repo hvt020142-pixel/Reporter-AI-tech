@@ -1,13 +1,7 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-21T19:59:15.528737+00:00 (UTC) — cửa sổ 72h — 25 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-21T21:39:50.955231+00:00 (UTC) — cửa sổ 72h — 20 mục — nguồn sơ cấp/uy tín.*
 
-
-## Hạ tầng & phần cứng
-
-- 🟢 **How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability** — NVIDIA — `2026-06-18T20:00:27+00:00`
-  - https://blogs.nvidia.com/blog/ferc-large-load-interconnection/
-  - In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the 
 
 ## Phân tích
 
@@ -62,7 +56,7 @@
 - 🔵 **The film about Sam Altman has been dropped by Amazon MGM** — The Verge AI — `2026-06-19T14:15:29+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
   - Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast als
-- 🔵 **The CEO of Allbirds’ new AI biz has a plan, but no team** — TechCrunch AI — `2026-06-19T13:00:00+00:00`
+- 🔵 **The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”** — TechCrunch AI — `2026-06-19T13:00:00+00:00`
   - https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/
   - Call it a startup with a sole founder and a very large seed round, but what's next is less clear.
 - 🔵 **The US says ASML’s top chip tool may be in China, but how?** — TechCrunch AI — `2026-06-19T07:59:12+00:00`
@@ -74,18 +68,6 @@
 - 🔵 **Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M** — TechCrunch AI — `2026-06-19T00:51:11+00:00`
   - https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/
   - Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.
-- 🔵 **As China looms, Taiwan makes more drones for defense and the US military** — Ars Technica AI — `2026-06-18T21:21:26+00:00`
-  - https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/
-  - Taiwan's drone spending plans for defense could also boost business overseas.
-- 🔵 **AI inference startup Baseten reportedly raising $1.5B months after its last mega-round** — TechCrunch AI — `2026-06-18T21:20:13+00:00`
-  - https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/
-  - Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush" marches on.
-- 🔵 **Snap spins off AI video team into new company, Dotmo, due to costs** — TechCrunch AI — `2026-06-18T20:30:00+00:00`
-  - https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/
-  - The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.
-- 🔵 **OpenAI is bringing on some big guns in the lead-up to its IPO** — TechCrunch AI — `2026-06-18T19:59:22+00:00`
-  - https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
-  - OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

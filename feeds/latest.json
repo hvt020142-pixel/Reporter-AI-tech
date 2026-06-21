@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T19:59:15.528737+00:00",
+  "generated_at": "2026-06-21T21:39:50.955231+00:00",
   "lookback_hours": 72,
-  "item_count": 25,
+  "item_count": 20,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 18
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 15,
+      "items_kept": 12,
       "items_total": 20
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 20
     },
     {
@@ -217,7 +217,7 @@
       "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast als"
     },
     {
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+      "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
       "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
@@ -295,56 +295,6 @@
       "published_iso": "2026-06-19T00:51:11+00:00",
       "published_ts": 1781830271.0,
       "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
-    },
-    {
-      "title": "As China looms, Taiwan makes more drones for defense and the US military",
-      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T21:21:26+00:00",
-      "published_ts": 1781817686.0,
-      "summary": "Taiwan's drone spending plans for defense could also boost business overseas."
-    },
-    {
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T21:20:13+00:00",
-      "published_ts": 1781817613.0,
-      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on."
-    },
-    {
-      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T20:30:00+00:00",
-      "published_ts": 1781814600.0,
-      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development."
-    },
-    {
-      "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
-      "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-18T20:00:27+00:00",
-      "published_ts": 1781812827.0,
-      "summary": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the "
-    },
-    {
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T19:59:22+00:00",
-      "published_ts": 1781812762.0,
-      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
     }
   ]
 }
