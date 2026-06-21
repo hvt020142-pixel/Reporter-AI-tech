@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-21T16:07:19.891646+00:00 (UTC) — cửa sổ 72h — 33 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-21T17:49:41.776972+00:00 (UTC) — cửa sổ 72h — 28 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -8,12 +8,6 @@
 - 🟢 **How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability** — NVIDIA — `2026-06-18T20:00:27+00:00`
   - https://blogs.nvidia.com/blog/ferc-large-load-interconnection/
   - In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the 
-
-## Mô hình & LLM
-
-- 🟢 **New usage analytics and updated spend controls for enterprises** — OpenAI — `2026-06-18T17:00:00+00:00`
-  - https://openai.com/index/chatgpt-enterprise-spend-controls
-  - OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.
 
 ## Mô hình mở
 
@@ -103,18 +97,6 @@
 - 🔵 **Amazon hopes to challenge Nvidia more directly by selling its AI chips** — TechCrunch AI — `2026-06-18T18:22:13+00:00`
   - https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/
   - AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.
-- 🔵 **AI data centers just got a government-mandated fast lane to the grid** — TechCrunch AI — `2026-06-18T17:49:23+00:00`
-  - https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/
-  - FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.
-- 🔵 **The smartphone era created an attention crisis — slow tech is fixing it** — TechCrunch AI — `2026-06-18T17:16:30+00:00`
-  - https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/
-  - “People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”
-- 🔵 **Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry** — Ars Technica AI — `2026-06-18T17:02:49+00:00`
-  - https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/
-  - Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.
-- 🔵 **How to turn off AI in your Google Docs** — TechCrunch AI — `2026-06-18T17:00:00+00:00`
-  - https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/
-  - Here's what you need to do to get those pesky "write with Gemini" pop-ups to go away.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

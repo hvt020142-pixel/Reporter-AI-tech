@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-21T16:07:19.891646+00:00",
+  "generated_at": "2026-06-21T17:49:41.776972+00:00",
   "lookback_hours": 72,
-  "item_count": 33,
+  "item_count": 28,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 1012
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 20,
+      "items_kept": 17,
       "items_total": 20
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 20
     },
     {
@@ -375,56 +375,6 @@
       "published_iso": "2026-06-18T18:13:13+00:00",
       "published_ts": 1781806393.0,
       "summary": ""
-    },
-    {
-      "title": "AI data centers just got a government-mandated fast lane to the grid",
-      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T17:49:23+00:00",
-      "published_ts": 1781804963.0,
-      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages."
-    },
-    {
-      "title": "The smartphone era created an attention crisis — slow tech is fixing it",
-      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T17:16:30+00:00",
-      "published_ts": 1781802990.0,
-      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”"
-    },
-    {
-      "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T17:02:49+00:00",
-      "published_ts": 1781802169.0,
-      "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund."
-    },
-    {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-18T17:00:00+00:00",
-      "published_ts": 1781802000.0,
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
-    },
-    {
-      "title": "How to turn off AI in your Google Docs",
-      "url": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T17:00:00+00:00",
-      "published_ts": 1781802000.0,
-      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
     }
   ]
 }
