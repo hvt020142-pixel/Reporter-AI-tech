@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-21T05:16:22.064984+00:00 (UTC) — cửa sổ 72h — 46 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-21T10:03:32.806755+00:00 (UTC) — cửa sổ 72h — 42 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,9 +14,6 @@
 - 🟢 **Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices** — NVIDIA — `2026-06-18T13:00:32+00:00`
   - https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/
   - Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce
-- 🟢 **France Advances Europe’s AI Future With NVIDIA Technologies** — NVIDIA — `2026-06-18T06:00:59+00:00`
-  - https://blogs.nvidia.com/blog/france-advances-europes-ai-future/
-  - A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying appl
 
 ## Mô hình & LLM
 
@@ -26,9 +23,6 @@
 - 🟢 **Improving health intelligence in ChatGPT** — OpenAI — `2026-06-18T11:00:00+00:00`
   - https://openai.com/index/improving-health-intelligence-in-chatgpt
   - Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.
-- 🟢 **Using AI to help physicians diagnose rare genetic diseases affecting children** — OpenAI — `2026-06-18T08:00:00+00:00`
-  - https://openai.com/index/diagnose-rare-childhood-diseases
-  - Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.
 
 ## Mô hình mở
 
@@ -58,12 +52,6 @@
 - 🔵 **The Download: a new hunt for dark matter and Kenya’s case for going solar** — MIT Tech Review — `2026-06-18T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading ca
-- 🔵 **Geoengineering still faces major practical challenges** — MIT Tech Review — `2026-06-18T10:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/
-  - Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicate
-- 🔵 **The search for dark matter has been blown wide open** — MIT Tech Review — `2026-06-18T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/
-  - Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought
 
 ## Tin tức
 

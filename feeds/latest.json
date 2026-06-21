@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-21T05:16:22.064984+00:00",
+  "generated_at": "2026-06-21T10:03:32.806755+00:00",
   "lookback_hours": 72,
-  "item_count": 46,
+  "item_count": 42,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 1012
     },
     {
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 18
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 7,
+      "items_kept": 5,
       "items_total": 10
     },
     {
@@ -515,46 +515,6 @@
       "published_iso": "2026-06-18T11:00:00+00:00",
       "published_ts": 1781780400.0,
       "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
-    },
-    {
-      "title": "Geoengineering still faces major practical challenges",
-      "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T10:00:00+00:00",
-      "published_ts": 1781776800.0,
-      "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicate"
-    },
-    {
-      "title": "The search for dark matter has been blown wide open",
-      "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T09:00:00+00:00",
-      "published_ts": 1781773200.0,
-      "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought"
-    },
-    {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-18T08:00:00+00:00",
-      "published_ts": 1781769600.0,
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
-    },
-    {
-      "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
-      "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-18T06:00:59+00:00",
-      "published_ts": 1781762459.0,
-      "summary": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying appl"
     }
   ]
 }
