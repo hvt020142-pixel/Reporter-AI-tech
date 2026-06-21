@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T17:49:41.776972+00:00",
+  "generated_at": "2026-06-21T19:59:15.528737+00:00",
   "lookback_hours": 72,
-  "item_count": 28,
+  "item_count": 25,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 803
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 17,
+      "items_kept": 15,
       "items_total": 20
     },
     {
@@ -345,36 +345,6 @@
       "published_iso": "2026-06-18T19:59:22+00:00",
       "published_ts": 1781812762.0,
       "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
-    },
-    {
-      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T18:51:46+00:00",
-      "published_ts": 1781808706.0,
-      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters."
-    },
-    {
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T18:22:13+00:00",
-      "published_ts": 1781806933.0,
-      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company."
-    },
-    {
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-18T18:13:13+00:00",
-      "published_ts": 1781806393.0,
-      "summary": ""
     }
   ]
 }

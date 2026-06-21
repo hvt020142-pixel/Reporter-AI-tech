@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-21T17:49:41.776972+00:00 (UTC) — cửa sổ 72h — 28 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-21T19:59:15.528737+00:00 (UTC) — cửa sổ 72h — 25 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -8,11 +8,6 @@
 - 🟢 **How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability** — NVIDIA — `2026-06-18T20:00:27+00:00`
   - https://blogs.nvidia.com/blog/ferc-large-load-interconnection/
   - In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the 
-
-## Mô hình mở
-
-- 🟢 **MosaicLeaks: Can your research agent keep a secret?** — Hugging Face — `2026-06-18T18:13:13+00:00`
-  - https://huggingface.co/blog/ServiceNow/mosaicleaks
 
 ## Phân tích
 
@@ -91,12 +86,6 @@
 - 🔵 **OpenAI is bringing on some big guns in the lead-up to its IPO** — TechCrunch AI — `2026-06-18T19:59:22+00:00`
   - https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
   - OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.
-- 🔵 **Almost half of US singles feel negatively about AI in dating, Match says** — TechCrunch AI — `2026-06-18T18:51:46+00:00`
-  - https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/
-  - About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.
-- 🔵 **Amazon hopes to challenge Nvidia more directly by selling its AI chips** — TechCrunch AI — `2026-06-18T18:22:13+00:00`
-  - https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/
-  - AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
