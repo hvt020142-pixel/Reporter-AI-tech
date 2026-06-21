@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T12:19:51.552787+00:00",
+  "generated_at": "2026-06-21T16:07:19.891646+00:00",
   "lookback_hours": 72,
-  "item_count": 40,
+  "item_count": 33,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 3,
+      "items_kept": 1,
       "items_total": 18
     },
     {
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 7,
+      "items_kept": 3,
       "items_total": 10
     },
     {
@@ -90,12 +90,32 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-21T15:28:17+00:00",
+      "published_ts": 1782055697.0,
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-21T14:40:28+00:00",
+      "published_ts": 1782052828.0,
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
+    },
     {
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
       "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
@@ -405,96 +425,6 @@
       "published_iso": "2026-06-18T17:00:00+00:00",
       "published_ts": 1781802000.0,
       "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
-    },
-    {
-      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T16:55:04+00:00",
-      "published_ts": 1781801704.0,
-      "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same."
-    },
-    {
-      "title": "Amazon employees say they’re facing termination for backing data center limits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T16:00:00+00:00",
-      "published_ts": 1781798400.0,
-      "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating a"
-    },
-    {
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T15:20:37+00:00",
-      "published_ts": 1781796037.0,
-      "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users."
-    },
-    {
-      "title": "Who decides when AI is too dangerous?",
-      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T14:00:00+00:00",
-      "published_ts": 1781791200.0,
-      "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new "
-    },
-    {
-      "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
-      "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-18T13:00:43+00:00",
-      "published_ts": 1781787643.0,
-      "summary": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the sp"
-    },
-    {
-      "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-18T13:00:32+00:00",
-      "published_ts": 1781787632.0,
-      "summary": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce"
-    },
-    {
-      "title": "Sound Waves Give Neuromorphic Chips a Brain-Simulating Edge",
-      "url": "https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T13:00:01+00:00",
-      "published_ts": 1781787601.0,
-      "summary": "By mimicking how the brain operates, neuromorphic computing can use dramatically less energy than conventional electronic AI chips. However, even the most sophisticated neuromorphic devices today are still quite simple, using only a small fraction of the number of connections found in human neurons."
-    },
-    {
-      "title": "Photoshop and Premiere now have AI assistants",
-      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T13:00:00+00:00",
-      "published_ts": 1781787600.0,
-      "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assi"
-    },
-    {
-      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
-      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T13:00:00+00:00",
-      "published_ts": 1781787600.0,
-      "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, an"
     }
   ]
 }

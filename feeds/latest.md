@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-21T12:19:51.552787+00:00 (UTC) — cửa sổ 72h — 40 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-21T16:07:19.891646+00:00 (UTC) — cửa sổ 72h — 33 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -8,12 +8,6 @@
 - 🟢 **How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability** — NVIDIA — `2026-06-18T20:00:27+00:00`
   - https://blogs.nvidia.com/blog/ferc-large-load-interconnection/
   - In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the 
-- 🟢 **At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI** — NVIDIA — `2026-06-18T13:00:43+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/
-  - The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the sp
-- 🟢 **Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices** — NVIDIA — `2026-06-18T13:00:32+00:00`
-  - https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/
-  - Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce
 
 ## Mô hình & LLM
 
@@ -43,12 +37,15 @@
 - 🔵 **Brain-computer interface trials are taking off** — MIT Tech Review — `2026-06-19T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/
   - This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf
-- 🔵 **Sound Waves Give Neuromorphic Chips a Brain-Simulating Edge** — IEEE Spectrum AI — `2026-06-18T13:00:01+00:00`
-  - https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips
-  - By mimicking how the brain operates, neuromorphic computing can use dramatically less energy than conventional electronic AI chips. However, even the most sophisticated neuromorphic devices today are still quite simple, using only a small fraction of the number of connections found in human neurons.
 
 ## Tin tức
 
+- 🔵 **When the Trump administration cracks down on Anthropic, who benefits?** — TechCrunch AI — `2026-06-21T15:28:17+00:00`
+  - https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/
+  - On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.
+- 🔵 **Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27** — TechCrunch AI — `2026-06-21T14:40:28+00:00`
+  - https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/
+  - Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.
 - 🔵 **Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’** — TechCrunch AI — `2026-06-20T20:32:29+00:00`
   - https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/
   - "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”
@@ -118,24 +115,6 @@
 - 🔵 **How to turn off AI in your Google Docs** — TechCrunch AI — `2026-06-18T17:00:00+00:00`
   - https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/
   - Here's what you need to do to get those pesky "write with Gemini" pop-ups to go away.
-- 🔵 **‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone** — TechCrunch AI — `2026-06-18T16:55:04+00:00`
-  - https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/
-  - After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.
-- 🔵 **Amazon employees say they’re facing termination for backing data center limits** — The Verge AI — `2026-06-18T16:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action
-  - When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating a
-- 🔵 **General Intuition in talks to raise $300M at around $2B valuation** — TechCrunch AI — `2026-06-18T15:20:37+00:00`
-  - https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/
-  - The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.
-- 🔵 **Who decides when AI is too dangerous?** — The Verge AI — `2026-06-18T14:00:00+00:00`
-  - https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump
-  - On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new 
-- 🔵 **Photoshop and Premiere now have AI assistants** — The Verge AI — `2026-06-18T13:00:00+00:00`
-  - https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch
-  - Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assi
-- 🔵 **Adobe’s redesigned AI studio remembers what your creations look like** — The Verge AI — `2026-06-18T13:00:00+00:00`
-  - https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update
-  - Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a "reimagined" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you "persistent context, reusable assets, an
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
