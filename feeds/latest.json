@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-21T21:39:50.955231+00:00",
+  "generated_at": "2026-06-21T23:42:04.330310+00:00",
   "lookback_hours": 72,
-  "item_count": 20,
+  "item_count": 21,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 0,
-      "items_total": 1012
+      "items_kept": 1,
+      "items_total": 1013
     },
     {
       "source": "Google DeepMind",
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-21T23:00:00+00:00",
+      "published_ts": 1782082800.0,
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
+    },
     {
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
       "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",

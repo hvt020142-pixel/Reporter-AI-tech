@@ -1,7 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-21T21:39:50.955231+00:00 (UTC) — cửa sổ 72h — 20 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-21T23:42:04.330310+00:00 (UTC) — cửa sổ 72h — 21 mục — nguồn sơ cấp/uy tín.*
 
+
+## Mô hình & LLM
+
+- 🟢 **Samsung Electronics brings ChatGPT and Codex to employees** — OpenAI — `2026-06-21T23:00:00+00:00`
+  - https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
+  - Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.
 
 ## Phân tích
 
