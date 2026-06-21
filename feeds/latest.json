@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-21T10:03:32.806755+00:00",
+  "generated_at": "2026-06-21T12:19:51.552787+00:00",
   "lookback_hours": 72,
-  "item_count": 42,
+  "item_count": 40,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 1012
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 5,
+      "items_kept": 4,
       "items_total": 10
     },
     {
@@ -495,26 +495,6 @@
       "published_iso": "2026-06-18T13:00:00+00:00",
       "published_ts": 1781787600.0,
       "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, an"
-    },
-    {
-      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
-      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-18T12:10:00+00:00",
-      "published_ts": 1781784600.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading ca"
-    },
-    {
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-18T11:00:00+00:00",
-      "published_ts": 1781780400.0,
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
     }
   ]
 }

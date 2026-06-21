@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-21T10:03:32.806755+00:00 (UTC) — cửa sổ 72h — 42 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-21T12:19:51.552787+00:00 (UTC) — cửa sổ 72h — 40 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,9 +20,6 @@
 - 🟢 **New usage analytics and updated spend controls for enterprises** — OpenAI — `2026-06-18T17:00:00+00:00`
   - https://openai.com/index/chatgpt-enterprise-spend-controls
   - OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.
-- 🟢 **Improving health intelligence in ChatGPT** — OpenAI — `2026-06-18T11:00:00+00:00`
-  - https://openai.com/index/improving-health-intelligence-in-chatgpt
-  - Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.
 
 ## Mô hình mở
 
@@ -49,9 +46,6 @@
 - 🔵 **Sound Waves Give Neuromorphic Chips a Brain-Simulating Edge** — IEEE Spectrum AI — `2026-06-18T13:00:01+00:00`
   - https://spectrum.ieee.org/neuromorphic-computing-acoustic-chips
   - By mimicking how the brain operates, neuromorphic computing can use dramatically less energy than conventional electronic AI chips. However, even the most sophisticated neuromorphic devices today are still quite simple, using only a small fraction of the number of connections found in human neurons.
-- 🔵 **The Download: a new hunt for dark matter and Kenya’s case for going solar** — MIT Tech Review — `2026-06-18T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading ca
 
 ## Tin tức
 
