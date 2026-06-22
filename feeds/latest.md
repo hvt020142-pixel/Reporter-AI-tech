@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-22T05:27:04.379365+00:00 (UTC) — cửa sổ 72h — 20 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-22T12:24:07.814565+00:00 (UTC) — cửa sổ 72h — 17 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -17,24 +17,18 @@
 
 ## Phân tích
 
+- 🔵 **Inside the world’s deepest and longest subsea road tunnel** — MIT Tech Review — `2026-06-22T08:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/
+  - It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov
 - 🔵 **IEEE Rolls Out Large Language Models Virtual Training Course** — IEEE Spectrum AI — `2026-06-19T18:00:01+00:00`
   - https://spectrum.ieee.org/large-language-models-ieee-course
   - Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications.
-- 🔵 **The Download: AI bottleneck debates, and BCI trials take off** — MIT Tech Review — `2026-06-19T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h
-- 🔵 **A startup claims it broke through a bottleneck that’s holding back LLMs** — MIT Tech Review — `2026-06-19T10:40:24+00:00`
-  - https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/
-  - Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta
-- 🔵 **The inevitable weakness of metrics** — MIT Tech Review — `2026-06-19T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/
-  - There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo
-- 🔵 **Brain-computer interface trials are taking off** — MIT Tech Review — `2026-06-19T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/
-  - This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf
 
 ## Tin tức
 
+- 🔵 **Read this before you vibe-code another app** — The Verge AI — `2026-06-22T11:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps
+  - Bob Starr was delighted with his vibe-coded website. "Boomberg" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou
 - 🔵 **When the Trump administration cracks down on Anthropic, who benefits?** — TechCrunch AI — `2026-06-21T15:28:17+00:00`
   - https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/
   - On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.
@@ -71,9 +65,6 @@
 - 🔵 **The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”** — TechCrunch AI — `2026-06-19T13:00:00+00:00`
   - https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/
   - Call it a startup with a sole founder and a very large seed round, but what's next is less clear.
-- 🔵 **The US says ASML’s top chip tool may be in China, but how?** — TechCrunch AI — `2026-06-19T07:59:12+00:00`
-  - https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
-  - There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

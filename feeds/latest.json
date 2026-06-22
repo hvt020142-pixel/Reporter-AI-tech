@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T05:27:04.379365+00:00",
+  "generated_at": "2026-06-22T12:24:07.814565+00:00",
   "lookback_hours": 72,
-  "item_count": 20,
+  "item_count": 17,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 11,
+      "items_kept": 10,
       "items_total": 20
     },
     {
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 10
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 4,
+      "items_kept": 1,
       "items_total": 10
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Read this before you vibe-code another app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-22T11:00:00+00:00",
+      "published_ts": 1782126000.0,
+      "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou"
+    },
+    {
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-22T08:00:00+00:00",
+      "published_ts": 1782115200.0,
+      "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov"
+    },
     {
       "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
       "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
@@ -245,56 +265,6 @@
       "published_iso": "2026-06-19T13:00:00+00:00",
       "published_ts": 1781874000.0,
       "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear."
-    },
-    {
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-19T12:10:00+00:00",
-      "published_ts": 1781871000.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h"
-    },
-    {
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-19T10:40:24+00:00",
-      "published_ts": 1781865624.0,
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta"
-    },
-    {
-      "title": "The inevitable weakness of metrics",
-      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-19T09:00:00+00:00",
-      "published_ts": 1781859600.0,
-      "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo"
-    },
-    {
-      "title": "Brain-computer interface trials are taking off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-19T09:00:00+00:00",
-      "published_ts": 1781859600.0,
-      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf"
-    },
-    {
-      "title": "The US says ASML’s top chip tool may be in China, but how?",
-      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-19T07:59:12+00:00",
-      "published_ts": 1781855952.0,
-      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
     }
   ]
 }
