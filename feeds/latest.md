@@ -1,7 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-21T23:42:04.330310+00:00 (UTC) — cửa sổ 72h — 21 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-22T05:27:04.379365+00:00 (UTC) — cửa sổ 72h — 20 mục — nguồn sơ cấp/uy tín.*
 
+
+## Hạ tầng & phần cứng
+
+- 🟢 **Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines** — NVIDIA — `2026-06-22T05:00:22+00:00`
+  - https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/
+  - Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more 
 
 ## Mô hình & LLM
 
@@ -68,12 +74,6 @@
 - 🔵 **The US says ASML’s top chip tool may be in China, but how?** — TechCrunch AI — `2026-06-19T07:59:12+00:00`
   - https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
   - There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
-- 🔵 **Barret Zoph is out at OpenAI again after just five months** — The Verge AI — `2026-06-19T04:49:33+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab
-  - Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati
-- 🔵 **Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M** — TechCrunch AI — `2026-06-19T00:51:11+00:00`
-  - https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/
-  - Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
