@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T18:16:45.465825+00:00",
+  "generated_at": "2026-06-22T22:15:08.275343+00:00",
   "lookback_hours": 72,
-  "item_count": 26,
+  "item_count": 33,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 9,
+      "items_kept": 13,
       "items_total": 20
     },
     {
@@ -72,13 +72,13 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 20
     },
     {
@@ -90,12 +90,82 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 0,
+      "items_kept": 1,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+      "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-22T21:52:39+00:00",
+      "published_ts": 1782165159.0,
+      "summary": "US autoworkers union warns of robot automation as dark factory future looms."
+    },
+    {
+      "title": "The AI world is getting ‘loopy’",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-22T20:53:11+00:00",
+      "published_ts": 1782161591.0,
+      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly."
+    },
+    {
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-22T20:13:58+00:00",
+      "published_ts": 1782159238.0,
+      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs."
+    },
+    {
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-22T20:08:15+00:00",
+      "published_ts": 1782158895.0,
+      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants."
+    },
+    {
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-22T20:00:00+00:00",
+      "published_ts": 1782158400.0,
+      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It"
+    },
+    {
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-22T18:49:44+00:00",
+      "published_ts": 1782154184.0,
+      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools."
+    },
+    {
+      "title": "Commemorating 70 Years of Artificial Intelligence",
+      "url": "https://spectrum.ieee.org/70-years-of-artificial-intelligence",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-22T18:00:01+00:00",
+      "published_ts": 1782151201.0,
+      "summary": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other tec"
+    },
     {
       "title": "Three things to watch amid Anthropic’s latest feud with the government",
       "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
@@ -177,16 +247,6 @@
       "summary": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to"
     },
     {
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-22T13:00:20+00:00",
-      "published_ts": 1782133220.0,
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,"
-    },
-    {
       "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
       "source": "NVIDIA",
@@ -195,6 +255,16 @@
       "published_iso": "2026-06-22T13:00:20+00:00",
       "published_ts": 1782133220.0,
       "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with"
+    },
+    {
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-06-22T13:00:20+00:00",
+      "published_ts": 1782133220.0,
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,"
     },
     {
       "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -227,16 +297,6 @@
       "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou"
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-22T10:00:00+00:00",
-      "published_ts": 1782122400.0,
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
-    },
-    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
       "source": "OpenAI",
@@ -245,6 +305,16 @@
       "published_iso": "2026-06-22T10:00:00+00:00",
       "published_ts": 1782122400.0,
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-22T10:00:00+00:00",
+      "published_ts": 1782122400.0,
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
     },
     {
       "title": "Inside the world’s deepest and longest subsea road tunnel",

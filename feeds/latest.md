@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-22T18:16:45.465825+00:00 (UTC) — cửa sổ 72h — 26 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-22T22:15:08.275343+00:00 (UTC) — cửa sổ 72h — 33 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -11,12 +11,12 @@
 - 🟢 **NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure** — NVIDIA — `2026-06-22T13:00:38+00:00`
   - https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/
   - For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to
-- 🟢 **From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries** — NVIDIA — `2026-06-22T13:00:20+00:00`
-  - https://blogs.nvidia.com/blog/ai-for-science-software-cuda/
-  - At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,
 - 🟢 **NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory** — NVIDIA — `2026-06-22T13:00:20+00:00`
   - https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/
   - Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with
+- 🟢 **From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries** — NVIDIA — `2026-06-22T13:00:20+00:00`
+  - https://blogs.nvidia.com/blog/ai-for-science-software-cuda/
+  - At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,
 - 🟢 **Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins** — NVIDIA — `2026-06-22T13:00:13+00:00`
   - https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/
   - The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec
@@ -26,12 +26,12 @@
 
 ## Mô hình & LLM
 
-- 🟢 **Patch the Planet: a Daybreak initiative to support open source maintainers** — OpenAI — `2026-06-22T10:00:00+00:00`
-  - https://openai.com/index/patch-the-planet
-  - OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
 - 🟢 **Daybreak: Tools for securing every organization in the world** — OpenAI — `2026-06-22T10:00:00+00:00`
   - https://openai.com/index/daybreak-securing-the-world
   - OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
+- 🟢 **Patch the Planet: a Daybreak initiative to support open source maintainers** — OpenAI — `2026-06-22T10:00:00+00:00`
+  - https://openai.com/index/patch-the-planet
+  - OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
 - 🟢 **Codex-maxxing for long-running work** — OpenAI — `2026-06-22T00:00:00+00:00`
   - https://openai.com/index/codex-maxxing-long-running-work
   - Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.
@@ -46,6 +46,9 @@
 
 ## Phân tích
 
+- 🔵 **Commemorating 70 Years of Artificial Intelligence** — IEEE Spectrum AI — `2026-06-22T18:00:01+00:00`
+  - https://spectrum.ieee.org/70-years-of-artificial-intelligence
+  - Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other tec
 - 🔵 **Three things to watch amid Anthropic’s latest feud with the government** — MIT Tech Review — `2026-06-22T18:00:00+00:00`
   - https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode
@@ -58,6 +61,24 @@
 
 ## Tin tức
 
+- 🔵 **GM installs robots at flagship EV factory after laying off 1,300 workers** — Ars Technica AI — `2026-06-22T21:52:39+00:00`
+  - https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/
+  - US autoworkers union warns of robot automation as dark factory future looms.
+- 🔵 **The AI world is getting ‘loopy’** — TechCrunch AI — `2026-06-22T20:53:11+00:00`
+  - https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/
+  - The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.
+- 🔵 **AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal** — TechCrunch AI — `2026-06-22T20:13:58+00:00`
+  - https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/
+  - What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.
+- 🔵 **Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem** — TechCrunch AI — `2026-06-22T20:08:15+00:00`
+  - https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/
+  - Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.
+- 🔵 **AI is cursing renters with the promise of impossible homes** — The Verge AI — `2026-06-22T20:00:00+00:00`
+  - https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings
+  - Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be "hell." After looking at a lot of tiny, overpriced places she described as "shitholes," Joyce found her dream apartment: a reasonably priced studio in Manhattan. "It
+- 🔵 **Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal** — TechCrunch AI — `2026-06-22T18:49:44+00:00`
+  - https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/
+  - Google DeepMind and A24 are teaming up to build AI filmmaking tools.
 - 🔵 **Amazon is testing Alexa+ in India with Hindi support** — TechCrunch AI — `2026-06-22T17:31:29+00:00`
   - https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/
   - Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.
