@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-23T10:00:33.371635+00:00 (UTC) — cửa sổ 72h — 202 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-23T12:45:40.165878+00:00 (UTC) — cửa sổ 72h — 205 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -542,6 +542,12 @@
 
 ## Phân tích
 
+- 🔵 **The Download: the future of chipmaking and Anthropic’s government clash** — MIT Tech Review — `2026-06-23T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a
+- 🔵 **AI Is Learning to Read the Room** — IEEE Spectrum AI — `2026-06-23T12:00:01+00:00`
+  - https://spectrum.ieee.org/emotion-ai-context
+  - Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v
 - 🔵 **Elephant alert! AI warning systems aim to avoid deadly clashes** — MIT Tech Review — `2026-06-23T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/
   - India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been 
@@ -563,6 +569,9 @@
 
 ## Tin tức
 
+- 🔵 **How to burst the AI bubble: Strike at its roots** — Ars Technica AI — `2026-06-23T12:00:34+00:00`
+  - https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/
+  - Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI .
 - 🔵 **The running list: major tech layoffs in 2026 where employers cited AI** — TechCrunch AI — `2026-06-23T01:27:55+00:00`
   - https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
   - A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
