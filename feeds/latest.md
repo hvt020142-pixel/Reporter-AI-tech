@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-23T16:39:04.644908+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-23T20:20:40.708657+00:00 (UTC) — cửa sổ 72h — 218 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -35,15 +35,21 @@
 
 ## Mô hình & LLM
 
+- 🟢 **How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery** — OpenAI — `2026-06-23T17:00:00+00:00`
+  - https://openai.com/index/gpt-5-immunology-mystery
+  - GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.
+- 🟢 **Helping build shared standards for advanced AI** — OpenAI — `2026-06-23T13:00:00+00:00`
+  - https://openai.com/index/helping-build-shared-standards-for-advanced-ai
+  - OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.
 - 🟢 **How Omio is building the future of conversational travel** — OpenAI — `2026-06-23T00:00:00+00:00`
   - https://openai.com/index/omio
   - Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
-- 🟢 **Daybreak: Tools for securing every organization in the world** — OpenAI — `2026-06-22T10:00:00+00:00`
-  - https://openai.com/index/daybreak-securing-the-world
-  - OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
 - 🟢 **Patch the Planet: a Daybreak initiative to support open source maintainers** — OpenAI — `2026-06-22T10:00:00+00:00`
   - https://openai.com/index/patch-the-planet
   - OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
+- 🟢 **Daybreak: Tools for securing every organization in the world** — OpenAI — `2026-06-22T10:00:00+00:00`
+  - https://openai.com/index/daybreak-securing-the-world
+  - OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
 - 🟢 **Codex-maxxing for long-running work** — OpenAI — `2026-06-22T00:00:00+00:00`
   - https://openai.com/index/codex-maxxing-long-running-work
   - Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.
@@ -57,6 +63,8 @@
   - https://huggingface.co/blog/ibm-research/cuga-apps
 - 🟢 **Shipping huggingface_hub every week with AI, open tools, and a human in the loop** — Hugging Face — `2026-06-23T00:00:00+00:00`
   - https://huggingface.co/blog/huggingface-hub-release-ci
+- 🟢 **Experimenting with the proposed Cross-Origin Storage API in Transformers.js** — Hugging Face — `2026-06-23T00:00:00+00:00`
+  - https://huggingface.co/blog/cross-origin-storage
 - 🟢 **PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters** — Hugging Face — `2026-06-22T13:18:56+00:00`
   - https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
 - 🟢 **We got local models to triage the OpenClaw repo for FREE!*** — Hugging Face — `2026-06-22T00:00:00+00:00`
@@ -547,6 +555,9 @@
 
 ## Phân tích
 
+- 🔵 **Opening a door to mental-health help online** — MIT Tech Review — `2026-06-23T20:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138315/opening-a-door-to-mental-health-help-online/
+  - Rob Morris, SM ’09, PhD ’15, didn’t know where to turn when he first felt symptoms of depression as a teenager: “I had no exposure to healthy coping strategies. I had no vocabulary for what was happening to me.”&#160; That experience, he says, has driven his work on&#160;Koko, a tech nonprofit that 
 - 🔵 **The Download: the future of chipmaking and Anthropic’s government clash** — MIT Tech Review — `2026-06-23T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a
@@ -574,6 +585,15 @@
 
 ## Tin tức
 
+- 🔵 **Oracle’s 21,000 layoffs help drive its debt-fueled AI investments** — Ars Technica AI — `2026-06-23T20:17:38+00:00`
+  - https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/
+  - Oracle is spending billions on data center infrastructure to support AI.
+- 🔵 **Anthropic’s Claude Tag is learning your company, one Slack message at a time** — TechCrunch AI — `2026-06-23T17:00:00+00:00`
+  - https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/
+  - Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.
+- 🔵 **Why corporate AI super PACs spent $27 million on a local election** — The Verge AI — `2026-06-23T17:00:00+00:00`
+  - https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district
+  - Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. ("Favorite" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime
 - 🔵 **Something&#8217;s off with Midjourney’s pivot to body scanners** — The Verge AI — `2026-06-23T15:56:35+00:00`
   - https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence
   - Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce "something as powerful as MRI" yet "as casual as a trip to the spa.
@@ -592,6 +612,9 @@
 - 🔵 **Meta launches cheaper smart glasses without Ray-Ban** — The Verge AI — `2026-06-23T13:00:00+00:00`
   - https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy
   - For the past three years, "Meta" and "Ray-Ban" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople
+- 🔵 **Kiwibit’s AI-powered bird feeder is my new backyard buddy** — TechCrunch AI — `2026-06-23T12:30:00+00:00`
+  - https://techcrunch.com/2026/06/23/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/
+  - If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.
 - 🔵 **How to burst the AI bubble: Strike at its roots** — Ars Technica AI — `2026-06-23T12:00:34+00:00`
   - https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/
   - Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI .
@@ -646,15 +669,6 @@
 - 🔵 **Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’** — TechCrunch AI — `2026-06-20T20:32:29+00:00`
   - https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/
   - "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”
-- 🔵 **In the Weights is your new AI-centric vanity search** — TechCrunch AI — `2026-06-20T19:41:11+00:00`
-  - https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/
-  - So ... what's your In the Weights score?
-- 🔵 **The Atlantic created a searchable database of the music used to train AI** — The Verge AI — `2026-06-20T18:46:48+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
-  - Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o
-- 🔵 **Nobel laureate John Jumper is leaving DeepMind for rival Anthropic** — TechCrunch AI — `2026-06-20T16:39:57+00:00`
-  - https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
-  - Jumper isn't the only big name leaving Google DeepMind.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

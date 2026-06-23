@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-23T16:39:04.644908+00:00",
+  "generated_at": "2026-06-23T20:20:40.708657+00:00",
   "lookback_hours": 72,
-  "item_count": 213,
+  "item_count": 218,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 5,
-      "items_total": 1017
+      "items_kept": 7,
+      "items_total": 1019
     },
     {
       "source": "Google DeepMind",
@@ -30,8 +30,8 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 4,
-      "items_total": 807
+      "items_kept": 5,
+      "items_total": 808
     },
     {
       "source": "arXiv cs.AI",
@@ -78,13 +78,13 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 3,
+      "items_kept": 4,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 10
     },
     {
@@ -96,6 +96,56 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-23T20:17:38+00:00",
+      "published_ts": 1782245858.0,
+      "summary": "Oracle is spending billions on data center infrastructure to support AI."
+    },
+    {
+      "title": "Opening a door to mental-health help online",
+      "url": "https://www.technologyreview.com/2026/06/23/1138315/opening-a-door-to-mental-health-help-online/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-23T20:00:00+00:00",
+      "published_ts": 1782244800.0,
+      "summary": "Rob Morris, SM ’09, PhD ’15, didn’t know where to turn when he first felt symptoms of depression as a teenager: “I had no exposure to healthy coping strategies. I had no vocabulary for what was happening to me.”&#160; That experience, he says, has driven his work on&#160;Koko, a tech nonprofit that "
+    },
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-23T17:00:00+00:00",
+      "published_ts": 1782234000.0,
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+    },
+    {
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-23T17:00:00+00:00",
+      "published_ts": 1782234000.0,
+      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows."
+    },
+    {
+      "title": "Why corporate AI super PACs spent $27 million on a local election",
+      "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-23T17:00:00+00:00",
+      "published_ts": 1782234000.0,
+      "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime"
+    },
     {
       "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
       "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
@@ -147,6 +197,16 @@
       "summary": "Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was about access. Companies experimented with new frontier and open models, ran pilots and explored how AI can help. Now, specialized agents — systems of models that "
     },
     {
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-23T13:00:00+00:00",
+      "published_ts": 1782219600.0,
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
+    },
+    {
       "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
       "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
       "source": "TechCrunch AI",
@@ -175,6 +235,16 @@
       "published_iso": "2026-06-23T12:51:55+00:00",
       "published_ts": 1782219115.0,
       "summary": ""
+    },
+    {
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "url": "https://techcrunch.com/2026/06/23/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-23T12:30:00+00:00",
+      "published_ts": 1782217800.0,
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try."
     },
     {
       "title": "The Download: the future of chipmaking and Anthropic’s government clash",
@@ -1887,6 +1957,16 @@
       "summary": ""
     },
     {
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-23T00:00:00+00:00",
+      "published_ts": 1782172800.0,
+      "summary": ""
+    },
+    {
       "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
       "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
       "source": "The Verge AI",
@@ -2097,16 +2177,6 @@
       "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou"
     },
     {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-22T10:00:00+00:00",
-      "published_ts": 1782122400.0,
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
-    },
-    {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
       "source": "OpenAI",
@@ -2115,6 +2185,16 @@
       "published_iso": "2026-06-22T10:00:00+00:00",
       "published_ts": 1782122400.0,
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-22T10:00:00+00:00",
+      "published_ts": 1782122400.0,
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
     },
     {
       "title": "Inside the world’s deepest and longest subsea road tunnel",
@@ -2195,36 +2275,6 @@
       "published_iso": "2026-06-20T20:32:29+00:00",
       "published_ts": 1781987549.0,
       "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”"
-    },
-    {
-      "title": "In the Weights is your new AI-centric vanity search",
-      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-20T19:41:11+00:00",
-      "published_ts": 1781984471.0,
-      "summary": "So ... what's your In the Weights score?"
-    },
-    {
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-20T18:46:48+00:00",
-      "published_ts": 1781981208.0,
-      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o"
-    },
-    {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-20T16:39:57+00:00",
-      "published_ts": 1781973597.0,
-      "summary": "Jumper isn't the only big name leaving Google DeepMind."
     }
   ]
 }
