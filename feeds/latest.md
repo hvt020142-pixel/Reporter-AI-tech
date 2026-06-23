@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-23T20:20:40.708657+00:00 (UTC) — cửa sổ 72h — 218 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-23T23:19:46.026523+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,12 +20,12 @@
 - 🟢 **NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure** — NVIDIA — `2026-06-22T13:00:38+00:00`
   - https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/
   - For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to
-- 🟢 **From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries** — NVIDIA — `2026-06-22T13:00:20+00:00`
-  - https://blogs.nvidia.com/blog/ai-for-science-software-cuda/
-  - At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,
 - 🟢 **NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory** — NVIDIA — `2026-06-22T13:00:20+00:00`
   - https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/
   - Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with
+- 🟢 **From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries** — NVIDIA — `2026-06-22T13:00:20+00:00`
+  - https://blogs.nvidia.com/blog/ai-for-science-software-cuda/
+  - At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,
 - 🟢 **Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins** — NVIDIA — `2026-06-22T13:00:13+00:00`
   - https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/
   - The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec
@@ -555,36 +555,51 @@
 
 ## Phân tích
 
-- 🔵 **Opening a door to mental-health help online** — MIT Tech Review — `2026-06-23T20:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138315/opening-a-door-to-mental-health-help-online/
-  - Rob Morris, SM ’09, PhD ’15, didn’t know where to turn when he first felt symptoms of depression as a teenager: “I had no exposure to healthy coping strategies. I had no vocabulary for what was happening to me.”&#160; That experience, he says, has driven his work on&#160;Koko, a tech nonprofit that 
-- 🔵 **The Download: the future of chipmaking and Anthropic’s government clash** — MIT Tech Review — `2026-06-23T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a
+- 🔵 **Heads in the game** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/
+  - The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,&#8230;
+- 🔵 **Super Mario is mathier than you think** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/
+  - Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and 
+- 🔵 **A man of many words** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/
+  - Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition 
+- 🔵 **Sharing a love for calculus** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/
+  - The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned 
+- 🔵 **Stand Up for Research, Innovation, and Education** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/
+  - Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and t
+- 🔵 **Ultrasound imaging turns a robot hand into a skillful mimic** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/
+  - Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures. So far, robots have been notoriously bad at mimicking that dexterity, in part because researchers struggle to capture what is ac
+- 🔵 **Reinventing the zipper** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/
+  - With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD
+- 🔵 **Engineered “mini livers” could be injected as an alternative to transplantation** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/
+  - A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removin
+- 🔵 **Plants appear to detect the patter of falling rain** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/
+  - MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly. When a raindrop hit
+- 🔵 **A breath test could diagnose pneumonia in minutes** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138291/a-breath-test-could-diagnose-pneumonia-in-minutes/
+  - With a test being developed at MIT, diagnosing pneumonia and other lung conditions could someday be as easy as breathing into a tube.&#160; The test, dubbed PlasmoSniff, is a portable, chip-scale sensor that traps and detects biomarkers, synthetic compounds indicating disease. The idea is that a per
 - 🔵 **AI Is Learning to Read the Room** — IEEE Spectrum AI — `2026-06-23T12:00:01+00:00`
   - https://spectrum.ieee.org/emotion-ai-context
   - Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v
-- 🔵 **Elephant alert! AI warning systems aim to avoid deadly clashes** — MIT Tech Review — `2026-06-23T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/
-  - India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been 
-- 🔵 **The $400 million machine powering the future of chipmaking** — MIT Tech Review — `2026-06-23T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/
-  - Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the 
 - 🔵 **Commemorating 70 Years of Artificial Intelligence** — IEEE Spectrum AI — `2026-06-22T18:00:01+00:00`
   - https://spectrum.ieee.org/70-years-of-artificial-intelligence
   - Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other tec
-- 🔵 **Three things to watch amid Anthropic’s latest feud with the government** — MIT Tech Review — `2026-06-22T18:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode
-- 🔵 **The Download: record-breaking subsea tunnels and flexible data centers** — MIT Tech Review — `2026-06-22T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It
-- 🔵 **Inside the world’s deepest and longest subsea road tunnel** — MIT Tech Review — `2026-06-22T08:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/
-  - It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov
 
 ## Tin tức
 
+- 🔵 **Google Home will soon get better at recognizing you** — The Verge AI — `2026-06-23T22:28:19+00:00`
+  - https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing
+  - A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue
+- 🔵 **Hollywood is bending the knee to OpenAI** — The Verge AI — `2026-06-23T22:03:18+00:00`
+  - https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt
+  - Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the 
 - 🔵 **Oracle’s 21,000 layoffs help drive its debt-fueled AI investments** — Ars Technica AI — `2026-06-23T20:17:38+00:00`
   - https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/
   - Oracle is spending billions on data center infrastructure to support AI.
@@ -612,9 +627,6 @@
 - 🔵 **Meta launches cheaper smart glasses without Ray-Ban** — The Verge AI — `2026-06-23T13:00:00+00:00`
   - https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy
   - For the past three years, "Meta" and "Ray-Ban" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople
-- 🔵 **Kiwibit’s AI-powered bird feeder is my new backyard buddy** — TechCrunch AI — `2026-06-23T12:30:00+00:00`
-  - https://techcrunch.com/2026/06/23/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/
-  - If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.
 - 🔵 **How to burst the AI bubble: Strike at its roots** — Ars Technica AI — `2026-06-23T12:00:34+00:00`
   - https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/
   - Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI .
@@ -666,9 +678,6 @@
 - 🔵 **Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27** — TechCrunch AI — `2026-06-21T14:40:28+00:00`
   - https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/
   - Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.
-- 🔵 **Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’** — TechCrunch AI — `2026-06-20T20:32:29+00:00`
-  - https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/
-  - "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
