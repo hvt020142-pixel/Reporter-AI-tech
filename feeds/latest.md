@@ -1,10 +1,16 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-23T04:17:58.882575+00:00 (UTC) — cửa sổ 72h — 195 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-23T10:00:33.371635+00:00 (UTC) — cửa sổ 72h — 202 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers** — NVIDIA — `2026-06-23T09:00:38+00:00`
+  - https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/
+  - News Highlights: NVIDIA technology runs 81% of the TOP500 and 90% of the systems new to the list. 26 systems on the TOP500 adopted the NVIDIA Grace CPU, up eight from the previous list. The top eight systems on the Green500 run on NVIDIA GPUs and nine of the top 10 use NVIDIA technologies. No. [&#82
+- 🟢 **NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations** — NVIDIA — `2026-06-23T06:00:09+00:00`
+  - https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/
+  - Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Aut
 - 🟢 **At ISC, JUPITER Shows What Exascale Science Looks Like** — NVIDIA — `2026-06-22T13:00:48+00:00`
   - https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/
   - JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects runn
@@ -26,12 +32,15 @@
 
 ## Mô hình & LLM
 
-- 🟢 **Patch the Planet: a Daybreak initiative to support open source maintainers** — OpenAI — `2026-06-22T10:00:00+00:00`
-  - https://openai.com/index/patch-the-planet
-  - OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
+- 🟢 **How Omio is building the future of conversational travel** — OpenAI — `2026-06-23T00:00:00+00:00`
+  - https://openai.com/index/omio
+  - Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
 - 🟢 **Daybreak: Tools for securing every organization in the world** — OpenAI — `2026-06-22T10:00:00+00:00`
   - https://openai.com/index/daybreak-securing-the-world
   - OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
+- 🟢 **Patch the Planet: a Daybreak initiative to support open source maintainers** — OpenAI — `2026-06-22T10:00:00+00:00`
+  - https://openai.com/index/patch-the-planet
+  - OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
 - 🟢 **Codex-maxxing for long-running work** — OpenAI — `2026-06-22T00:00:00+00:00`
   - https://openai.com/index/codex-maxxing-long-running-work
   - Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.
@@ -41,8 +50,12 @@
 
 ## Mô hình mở
 
+- 🟢 **Shipping huggingface_hub every week with AI, open tools, and a human in the loop** — Hugging Face — `2026-06-23T00:00:00+00:00`
+  - https://huggingface.co/blog/huggingface-hub-release-ci
 - 🟢 **PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters** — Hugging Face — `2026-06-22T13:18:56+00:00`
   - https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
+- 🟢 **We got local models to triage the OpenClaw repo for FREE!*** — Hugging Face — `2026-06-22T00:00:00+00:00`
+  - https://huggingface.co/blog/local-models-pr-triage
 
 ## Nghiên cứu
 
@@ -529,6 +542,12 @@
 
 ## Phân tích
 
+- 🔵 **Elephant alert! AI warning systems aim to avoid deadly clashes** — MIT Tech Review — `2026-06-23T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/
+  - India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been 
+- 🔵 **The $400 million machine powering the future of chipmaking** — MIT Tech Review — `2026-06-23T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/
+  - Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the 
 - 🔵 **Commemorating 70 Years of Artificial Intelligence** — IEEE Spectrum AI — `2026-06-22T18:00:01+00:00`
   - https://spectrum.ieee.org/70-years-of-artificial-intelligence
   - Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other tec
@@ -547,9 +566,9 @@
 - 🔵 **The running list: major tech layoffs in 2026 where employers cited AI** — TechCrunch AI — `2026-06-23T01:27:55+00:00`
   - https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
   - A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
-- 🔵 **OpenAI launches new initiative to help find and patch open-source bugs** — TechCrunch AI — `2026-06-23T00:11:31+00:00`
+- 🔵 **OpenAI launches new initiative to help find and patch open source bugs** — TechCrunch AI — `2026-06-23T00:11:31+00:00`
   - https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
-  - OpenAI is attempting to tackle the security issues of the open source software community.
+  - OpenAI is using AI to help the open source community better protect itself.
 - 🔵 **Nvidia says its AI data center design runs hotter to use a lot less water** — The Verge AI — `2026-06-22T23:24:32+00:00`
   - https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling
   - Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has "eliminated massive amounts of power usage and pretty much all water usage." Still, it
