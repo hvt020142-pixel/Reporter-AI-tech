@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-24T21:42:27.841792+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-24T23:20:07.752286+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,12 +23,12 @@
 - 🟢 **NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure** — NVIDIA — `2026-06-22T13:00:38+00:00`
   - https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/
   - For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to
-- 🟢 **From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries** — NVIDIA — `2026-06-22T13:00:20+00:00`
-  - https://blogs.nvidia.com/blog/ai-for-science-software-cuda/
-  - At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,
 - 🟢 **NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory** — NVIDIA — `2026-06-22T13:00:20+00:00`
   - https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/
   - Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with
+- 🟢 **From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries** — NVIDIA — `2026-06-22T13:00:20+00:00`
+  - https://blogs.nvidia.com/blog/ai-for-science-software-cuda/
+  - At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,
 - 🟢 **Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins** — NVIDIA — `2026-06-22T13:00:13+00:00`
   - https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/
   - The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec
@@ -61,9 +61,6 @@
 - 🟢 **Codex-maxxing for long-running work** — OpenAI — `2026-06-22T00:00:00+00:00`
   - https://openai.com/index/codex-maxxing-long-running-work
   - Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.
-- 🟢 **Samsung Electronics brings ChatGPT and Codex to employees** — OpenAI — `2026-06-21T23:00:00+00:00`
-  - https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
-  - Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.
 
 ## Mô hình mở
 
@@ -609,18 +606,24 @@
 
 ## Tin tức
 
+- 🔵 **Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood** — TechCrunch AI — `2026-06-24T22:41:41+00:00`
+  - https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/
+  - In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.
+- 🔵 **OpenAI and Broadcom announce chip designed for LLM inference at scale** — Ars Technica AI — `2026-06-24T22:28:18+00:00`
+  - https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/
+  - The silicon race is heating up amid the struggle to keep up with demand.
+- 🔵 **AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient** — TechCrunch AI — `2026-06-24T21:56:41+00:00`
+  - https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/
+  - While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.
 - 🔵 **AI researchers continue to leave Google for its rivals** — TechCrunch AI — `2026-06-24T21:42:07+00:00`
   - https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/
   - Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.
-- 🔵 **The memory chip crunch is paying off for this U.S. company** — TechCrunch AI — `2026-06-24T21:30:55+00:00`
+- 🔵 **The memory chip crunch is paying off for this US company** — TechCrunch AI — `2026-06-24T21:30:55+00:00`
   - https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/
   - Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.
 - 🔵 **Companies are scrambling to stop employees from maxing out AI budgets with small tasks** — TechCrunch AI — `2026-06-24T20:09:45+00:00`
   - https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/
   - The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.
-- 🔵 **Congresswoman denies staff used AI to write defense funding amendment** — The Verge AI — `2026-06-24T19:36:46+00:00`
-  - https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude
-  - Rep. Anna Paulina Luna (R-FL) says her staff used AI for "spellcheck" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says "NO Legislation is ever drafted with AI." Luna issued the response after accounts on X began sharing screenshots of an amen
 - 🔵 **The $27 million Al proxy war over Alex Bores ends in a draw** — The Verge AI — `2026-06-24T17:25:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results
   - The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional dist
@@ -675,6 +678,9 @@
 - 🔵 **4 days left to save up to $190 on TechCrunch Founder Summit 2026** — TechCrunch AI — `2026-06-23T14:00:00+00:00`
   - https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/
   - Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.
+- 🔵 **Sony’s AI Camera Assistant is exactly as bad as it looks** — The Verge AI — `2026-06-23T13:25:42+00:00`
+  - https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant
+  - When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you [&#8230;]
 - 🔵 **Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates** — TechCrunch AI — `2026-06-23T13:00:00+00:00`
   - https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/
   - Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.
@@ -699,12 +705,6 @@
 - 🔵 **Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem** — TechCrunch AI — `2026-06-22T20:08:15+00:00`
   - https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/
   - Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.
-- 🔵 **Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal** — TechCrunch AI — `2026-06-22T18:49:44+00:00`
-  - https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/
-  - Google DeepMind and A24 are teaming up to build AI filmmaking tools.
-- 🔵 **Amazon is testing Alexa+ in India with Hindi support** — TechCrunch AI — `2026-06-22T17:31:29+00:00`
-  - https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/
-  - Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.
 - 🔵 **How Anthropic may have talked itself into an AI export ban** — Ars Technica AI — `2026-06-22T13:45:24+00:00`
   - https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
   - The company warned about dangers of advanced AI far more than rival OpenAI.
