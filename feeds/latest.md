@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-24T20:03:13.627968+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-24T21:42:27.841792+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,12 +23,12 @@
 - 🟢 **NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure** — NVIDIA — `2026-06-22T13:00:38+00:00`
   - https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/
   - For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to
-- 🟢 **NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory** — NVIDIA — `2026-06-22T13:00:20+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/
-  - Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with
 - 🟢 **From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries** — NVIDIA — `2026-06-22T13:00:20+00:00`
   - https://blogs.nvidia.com/blog/ai-for-science-software-cuda/
   - At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,
+- 🟢 **NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory** — NVIDIA — `2026-06-22T13:00:20+00:00`
+  - https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/
+  - Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with
 - 🟢 **Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins** — NVIDIA — `2026-06-22T13:00:13+00:00`
   - https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/
   - The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec
@@ -52,12 +52,12 @@
 - 🟢 **How Omio is building the future of conversational travel** — OpenAI — `2026-06-23T00:00:00+00:00`
   - https://openai.com/index/omio
   - Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
-- 🟢 **Patch the Planet: a Daybreak initiative to support open source maintainers** — OpenAI — `2026-06-22T10:00:00+00:00`
-  - https://openai.com/index/patch-the-planet
-  - OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
 - 🟢 **Daybreak: Tools for securing every organization in the world** — OpenAI — `2026-06-22T10:00:00+00:00`
   - https://openai.com/index/daybreak-securing-the-world
   - OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
+- 🟢 **Patch the Planet: a Daybreak initiative to support open source maintainers** — OpenAI — `2026-06-22T10:00:00+00:00`
+  - https://openai.com/index/patch-the-planet
+  - OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
 - 🟢 **Codex-maxxing for long-running work** — OpenAI — `2026-06-22T00:00:00+00:00`
   - https://openai.com/index/codex-maxxing-long-running-work
   - Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.
@@ -609,6 +609,15 @@
 
 ## Tin tức
 
+- 🔵 **AI researchers continue to leave Google for its rivals** — TechCrunch AI — `2026-06-24T21:42:07+00:00`
+  - https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/
+  - Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.
+- 🔵 **The memory chip crunch is paying off for this U.S. company** — TechCrunch AI — `2026-06-24T21:30:55+00:00`
+  - https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/
+  - Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.
+- 🔵 **Companies are scrambling to stop employees from maxing out AI budgets with small tasks** — TechCrunch AI — `2026-06-24T20:09:45+00:00`
+  - https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/
+  - The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.
 - 🔵 **Congresswoman denies staff used AI to write defense funding amendment** — The Verge AI — `2026-06-24T19:36:46+00:00`
   - https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude
   - Rep. Anna Paulina Luna (R-FL) says her staff used AI for "spellcheck" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says "NO Legislation is ever drafted with AI." Luna issued the response after accounts on X began sharing screenshots of an amen
@@ -696,12 +705,6 @@
 - 🔵 **Amazon is testing Alexa+ in India with Hindi support** — TechCrunch AI — `2026-06-22T17:31:29+00:00`
   - https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/
   - Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.
-- 🔵 **SpaceX inks compute deal with Reflection AI, an open source AI lab** — TechCrunch AI — `2026-06-22T16:51:29+00:00`
-  - https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/
-  - Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.
-- 🔵 **The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26** — TechCrunch AI — `2026-06-22T14:00:00+00:00`
-  - https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/
-  - Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.
 - 🔵 **How Anthropic may have talked itself into an AI export ban** — Ars Technica AI — `2026-06-22T13:45:24+00:00`
   - https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
   - The company warned about dangers of advanced AI far more than rival OpenAI.
