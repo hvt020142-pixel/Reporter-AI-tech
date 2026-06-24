@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-24T12:28:24.522550+00:00",
+  "generated_at": "2026-06-24T16:31:19.732790+00:00",
   "lookback_hours": 72,
-  "item_count": 223,
+  "item_count": 228,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 7,
-      "items_total": 1019
+      "items_kept": 8,
+      "items_total": 1020
     },
     {
       "source": "Google DeepMind",
@@ -30,8 +30,8 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 5,
-      "items_total": 808
+      "items_kept": 7,
+      "items_total": 810
     },
     {
       "source": "arXiv cs.AI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 15,
+      "items_kept": 16,
       "items_total": 19
     },
     {
@@ -90,12 +90,102 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-24T16:15:00+00:00",
+      "published_ts": 1782317700.0,
+      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plugins for various tasks using AI."
+    },
+    {
+      "title": "Figma now has AI motion graphics and shader tools",
+      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-24T16:15:00+00:00",
+      "published_ts": 1782317700.0,
+      "summary": "Figma has unveiled some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing te"
+    },
+    {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-24T16:00:13+00:00",
+      "published_ts": 1782316813.0,
+      "summary": ""
+    },
+    {
+      "title": "Europe’s extreme heat is shutting down power plants",
+      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-24T15:25:28+00:00",
+      "published_ts": 1782314728.0,
+      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8"
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-24T14:54:46+00:00",
+      "published_ts": 1782312886.0,
+      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
+    },
+    {
+      "title": "OpenAI reveals its first AI processor: Jalapeño",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-24T14:36:47+00:00",
+      "published_ts": 1782311807.0,
+      "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Inte"
+    },
+    {
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-24T14:00:00+00:00",
+      "published_ts": 1782309600.0,
+      "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today."
+    },
+    {
+      "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-24T13:00:01+00:00",
+      "published_ts": 1782306001.0,
+      "summary": "Summary RFIC design is a complex “ dark art ” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite communications. Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch. Diffusion models rapidly generate novel or"
+    },
+    {
+      "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
+      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-24T13:00:00+00:00",
+      "published_ts": 1782306000.0,
+      "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones h"
+    },
     {
       "title": "The Download: introducing the Engineering issue",
       "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
@@ -107,14 +197,14 @@
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through h"
     },
     {
-      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
       "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
       "source": "MIT Tech Review",
       "category": "Phân tích",
       "tier": "reputable",
       "published_iso": "2026-06-24T12:00:00+00:00",
       "published_ts": 1782302400.0,
-      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;"
+      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;"
     },
     {
       "title": "The emergence of the web data infrastructure layer for AI",
@@ -145,6 +235,16 @@
       "published_iso": "2026-06-24T09:00:00+00:00",
       "published_ts": 1782291600.0,
       "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the"
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-24T06:00:00+00:00",
+      "published_ts": 1782280800.0,
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
     },
     {
       "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
@@ -1757,6 +1857,16 @@
       "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Am"
     },
     {
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-24T00:00:00+00:00",
+      "published_ts": 1782259200.0,
+      "summary": ""
+    },
+    {
       "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
       "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
       "source": "TechCrunch AI",
@@ -1825,16 +1935,6 @@
       "published_iso": "2026-06-23T21:00:00+00:00",
       "published_ts": 1782248400.0,
       "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned "
-    },
-    {
-      "title": "Stand Up for Research, Innovation, and Education",
-      "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T21:00:00+00:00",
-      "published_ts": 1782248400.0,
-      "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and t"
     },
     {
       "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
@@ -2057,16 +2157,6 @@
       "summary": ""
     },
     {
-      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-22T23:24:32+00:00",
-      "published_ts": 1782170672.0,
-      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it"
-    },
-    {
       "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
       "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
       "source": "Ars Technica AI",
@@ -2105,16 +2195,6 @@
       "published_iso": "2026-06-22T20:08:15+00:00",
       "published_ts": 1782158895.0,
       "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants."
-    },
-    {
-      "title": "AI is cursing renters with the promise of impossible homes",
-      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-22T20:00:00+00:00",
-      "published_ts": 1782158400.0,
-      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It"
     },
     {
       "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
@@ -2237,16 +2317,6 @@
       "summary": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec"
     },
     {
-      "title": "Read this before you vibe-code another app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-22T11:00:00+00:00",
-      "published_ts": 1782126000.0,
-      "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou"
-    },
-    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
       "source": "OpenAI",
@@ -2305,26 +2375,6 @@
       "published_iso": "2026-06-21T23:00:00+00:00",
       "published_ts": 1782082800.0,
       "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
-    },
-    {
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-21T15:28:17+00:00",
-      "published_ts": 1782055697.0,
-      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
-    },
-    {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-21T14:40:28+00:00",
-      "published_ts": 1782052828.0,
-      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-24T12:28:24.522550+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-24T16:31:19.732790+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -38,6 +38,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **OpenAI and Broadcom unveil LLM-optimized inference chip** — OpenAI — `2026-06-24T06:00:00+00:00`
+  - https://openai.com/index/openai-broadcom-jalapeno-inference-chip
+  - OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.
 - 🟢 **How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery** — OpenAI — `2026-06-23T17:00:00+00:00`
   - https://openai.com/index/gpt-5-immunology-mystery
   - GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.
@@ -62,6 +65,10 @@
 
 ## Mô hình mở
 
+- 🟢 **Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel** — Hugging Face — `2026-06-24T16:00:13+00:00`
+  - https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel
+- 🟢 **Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World** — Hugging Face — `2026-06-24T00:00:00+00:00`
+  - https://huggingface.co/blog/ffasr-leaderboard
 - 🟢 **Build real agentic apps using CUGA: two dozen working examples on a lightweight harness** — Hugging Face — `2026-06-23T12:51:55+00:00`
   - https://huggingface.co/blog/ibm-research/cuga-apps
 - 🟢 **Shipping huggingface_hub every week with AI, open tools, and a human in the loop** — Hugging Face — `2026-06-23T00:00:00+00:00`
@@ -558,12 +565,18 @@
 
 ## Phân tích
 
+- 🔵 **Europe’s extreme heat is shutting down power plants** — MIT Tech Review — `2026-06-24T15:25:28+00:00`
+  - https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/
+  - Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8
+- 🔵 **AI Is Designing Radio Chips That Humans Couldn’t Even Imagine** — IEEE Spectrum AI — `2026-06-24T13:00:01+00:00`
+  - https://spectrum.ieee.org/ai-radio-chip-design
+  - Summary RFIC design is a complex “ dark art ” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite communications. Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch. Diffusion models rapidly generate novel or
 - 🔵 **The Download: introducing the Engineering issue** — MIT Tech Review — `2026-06-24T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through h
-- 🔵 **Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections** — MIT Tech Review — `2026-06-24T12:00:00+00:00`
+- 🔵 **Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections** — MIT Tech Review — `2026-06-24T12:00:00+00:00`
   - https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/
-  - The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;
+  - The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;
 - 🔵 **The emergence of the web data infrastructure layer for AI** — MIT Tech Review — `2026-06-24T11:59:54+00:00`
   - https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/
   - AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati
@@ -585,9 +598,6 @@
 - 🔵 **Sharing a love for calculus** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
   - https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/
   - The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned 
-- 🔵 **Stand Up for Research, Innovation, and Education** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/
-  - Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and t
 - 🔵 **AI Is Learning to Read the Room** — IEEE Spectrum AI — `2026-06-23T12:00:01+00:00`
   - https://spectrum.ieee.org/emotion-ai-context
   - Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v
@@ -597,6 +607,24 @@
 
 ## Tin tức
 
+- 🔵 **Figma adds code layers, support for animations, more AI features in new update** — TechCrunch AI — `2026-06-24T16:15:00+00:00`
+  - https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/
+  - Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plugins for various tasks using AI.
+- 🔵 **Figma now has AI motion graphics and shader tools** — The Verge AI — `2026-06-24T16:15:00+00:00`
+  - https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements
+  - Figma has unveiled some new design and coding product updates at its annual Config conference that aim to help creatives "push their ideas further" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing te
+- 🔵 **OpenAI unveils its first custom chip, built by Broadcom** — TechCrunch AI — `2026-06-24T14:54:46+00:00`
+  - https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
+  - Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.
+- 🔵 **OpenAI reveals its first AI processor: Jalapeño** — The Verge AI — `2026-06-24T14:36:47+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno
+  - OpenAI has just revealed a new "intelligence processor" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Inte
+- 🔵 **3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass** — TechCrunch AI — `2026-06-24T14:00:00+00:00`
+  - https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/
+  - You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.
+- 🔵 **The Google Home Speaker sounds good and looks great — but it’s finicky** — The Verge AI — `2026-06-24T13:00:00+00:00`
+  - https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on
+  - Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said "Hey, Google." In fact, in two days of testing, the speaker's three microphones h
 - 🔵 **India’s MoEngage bets that the future of marketing is millions of AI agents** — TechCrunch AI — `2026-06-23T23:30:00+00:00`
   - https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/
   - The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.
@@ -642,9 +670,6 @@
 - 🔵 **OpenAI launches new initiative to help find and patch open source bugs** — TechCrunch AI — `2026-06-23T00:11:31+00:00`
   - https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
   - OpenAI is using AI to help the open source community better protect itself.
-- 🔵 **Nvidia says its AI data center design runs hotter to use a lot less water** — The Verge AI — `2026-06-22T23:24:32+00:00`
-  - https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling
-  - Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has "eliminated massive amounts of power usage and pretty much all water usage." Still, it
 - 🔵 **GM installs robots at flagship EV factory after laying off 1,300 workers** — Ars Technica AI — `2026-06-22T21:52:39+00:00`
   - https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/
   - US autoworkers union warns of robot automation as dark factory future looms.
@@ -657,9 +682,6 @@
 - 🔵 **Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem** — TechCrunch AI — `2026-06-22T20:08:15+00:00`
   - https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/
   - Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.
-- 🔵 **AI is cursing renters with the promise of impossible homes** — The Verge AI — `2026-06-22T20:00:00+00:00`
-  - https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings
-  - Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be "hell." After looking at a lot of tiny, overpriced places she described as "shitholes," Joyce found her dream apartment: a reasonably priced studio in Manhattan. "It
 - 🔵 **Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal** — TechCrunch AI — `2026-06-22T18:49:44+00:00`
   - https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/
   - Google DeepMind and A24 are teaming up to build AI filmmaking tools.
@@ -675,15 +697,6 @@
 - 🔵 **How Anthropic may have talked itself into an AI export ban** — Ars Technica AI — `2026-06-22T13:45:24+00:00`
   - https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
   - The company warned about dangers of advanced AI far more than rival OpenAI.
-- 🔵 **Read this before you vibe-code another app** — The Verge AI — `2026-06-22T11:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps
-  - Bob Starr was delighted with his vibe-coded website. "Boomberg" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou
-- 🔵 **When the Trump administration cracks down on Anthropic, who benefits?** — TechCrunch AI — `2026-06-21T15:28:17+00:00`
-  - https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/
-  - On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.
-- 🔵 **Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27** — TechCrunch AI — `2026-06-21T14:40:28+00:00`
-  - https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/
-  - Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
