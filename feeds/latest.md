@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-24T16:31:19.732790+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-24T20:03:13.627968+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,12 +23,12 @@
 - 🟢 **NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure** — NVIDIA — `2026-06-22T13:00:38+00:00`
   - https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/
   - For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to
-- 🟢 **From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries** — NVIDIA — `2026-06-22T13:00:20+00:00`
-  - https://blogs.nvidia.com/blog/ai-for-science-software-cuda/
-  - At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,
 - 🟢 **NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory** — NVIDIA — `2026-06-22T13:00:20+00:00`
   - https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/
   - Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with
+- 🟢 **From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries** — NVIDIA — `2026-06-22T13:00:20+00:00`
+  - https://blogs.nvidia.com/blog/ai-for-science-software-cuda/
+  - At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,
 - 🟢 **Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins** — NVIDIA — `2026-06-22T13:00:13+00:00`
   - https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/
   - The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec
@@ -38,6 +38,8 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Introducing computer use in Gemini 3.5 Flash** — Google DeepMind — `2026-06-24T16:30:01+00:00`
+  - https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/
 - 🟢 **OpenAI and Broadcom unveil LLM-optimized inference chip** — OpenAI — `2026-06-24T06:00:00+00:00`
   - https://openai.com/index/openai-broadcom-jalapeno-inference-chip
   - OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.
@@ -50,12 +52,12 @@
 - 🟢 **How Omio is building the future of conversational travel** — OpenAI — `2026-06-23T00:00:00+00:00`
   - https://openai.com/index/omio
   - Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
-- 🟢 **Daybreak: Tools for securing every organization in the world** — OpenAI — `2026-06-22T10:00:00+00:00`
-  - https://openai.com/index/daybreak-securing-the-world
-  - OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
 - 🟢 **Patch the Planet: a Daybreak initiative to support open source maintainers** — OpenAI — `2026-06-22T10:00:00+00:00`
   - https://openai.com/index/patch-the-planet
   - OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
+- 🟢 **Daybreak: Tools for securing every organization in the world** — OpenAI — `2026-06-22T10:00:00+00:00`
+  - https://openai.com/index/daybreak-securing-the-world
+  - OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
 - 🟢 **Codex-maxxing for long-running work** — OpenAI — `2026-06-22T00:00:00+00:00`
   - https://openai.com/index/codex-maxxing-long-running-work
   - Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.
@@ -607,12 +609,24 @@
 
 ## Tin tức
 
+- 🔵 **Congresswoman denies staff used AI to write defense funding amendment** — The Verge AI — `2026-06-24T19:36:46+00:00`
+  - https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude
+  - Rep. Anna Paulina Luna (R-FL) says her staff used AI for "spellcheck" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says "NO Legislation is ever drafted with AI." Luna issued the response after accounts on X began sharing screenshots of an amen
+- 🔵 **The $27 million Al proxy war over Alex Bores ends in a draw** — The Verge AI — `2026-06-24T17:25:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results
+  - The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional dist
+- 🔵 **Facebook rolls out an AI companion app for creators** — TechCrunch AI — `2026-06-24T17:16:24+00:00`
+  - https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/
+  - The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.
+- 🔵 **Agility Robotics plans to go public via SPAC in a $2.5B deal** — TechCrunch AI — `2026-06-24T16:48:43+00:00`
+  - https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/
+  - Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.
 - 🔵 **Figma adds code layers, support for animations, more AI features in new update** — TechCrunch AI — `2026-06-24T16:15:00+00:00`
   - https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/
-  - Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plugins for various tasks using AI.
+  - Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.
 - 🔵 **Figma now has AI motion graphics and shader tools** — The Verge AI — `2026-06-24T16:15:00+00:00`
   - https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements
-  - Figma has unveiled some new design and coding product updates at its annual Config conference that aim to help creatives "push their ideas further" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing te
+  - Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives "push their ideas further" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing te
 - 🔵 **OpenAI unveils its first custom chip, built by Broadcom** — TechCrunch AI — `2026-06-24T14:54:46+00:00`
   - https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
   - Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.
@@ -652,15 +666,9 @@
 - 🔵 **4 days left to save up to $190 on TechCrunch Founder Summit 2026** — TechCrunch AI — `2026-06-23T14:00:00+00:00`
   - https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/
   - Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.
-- 🔵 **Sony’s AI Camera Assistant is exactly as bad as it looks** — The Verge AI — `2026-06-23T13:25:42+00:00`
-  - https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant
-  - When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you [&#8230;]
 - 🔵 **Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates** — TechCrunch AI — `2026-06-23T13:00:00+00:00`
   - https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/
   - Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.
-- 🔵 **Meta launches cheaper smart glasses without Ray-Ban** — The Verge AI — `2026-06-23T13:00:00+00:00`
-  - https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy
-  - For the past three years, "Meta" and "Ray-Ban" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople
 - 🔵 **How to burst the AI bubble: Strike at its roots** — Ars Technica AI — `2026-06-23T12:00:34+00:00`
   - https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/
   - Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI .
