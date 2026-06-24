@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-24T09:49:41.160249+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-24T12:28:24.522550+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -558,6 +558,15 @@
 
 ## Phân tích
 
+- 🔵 **The Download: introducing the Engineering issue** — MIT Tech Review — `2026-06-24T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through h
+- 🔵 **Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections** — MIT Tech Review — `2026-06-24T12:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/
+  - The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;
+- 🔵 **The emergence of the web data infrastructure layer for AI** — MIT Tech Review — `2026-06-24T11:59:54+00:00`
+  - https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/
+  - AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati
 - 🔵 **This flying solar-powered platform could deliver better internet from the air** — MIT Tech Review — `2026-06-24T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/
   - As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surfa
@@ -579,15 +588,6 @@
 - 🔵 **Stand Up for Research, Innovation, and Education** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
   - https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/
   - Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and t
-- 🔵 **Ultrasound imaging turns a robot hand into a skillful mimic** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/
-  - Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures. So far, robots have been notoriously bad at mimicking that dexterity, in part because researchers struggle to capture what is ac
-- 🔵 **Reinventing the zipper** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/
-  - With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD
-- 🔵 **Engineered “mini livers” could be injected as an alternative to transplantation** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/
-  - A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removin
 - 🔵 **AI Is Learning to Read the Room** — IEEE Spectrum AI — `2026-06-23T12:00:01+00:00`
   - https://spectrum.ieee.org/emotion-ai-context
   - Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v
