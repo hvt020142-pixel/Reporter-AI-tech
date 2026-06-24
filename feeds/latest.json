@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T04:22:07.254489+00:00",
+  "generated_at": "2026-06-24T09:49:41.160249+00:00",
   "lookback_hours": 72,
   "item_count": 223,
   "sources_ok": [
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-24T09:00:00+00:00",
+      "published_ts": 1782291600.0,
+      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surfa"
+    },
+    {
+      "title": "All challenges big and small",
+      "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-24T09:00:00+00:00",
+      "published_ts": 1782291600.0,
+      "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the"
+    },
     {
       "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
       "url": "https://arxiv.org/abs/2606.23927",
@@ -1815,26 +1835,6 @@
       "published_iso": "2026-06-23T21:00:00+00:00",
       "published_ts": 1782248400.0,
       "summary": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removin"
-    },
-    {
-      "title": "Plants appear to detect the patter of falling rain",
-      "url": "https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T21:00:00+00:00",
-      "published_ts": 1782248400.0,
-      "summary": "MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly. When a raindrop hit"
-    },
-    {
-      "title": "A breath test could diagnose pneumonia in minutes",
-      "url": "https://www.technologyreview.com/2026/06/23/1138291/a-breath-test-could-diagnose-pneumonia-in-minutes/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T21:00:00+00:00",
-      "published_ts": 1782248400.0,
-      "summary": "With a test being developed at MIT, diagnosing pneumonia and other lung conditions could someday be as easy as breathing into a tube.&#160; The test, dubbed PlasmoSniff, is a portable, chip-scale sensor that traps and detects biomarkers, synthetic compounds indicating disease. The idea is that a per"
     },
     {
       "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",

@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-24T04:22:07.254489+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-24T09:49:41.160249+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -558,6 +558,12 @@
 
 ## Phân tích
 
+- 🔵 **This flying solar-powered platform could deliver better internet from the air** — MIT Tech Review — `2026-06-24T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/
+  - As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surfa
+- 🔵 **All challenges big and small** — MIT Tech Review — `2026-06-24T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/
+  - When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the
 - 🔵 **Heads in the game** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
   - https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/
   - The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,&#8230;
@@ -582,12 +588,6 @@
 - 🔵 **Engineered “mini livers” could be injected as an alternative to transplantation** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
   - https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/
   - A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removin
-- 🔵 **Plants appear to detect the patter of falling rain** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/
-  - MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly. When a raindrop hit
-- 🔵 **A breath test could diagnose pneumonia in minutes** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138291/a-breath-test-could-diagnose-pneumonia-in-minutes/
-  - With a test being developed at MIT, diagnosing pneumonia and other lung conditions could someday be as easy as breathing into a tube.&#160; The test, dubbed PlasmoSniff, is a portable, chip-scale sensor that traps and detects biomarkers, synthetic compounds indicating disease. The idea is that a per
 - 🔵 **AI Is Learning to Read the Room** — IEEE Spectrum AI — `2026-06-23T12:00:01+00:00`
   - https://spectrum.ieee.org/emotion-ai-context
   - Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v
