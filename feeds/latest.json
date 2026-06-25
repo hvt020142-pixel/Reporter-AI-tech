@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-25T04:21:15.257766+00:00",
+  "generated_at": "2026-06-25T09:41:10.110376+00:00",
   "lookback_hours": 72,
   "item_count": 225,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 6,
-      "items_total": 1020
+      "items_kept": 7,
+      "items_total": 1021
     },
     {
       "source": "Google DeepMind",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 10,
+      "items_kept": 9,
       "items_total": 18
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T09:06:19+00:00",
+      "published_ts": 1782378379.0,
+      "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assi"
+    },
     {
       "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
       "url": "https://arxiv.org/abs/2606.24937",
@@ -1647,6 +1657,16 @@
       "summary": "arXiv:2606.25430v1 Announce Type: new Abstract: Reconstructing 3D scenes from a single image is a fundamental challenge in computer vision, with broad applications in virtual reality, robotics, and content creation. Recent methods achieve outstanding performance by leveraging camera-controlled video"
     },
     {
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-25T02:00:00+00:00",
+      "published_ts": 1782352800.0,
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
+    },
+    {
       "title": "Europe is pushing back on Washington’s chip war",
       "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
       "source": "TechCrunch AI",
@@ -1654,7 +1674,7 @@
       "tier": "reputable",
       "published_iso": "2026-06-25T00:08:36+00:00",
       "published_ts": 1782346116.0,
-      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits."
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits."
     },
     {
       "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
@@ -2067,16 +2087,6 @@
       "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa."
     },
     {
-      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
-      "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T15:00:00+00:00",
-      "published_ts": 1782226800.0,
-      "summary": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, remin"
-    },
-    {
       "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
       "source": "TechCrunch AI",
@@ -2317,16 +2327,6 @@
       "summary": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec"
     },
     {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-22T10:00:00+00:00",
-      "published_ts": 1782122400.0,
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
-    },
-    {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
       "source": "OpenAI",
@@ -2337,14 +2337,14 @@
       "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
     },
     {
-      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
       "tier": "primary",
-      "published_iso": "2026-06-22T05:00:22+00:00",
-      "published_ts": 1782104422.0,
-      "summary": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more "
+      "published_iso": "2026-06-22T10:00:00+00:00",
+      "published_ts": 1782122400.0,
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
     }
   ]
 }

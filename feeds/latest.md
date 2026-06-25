@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-25T04:21:15.257766+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-25T09:41:10.110376+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -32,12 +32,12 @@
 - 🟢 **Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins** — NVIDIA — `2026-06-22T13:00:13+00:00`
   - https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/
   - The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec
-- 🟢 **Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines** — NVIDIA — `2026-06-22T05:00:22+00:00`
-  - https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/
-  - Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more 
 
 ## Mô hình & LLM
 
+- 🟢 **How agents are transforming work** — OpenAI — `2026-06-25T02:00:00+00:00`
+  - https://openai.com/index/how-agents-are-transforming-work
+  - A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
 - 🟢 **Introducing computer use in Gemini 3.5 Flash** — Google DeepMind — `2026-06-24T16:30:01+00:00`
   - https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/
 - 🟢 **OpenAI and Broadcom unveil LLM-optimized inference chip** — OpenAI — `2026-06-24T06:00:00+00:00`
@@ -52,12 +52,12 @@
 - 🟢 **How Omio is building the future of conversational travel** — OpenAI — `2026-06-23T00:00:00+00:00`
   - https://openai.com/index/omio
   - Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
-- 🟢 **Daybreak: Tools for securing every organization in the world** — OpenAI — `2026-06-22T10:00:00+00:00`
-  - https://openai.com/index/daybreak-securing-the-world
-  - OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
 - 🟢 **Patch the Planet: a Daybreak initiative to support open source maintainers** — OpenAI — `2026-06-22T10:00:00+00:00`
   - https://openai.com/index/patch-the-planet
   - OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
+- 🟢 **Daybreak: Tools for securing every organization in the world** — OpenAI — `2026-06-22T10:00:00+00:00`
+  - https://openai.com/index/daybreak-securing-the-world
+  - OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
 
 ## Mô hình mở
 
@@ -586,9 +586,12 @@
 
 ## Tin tức
 
+- 🔵 **Facebook’s Creator Studio has been revived as an AI companion app** — The Verge AI — `2026-06-25T09:06:19+00:00`
+  - https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch
+  - Meta is bringing back the Facebook Creator Studio page manager, now "reimagined" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them "exactly how to grow on Facebook," according to Meta's announcement. Meta's AI Creator Assi
 - 🔵 **Europe is pushing back on Washington’s chip war** — TechCrunch AI — `2026-06-25T00:08:36+00:00`
   - https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/
-  - As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.
+  - As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.
 - 🔵 **Former Infosys chief has a new startup that wants to challenge the IT services world** — TechCrunch AI — `2026-06-24T23:26:52+00:00`
   - https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/
   - Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.
@@ -661,9 +664,6 @@
 - 🔵 **Something&#8217;s off with Midjourney’s pivot to body scanners** — The Verge AI — `2026-06-23T15:56:35+00:00`
   - https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence
   - Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce "something as powerful as MRI" yet "as casual as a trip to the spa.
-- 🔵 **The Fitbit Air takes a smarter approach to the AI health dumpster fire** — The Verge AI — `2026-06-23T15:00:00+00:00`
-  - https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach
-  - Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, remin
 - 🔵 **4 days left to save up to $190 on TechCrunch Founder Summit 2026** — TechCrunch AI — `2026-06-23T14:00:00+00:00`
   - https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/
   - Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.
