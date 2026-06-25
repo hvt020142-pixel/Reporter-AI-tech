@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-25T20:20:34.924275+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-25T23:42:29.165557+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -13,7 +13,7 @@
   - Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Am
 - 🟢 **How Businesses Are Building Specialized AI They Can Trust** — NVIDIA — `2026-06-23T13:00:07+00:00`
   - https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/
-  - Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was about access. Companies experimented with new frontier and open models, ran pilots and explored how AI can help. Now, specialized agents — systems of models that 
+  - Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real v
 - 🟢 **NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers** — NVIDIA — `2026-06-23T09:00:38+00:00`
   - https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/
   - NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.
@@ -46,6 +46,8 @@
 
 ## Mô hình mở
 
+- 🟢 **Run a vLLM Server on HF Jobs in One Command** — Hugging Face — `2026-06-26T00:00:00+00:00`
+  - https://huggingface.co/blog/vllm-jobs
 - 🟢 **Which tokens does a hybrid model predict better?** — Hugging Face — `2026-06-25T16:11:42+00:00`
   - https://huggingface.co/blog/allenai/hybrid-token-prediction
 - 🟢 **Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel** — Hugging Face — `2026-06-24T16:00:13+00:00`
@@ -574,9 +576,15 @@
 
 ## Tin tức
 
-- 🔵 **Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents** — TechCrunch AI — `2026-06-25T20:19:25+00:00`
+- 🔵 **The White House is asking OpenAI to slow roll the release of its new model over safety concerns** — TechCrunch AI — `2026-06-25T23:34:39+00:00`
+  - https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
+  - penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.
+- 🔵 **OpenAI will delay GPT-5.6 after Trump administration request** — The Verge AI — `2026-06-25T21:57:06+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
+  - The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited pr
+- 🔵 **Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents** — TechCrunch AI — `2026-06-25T20:19:25+00:00`
   - https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
-  - Agent testing startup Patronus AI, founded by former Meta AI researchers, is experienced nearly insatiable demand, its investor says.
+  - Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.
 - 🔵 **Notion killing Skiff-influenced email app since most users use AI agents instead** — Ars Technica AI — `2026-06-25T19:04:57+00:00`
   - https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/
   - Notion is "going all in on using agents to run your inbox."
@@ -664,9 +672,6 @@
 - 🔵 **OpenAI reveals its first AI processor: Jalapeño** — The Verge AI — `2026-06-24T14:36:47+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno
   - OpenAI has just revealed a new "intelligence processor" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Inte
-- 🔵 **3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass** — TechCrunch AI — `2026-06-24T14:00:00+00:00`
-  - https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/
-  - You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.
 - 🔵 **The Google Home Speaker sounds good and looks great — but it’s finicky** — The Verge AI — `2026-06-24T13:00:00+00:00`
   - https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on
   - Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said "Hey, Google." In fact, in two days of testing, the speaker's three microphones h
@@ -679,15 +684,9 @@
 - 🔵 **Oracle’s 21,000 layoffs help drive its debt-fueled AI investments** — Ars Technica AI — `2026-06-23T20:17:38+00:00`
   - https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/
   - Oracle is spending billions on data center infrastructure to support AI.
-- 🔵 **Why corporate AI super PACs spent $27 million on a local election** — The Verge AI — `2026-06-23T17:00:00+00:00`
-  - https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district
-  - Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. ("Favorite" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime
 - 🔵 **How to burst the AI bubble: Strike at its roots** — Ars Technica AI — `2026-06-23T12:00:34+00:00`
   - https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/
   - Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI .
-- 🔵 **GM installs robots at flagship EV factory after laying off 1,300 workers** — Ars Technica AI — `2026-06-22T21:52:39+00:00`
-  - https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/
-  - US autoworkers union warns of robot automation as dark factory future looms.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
