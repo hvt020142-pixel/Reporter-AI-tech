@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-25T09:41:10.110376+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-25T12:32:22.190667+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -52,12 +52,6 @@
 - 🟢 **How Omio is building the future of conversational travel** — OpenAI — `2026-06-23T00:00:00+00:00`
   - https://openai.com/index/omio
   - Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
-- 🟢 **Patch the Planet: a Daybreak initiative to support open source maintainers** — OpenAI — `2026-06-22T10:00:00+00:00`
-  - https://openai.com/index/patch-the-planet
-  - OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.
-- 🟢 **Daybreak: Tools for securing every organization in the world** — OpenAI — `2026-06-22T10:00:00+00:00`
-  - https://openai.com/index/daybreak-securing-the-world
-  - OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.
 
 ## Mô hình mở
 
@@ -544,6 +538,15 @@
 
 ## Phân tích
 
+- 🔵 **The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law** — MIT Tech Review — `2026-06-25T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits
+- 🔵 **What Europe’s heat wave means for the power grid** — MIT Tech Review — `2026-06-25T10:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/
+  - It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event 
+- 🔵 **IBM has unveiled chip technology that could help extend Moore’s Law another decade** — MIT Tech Review — `2026-06-25T10:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/
+  - IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co
 - 🔵 **Europe’s extreme heat is shutting down power plants** — MIT Tech Review — `2026-06-24T15:25:28+00:00`
   - https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/
   - Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8
@@ -568,15 +571,6 @@
 - 🔵 **Heads in the game** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
   - https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/
   - The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,&#8230;
-- 🔵 **Super Mario is mathier than you think** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/
-  - Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and 
-- 🔵 **A man of many words** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/
-  - Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition 
-- 🔵 **Sharing a love for calculus** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/
-  - The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned 
 - 🔵 **AI Is Learning to Read the Room** — IEEE Spectrum AI — `2026-06-23T12:00:01+00:00`
   - https://spectrum.ieee.org/emotion-ai-context
   - Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v
@@ -586,6 +580,15 @@
 
 ## Tin tức
 
+- 🔵 **Amazon ups India bet with fresh $13B AI infrastructure investment** — TechCrunch AI — `2026-06-25T12:00:38+00:00`
+  - https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/
+  - Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.
+- 🔵 **Ford had to hire back former engineers to fix mistakes made by its automated systems** — The Verge AI — `2026-06-25T12:00:00+00:00`
+  - https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes
+  - To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were n
+- 🔵 **IBM claims world’s first sub-1 nanometer chip technology** — Ars Technica AI — `2026-06-25T10:00:55+00:00`
+  - https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/
+  - IBM’s nanostack transistors could boost chip performance or energy efficiency.
 - 🔵 **Facebook’s Creator Studio has been revived as an AI companion app** — The Verge AI — `2026-06-25T09:06:19+00:00`
   - https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch
   - Meta is bringing back the Facebook Creator Studio page manager, now "reimagined" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them "exactly how to grow on Facebook," according to Meta's announcement. Meta's AI Creator Assi
@@ -661,9 +664,6 @@
 - 🔵 **Why corporate AI super PACs spent $27 million on a local election** — The Verge AI — `2026-06-23T17:00:00+00:00`
   - https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district
   - Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. ("Favorite" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime
-- 🔵 **Something&#8217;s off with Midjourney’s pivot to body scanners** — The Verge AI — `2026-06-23T15:56:35+00:00`
-  - https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence
-  - Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce "something as powerful as MRI" yet "as casual as a trip to the spa.
 - 🔵 **4 days left to save up to $190 on TechCrunch Founder Summit 2026** — TechCrunch AI — `2026-06-23T14:00:00+00:00`
   - https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/
   - Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.
@@ -682,9 +682,6 @@
 - 🔵 **GM installs robots at flagship EV factory after laying off 1,300 workers** — Ars Technica AI — `2026-06-22T21:52:39+00:00`
   - https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/
   - US autoworkers union warns of robot automation as dark factory future looms.
-- 🔵 **The AI world is getting ‘loopy’** — TechCrunch AI — `2026-06-22T20:53:11+00:00`
-  - https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/
-  - The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.
 - 🔵 **How Anthropic may have talked itself into an AI export ban** — Ars Technica AI — `2026-06-22T13:45:24+00:00`
   - https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
   - The company warned about dangers of advanced AI far more than rival OpenAI.
