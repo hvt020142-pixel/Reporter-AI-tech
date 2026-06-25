@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-25T16:34:44.077976+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-25T20:20:34.924275+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -529,6 +529,9 @@
 
 ## Phân tích
 
+- 🔵 **Why Does a Bank Need a Chief Scientist?** — IEEE Spectrum AI — `2026-06-25T17:32:32+00:00`
+  - https://spectrum.ieee.org/capital-one-science-ai-finance-innovation
+  - This article is brought to you by Capital One . After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution s
 - 🔵 **Repositioning retail for the AI era** — MIT Tech Review — `2026-06-25T14:22:59+00:00`
   - https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/
   - Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven
@@ -568,15 +571,30 @@
 - 🔵 **AI Is Learning to Read the Room** — IEEE Spectrum AI — `2026-06-23T12:00:01+00:00`
   - https://spectrum.ieee.org/emotion-ai-context
   - Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v
-- 🔵 **Commemorating 70 Years of Artificial Intelligence** — IEEE Spectrum AI — `2026-06-22T18:00:01+00:00`
-  - https://spectrum.ieee.org/70-years-of-artificial-intelligence
-  - Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other tec
 
 ## Tin tức
 
-- 🔵 **General Intuition raises $2.3B on bet that video games can train AI agents for the real world** — TechCrunch AI — `2026-06-25T16:00:00+00:00`
-  - https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
+- 🔵 **Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents** — TechCrunch AI — `2026-06-25T20:19:25+00:00`
+  - https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
+  - Agent testing startup Patronus AI, founded by former Meta AI researchers, is experienced nearly insatiable demand, its investor says.
+- 🔵 **Notion killing Skiff-influenced email app since most users use AI agents instead** — Ars Technica AI — `2026-06-25T19:04:57+00:00`
+  - https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/
+  - Notion is "going all in on using agents to run your inbox."
+- 🔵 **Google finally releases a Finance Android app, promises iOS version later in 2026** — Ars Technica AI — `2026-06-25T18:38:51+00:00`
+  - https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/
+  - It took 20 years, but the Finance app arrives just in time to be packed full of AI.
+- 🔵 **Anthropic says Alibaba must be punished for largest Claude cloning attack** — Ars Technica AI — `2026-06-25T18:01:48+00:00`
+  - https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/
+  - Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.
+- 🔵 **Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT** — TechCrunch AI — `2026-06-25T17:38:27+00:00`
+  - https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/
+  - Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.
+- 🔵 **General Intuition’s $2.3B bet that video games can train AI agents for the real world** — TechCrunch AI — `2026-06-25T16:55:00+00:00`
+  - https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
   - General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.
+- 🔵 **Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x** — TechCrunch AI — `2026-06-25T16:48:11+00:00`
+  - https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/
+  - Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.
 - 🔵 **Netris raises $15M Series A from a16z to help AI neoclouds go live faster** — TechCrunch AI — `2026-06-25T14:55:38+00:00`
   - https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/
   - Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.
@@ -652,9 +670,6 @@
 - 🔵 **The Google Home Speaker sounds good and looks great — but it’s finicky** — The Verge AI — `2026-06-24T13:00:00+00:00`
   - https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on
   - Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said "Hey, Google." In fact, in two days of testing, the speaker's three microphones h
-- 🔵 **India’s MoEngage bets that the future of marketing is millions of AI agents** — TechCrunch AI — `2026-06-23T23:30:00+00:00`
-  - https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/
-  - The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.
 - 🔵 **Google Home will soon get better at recognizing you** — The Verge AI — `2026-06-23T22:28:19+00:00`
   - https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing
   - A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue
@@ -664,15 +679,9 @@
 - 🔵 **Oracle’s 21,000 layoffs help drive its debt-fueled AI investments** — Ars Technica AI — `2026-06-23T20:17:38+00:00`
   - https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/
   - Oracle is spending billions on data center infrastructure to support AI.
-- 🔵 **Anthropic’s Claude Tag is learning your company, one Slack message at a time** — TechCrunch AI — `2026-06-23T17:00:00+00:00`
-  - https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/
-  - Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.
 - 🔵 **Why corporate AI super PACs spent $27 million on a local election** — The Verge AI — `2026-06-23T17:00:00+00:00`
   - https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district
   - Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. ("Favorite" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime
-- 🔵 **4 days left to save up to $190 on TechCrunch Founder Summit 2026** — TechCrunch AI — `2026-06-23T14:00:00+00:00`
-  - https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/
-  - Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.
 - 🔵 **How to burst the AI bubble: Strike at its roots** — Ars Technica AI — `2026-06-23T12:00:34+00:00`
   - https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/
   - Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI .

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T16:34:44.077976+00:00",
+  "generated_at": "2026-06-25T20:20:34.924275+00:00",
   "lookback_hours": 72,
-  "item_count": 222,
+  "item_count": 225,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 5,
+      "items_kept": 8,
       "items_total": 20
     },
     {
@@ -96,6 +96,86 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T20:19:25+00:00",
+      "published_ts": 1782418765.0,
+      "summary": "Agent testing startup Patronus AI, founded by former Meta AI researchers, is experienced nearly insatiable demand, its investor says."
+    },
+    {
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T19:04:57+00:00",
+      "published_ts": 1782414297.0,
+      "summary": "Notion is \"going all in on using agents to run your inbox.\""
+    },
+    {
+      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T18:38:51+00:00",
+      "published_ts": 1782412731.0,
+      "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI."
+    },
+    {
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T18:01:48+00:00",
+      "published_ts": 1782410508.0,
+      "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges."
+    },
+    {
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T17:38:27+00:00",
+      "published_ts": 1782409107.0,
+      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
+    },
+    {
+      "title": "Why Does a Bank Need a Chief Scientist?",
+      "url": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T17:32:32+00:00",
+      "published_ts": 1782408752.0,
+      "summary": "This article is brought to you by Capital One . After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution s"
+    },
+    {
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T16:55:00+00:00",
+      "published_ts": 1782406500.0,
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
+    },
+    {
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T16:48:11+00:00",
+      "published_ts": 1782406091.0,
+      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems."
+    },
     {
       "title": "Which tokens does a hybrid model predict better?",
       "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
@@ -115,16 +195,6 @@
       "published_iso": "2026-06-25T16:00:00+00:00",
       "published_ts": 1782403200.0,
       "summary": "The new Google Finance is coming out of beta and launching a new Android app."
-    },
-    {
-      "title": "General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
-      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T16:00:00+00:00",
-      "published_ts": 1782403200.0,
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
     },
     {
       "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
@@ -2117,16 +2187,6 @@
       "summary": ""
     },
     {
-      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T23:30:00+00:00",
-      "published_ts": 1782257400.0,
-      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers."
-    },
-    {
       "title": "Google Home will soon get better at recognizing you",
       "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
       "source": "The Verge AI",
@@ -2167,16 +2227,6 @@
       "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
     },
     {
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T17:00:00+00:00",
-      "published_ts": 1782234000.0,
-      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows."
-    },
-    {
       "title": "Why corporate AI super PACs spent $27 million on a local election",
       "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
       "source": "The Verge AI",
@@ -2185,16 +2235,6 @@
       "published_iso": "2026-06-23T17:00:00+00:00",
       "published_ts": 1782234000.0,
       "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime"
-    },
-    {
-      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T14:00:00+00:00",
-      "published_ts": 1782223200.0,
-      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today."
     },
     {
       "title": "How Businesses Are Building Specialized AI They Can Trust",
@@ -2305,16 +2345,6 @@
       "published_iso": "2026-06-22T21:52:39+00:00",
       "published_ts": 1782165159.0,
       "summary": "US autoworkers union warns of robot automation as dark factory future looms."
-    },
-    {
-      "title": "Commemorating 70 Years of Artificial Intelligence",
-      "url": "https://spectrum.ieee.org/70-years-of-artificial-intelligence",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-22T18:00:01+00:00",
-      "published_ts": 1782151201.0,
-      "summary": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other tec"
     }
   ]
 }
