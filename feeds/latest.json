@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T12:32:22.190667+00:00",
+  "generated_at": "2026-06-25T16:34:44.077976+00:00",
   "lookback_hours": 72,
-  "item_count": 224,
+  "item_count": 222,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -18,13 +18,13 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 0,
+      "items_kept": 1,
       "items_total": 20
     },
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 9,
+      "items_kept": 5,
       "items_total": 18
     },
     {
@@ -60,8 +60,8 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 19,
-      "items_total": 19
+      "items_kept": 20,
+      "items_total": 20
     },
     {
       "source": "VentureBeat AI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 6,
+      "items_kept": 5,
       "items_total": 20
     },
     {
@@ -90,12 +90,102 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 3,
+      "items_kept": 4,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-25T16:11:42+00:00",
+      "published_ts": 1782403902.0,
+      "summary": ""
+    },
+    {
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "source": "Google (Keyword AI)",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-25T16:00:00+00:00",
+      "published_ts": 1782403200.0,
+      "summary": "The new Google Finance is coming out of beta and launching a new Android app."
+    },
+    {
+      "title": "General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T16:00:00+00:00",
+      "published_ts": 1782403200.0,
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
+    },
+    {
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T14:55:38+00:00",
+      "published_ts": 1782399338.0,
+      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live."
+    },
+    {
+      "title": "Repositioning retail for the AI era",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T14:22:59+00:00",
+      "published_ts": 1782397379.0,
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven"
+    },
+    {
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T14:00:00+00:00",
+      "published_ts": 1782396000.0,
+      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today."
+    },
+    {
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T13:30:00+00:00",
+      "published_ts": 1782394200.0,
+      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps."
+    },
+    {
+      "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-06-25T13:00:34+00:00",
+      "published_ts": 1782392434.0,
+      "summary": "Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Ell"
+    },
+    {
+      "title": "What it Means to Be a Mathematician When AI Does the Math",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T13:00:01+00:00",
+      "published_ts": 1782392401.0,
+      "summary": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics . My research focused on simulating how special light waves interact in liquid crystals and using simple eq"
+    },
     {
       "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
       "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
@@ -2057,16 +2147,6 @@
       "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the "
     },
     {
-      "title": "Heads in the game",
-      "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T21:00:00+00:00",
-      "published_ts": 1782248400.0,
-      "summary": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,&#8230;"
-    },
-    {
       "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
       "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
       "source": "Ars Technica AI",
@@ -2137,16 +2217,6 @@
       "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
     },
     {
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T13:00:00+00:00",
-      "published_ts": 1782219600.0,
-      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok."
-    },
-    {
       "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
       "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
       "source": "Hugging Face",
@@ -2197,26 +2267,6 @@
       "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Aut"
     },
     {
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T01:27:55+00:00",
-      "published_ts": 1782178075.0,
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
-    },
-    {
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T00:11:31+00:00",
-      "published_ts": 1782173491.0,
-      "summary": "OpenAI is using AI to help the open source community better protect itself."
-    },
-    {
       "title": "How Omio is building the future of conversational travel",
       "url": "https://openai.com/index/omio",
       "source": "OpenAI",
@@ -2265,76 +2315,6 @@
       "published_iso": "2026-06-22T18:00:01+00:00",
       "published_ts": 1782151201.0,
       "summary": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other tec"
-    },
-    {
-      "title": "How Anthropic may have talked itself into an AI export ban",
-      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-22T13:45:24+00:00",
-      "published_ts": 1782135924.0,
-      "summary": "The company warned about dangers of advanced AI far more than rival OpenAI."
-    },
-    {
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-22T13:18:56+00:00",
-      "published_ts": 1782134336.0,
-      "summary": ""
-    },
-    {
-      "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
-      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-22T13:00:48+00:00",
-      "published_ts": 1782133248.0,
-      "summary": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects runn"
-    },
-    {
-      "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-22T13:00:38+00:00",
-      "published_ts": 1782133238.0,
-      "summary": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to"
-    },
-    {
-      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-22T13:00:20+00:00",
-      "published_ts": 1782133220.0,
-      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with"
-    },
-    {
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-22T13:00:20+00:00",
-      "published_ts": 1782133220.0,
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,"
-    },
-    {
-      "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
-      "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-22T13:00:13+00:00",
-      "published_ts": 1782133213.0,
-      "summary": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec"
     }
   ]
 }

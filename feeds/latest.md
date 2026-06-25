@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-25T12:32:22.190667+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-25T16:34:44.077976+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts** — NVIDIA — `2026-06-25T13:00:34+00:00`
+  - https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/
+  - Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Ell
 - 🟢 **NVIDIA and AWS Collaborate to Bring AI to Production at Scale** — NVIDIA — `2026-06-24T00:05:37+00:00`
   - https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/
   - Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Am
@@ -17,24 +20,12 @@
 - 🟢 **NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations** — NVIDIA — `2026-06-23T06:00:09+00:00`
   - https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/
   - Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Aut
-- 🟢 **At ISC, JUPITER Shows What Exascale Science Looks Like** — NVIDIA — `2026-06-22T13:00:48+00:00`
-  - https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/
-  - JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects runn
-- 🟢 **NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure** — NVIDIA — `2026-06-22T13:00:38+00:00`
-  - https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/
-  - For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to
-- 🟢 **NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory** — NVIDIA — `2026-06-22T13:00:20+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/
-  - Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with
-- 🟢 **From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries** — NVIDIA — `2026-06-22T13:00:20+00:00`
-  - https://blogs.nvidia.com/blog/ai-for-science-software-cuda/
-  - At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code,
-- 🟢 **Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins** — NVIDIA — `2026-06-22T13:00:13+00:00`
-  - https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/
-  - The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprec
 
 ## Mô hình & LLM
 
+- 🟢 **Our latest Google Finance upgrades, including a new app** — Google (Keyword AI) — `2026-06-25T16:00:00+00:00`
+  - https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/
+  - The new Google Finance is coming out of beta and launching a new Android app.
 - 🟢 **How agents are transforming work** — OpenAI — `2026-06-25T02:00:00+00:00`
   - https://openai.com/index/how-agents-are-transforming-work
   - A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
@@ -55,6 +46,8 @@
 
 ## Mô hình mở
 
+- 🟢 **Which tokens does a hybrid model predict better?** — Hugging Face — `2026-06-25T16:11:42+00:00`
+  - https://huggingface.co/blog/allenai/hybrid-token-prediction
 - 🟢 **Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel** — Hugging Face — `2026-06-24T16:00:13+00:00`
   - https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel
 - 🟢 **Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World** — Hugging Face — `2026-06-24T00:00:00+00:00`
@@ -65,8 +58,6 @@
   - https://huggingface.co/blog/huggingface-hub-release-ci
 - 🟢 **Experimenting with the proposed Cross-Origin Storage API in Transformers.js** — Hugging Face — `2026-06-23T00:00:00+00:00`
   - https://huggingface.co/blog/cross-origin-storage
-- 🟢 **PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters** — Hugging Face — `2026-06-22T13:18:56+00:00`
-  - https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
 
 ## Nghiên cứu
 
@@ -538,6 +529,12 @@
 
 ## Phân tích
 
+- 🔵 **Repositioning retail for the AI era** — MIT Tech Review — `2026-06-25T14:22:59+00:00`
+  - https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/
+  - Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven
+- 🔵 **What it Means to Be a Mathematician When AI Does the Math** — IEEE Spectrum AI — `2026-06-25T13:00:01+00:00`
+  - https://spectrum.ieee.org/ai-in-mathematics
+  - In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics . My research focused on simulating how special light waves interact in liquid crystals and using simple eq
 - 🔵 **The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law** — MIT Tech Review — `2026-06-25T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits
@@ -568,9 +565,6 @@
 - 🔵 **All challenges big and small** — MIT Tech Review — `2026-06-24T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/
   - When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the
-- 🔵 **Heads in the game** — MIT Tech Review — `2026-06-23T21:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/
-  - The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,&#8230;
 - 🔵 **AI Is Learning to Read the Room** — IEEE Spectrum AI — `2026-06-23T12:00:01+00:00`
   - https://spectrum.ieee.org/emotion-ai-context
   - Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v
@@ -580,6 +574,18 @@
 
 ## Tin tức
 
+- 🔵 **General Intuition raises $2.3B on bet that video games can train AI agents for the real world** — TechCrunch AI — `2026-06-25T16:00:00+00:00`
+  - https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
+  - General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.
+- 🔵 **Netris raises $15M Series A from a16z to help AI neoclouds go live faster** — TechCrunch AI — `2026-06-25T14:55:38+00:00`
+  - https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/
+  - Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.
+- 🔵 **2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit** — TechCrunch AI — `2026-06-25T14:00:00+00:00`
+  - https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/
+  - Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.
+- 🔵 **Adobe acquires image and video enhancement tool maker Topaz Labs** — TechCrunch AI — `2026-06-25T13:30:00+00:00`
+  - https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/
+  - Adobe said that it will integrate Topaz Labs' tools across its apps.
 - 🔵 **Amazon ups India bet with fresh $13B AI infrastructure investment** — TechCrunch AI — `2026-06-25T12:00:38+00:00`
   - https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/
   - Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.
@@ -667,24 +673,12 @@
 - 🔵 **4 days left to save up to $190 on TechCrunch Founder Summit 2026** — TechCrunch AI — `2026-06-23T14:00:00+00:00`
   - https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/
   - Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.
-- 🔵 **Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates** — TechCrunch AI — `2026-06-23T13:00:00+00:00`
-  - https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/
-  - Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.
 - 🔵 **How to burst the AI bubble: Strike at its roots** — Ars Technica AI — `2026-06-23T12:00:34+00:00`
   - https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/
   - Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI .
-- 🔵 **The running list: major tech layoffs in 2026 where employers cited AI** — TechCrunch AI — `2026-06-23T01:27:55+00:00`
-  - https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
-  - A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
-- 🔵 **OpenAI launches new initiative to help find and patch open source bugs** — TechCrunch AI — `2026-06-23T00:11:31+00:00`
-  - https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/
-  - OpenAI is using AI to help the open source community better protect itself.
 - 🔵 **GM installs robots at flagship EV factory after laying off 1,300 workers** — Ars Technica AI — `2026-06-22T21:52:39+00:00`
   - https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/
   - US autoworkers union warns of robot automation as dark factory future looms.
-- 🔵 **How Anthropic may have talked itself into an AI export ban** — Ars Technica AI — `2026-06-22T13:45:24+00:00`
-  - https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/
-  - The company warned about dangers of advanced AI far more than rival OpenAI.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
