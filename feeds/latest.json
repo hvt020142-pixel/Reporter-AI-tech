@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T21:38:15.192061+00:00",
+  "generated_at": "2026-06-26T23:20:49.721703+00:00",
   "lookback_hours": 72,
-  "item_count": 220,
+  "item_count": 221,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 20
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "South Korea plans to train entire military as \"drone warriors\"",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T22:19:05+00:00",
+      "published_ts": 1782512345.0,
+      "summary": "Half-million strong military will train on drones as “universal combat tool.”"
+    },
     {
       "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
       "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",

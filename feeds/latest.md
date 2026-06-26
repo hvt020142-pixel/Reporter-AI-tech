@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-26T21:38:15.192061+00:00 (UTC) — cửa sổ 72h — 220 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-26T23:20:49.721703+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -567,6 +567,9 @@
 
 ## Tin tức
 
+- 🔵 **South Korea plans to train entire military as "drone warriors"** — Ars Technica AI — `2026-06-26T22:19:05+00:00`
+  - https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/
+  - Half-million strong military will train on drones as “universal combat tool.”
 - 🔵 **NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI** — Ars Technica AI — `2026-06-26T20:04:55+00:00`
   - https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/
   - NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.
