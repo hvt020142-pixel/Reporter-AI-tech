@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T16:26:13.082895+00:00",
+  "generated_at": "2026-06-26T20:06:01.902955+00:00",
   "lookback_hours": 72,
   "item_count": 220,
   "sources_ok": [
@@ -7,7 +7,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
       "items_kept": 3,
-      "items_total": 1021
+      "items_total": 1022
     },
     {
       "source": "Google DeepMind",
@@ -97,6 +97,46 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T18:32:14+00:00",
+      "published_ts": 1782498734.0,
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”"
+    },
+    {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T18:19:36+00:00",
+      "published_ts": 1782497976.0,
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
+    },
+    {
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T17:43:22+00:00",
+      "published_ts": 1782495802.0,
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building"
+    },
+    {
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T17:00:00+00:00",
+      "published_ts": 1782493200.0,
+      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-v"
+    },
+    {
       "title": "It’s not about Anthropic vs. OpenAI anymore",
       "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
       "source": "TechCrunch AI",
@@ -117,6 +157,16 @@
       "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in si"
     },
     {
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T14:00:00+00:00",
+      "published_ts": 1782482400.0,
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building"
+    },
+    {
       "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
       "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
       "source": "TechCrunch AI",
@@ -135,6 +185,16 @@
       "published_iso": "2026-06-26T12:10:00+00:00",
       "published_ts": 1782475800.0,
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous"
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-26T10:00:00+00:00",
+      "published_ts": 1782468000.0,
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
     },
     {
       "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
@@ -2077,26 +2137,6 @@
       "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper."
     },
     {
-      "title": "The memory chip crunch is paying off for this US company",
-      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-24T21:30:55+00:00",
-      "published_ts": 1782336655.0,
-      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year."
-    },
-    {
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-24T20:09:45+00:00",
-      "published_ts": 1782331785.0,
-      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing."
-    },
-    {
       "title": "Congresswoman denies staff used AI to write defense funding amendment",
       "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
       "source": "The Verge AI",
@@ -2115,26 +2155,6 @@
       "published_iso": "2026-06-24T17:25:00+00:00",
       "published_ts": 1782321900.0,
       "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional dist"
-    },
-    {
-      "title": "Facebook rolls out an AI companion app for creators",
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-24T17:16:24+00:00",
-      "published_ts": 1782321384.0,
-      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it."
-    },
-    {
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-24T16:48:43+00:00",
-      "published_ts": 1782319723.0,
-      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds."
     },
     {
       "title": "Introducing computer use in Gemini 3.5 Flash",
@@ -2267,16 +2287,6 @@
       "summary": ""
     },
     {
-      "title": "Google Home will soon get better at recognizing you",
-      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T22:28:19+00:00",
-      "published_ts": 1782253699.0,
-      "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue"
-    },
-    {
       "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
       "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
       "source": "Ars Technica AI",
@@ -2285,16 +2295,6 @@
       "published_iso": "2026-06-23T20:17:38+00:00",
       "published_ts": 1782245858.0,
       "summary": "Oracle is spending billions on data center infrastructure to support AI."
-    },
-    {
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-23T17:00:00+00:00",
-      "published_ts": 1782234000.0,
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
     }
   ]
 }

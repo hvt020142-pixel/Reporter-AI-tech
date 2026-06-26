@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-26T16:26:13.082895+00:00 (UTC) — cửa sổ 72h — 220 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-26T20:06:01.902955+00:00 (UTC) — cửa sổ 72h — 220 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,6 +14,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Previewing GPT-5.6 Sol: a next-generation model** — OpenAI — `2026-06-26T10:00:00+00:00`
+  - https://openai.com/index/previewing-gpt-5-6-sol
+  - OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.
 - 🟢 **Our latest Google Finance upgrades, including a new app** — Google (Keyword AI) — `2026-06-25T16:00:00+00:00`
   - https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/
   - The new Google Finance is coming out of beta and launching a new Android app.
@@ -25,9 +28,6 @@
 - 🟢 **OpenAI and Broadcom unveil LLM-optimized inference chip** — OpenAI — `2026-06-24T06:00:00+00:00`
   - https://openai.com/index/openai-broadcom-jalapeno-inference-chip
   - OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.
-- 🟢 **How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery** — OpenAI — `2026-06-23T17:00:00+00:00`
-  - https://openai.com/index/gpt-5-immunology-mystery
-  - GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.
 
 ## Mô hình mở
 
@@ -567,12 +567,27 @@
 
 ## Tin tức
 
+- 🔵 **OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm** — TechCrunch AI — `2026-06-26T18:32:14+00:00`
+  - https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
+  - “We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”
+- 🔵 **OpenAI poaches Uber India chief to lead its biggest market outside the US** — TechCrunch AI — `2026-06-26T18:19:36+00:00`
+  - https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/
+  - The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.
+- 🔵 **Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)** — TechCrunch AI — `2026-06-26T17:43:22+00:00`
+  - https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/
+  - Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building
+- 🔵 **OpenAI unveils GPT-5.6 amid US AI regulatory drama** — The Verge AI — `2026-06-26T17:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview
+  - Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for "high-v
 - 🔵 **It’s not about Anthropic vs. OpenAI anymore** — TechCrunch AI — `2026-06-26T16:24:47+00:00`
   - https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/
   - AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.
 - 🔵 **Anthropic&#8217;s Mythos mess is only getting worse** — The Verge AI — `2026-06-26T14:07:03+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations
   - It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in si
+- 🔵 **OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia** — TechCrunch AI — `2026-06-26T14:00:00+00:00`
+  - https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/
+  - Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building
 - 🔵 **Early Bird pricing ends tonight for TechCrunch Founder Summit** — TechCrunch AI — `2026-06-26T13:00:00+00:00`
   - https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/
   - Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.
@@ -642,24 +657,12 @@
 - 🔵 **AI researchers continue to leave Google for its rivals** — TechCrunch AI — `2026-06-24T21:42:07+00:00`
   - https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/
   - Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.
-- 🔵 **The memory chip crunch is paying off for this US company** — TechCrunch AI — `2026-06-24T21:30:55+00:00`
-  - https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/
-  - Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.
-- 🔵 **Companies are scrambling to stop employees from maxing out AI budgets with small tasks** — TechCrunch AI — `2026-06-24T20:09:45+00:00`
-  - https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/
-  - The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.
 - 🔵 **Congresswoman denies staff used AI to write defense funding amendment** — The Verge AI — `2026-06-24T19:36:46+00:00`
   - https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude
   - Rep. Anna Paulina Luna (R-FL) says her staff used AI for "spellcheck" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says "NO Legislation is ever drafted with AI." Luna issued the response after accounts on X began sharing screenshots of an amen
 - 🔵 **The $27 million Al proxy war over Alex Bores ends in a draw** — The Verge AI — `2026-06-24T17:25:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results
   - The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional dist
-- 🔵 **Facebook rolls out an AI companion app for creators** — TechCrunch AI — `2026-06-24T17:16:24+00:00`
-  - https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/
-  - The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.
-- 🔵 **Agility Robotics plans to go public via SPAC in a $2.5B deal** — TechCrunch AI — `2026-06-24T16:48:43+00:00`
-  - https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/
-  - Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.
 - 🔵 **Figma now has AI motion graphics and shader tools** — The Verge AI — `2026-06-24T16:15:00+00:00`
   - https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements
   - Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives "push their ideas further" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing te
@@ -669,9 +672,6 @@
 - 🔵 **The Google Home Speaker sounds good and looks great — but it’s finicky** — The Verge AI — `2026-06-24T13:00:00+00:00`
   - https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on
   - Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said "Hey, Google." In fact, in two days of testing, the speaker's three microphones h
-- 🔵 **Google Home will soon get better at recognizing you** — The Verge AI — `2026-06-23T22:28:19+00:00`
-  - https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing
-  - A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue
 - 🔵 **Oracle’s 21,000 layoffs help drive its debt-fueled AI investments** — Ars Technica AI — `2026-06-23T20:17:38+00:00`
   - https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/
   - Oracle is spending billions on data center infrastructure to support AI.
