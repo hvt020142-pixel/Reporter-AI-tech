@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-26T20:06:01.902955+00:00 (UTC) — cửa sổ 72h — 220 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-26T21:38:15.192061+00:00 (UTC) — cửa sổ 72h — 220 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -567,6 +567,9 @@
 
 ## Tin tức
 
+- 🔵 **NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI** — Ars Technica AI — `2026-06-26T20:04:55+00:00`
+  - https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/
+  - NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.
 - 🔵 **OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm** — TechCrunch AI — `2026-06-26T18:32:14+00:00`
   - https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
   - “We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”
@@ -672,9 +675,6 @@
 - 🔵 **The Google Home Speaker sounds good and looks great — but it’s finicky** — The Verge AI — `2026-06-24T13:00:00+00:00`
   - https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on
   - Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said "Hey, Google." In fact, in two days of testing, the speaker's three microphones h
-- 🔵 **Oracle’s 21,000 layoffs help drive its debt-fueled AI investments** — Ars Technica AI — `2026-06-23T20:17:38+00:00`
-  - https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/
-  - Oracle is spending billions on data center infrastructure to support AI.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

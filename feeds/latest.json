@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T20:06:01.902955+00:00",
+  "generated_at": "2026-06-26T21:38:15.192061+00:00",
   "lookback_hours": 72,
   "item_count": 220,
   "sources_ok": [
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T20:04:55+00:00",
+      "published_ts": 1782504295.0,
+      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony."
+    },
     {
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
       "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
@@ -2285,16 +2295,6 @@
       "published_iso": "2026-06-24T00:00:00+00:00",
       "published_ts": 1782259200.0,
       "summary": ""
-    },
-    {
-      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T20:17:38+00:00",
-      "published_ts": 1782245858.0,
-      "summary": "Oracle is spending billions on data center infrastructure to support AI."
     }
   ]
 }
