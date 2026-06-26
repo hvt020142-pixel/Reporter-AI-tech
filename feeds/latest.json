@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T09:49:35.906723+00:00",
+  "generated_at": "2026-06-26T12:24:47.515418+00:00",
   "lookback_hours": 72,
-  "item_count": 225,
+  "item_count": 223,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 7,
+      "items_kept": 6,
       "items_total": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 30
     }
   ],
@@ -2325,26 +2325,6 @@
       "published_iso": "2026-06-23T12:51:55+00:00",
       "published_ts": 1782219115.0,
       "summary": ""
-    },
-    {
-      "title": "How to burst the AI bubble: Strike at its roots",
-      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T12:00:34+00:00",
-      "published_ts": 1782216034.0,
-      "summary": "Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI ."
-    },
-    {
-      "title": "AI Is Learning to Read the Room",
-      "url": "https://spectrum.ieee.org/emotion-ai-context",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T12:00:01+00:00",
-      "published_ts": 1782216001.0,
-      "summary": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v"
     }
   ]
 }
