@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-26T12:24:47.515418+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-26T16:26:13.082895+00:00 (UTC) — cửa sổ 72h — 220 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -11,9 +11,6 @@
 - 🟢 **NVIDIA and AWS Collaborate to Bring AI to Production at Scale** — NVIDIA — `2026-06-24T00:05:37+00:00`
   - https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/
   - Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Am
-- 🟢 **How Businesses Are Building Specialized AI They Can Trust** — NVIDIA — `2026-06-23T13:00:07+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/
-  - Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real v
 
 ## Mô hình & LLM
 
@@ -31,9 +28,6 @@
 - 🟢 **How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery** — OpenAI — `2026-06-23T17:00:00+00:00`
   - https://openai.com/index/gpt-5-immunology-mystery
   - GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.
-- 🟢 **Helping build shared standards for advanced AI** — OpenAI — `2026-06-23T13:00:00+00:00`
-  - https://openai.com/index/helping-build-shared-standards-for-advanced-ai
-  - OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.
 
 ## Mô hình mở
 
@@ -45,8 +39,6 @@
   - https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel
 - 🟢 **Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World** — Hugging Face — `2026-06-24T00:00:00+00:00`
   - https://huggingface.co/blog/ffasr-leaderboard
-- 🟢 **Build real agentic apps using CUGA: two dozen working examples on a lightweight harness** — Hugging Face — `2026-06-23T12:51:55+00:00`
-  - https://huggingface.co/blog/ibm-research/cuga-apps
 
 ## Nghiên cứu
 
@@ -533,6 +525,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: brain-melting heatwaves and unprecedented OpenAI restrictions** — MIT Tech Review — `2026-06-26T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous
 - 🔵 **Heat waves mess with your brain. Scientists are trying to figure out why.** — MIT Tech Review — `2026-06-26T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/
   - It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures 
@@ -569,12 +564,18 @@
 - 🔵 **The emergence of the web data infrastructure layer for AI** — MIT Tech Review — `2026-06-24T11:59:54+00:00`
   - https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/
   - AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati
-- 🔵 **This flying solar-powered platform could deliver better internet from the air** — MIT Tech Review — `2026-06-24T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/
-  - As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surfa
 
 ## Tin tức
 
+- 🔵 **It’s not about Anthropic vs. OpenAI anymore** — TechCrunch AI — `2026-06-26T16:24:47+00:00`
+  - https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/
+  - AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.
+- 🔵 **Anthropic&#8217;s Mythos mess is only getting worse** — The Verge AI — `2026-06-26T14:07:03+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations
+  - It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in si
+- 🔵 **Early Bird pricing ends tonight for TechCrunch Founder Summit** — TechCrunch AI — `2026-06-26T13:00:00+00:00`
+  - https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/
+  - Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.
 - 🔵 **The White House is asking OpenAI to slow roll the release of its new model over safety concerns** — TechCrunch AI — `2026-06-25T23:34:39+00:00`
   - https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
   - OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.
@@ -659,15 +660,9 @@
 - 🔵 **Agility Robotics plans to go public via SPAC in a $2.5B deal** — TechCrunch AI — `2026-06-24T16:48:43+00:00`
   - https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/
   - Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.
-- 🔵 **Figma adds code layers, support for animations, more AI features in new update** — TechCrunch AI — `2026-06-24T16:15:00+00:00`
-  - https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/
-  - Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.
 - 🔵 **Figma now has AI motion graphics and shader tools** — The Verge AI — `2026-06-24T16:15:00+00:00`
   - https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements
   - Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives "push their ideas further" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing te
-- 🔵 **OpenAI unveils its first custom chip, built by Broadcom** — TechCrunch AI — `2026-06-24T14:54:46+00:00`
-  - https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
-  - Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.
 - 🔵 **OpenAI reveals its first AI processor: Jalapeño** — The Verge AI — `2026-06-24T14:36:47+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno
   - OpenAI has just revealed a new "intelligence processor" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Inte
@@ -677,9 +672,6 @@
 - 🔵 **Google Home will soon get better at recognizing you** — The Verge AI — `2026-06-23T22:28:19+00:00`
   - https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing
   - A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue
-- 🔵 **Hollywood is bending the knee to OpenAI** — The Verge AI — `2026-06-23T22:03:18+00:00`
-  - https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt
-  - Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the 
 - 🔵 **Oracle’s 21,000 layoffs help drive its debt-fueled AI investments** — Ars Technica AI — `2026-06-23T20:17:38+00:00`
   - https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/
   - Oracle is spending billions on data center infrastructure to support AI.

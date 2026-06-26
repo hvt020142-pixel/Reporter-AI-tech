@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-26T12:24:47.515418+00:00",
+  "generated_at": "2026-06-26T16:26:13.082895+00:00",
   "lookback_hours": 72,
-  "item_count": 223,
+  "item_count": 220,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 1021
     },
     {
@@ -24,13 +24,13 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 18
     },
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 5,
+      "items_kept": 4,
       "items_total": 811
     },
     {
@@ -96,6 +96,46 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T16:24:47+00:00",
+      "published_ts": 1782491087.0,
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action."
+    },
+    {
+      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T14:07:03+00:00",
+      "published_ts": 1782482823.0,
+      "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in si"
+    },
+    {
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T13:00:00+00:00",
+      "published_ts": 1782478800.0,
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now."
+    },
+    {
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T12:10:00+00:00",
+      "published_ts": 1782475800.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous"
+    },
     {
       "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
       "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
@@ -2107,16 +2147,6 @@
       "summary": ""
     },
     {
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-24T16:15:00+00:00",
-      "published_ts": 1782317700.0,
-      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI."
-    },
-    {
       "title": "Figma now has AI motion graphics and shader tools",
       "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
       "source": "The Verge AI",
@@ -2145,16 +2175,6 @@
       "published_iso": "2026-06-24T15:25:28+00:00",
       "published_ts": 1782314728.0,
       "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8"
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-24T14:54:46+00:00",
-      "published_ts": 1782312886.0,
-      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
     },
     {
       "title": "OpenAI reveals its first AI processor: Jalapeño",
@@ -2217,16 +2237,6 @@
       "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati"
     },
     {
-      "title": "This flying solar-powered platform could deliver better internet from the air",
-      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-24T09:00:00+00:00",
-      "published_ts": 1782291600.0,
-      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surfa"
-    },
-    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "source": "OpenAI",
@@ -2267,16 +2277,6 @@
       "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue"
     },
     {
-      "title": "Hollywood is bending the knee to OpenAI",
-      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-23T22:03:18+00:00",
-      "published_ts": 1782252198.0,
-      "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the "
-    },
-    {
       "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
       "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
       "source": "Ars Technica AI",
@@ -2295,36 +2295,6 @@
       "published_iso": "2026-06-23T17:00:00+00:00",
       "published_ts": 1782234000.0,
       "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
-    },
-    {
-      "title": "How Businesses Are Building Specialized AI They Can Trust",
-      "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-23T13:00:07+00:00",
-      "published_ts": 1782219607.0,
-      "summary": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real v"
-    },
-    {
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-23T13:00:00+00:00",
-      "published_ts": 1782219600.0,
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
-    },
-    {
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-23T12:51:55+00:00",
-      "published_ts": 1782219115.0,
-      "summary": ""
     }
   ]
 }
