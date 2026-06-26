@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-26T04:37:08.531221+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-26T09:49:35.906723+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,12 +14,6 @@
 - 🟢 **How Businesses Are Building Specialized AI They Can Trust** — NVIDIA — `2026-06-23T13:00:07+00:00`
   - https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/
   - Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real v
-- 🟢 **NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers** — NVIDIA — `2026-06-23T09:00:38+00:00`
-  - https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/
-  - NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.
-- 🟢 **NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations** — NVIDIA — `2026-06-23T06:00:09+00:00`
-  - https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/
-  - Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Aut
 
 ## Mô hình & LLM
 
@@ -539,6 +533,9 @@
 
 ## Phân tích
 
+- 🔵 **Heat waves mess with your brain. Scientists are trying to figure out why.** — MIT Tech Review — `2026-06-26T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/
+  - It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures 
 - 🔵 **Why Does a Bank Need a Chief Scientist?** — IEEE Spectrum AI — `2026-06-25T17:32:32+00:00`
   - https://spectrum.ieee.org/capital-one-science-ai-finance-innovation
   - This article is brought to you by Capital One . After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution s
@@ -575,9 +572,6 @@
 - 🔵 **This flying solar-powered platform could deliver better internet from the air** — MIT Tech Review — `2026-06-24T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/
   - As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surfa
-- 🔵 **All challenges big and small** — MIT Tech Review — `2026-06-24T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/
-  - When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the
 - 🔵 **AI Is Learning to Read the Room** — IEEE Spectrum AI — `2026-06-23T12:00:01+00:00`
   - https://spectrum.ieee.org/emotion-ai-context
   - Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v
@@ -586,7 +580,7 @@
 
 - 🔵 **The White House is asking OpenAI to slow roll the release of its new model over safety concerns** — TechCrunch AI — `2026-06-25T23:34:39+00:00`
   - https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
-  - penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.
+  - OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.
 - 🔵 **OpenAI will delay GPT-5.6 after Trump administration request** — The Verge AI — `2026-06-25T21:57:06+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
   - The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited pr
