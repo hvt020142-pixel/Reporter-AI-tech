@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-27T15:36:37.751724+00:00 (UTC) — cửa sổ 72h — 54 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-27T17:20:36.244257+00:00 (UTC) — cửa sổ 72h — 51 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,8 +20,6 @@
 - 🟢 **How agents are transforming work** — OpenAI — `2026-06-25T02:00:00+00:00`
   - https://openai.com/index/how-agents-are-transforming-work
   - A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
-- 🟢 **Introducing computer use in Gemini 3.5 Flash** — Google DeepMind — `2026-06-24T16:30:01+00:00`
-  - https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/
 
 ## Mô hình mở
 
@@ -29,8 +27,6 @@
   - https://huggingface.co/blog/vllm-jobs
 - 🟢 **Which tokens does a hybrid model predict better?** — Hugging Face — `2026-06-25T16:11:42+00:00`
   - https://huggingface.co/blog/allenai/hybrid-token-prediction
-- 🟢 **Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel** — Hugging Face — `2026-06-24T16:00:13+00:00`
-  - https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel
 
 ## Phân tích
 
@@ -64,6 +60,9 @@
 
 ## Tin tức
 
+- 🔵 **Apple Vision Pro exec is reportedly leaving for OpenAI** — TechCrunch AI — `2026-06-27T16:45:09+00:00`
+  - https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/
+  - Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.
 - 🔵 **The fittest founder in the room got cancer. Here’s how he used AI to fight back.** — TechCrunch AI — `2026-06-27T14:00:00+00:00`
   - https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/
   - When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.
@@ -160,9 +159,6 @@
 - 🔵 **Europe is pushing back on Washington’s chip war** — TechCrunch AI — `2026-06-25T00:08:36+00:00`
   - https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/
   - As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.
-- 🔵 **Former Infosys chief has a new startup that wants to challenge the IT services world** — TechCrunch AI — `2026-06-24T23:26:52+00:00`
-  - https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/
-  - Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.
 - 🔵 **OpenAI and Broadcom announce chip designed for LLM inference at scale** — Ars Technica AI — `2026-06-24T22:28:18+00:00`
   - https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/
   - The silicon race is heating up amid the struggle to keep up with demand.
@@ -172,9 +168,6 @@
 - 🔵 **The $27 million Al proxy war over Alex Bores ends in a draw** — The Verge AI — `2026-06-24T17:25:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results
   - The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional dist
-- 🔵 **Figma now has AI motion graphics and shader tools** — The Verge AI — `2026-06-24T16:15:00+00:00`
-  - https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements
-  - Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives "push their ideas further" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing te
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
