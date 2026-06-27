@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-27T17:20:36.244257+00:00 (UTC) — cửa sổ 72h — 51 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-27T19:42:35.332659+00:00 (UTC) — cửa sổ 72h — 50 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -60,6 +60,9 @@
 
 ## Tin tức
 
+- 🔵 **Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;** — The Verge AI — `2026-06-27T18:39:32+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
+  - Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood
 - 🔵 **Apple Vision Pro exec is reportedly leaving for OpenAI** — TechCrunch AI — `2026-06-27T16:45:09+00:00`
   - https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/
   - Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.
@@ -162,12 +165,6 @@
 - 🔵 **OpenAI and Broadcom announce chip designed for LLM inference at scale** — Ars Technica AI — `2026-06-24T22:28:18+00:00`
   - https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/
   - The silicon race is heating up amid the struggle to keep up with demand.
-- 🔵 **Congresswoman denies staff used AI to write defense funding amendment** — The Verge AI — `2026-06-24T19:36:46+00:00`
-  - https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude
-  - Rep. Anna Paulina Luna (R-FL) says her staff used AI for "spellcheck" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says "NO Legislation is ever drafted with AI." Luna issued the response after accounts on X began sharing screenshots of an amen
-- 🔵 **The $27 million Al proxy war over Alex Bores ends in a draw** — The Verge AI — `2026-06-24T17:25:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results
-  - The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional dist
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
