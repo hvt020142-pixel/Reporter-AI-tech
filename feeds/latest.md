@@ -1,6 +1,8 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-27T19:42:35.332659+00:00 (UTC) — cửa sổ 72h — 50 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-27T21:18:06.188220+00:00 (UTC) — cửa sổ 72h — 41 mục — nguồn sơ cấp/uy tín.*
+
+> ⚠️ 2 nguồn lỗi lần này (bỏ qua): Hugging Face, Ars Technica AI
 
 
 ## Hạ tầng & phần cứng
@@ -20,13 +22,6 @@
 - 🟢 **How agents are transforming work** — OpenAI — `2026-06-25T02:00:00+00:00`
   - https://openai.com/index/how-agents-are-transforming-work
   - A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
-
-## Mô hình mở
-
-- 🟢 **Run a vLLM Server on HF Jobs in One Command** — Hugging Face — `2026-06-26T00:00:00+00:00`
-  - https://huggingface.co/blog/vllm-jobs
-- 🟢 **Which tokens does a hybrid model predict better?** — Hugging Face — `2026-06-25T16:11:42+00:00`
-  - https://huggingface.co/blog/allenai/hybrid-token-prediction
 
 ## Phân tích
 
@@ -60,6 +55,9 @@
 
 ## Tin tức
 
+- 🔵 **SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype** — TechCrunch AI — `2026-06-27T20:42:36+00:00`
+  - https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/
+  - Not everyone is buying Elon Musk’s vision for orbital data centers.
 - 🔵 **Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;** — The Verge AI — `2026-06-27T18:39:32+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
   - Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood
@@ -81,12 +79,6 @@
 - 🔵 **Anthropic&#8217;s Mythos 5 is back** — The Verge AI — `2026-06-27T00:33:44+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations
   - After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 
-- 🔵 **South Korea plans to train entire military as "drone warriors"** — Ars Technica AI — `2026-06-26T22:19:05+00:00`
-  - https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/
-  - Half-million strong military will train on drones as “universal combat tool.”
-- 🔵 **NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI** — Ars Technica AI — `2026-06-26T20:04:55+00:00`
-  - https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/
-  - NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.
 - 🔵 **OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm** — TechCrunch AI — `2026-06-26T18:32:14+00:00`
   - https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
   - “We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”
@@ -120,15 +112,6 @@
 - 🔵 **Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents** — TechCrunch AI — `2026-06-25T20:19:25+00:00`
   - https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
   - Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.
-- 🔵 **Notion killing Skiff-influenced email app since most users use AI agents instead** — Ars Technica AI — `2026-06-25T19:04:57+00:00`
-  - https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/
-  - Notion is "going all in on using agents to run your inbox."
-- 🔵 **Google finally releases a Finance Android app, promises iOS version later in 2026** — Ars Technica AI — `2026-06-25T18:38:51+00:00`
-  - https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/
-  - It took 20 years, but the Finance app arrives just in time to be packed full of AI.
-- 🔵 **Anthropic says Alibaba must be punished for largest Claude cloning attack** — Ars Technica AI — `2026-06-25T18:01:48+00:00`
-  - https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/
-  - Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.
 - 🔵 **Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT** — TechCrunch AI — `2026-06-25T17:38:27+00:00`
   - https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/
   - Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.
@@ -153,18 +136,9 @@
 - 🔵 **Ford had to hire back former engineers to fix mistakes made by its automated systems** — The Verge AI — `2026-06-25T12:00:00+00:00`
   - https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes
   - To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were n
-- 🔵 **IBM claims world’s first sub-1 nanometer chip technology** — Ars Technica AI — `2026-06-25T10:00:55+00:00`
-  - https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/
-  - IBM’s nanostack transistors could boost chip performance or energy efficiency.
 - 🔵 **Facebook’s Creator Studio has been revived as an AI companion app** — The Verge AI — `2026-06-25T09:06:19+00:00`
   - https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch
   - Meta is bringing back the Facebook Creator Studio page manager, now "reimagined" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them "exactly how to grow on Facebook," according to Meta's announcement. Meta's AI Creator Assi
-- 🔵 **Europe is pushing back on Washington’s chip war** — TechCrunch AI — `2026-06-25T00:08:36+00:00`
-  - https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/
-  - As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.
-- 🔵 **OpenAI and Broadcom announce chip designed for LLM inference at scale** — Ars Technica AI — `2026-06-24T22:28:18+00:00`
-  - https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/
-  - The silicon race is heating up amid the struggle to keep up with demand.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
