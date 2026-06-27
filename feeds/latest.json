@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T21:18:06.188220+00:00",
+  "generated_at": "2026-06-27T23:15:19.651941+00:00",
   "lookback_hours": 72,
-  "item_count": 41,
+  "item_count": 49,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -26,6 +26,12 @@
       "url": "https://blogs.nvidia.com/feed/",
       "items_kept": 1,
       "items_total": 18
+    },
+    {
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "items_kept": 2,
+      "items_total": 811
     },
     {
       "source": "arXiv cs.AI",
@@ -70,6 +76,12 @@
       "items_total": 10
     },
     {
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/feed/",
+      "items_kept": 6,
+      "items_total": 20
+    },
+    {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
       "items_kept": 6,
@@ -82,18 +94,7 @@
       "items_total": 30
     }
   ],
-  "sources_failed": [
-    {
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/feed.xml",
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
-    },
-    {
-      "source": "Ars Technica AI",
-      "url": "https://arstechnica.com/ai/feed/",
-      "error": "HTTPError: HTTP Error 403: Forbidden"
-    }
-  ],
+  "sources_failed": [],
   "items": [
     {
       "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
@@ -166,7 +167,7 @@
       "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
     },
     {
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
@@ -184,6 +185,26 @@
       "published_iso": "2026-06-27T00:33:44+00:00",
       "published_ts": 1782520424.0,
       "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable "
+    },
+    {
+      "title": "South Korea plans to train entire military as \"drone warriors\"",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T22:19:05+00:00",
+      "published_ts": 1782512345.0,
+      "summary": "Half-million strong military will train on drones as “universal combat tool.”"
+    },
+    {
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-26T20:04:55+00:00",
+      "published_ts": 1782504295.0,
+      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony."
     },
     {
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
@@ -296,6 +317,16 @@
       "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures "
     },
     {
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-26T00:00:00+00:00",
+      "published_ts": 1782432000.0,
+      "summary": ""
+    },
+    {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "source": "TechCrunch AI",
@@ -324,6 +355,36 @@
       "published_iso": "2026-06-25T20:19:25+00:00",
       "published_ts": 1782418765.0,
       "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says."
+    },
+    {
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T19:04:57+00:00",
+      "published_ts": 1782414297.0,
+      "summary": "Notion is \"going all in on using agents to run your inbox.\""
+    },
+    {
+      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T18:38:51+00:00",
+      "published_ts": 1782412731.0,
+      "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI."
+    },
+    {
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T18:01:48+00:00",
+      "published_ts": 1782410508.0,
+      "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges."
     },
     {
       "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
@@ -364,6 +425,16 @@
       "published_iso": "2026-06-25T16:48:11+00:00",
       "published_ts": 1782406091.0,
       "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems."
+    },
+    {
+      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-06-25T16:11:42+00:00",
+      "published_ts": 1782403902.0,
+      "summary": ""
     },
     {
       "title": "Our latest Google Finance upgrades, including a new app",
@@ -464,6 +535,16 @@
       "published_iso": "2026-06-25T12:00:00+00:00",
       "published_ts": 1782388800.0,
       "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were n"
+    },
+    {
+      "title": "IBM claims world’s first sub-1 nanometer chip technology",
+      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-25T10:00:55+00:00",
+      "published_ts": 1782381655.0,
+      "summary": "IBM’s nanostack transistors could boost chip performance or energy efficiency."
     },
     {
       "title": "What Europe’s heat wave means for the power grid",
