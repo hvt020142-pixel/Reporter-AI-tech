@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-27T10:20:19.283890+00:00 (UTC) — cửa sổ 72h — 58 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-27T14:04:14.564553+00:00 (UTC) — cửa sổ 72h — 55 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -34,6 +34,9 @@
 
 ## Phân tích
 
+- 🔵 **ConlangCrafter Turns AI to Imagining Languages** — IEEE Spectrum AI — `2026-06-27T13:00:01+00:00`
+  - https://spectrum.ieee.org/conlangs-ai-model-contructed-languages
+  - There are over 7,000 natural languages today, but that doesn’t stop people from occasionally making up completely new ones. These constructed languages, or conlangs , include Dothraki , Klingon , and various Elvish languages . Now, an AI model called ConlangCrafter is also capable of generating new 
 - 🔵 **The Download: brain-melting heatwaves and unprecedented OpenAI restrictions** — MIT Tech Review — `2026-06-26T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous
@@ -61,21 +64,15 @@
 - 🔵 **Europe’s extreme heat is shutting down power plants** — MIT Tech Review — `2026-06-24T15:25:28+00:00`
   - https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/
   - Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8
-- 🔵 **AI Is Designing Radio Chips That Humans Couldn’t Even Imagine** — IEEE Spectrum AI — `2026-06-24T13:00:01+00:00`
-  - https://spectrum.ieee.org/ai-radio-chip-design
-  - Summary RFIC design is a complex “ dark art ” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite communications. Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch. Diffusion models rapidly generate novel or
-- 🔵 **The Download: introducing the Engineering issue** — MIT Tech Review — `2026-06-24T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through h
-- 🔵 **Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections** — MIT Tech Review — `2026-06-24T12:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/
-  - The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;
-- 🔵 **The emergence of the web data infrastructure layer for AI** — MIT Tech Review — `2026-06-24T11:59:54+00:00`
-  - https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/
-  - AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati
 
 ## Tin tức
 
+- 🔵 **Why is Apple asking me to pay more for Big Tech’s AI obsession?** — The Verge AI — `2026-06-27T13:30:00+00:00`
+  - https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
+  - Tim Cook recently said price increases were "unavoidable" and described the company's pricing as "unsustainable." The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet
+- 🔵 **Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on** — TechCrunch AI — `2026-06-27T12:00:00+00:00`
+  - https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+  - New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
 - 🔵 **Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies** — TechCrunch AI — `2026-06-27T01:01:37+00:00`
   - https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/
   - Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.
@@ -172,9 +169,6 @@
 - 🔵 **OpenAI and Broadcom announce chip designed for LLM inference at scale** — Ars Technica AI — `2026-06-24T22:28:18+00:00`
   - https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/
   - The silicon race is heating up amid the struggle to keep up with demand.
-- 🔵 **AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient** — TechCrunch AI — `2026-06-24T21:56:41+00:00`
-  - https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/
-  - While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.
 - 🔵 **Congresswoman denies staff used AI to write defense funding amendment** — The Verge AI — `2026-06-24T19:36:46+00:00`
   - https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude
   - Rep. Anna Paulina Luna (R-FL) says her staff used AI for "spellcheck" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says "NO Legislation is ever drafted with AI." Luna issued the response after accounts on X began sharing screenshots of an amen
@@ -184,9 +178,6 @@
 - 🔵 **Figma now has AI motion graphics and shader tools** — The Verge AI — `2026-06-24T16:15:00+00:00`
   - https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements
   - Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives "push their ideas further" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing te
-- 🔵 **OpenAI reveals its first AI processor: Jalapeño** — The Verge AI — `2026-06-24T14:36:47+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno
-  - OpenAI has just revealed a new "intelligence processor" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Inte
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
