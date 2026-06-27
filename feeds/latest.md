@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-27T14:04:14.564553+00:00 (UTC) — cửa sổ 72h — 55 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-27T15:36:37.751724+00:00 (UTC) — cửa sổ 72h — 54 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -61,12 +61,12 @@
 - 🔵 **IBM has unveiled chip technology that could help extend Moore’s Law another decade** — MIT Tech Review — `2026-06-25T10:00:00+00:00`
   - https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/
   - IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co
-- 🔵 **Europe’s extreme heat is shutting down power plants** — MIT Tech Review — `2026-06-24T15:25:28+00:00`
-  - https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/
-  - Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8
 
 ## Tin tức
 
+- 🔵 **The fittest founder in the room got cancer. Here’s how he used AI to fight back.** — TechCrunch AI — `2026-06-27T14:00:00+00:00`
+  - https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/
+  - When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.
 - 🔵 **Why is Apple asking me to pay more for Big Tech’s AI obsession?** — The Verge AI — `2026-06-27T13:30:00+00:00`
   - https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
   - Tim Cook recently said price increases were "unavoidable" and described the company's pricing as "unsustainable." The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet
@@ -163,9 +163,6 @@
 - 🔵 **Former Infosys chief has a new startup that wants to challenge the IT services world** — TechCrunch AI — `2026-06-24T23:26:52+00:00`
   - https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/
   - Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.
-- 🔵 **Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood** — TechCrunch AI — `2026-06-24T22:41:41+00:00`
-  - https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/
-  - In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.
 - 🔵 **OpenAI and Broadcom announce chip designed for LLM inference at scale** — Ars Technica AI — `2026-06-24T22:28:18+00:00`
   - https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/
   - The silicon race is heating up amid the struggle to keep up with demand.
