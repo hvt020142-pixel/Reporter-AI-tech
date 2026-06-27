@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-27T04:13:45.403869+00:00 (UTC) — cửa sổ 72h — 59 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-27T07:26:39.243012+00:00 (UTC) — cửa sổ 72h — 58 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -22,9 +22,6 @@
   - A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
 - 🟢 **Introducing computer use in Gemini 3.5 Flash** — Google DeepMind — `2026-06-24T16:30:01+00:00`
   - https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/
-- 🟢 **OpenAI and Broadcom unveil LLM-optimized inference chip** — OpenAI — `2026-06-24T06:00:00+00:00`
-  - https://openai.com/index/openai-broadcom-jalapeno-inference-chip
-  - OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.
 
 ## Mô hình mở
 

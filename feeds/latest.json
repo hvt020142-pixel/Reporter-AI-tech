@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-27T04:13:45.403869+00:00",
+  "generated_at": "2026-06-27T07:26:39.243012+00:00",
   "lookback_hours": 72,
-  "item_count": 59,
+  "item_count": 58,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 1022
     },
     {
@@ -675,16 +675,6 @@
       "published_iso": "2026-06-24T11:59:54+00:00",
       "published_ts": 1782302394.0,
       "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati"
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-24T06:00:00+00:00",
-      "published_ts": 1782280800.0,
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
     }
   ]
 }
