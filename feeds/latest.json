@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T14:12:28.063679+00:00",
+  "generated_at": "2026-06-28T15:39:15.997058+00:00",
   "lookback_hours": 72,
-  "item_count": 37,
+  "item_count": 36,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 17,
+      "items_kept": 16,
       "items_total": 20
     },
     {
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 10
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 10
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-28T14:12:06+00:00",
+      "published_ts": 1782655926.0,
+      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his"
+    },
     {
       "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
       "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
@@ -445,26 +455,6 @@
       "published_iso": "2026-06-25T16:00:00+00:00",
       "published_ts": 1782403200.0,
       "summary": "The new Google Finance is coming out of beta and launching a new Android app."
-    },
-    {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T14:55:38+00:00",
-      "published_ts": 1782399338.0,
-      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live."
-    },
-    {
-      "title": "Repositioning retail for the AI era",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T14:22:59+00:00",
-      "published_ts": 1782397379.0,
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven"
     }
   ]
 }

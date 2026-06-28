@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-28T14:12:28.063679+00:00 (UTC) — cửa sổ 72h — 37 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-28T15:39:15.997058+00:00 (UTC) — cửa sổ 72h — 36 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -33,12 +33,12 @@
 - 🔵 **Why Does a Bank Need a Chief Scientist?** — IEEE Spectrum AI — `2026-06-25T17:32:32+00:00`
   - https://spectrum.ieee.org/capital-one-science-ai-finance-innovation
   - This article is brought to you by Capital One . After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution s
-- 🔵 **Repositioning retail for the AI era** — MIT Tech Review — `2026-06-25T14:22:59+00:00`
-  - https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/
-  - Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven
 
 ## Tin tức
 
+- 🔵 **Prosecutors used ChatGPT logs as evidence in the Palisades fire trial** — The Verge AI — `2026-06-28T14:12:06+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial
+  - Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his
 - 🔵 **SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype** — TechCrunch AI — `2026-06-27T20:42:36+00:00`
   - https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/
   - Not everyone is buying Elon Musk’s vision for orbital data centers.
@@ -120,9 +120,6 @@
 - 🔵 **Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x** — TechCrunch AI — `2026-06-25T16:48:11+00:00`
   - https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/
   - Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.
-- 🔵 **Netris raises $15M Series A from a16z to help AI neoclouds go live faster** — TechCrunch AI — `2026-06-25T14:55:38+00:00`
-  - https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/
-  - Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
