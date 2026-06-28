@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-28T17:33:10.158260+00:00 (UTC) — cửa sổ 72h — 32 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-28T19:43:05.382090+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -28,6 +28,9 @@
 
 ## Tin tức
 
+- 🔵 **Ford rehires ‘gray beard’ engineers after AI falls short** — TechCrunch AI — `2026-06-28T19:05:39+00:00`
+  - https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/
+  - "Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”
 - 🔵 **Why Wall Street thinks US memory maker Micron is the next Nvidia** — TechCrunch AI — `2026-06-28T15:00:00+00:00`
   - https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/
   - Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.
@@ -97,18 +100,6 @@
 - 🔵 **Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents** — TechCrunch AI — `2026-06-25T20:19:25+00:00`
   - https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
   - Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.
-- 🔵 **Notion killing Skiff-influenced email app since most users use AI agents instead** — Ars Technica AI — `2026-06-25T19:04:57+00:00`
-  - https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/
-  - Notion is "going all in on using agents to run your inbox."
-- 🔵 **Google finally releases a Finance Android app, promises iOS version later in 2026** — Ars Technica AI — `2026-06-25T18:38:51+00:00`
-  - https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/
-  - It took 20 years, but the Finance app arrives just in time to be packed full of AI.
-- 🔵 **Anthropic says Alibaba must be punished for largest Claude cloning attack** — Ars Technica AI — `2026-06-25T18:01:48+00:00`
-  - https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/
-  - Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.
-- 🔵 **Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT** — TechCrunch AI — `2026-06-25T17:38:27+00:00`
-  - https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/
-  - Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
