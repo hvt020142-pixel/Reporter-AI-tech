@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-28T15:39:15.997058+00:00 (UTC) — cửa sổ 72h — 36 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-28T17:33:10.158260+00:00 (UTC) — cửa sổ 72h — 32 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -8,16 +8,11 @@
 - 🟢 **Previewing GPT-5.6 Sol: a next-generation model** — OpenAI — `2026-06-26T10:00:00+00:00`
   - https://openai.com/index/previewing-gpt-5-6-sol
   - OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.
-- 🟢 **Our latest Google Finance upgrades, including a new app** — Google (Keyword AI) — `2026-06-25T16:00:00+00:00`
-  - https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/
-  - The new Google Finance is coming out of beta and launching a new Android app.
 
 ## Mô hình mở
 
 - 🟢 **Run a vLLM Server on HF Jobs in One Command** — Hugging Face — `2026-06-26T00:00:00+00:00`
   - https://huggingface.co/blog/vllm-jobs
-- 🟢 **Which tokens does a hybrid model predict better?** — Hugging Face — `2026-06-25T16:11:42+00:00`
-  - https://huggingface.co/blog/allenai/hybrid-token-prediction
 
 ## Phân tích
 
@@ -30,12 +25,12 @@
 - 🔵 **Heat waves mess with your brain. Scientists are trying to figure out why.** — MIT Tech Review — `2026-06-26T09:00:00+00:00`
   - https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/
   - It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures 
-- 🔵 **Why Does a Bank Need a Chief Scientist?** — IEEE Spectrum AI — `2026-06-25T17:32:32+00:00`
-  - https://spectrum.ieee.org/capital-one-science-ai-finance-innovation
-  - This article is brought to you by Capital One . After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution s
 
 ## Tin tức
 
+- 🔵 **Why Wall Street thinks US memory maker Micron is the next Nvidia** — TechCrunch AI — `2026-06-28T15:00:00+00:00`
+  - https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/
+  - Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.
 - 🔵 **Prosecutors used ChatGPT logs as evidence in the Palisades fire trial** — The Verge AI — `2026-06-28T14:12:06+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial
   - Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his
@@ -114,12 +109,6 @@
 - 🔵 **Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT** — TechCrunch AI — `2026-06-25T17:38:27+00:00`
   - https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/
   - Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.
-- 🔵 **General Intuition’s $2.3B bet that video games can train AI agents for the real world** — TechCrunch AI — `2026-06-25T16:55:00+00:00`
-  - https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
-  - General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.
-- 🔵 **Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x** — TechCrunch AI — `2026-06-25T16:48:11+00:00`
-  - https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/
-  - Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T15:39:15.997058+00:00",
+  "generated_at": "2026-06-28T17:33:10.158260+00:00",
   "lookback_hours": 72,
-  "item_count": 36,
+  "item_count": 32,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -18,7 +18,7 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 20
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 811
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 16,
+      "items_kept": 15,
       "items_total": 20
     },
     {
@@ -90,12 +90,22 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-28T15:00:00+00:00",
+      "published_ts": 1782658800.0,
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron."
+    },
     {
       "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
@@ -405,56 +415,6 @@
       "published_iso": "2026-06-25T17:38:27+00:00",
       "published_ts": 1782409107.0,
       "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
-    },
-    {
-      "title": "Why Does a Bank Need a Chief Scientist?",
-      "url": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T17:32:32+00:00",
-      "published_ts": 1782408752.0,
-      "summary": "This article is brought to you by Capital One . After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution s"
-    },
-    {
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T16:55:00+00:00",
-      "published_ts": 1782406500.0,
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
-    },
-    {
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T16:48:11+00:00",
-      "published_ts": 1782406091.0,
-      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems."
-    },
-    {
-      "title": "Which tokens does a hybrid model predict better?",
-      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-25T16:11:42+00:00",
-      "published_ts": 1782403902.0,
-      "summary": ""
-    },
-    {
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "source": "Google (Keyword AI)",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-25T16:00:00+00:00",
-      "published_ts": 1782403200.0,
-      "summary": "The new Google Finance is coming out of beta and launching a new Android app."
     }
   ]
 }
