@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-28T09:29:42.689403+00:00 (UTC) — cửa sổ 72h — 47 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-28T11:57:37.124121+00:00 (UTC) — cửa sổ 72h — 44 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -48,12 +48,6 @@
 - 🔵 **The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law** — MIT Tech Review — `2026-06-25T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits
-- 🔵 **What Europe’s heat wave means for the power grid** — MIT Tech Review — `2026-06-25T10:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/
-  - It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event 
-- 🔵 **IBM has unveiled chip technology that could help extend Moore’s Law another decade** — MIT Tech Review — `2026-06-25T10:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/
-  - IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co
 
 ## Tin tức
 
@@ -153,9 +147,6 @@
 - 🔵 **Ford had to hire back former engineers to fix mistakes made by its automated systems** — The Verge AI — `2026-06-25T12:00:00+00:00`
   - https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes
   - To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were n
-- 🔵 **IBM claims world’s first sub-1 nanometer chip technology** — Ars Technica AI — `2026-06-25T10:00:55+00:00`
-  - https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/
-  - IBM’s nanostack transistors could boost chip performance or energy efficiency.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
