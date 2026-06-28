@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T11:57:37.124121+00:00",
+  "generated_at": "2026-06-28T14:12:28.063679+00:00",
   "lookback_hours": 72,
-  "item_count": 44,
+  "item_count": 37,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 18
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 20,
+      "items_kept": 17,
       "items_total": 20
     },
     {
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 7,
+      "items_kept": 6,
       "items_total": 10
     },
     {
@@ -84,13 +84,13 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 30
     }
   ],
@@ -465,76 +465,6 @@
       "published_iso": "2026-06-25T14:22:59+00:00",
       "published_ts": 1782397379.0,
       "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven"
-    },
-    {
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T14:00:00+00:00",
-      "published_ts": 1782396000.0,
-      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today."
-    },
-    {
-      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T13:30:00+00:00",
-      "published_ts": 1782394200.0,
-      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps."
-    },
-    {
-      "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-06-25T13:00:34+00:00",
-      "published_ts": 1782392434.0,
-      "summary": "Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Ell"
-    },
-    {
-      "title": "What it Means to Be a Mathematician When AI Does the Math",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T13:00:01+00:00",
-      "published_ts": 1782392401.0,
-      "summary": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics . My research focused on simulating how special light waves interact in liquid crystals and using simple eq"
-    },
-    {
-      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T12:10:00+00:00",
-      "published_ts": 1782389400.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits"
-    },
-    {
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T12:00:38+00:00",
-      "published_ts": 1782388838.0,
-      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
-    },
-    {
-      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T12:00:00+00:00",
-      "published_ts": 1782388800.0,
-      "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were n"
     }
   ]
 }

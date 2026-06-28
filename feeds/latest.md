@@ -1,13 +1,7 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-28T11:57:37.124121+00:00 (UTC) — cửa sổ 72h — 44 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-28T14:12:28.063679+00:00 (UTC) — cửa sổ 72h — 37 mục — nguồn sơ cấp/uy tín.*
 
-
-## Hạ tầng & phần cứng
-
-- 🟢 **The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts** — NVIDIA — `2026-06-25T13:00:34+00:00`
-  - https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/
-  - Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Ell
 
 ## Mô hình & LLM
 
@@ -42,12 +36,6 @@
 - 🔵 **Repositioning retail for the AI era** — MIT Tech Review — `2026-06-25T14:22:59+00:00`
   - https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/
   - Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven
-- 🔵 **What it Means to Be a Mathematician When AI Does the Math** — IEEE Spectrum AI — `2026-06-25T13:00:01+00:00`
-  - https://spectrum.ieee.org/ai-in-mathematics
-  - In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics . My research focused on simulating how special light waves interact in liquid crystals and using simple eq
-- 🔵 **The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law** — MIT Tech Review — `2026-06-25T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits
 
 ## Tin tức
 
@@ -135,18 +123,6 @@
 - 🔵 **Netris raises $15M Series A from a16z to help AI neoclouds go live faster** — TechCrunch AI — `2026-06-25T14:55:38+00:00`
   - https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/
   - Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.
-- 🔵 **2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit** — TechCrunch AI — `2026-06-25T14:00:00+00:00`
-  - https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/
-  - Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.
-- 🔵 **Adobe acquires image and video enhancement tool maker Topaz Labs** — TechCrunch AI — `2026-06-25T13:30:00+00:00`
-  - https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/
-  - Adobe said that it will integrate Topaz Labs' tools across its apps.
-- 🔵 **Amazon ups India bet with fresh $13B AI infrastructure investment** — TechCrunch AI — `2026-06-25T12:00:38+00:00`
-  - https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/
-  - Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.
-- 🔵 **Ford had to hire back former engineers to fix mistakes made by its automated systems** — The Verge AI — `2026-06-25T12:00:00+00:00`
-  - https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes
-  - To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were n
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
