@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-27T23:15:19.651941+00:00 (UTC) — cửa sổ 72h — 49 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-28T04:46:50.899595+00:00 (UTC) — cửa sổ 72h — 48 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -17,9 +17,6 @@
 - 🟢 **Our latest Google Finance upgrades, including a new app** — Google (Keyword AI) — `2026-06-25T16:00:00+00:00`
   - https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/
   - The new Google Finance is coming out of beta and launching a new Android app.
-- 🟢 **How agents are transforming work** — OpenAI — `2026-06-25T02:00:00+00:00`
-  - https://openai.com/index/how-agents-are-transforming-work
-  - A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.
 
 ## Mô hình mở
 
