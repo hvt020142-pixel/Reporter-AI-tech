@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-28T04:46:50.899595+00:00 (UTC) — cửa sổ 72h — 48 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-28T09:29:42.689403+00:00 (UTC) — cửa sổ 72h — 47 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -156,9 +156,6 @@
 - 🔵 **IBM claims world’s first sub-1 nanometer chip technology** — Ars Technica AI — `2026-06-25T10:00:55+00:00`
   - https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/
   - IBM’s nanostack transistors could boost chip performance or energy efficiency.
-- 🔵 **Facebook’s Creator Studio has been revived as an AI companion app** — The Verge AI — `2026-06-25T09:06:19+00:00`
-  - https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch
-  - Meta is bringing back the Facebook Creator Studio page manager, now "reimagined" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them "exactly how to grow on Facebook," according to Meta's announcement. Meta's AI Creator Assi
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

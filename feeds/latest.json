@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T04:46:50.899595+00:00",
+  "generated_at": "2026-06-28T09:29:42.689403+00:00",
   "lookback_hours": 72,
-  "item_count": 48,
+  "item_count": 47,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 8,
+      "items_kept": 7,
       "items_total": 10
     },
     {
@@ -565,16 +565,6 @@
       "published_iso": "2026-06-25T10:00:00+00:00",
       "published_ts": 1782381600.0,
       "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co"
-    },
-    {
-      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-25T09:06:19+00:00",
-      "published_ts": 1782378379.0,
-      "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assi"
     }
   ]
 }
