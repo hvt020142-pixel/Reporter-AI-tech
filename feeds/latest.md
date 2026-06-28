@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-28T19:43:05.382090+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-28T21:16:45.863884+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -28,6 +28,9 @@
 
 ## Tin tức
 
+- 🔵 **Suno launches Spark incubator program to feed independent artists to its AI machine** — The Verge AI — `2026-06-28T20:27:36+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine
+  - Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned sin
 - 🔵 **Ford rehires ‘gray beard’ engineers after AI falls short** — TechCrunch AI — `2026-06-28T19:05:39+00:00`
   - https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/
   - "Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”
@@ -97,9 +100,6 @@
 - 🔵 **OpenAI will delay GPT-5.6 after Trump administration request** — The Verge AI — `2026-06-25T21:57:06+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
   - The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited pr
-- 🔵 **Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents** — TechCrunch AI — `2026-06-25T20:19:25+00:00`
-  - https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
-  - Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
