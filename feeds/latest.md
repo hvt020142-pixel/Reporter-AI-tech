@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-28T21:16:45.863884+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-28T23:16:15.009249+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -28,6 +28,9 @@
 
 ## Tin tức
 
+- 🔵 **China’s Z.ai claims it can match Mythos on cybersecurity** — The Verge AI — `2026-06-28T21:42:51+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
+  - China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the
 - 🔵 **Suno launches Spark incubator program to feed independent artists to its AI machine** — The Verge AI — `2026-06-28T20:27:36+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine
   - Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned sin
@@ -97,9 +100,6 @@
 - 🔵 **The White House is asking OpenAI to slow roll the release of its new model over safety concerns** — TechCrunch AI — `2026-06-25T23:34:39+00:00`
   - https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
   - OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.
-- 🔵 **OpenAI will delay GPT-5.6 after Trump administration request** — The Verge AI — `2026-06-25T21:57:06+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
-  - The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited pr
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
