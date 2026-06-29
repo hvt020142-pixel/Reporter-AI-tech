@@ -1,16 +1,22 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-29T04:57:04.934457+00:00 (UTC) — cửa sổ 72h — 178 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-29T11:22:13.881657+00:00 (UTC) — cửa sổ 72h — 179 mục — nguồn sơ cấp/uy tín.*
 
+
+## Hạ tầng & phần cứng
+
+- 🟢 **Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron** — NVIDIA — `2026-06-29T10:59:38+00:00`
+  - https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/
+  - Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connec
 
 ## Mô hình & LLM
 
+- 🟢 **Mapping Europe’s AI Workforce Opportunity** — OpenAI — `2026-06-29T07:00:00+00:00`
+  - https://openai.com/index/mapping-ai-jobs-transition-eu
+  - A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.
 - 🟢 **HP Inc. launches Frontier strategic partnership with OpenAI** — OpenAI — `2026-06-28T17:00:00+00:00`
   - https://openai.com/index/hp-frontier-partnership
   - HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.
-- 🟢 **Previewing GPT-5.6 Sol: a next-generation model** — OpenAI — `2026-06-26T10:00:00+00:00`
-  - https://openai.com/index/previewing-gpt-5-6-sol
-  - OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.
 
 ## Nghiên cứu
 
@@ -476,12 +482,12 @@
 - 🔵 **The Download: brain-melting heatwaves and unprecedented OpenAI restrictions** — MIT Tech Review — `2026-06-26T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous
-- 🔵 **Heat waves mess with your brain. Scientists are trying to figure out why.** — MIT Tech Review — `2026-06-26T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/
-  - It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures 
 
 ## Tin tức
 
+- 🔵 **China’s Z.ai claims it can match Mythos on cybersecurity** — The Verge AI — `2026-06-28T21:42:51+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
+  - China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the
 - 🔵 **Suno launches Spark incubator program to feed independent artists to its AI machine** — The Verge AI — `2026-06-28T20:27:36+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine
   - Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned sin
