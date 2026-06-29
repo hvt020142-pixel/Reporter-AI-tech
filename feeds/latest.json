@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T21:42:44.849182+00:00",
+  "generated_at": "2026-06-29T23:14:02.848655+00:00",
   "lookback_hours": 72,
-  "item_count": 189,
+  "item_count": 188,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 20
     },
     {
@@ -1975,16 +1975,6 @@
       "published_iso": "2026-06-27T00:33:44+00:00",
       "published_ts": 1782520424.0,
       "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable "
-    },
-    {
-      "title": "South Korea plans to train entire military as \"drone warriors\"",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-26T22:19:05+00:00",
-      "published_ts": 1782512345.0,
-      "summary": "Half-million-strong military will train on drones as “universal combat tool.”"
     }
   ]
 }

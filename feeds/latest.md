@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-29T21:42:44.849182+00:00 (UTC) — cửa sổ 72h — 189 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-29T23:14:02.848655+00:00 (UTC) — cửa sổ 72h — 188 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -582,9 +582,6 @@
 - 🔵 **Anthropic&#8217;s Mythos 5 is back** — The Verge AI — `2026-06-27T00:33:44+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations
   - After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 
-- 🔵 **South Korea plans to train entire military as "drone warriors"** — Ars Technica AI — `2026-06-26T22:19:05+00:00`
-  - https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/
-  - Half-million-strong military will train on drones as “universal combat tool.”
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
