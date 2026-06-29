@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T18:19:37.456088+00:00",
+  "generated_at": "2026-06-29T21:42:44.849182+00:00",
   "lookback_hours": 72,
-  "item_count": 186,
+  "item_count": 189,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 7,
+      "items_kept": 9,
       "items_total": 10
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 10
     },
     {
@@ -97,6 +97,46 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-29T21:09:43+00:00",
+      "published_ts": 1782767383.0,
+      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028."
+    },
+    {
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-29T20:12:59+00:00",
+      "published_ts": 1782763979.0,
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps."
+    },
+    {
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-29T19:47:35+00:00",
+      "published_ts": 1782762455.0,
+      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today "
+    },
+    {
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-29T18:52:03+00:00",
+      "published_ts": 1782759123.0,
+      "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-"
+    },
+    {
       "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
       "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
       "source": "TechCrunch AI",
@@ -107,7 +147,7 @@
       "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival."
     },
     {
-      "title": "South Korean tech giants commit over $550B to ease ‘ RAMageddon’",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
       "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
@@ -125,6 +165,16 @@
       "published_iso": "2026-06-29T18:02:48+00:00",
       "published_ts": 1782756168.0,
       "summary": ""
+    },
+    {
+      "title": "AI agents are not your “coworkers”",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-06-29T18:00:00+00:00",
+      "published_ts": 1782756000.0,
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex"
     },
     {
       "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
@@ -164,7 +214,7 @@
       "tier": "reputable",
       "published_iso": "2026-06-29T16:29:04+00:00",
       "published_ts": 1782750544.0,
-      "summary": "TIDAL's new policy will prevent AI-generated music from making money on its service."
+      "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said."
     },
     {
       "title": "Ask an AI expert: What exactly is the full stack?",
@@ -1935,26 +1985,6 @@
       "published_iso": "2026-06-26T22:19:05+00:00",
       "published_ts": 1782512345.0,
       "summary": "Half-million-strong military will train on drones as “universal combat tool.”"
-    },
-    {
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-26T20:04:55+00:00",
-      "published_ts": 1782504295.0,
-      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony."
-    },
-    {
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-26T18:32:14+00:00",
-      "published_ts": 1782498734.0,
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”"
     }
   ]
 }

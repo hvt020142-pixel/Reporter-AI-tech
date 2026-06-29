@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-29T18:19:37.456088+00:00 (UTC) — cửa sổ 72h — 186 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-29T21:42:44.849182+00:00 (UTC) — cửa sổ 72h — 189 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -489,6 +489,9 @@
 
 ## Phân tích
 
+- 🔵 **AI agents are not your “coworkers”** — MIT Tech Review — `2026-06-29T18:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex
 - 🔵 **Agent confidence on the technical frontier** — MIT Tech Review — `2026-06-29T14:44:01+00:00`
   - https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/
   - Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out
@@ -504,10 +507,22 @@
 
 ## Tin tức
 
+- 🔵 **South Korea to spend $1T on more memory chip production and humanoid robots** — Ars Technica AI — `2026-06-29T21:09:43+00:00`
+  - https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
+  - South Korea targets physical AI lead and commercial humanoid robots by 2028.
+- 🔵 **Gemini’s personalized AI image generation is now free for US users** — TechCrunch AI — `2026-06-29T20:12:59+00:00`
+  - https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/
+  - Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.
+- 🔵 **Tidal won’t pay royalties on AI-generated music but isn’t banning it outright** — The Verge AI — `2026-06-29T19:47:35+00:00`
+  - https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label
+  - Tidal shared its new policies regarding AI-generated music today and how the platform plans to "protect artists" and "inform listeners." Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today 
+- 🔵 **OpenAI is teasing new hardware… for Codex** — The Verge AI — `2026-06-29T18:52:03+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder
+  - OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, "Your favorite Codex shortcuts are getting an upgrade." This isn't the mysterious AI-
 - 🔵 **Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price** — TechCrunch AI — `2026-06-29T18:10:26+00:00`
   - https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/
   - As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.
-- 🔵 **South Korean tech giants commit over $550B to ease ‘ RAMageddon’** — TechCrunch AI — `2026-06-29T18:07:48+00:00`
+- 🔵 **South Korean tech giants commit over $550B to ease ‘RAMageddon’** — TechCrunch AI — `2026-06-29T18:07:48+00:00`
   - https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/
   - The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.
 - 🔵 **Arena, the AI leaderboard everyone uses, is now a $100M business** — TechCrunch AI — `2026-06-29T17:39:17+00:00`
@@ -518,7 +533,7 @@
   - Cursor has launched a new mobile app for remote oversight over coding agents.
 - 🔵 **TIDAL cracks down on AI music by cutting off monetization** — TechCrunch AI — `2026-06-29T16:29:04+00:00`
   - https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/
-  - TIDAL's new policy will prevent AI-generated music from making money on its service.
+  - In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.
 - 🔵 **Lawmakers want to ban AI companies from selling your health data** — The Verge AI — `2026-06-29T16:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
   - A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new v
@@ -570,12 +585,6 @@
 - 🔵 **South Korea plans to train entire military as "drone warriors"** — Ars Technica AI — `2026-06-26T22:19:05+00:00`
   - https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/
   - Half-million-strong military will train on drones as “universal combat tool.”
-- 🔵 **NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI** — Ars Technica AI — `2026-06-26T20:04:55+00:00`
-  - https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/
-  - NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.
-- 🔵 **OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm** — TechCrunch AI — `2026-06-26T18:32:14+00:00`
-  - https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
-  - “We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
