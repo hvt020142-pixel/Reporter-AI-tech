@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-29T16:06:25.464046+00:00 (UTC) — cửa sổ 72h — 183 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-29T18:19:37.456088+00:00 (UTC) — cửa sổ 72h — 186 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure** — NVIDIA — `2026-06-29T17:00:19+00:00`
+  - https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/
+  - Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise
 - 🟢 **Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time** — NVIDIA — `2026-06-29T15:00:04+00:00`
   - https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/
 - 🟢 **Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron** — NVIDIA — `2026-06-29T10:59:38+00:00`
@@ -22,6 +25,11 @@
 - 🟢 **HP Inc. launches Frontier strategic partnership with OpenAI** — OpenAI — `2026-06-28T17:00:00+00:00`
   - https://openai.com/index/hp-frontier-partnership
   - HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.
+
+## Mô hình mở
+
+- 🟢 **DiScoFormer: One transformer for density and score, across distributions** — Hugging Face — `2026-06-29T18:02:48+00:00`
+  - https://huggingface.co/blog/allenai/discoformer
 
 ## Nghiên cứu
 
@@ -496,7 +504,22 @@
 
 ## Tin tức
 
-- 🔵 **Congress wants to ban AI companies from selling your health data** — The Verge AI — `2026-06-29T16:00:00+00:00`
+- 🔵 **Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price** — TechCrunch AI — `2026-06-29T18:10:26+00:00`
+  - https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/
+  - As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.
+- 🔵 **South Korean tech giants commit over $550B to ease ‘ RAMageddon’** — TechCrunch AI — `2026-06-29T18:07:48+00:00`
+  - https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/
+  - The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.
+- 🔵 **Arena, the AI leaderboard everyone uses, is now a $100M business** — TechCrunch AI — `2026-06-29T17:39:17+00:00`
+  - https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/
+  - The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.
+- 🔵 **Cursor now has a mobile app for guiding your coding agent on the go** — TechCrunch AI — `2026-06-29T17:03:50+00:00`
+  - https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/
+  - Cursor has launched a new mobile app for remote oversight over coding agents.
+- 🔵 **TIDAL cracks down on AI music by cutting off monetization** — TechCrunch AI — `2026-06-29T16:29:04+00:00`
+  - https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/
+  - TIDAL's new policy will prevent AI-generated music from making money on its service.
+- 🔵 **Lawmakers want to ban AI companies from selling your health data** — The Verge AI — `2026-06-29T16:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
   - A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new v
 - 🔵 **Robot hand company settles Tesla trade secret suit and announces $11M raise** — TechCrunch AI — `2026-06-29T14:00:08+00:00`
@@ -538,7 +561,7 @@
 - 🔵 **Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on** — TechCrunch AI — `2026-06-27T12:00:00+00:00`
   - https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
   - New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
-- 🔵 **Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies** — TechCrunch AI — `2026-06-27T01:01:37+00:00`
+- 🔵 **Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies** — TechCrunch AI — `2026-06-27T01:01:37+00:00`
   - https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/
   - Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.
 - 🔵 **Anthropic&#8217;s Mythos 5 is back** — The Verge AI — `2026-06-27T00:33:44+00:00`
@@ -553,18 +576,6 @@
 - 🔵 **OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm** — TechCrunch AI — `2026-06-26T18:32:14+00:00`
   - https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
   - “We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”
-- 🔵 **OpenAI poaches Uber India chief to lead its biggest market outside the US** — TechCrunch AI — `2026-06-26T18:19:36+00:00`
-  - https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/
-  - The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.
-- 🔵 **Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)** — TechCrunch AI — `2026-06-26T17:43:22+00:00`
-  - https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/
-  - Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building
-- 🔵 **OpenAI unveils GPT-5.6 amid US AI regulatory drama** — The Verge AI — `2026-06-26T17:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview
-  - Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for "high-v
-- 🔵 **It’s not about Anthropic vs. OpenAI anymore** — TechCrunch AI — `2026-06-26T16:24:47+00:00`
-  - https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/
-  - AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
