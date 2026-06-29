@@ -1,16 +1,21 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-29T11:22:13.881657+00:00 (UTC) — cửa sổ 72h — 179 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-29T16:06:25.464046+00:00 (UTC) — cửa sổ 72h — 183 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time** — NVIDIA — `2026-06-29T15:00:04+00:00`
+  - https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/
 - 🟢 **Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron** — NVIDIA — `2026-06-29T10:59:38+00:00`
   - https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/
   - Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connec
 
 ## Mô hình & LLM
 
+- 🟢 **Ask an AI expert: What exactly is the full stack?** — Google (Keyword AI) — `2026-06-29T16:00:00+00:00`
+  - https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/
+  - A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.
 - 🟢 **Mapping Europe’s AI Workforce Opportunity** — OpenAI — `2026-06-29T07:00:00+00:00`
   - https://openai.com/index/mapping-ai-jobs-transition-eu
   - A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.
@@ -476,15 +481,30 @@
 
 ## Phân tích
 
+- 🔵 **Agent confidence on the technical frontier** — MIT Tech Review — `2026-06-29T14:44:01+00:00`
+  - https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/
+  - Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out
+- 🔵 **The Lab Mistake That Might Revolutionize Computing** — IEEE Spectrum AI — `2026-06-29T13:00:01+00:00`
+  - https://spectrum.ieee.org/artificial-neurons-on-silicon-chips
+  - Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But
+- 🔵 **The Download: metric weaknesses and AI elephant warnings** — MIT Tech Review — `2026-06-29T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l
 - 🔵 **ConlangCrafter Turns AI to Imagining Languages** — IEEE Spectrum AI — `2026-06-27T13:00:01+00:00`
   - https://spectrum.ieee.org/conlangs-ai-model-contructed-languages
   - There are over 7,000 natural languages today, but that doesn’t stop people from occasionally making up completely new ones. These constructed languages, or conlangs , include Dothraki , Klingon , and various Elvish languages . Now, an AI model called ConlangCrafter is also capable of generating new 
-- 🔵 **The Download: brain-melting heatwaves and unprecedented OpenAI restrictions** — MIT Tech Review — `2026-06-26T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous
 
 ## Tin tức
 
+- 🔵 **Congress wants to ban AI companies from selling your health data** — The Verge AI — `2026-06-29T16:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
+  - A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new v
+- 🔵 **Robot hand company settles Tesla trade secret suit and announces $11M raise** — TechCrunch AI — `2026-06-29T14:00:08+00:00`
+  - https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/
+  - The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.
+- 🔵 **Omen AI’s plan to optimize data centers is all wet** — TechCrunch AI — `2026-06-29T13:00:00+00:00`
+  - https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/
+  - Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.
 - 🔵 **China’s Z.ai claims it can match Mythos on cybersecurity** — The Verge AI — `2026-06-28T21:42:51+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
   - China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the
@@ -505,13 +525,13 @@
   - Not everyone is buying Elon Musk’s vision for orbital data centers.
 - 🔵 **Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;** — The Verge AI — `2026-06-27T18:39:32+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
-  - Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood
+  - Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwoo
 - 🔵 **Apple Vision Pro exec is reportedly leaving for OpenAI** — TechCrunch AI — `2026-06-27T16:45:09+00:00`
   - https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/
   - Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.
 - 🔵 **The fittest founder in the room got cancer. Here’s how he used AI to fight back.** — TechCrunch AI — `2026-06-27T14:00:00+00:00`
   - https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/
-  - When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.
+  - When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.
 - 🔵 **Why is Apple asking me to pay more for Big Tech’s AI obsession?** — The Verge AI — `2026-06-27T13:30:00+00:00`
   - https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
   - Tim Cook recently said price increases were "unavoidable" and described the company's pricing as "unsustainable." The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet
@@ -526,7 +546,7 @@
   - After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 
 - 🔵 **South Korea plans to train entire military as "drone warriors"** — Ars Technica AI — `2026-06-26T22:19:05+00:00`
   - https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/
-  - Half-million strong military will train on drones as “universal combat tool.”
+  - Half-million-strong military will train on drones as “universal combat tool.”
 - 🔵 **NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI** — Ars Technica AI — `2026-06-26T20:04:55+00:00`
   - https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/
   - NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.
@@ -545,15 +565,6 @@
 - 🔵 **It’s not about Anthropic vs. OpenAI anymore** — TechCrunch AI — `2026-06-26T16:24:47+00:00`
   - https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/
   - AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.
-- 🔵 **Anthropic&#8217;s Mythos mess is only getting worse** — The Verge AI — `2026-06-26T14:07:03+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations
-  - It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in si
-- 🔵 **OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia** — TechCrunch AI — `2026-06-26T14:00:00+00:00`
-  - https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/
-  - Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building
-- 🔵 **Early Bird pricing ends tonight for TechCrunch Founder Summit** — TechCrunch AI — `2026-06-26T13:00:00+00:00`
-  - https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/
-  - Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
