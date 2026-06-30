@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-30T16:29:51.241649+00:00 (UTC) — cửa sổ 72h — 215 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-30T20:15:43.628757+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science** — NVIDIA — `2026-06-30T17:00:38+00:00`
+  - https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/
+  - Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterat
 - 🟢 **How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost** — NVIDIA — `2026-06-30T15:00:57+00:00`
   - https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/
   - As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and 
@@ -33,9 +36,14 @@
 - 🟢 **Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers** — Google (Keyword AI) — `2026-06-30T06:00:00+00:00`
   - https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/
   - Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.
+- 🟢 **Introducing GeneBench-Pro** — OpenAI — `2026-06-30T00:00:00+00:00`
+  - https://openai.com/index/introducing-genebench-pro
+  - Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.
 - 🟢 **Core dump epidemiology: fixing an 18-year-old bug** — OpenAI — `2026-06-30T00:00:00+00:00`
   - https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
   - OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.
+- 🟢 **Inside Genebench-Pro** — OpenAI — `2026-06-30T00:00:00+00:00`
+  - https://openai.com/index/genebench-pro/case-studies
 - 🟢 **Ask an AI expert: What exactly is the full stack?** — Google (Keyword AI) — `2026-06-29T16:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/
   - A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.
@@ -48,6 +56,8 @@
 
 ## Mô hình mở
 
+- 🟢 **ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration** — Hugging Face — `2026-06-30T18:32:50+00:00`
+  - https://huggingface.co/blog/ibm-research/scarfbench
 - 🟢 **Why Specialization Is Inevitable** — Hugging Face — `2026-06-30T14:39:11+00:00`
   - https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
 - 🟢 **Featuring Every Eval Ever Results on Hugging Face Model Pages** — Hugging Face — `2026-06-30T00:00:00+00:00`
@@ -540,6 +550,9 @@
 
 ## Phân tích
 
+- 🔵 **Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body** — MIT Tech Review — `2026-06-30T17:36:48+00:00`
+  - https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/
+  - Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Spe
 - 🔵 **Emily Bender Sets the Record Straight on “Stochastic Parrots”** — IEEE Spectrum AI — `2026-06-30T14:00:02+00:00`
   - https://spectrum.ieee.org/stochastic-parrot
   - In March 2021, a group of four linguists and computer scientists published their now legendary paper “ On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” The paper received significant attention at the time (in part because Google fired two of the authors, Timnit Gebru and Marg
@@ -570,6 +583,36 @@
 
 ## Tin tức
 
+- 🔵 **AI browsers can be lulled into a dream world where guardrails no longer apply** — Ars Technica AI — `2026-06-30T20:03:14+00:00`
+  - https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
+  - Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
+- 🔵 **Google’s NotebookLM can sum up your research in a TikTok-style clip** — The Verge AI — `2026-06-30T19:24:51+00:00`
+  - https://www.theverge.com/tech/959778/google-notebooklm-ai-clips
+  - Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google detai
+- 🔵 **Google introduces a faster, cheaper image generator with Nano Banana 2 Lite** — TechCrunch AI — `2026-06-30T19:02:38+00:00`
+  - https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/
+  - Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.
+- 🔵 **Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet** — Ars Technica AI — `2026-06-30T18:36:10+00:00`
+  - https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/
+  - They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.
+- 🔵 **Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip** — TechCrunch AI — `2026-06-30T18:13:02+00:00`
+  - https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/
+  - Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.
+- 🔵 **Anthropic launches Claude Sonnet 5 as a cheaper way to run agents** — TechCrunch AI — `2026-06-30T18:00:00+00:00`
+  - https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/
+  - Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.
+- 🔵 **Acti puts AI agents directly into your smartphone keyboard** — TechCrunch AI — `2026-06-30T17:52:46+00:00`
+  - https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/
+  - Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.
+- 🔵 **Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show** — The Verge AI — `2026-06-30T17:19:15+00:00`
+  - https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder
+  - A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI f
+- 🔵 **Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists** — TechCrunch AI — `2026-06-30T17:00:00+00:00`
+  - https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/
+  - Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.
+- 🔵 **Trump's plan to redesign every .gov website leads to AI-designed horrors** — Ars Technica AI — `2026-06-30T16:59:02+00:00`
+  - https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/
+  - A year in, National Design Studio delays plan to update government web standards.
 - 🔵 **Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says** — Ars Technica AI — `2026-06-30T15:38:08+00:00`
   - https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/
   - Sources suggest Musk may be mulling big donation to Trump Accounts.
@@ -642,24 +685,9 @@
 - 🔵 **Suno launches Spark incubator program to feed independent artists to its AI machine** — The Verge AI — `2026-06-28T20:27:36+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine
   - Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned sin
-- 🔵 **Ford rehires ‘gray beard’ engineers after AI falls short** — TechCrunch AI — `2026-06-28T19:05:39+00:00`
-  - https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/
-  - "Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”
-- 🔵 **Why Wall Street thinks US memory maker Micron is the next Nvidia** — TechCrunch AI — `2026-06-28T15:00:00+00:00`
-  - https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/
-  - Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.
 - 🔵 **Prosecutors used ChatGPT logs as evidence in the Palisades fire trial** — The Verge AI — `2026-06-28T14:12:06+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial
   - Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his
-- 🔵 **SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype** — TechCrunch AI — `2026-06-27T20:42:36+00:00`
-  - https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/
-  - Not everyone is buying Elon Musk’s vision for orbital data centers.
-- 🔵 **Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;** — The Verge AI — `2026-06-27T18:39:32+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out
-  - Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwoo
-- 🔵 **Apple Vision Pro exec is reportedly leaving for OpenAI** — TechCrunch AI — `2026-06-27T16:45:09+00:00`
-  - https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/
-  - Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
