@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-30T09:58:27.248074+00:00 (UTC) — cửa sổ 72h — 199 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-30T12:22:36.928726+00:00 (UTC) — cửa sổ 72h — 200 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -519,6 +519,9 @@
 
 ## Phân tích
 
+- 🔵 **Building tech in the world’s secret R&D hub** — MIT Tech Review — `2026-06-30T10:23:30+00:00`
+  - https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/
+  - Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, howe
 - 🔵 **AI agents are not your “coworkers”** — MIT Tech Review — `2026-06-29T18:00:00+00:00`
   - https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex
@@ -537,6 +540,9 @@
 
 ## Tin tức
 
+- 🔵 **Meet the lawyer who beat Elon Musk — twice** — The Verge AI — `2026-06-30T12:00:00+00:00`
+  - https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter
+  - Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were "designed to tric
 - 🔵 **Crypto exchange OKX wants AI agents to hire and pay each other** — TechCrunch AI — `2026-06-30T09:00:00+00:00`
   - https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/
   - OKX is bringing together payments, identity and reputation into a marketplace for AI agents.
@@ -612,9 +618,6 @@
 - 🔵 **Why is Apple asking me to pay more for Big Tech’s AI obsession?** — The Verge AI — `2026-06-27T13:30:00+00:00`
   - https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
   - Tim Cook recently said price increases were "unavoidable" and described the company's pricing as "unsustainable." The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet
-- 🔵 **Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on** — TechCrunch AI — `2026-06-27T12:00:00+00:00`
-  - https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
-  - New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
