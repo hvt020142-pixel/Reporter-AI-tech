@@ -1,10 +1,19 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-30T12:22:36.928726+00:00 (UTC) — cửa sổ 72h — 200 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-30T16:29:51.241649+00:00 (UTC) — cửa sổ 72h — 215 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost** — NVIDIA — `2026-06-30T15:00:57+00:00`
+  - https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/
+  - As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and 
+- 🟢 **How Jaiveer Singh Is Helping Robots — and Developers — Move Faster** — NVIDIA — `2026-06-30T15:00:49+00:00`
+  - https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/
+  - When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a rob
+- 🟢 **Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning** — NVIDIA — `2026-06-30T13:00:27+00:00`
+  - https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/
+  - Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from t
 - 🟢 **Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure** — NVIDIA — `2026-06-29T17:00:19+00:00`
   - https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/
   - Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise
@@ -16,9 +25,17 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Start building with Nano Banana 2 Lite and Gemini Omni Flash** — Google DeepMind — `2026-06-30T16:02:40+00:00`
+  - https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/
+- 🟢 **How ChatGPT adoption has expanded** — OpenAI — `2026-06-30T09:00:00+00:00`
+  - https://openai.com/index/how-chatgpt-adoption-has-expanded
+  - New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.
 - 🟢 **Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers** — Google (Keyword AI) — `2026-06-30T06:00:00+00:00`
   - https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/
   - Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.
+- 🟢 **Core dump epidemiology: fixing an 18-year-old bug** — OpenAI — `2026-06-30T00:00:00+00:00`
+  - https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
+  - OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.
 - 🟢 **Ask an AI expert: What exactly is the full stack?** — Google (Keyword AI) — `2026-06-29T16:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/
   - A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.
@@ -31,6 +48,10 @@
 
 ## Mô hình mở
 
+- 🟢 **Why Specialization Is Inevitable** — Hugging Face — `2026-06-30T14:39:11+00:00`
+  - https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
+- 🟢 **Featuring Every Eval Ever Results on Hugging Face Model Pages** — Hugging Face — `2026-06-30T00:00:00+00:00`
+  - https://huggingface.co/blog/eee-community-evals
 - 🟢 **DiScoFormer: One transformer for density and score, across distributions** — Hugging Face — `2026-06-29T18:02:48+00:00`
   - https://huggingface.co/blog/allenai/discoformer
 
@@ -519,6 +540,18 @@
 
 ## Phân tích
 
+- 🔵 **Emily Bender Sets the Record Straight on “Stochastic Parrots”** — IEEE Spectrum AI — `2026-06-30T14:00:02+00:00`
+  - https://spectrum.ieee.org/stochastic-parrot
+  - In March 2021, a group of four linguists and computer scientists published their now legendary paper “ On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” The paper received significant attention at the time (in part because Google fired two of the authors, Timnit Gebru and Marg
+- 🔵 **Poetry for Engineers: Nine Lives of Nikola Tesla** — IEEE Spectrum AI — `2026-06-30T12:24:33+00:00`
+  - https://spectrum.ieee.org/poetry-for-engineers-nine-lives-of-nikola-tesla
+  - He was born into a storm, lightning split the summer sky, in a village the world had not yet heard of. The midwife called it a bad omen, his mother called it a sign. Your first life began in a storm, under open sky. One winter night you ran your hand along a cat’s back, and the darkness cracked open
+- 🔵 **The Download: AI “coworkers” and stratospheric internet** — MIT Tech Review — `2026-06-30T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI to
+- 🔵 **Agriculture is ready for AI, but its data isn’t** — MIT Tech Review — `2026-06-30T12:00:00+00:00`
+  - https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/
+  - Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins 
 - 🔵 **Building tech in the world’s secret R&D hub** — MIT Tech Review — `2026-06-30T10:23:30+00:00`
   - https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/
   - Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, howe
@@ -534,24 +567,39 @@
 - 🔵 **The Download: metric weaknesses and AI elephant warnings** — MIT Tech Review — `2026-06-29T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l
-- 🔵 **ConlangCrafter Turns AI to Imagining Languages** — IEEE Spectrum AI — `2026-06-27T13:00:01+00:00`
-  - https://spectrum.ieee.org/conlangs-ai-model-contructed-languages
-  - There are over 7,000 natural languages today, but that doesn’t stop people from occasionally making up completely new ones. These constructed languages, or conlangs , include Dothraki , Klingon , and various Elvish languages . Now, an AI model called ConlangCrafter is also capable of generating new 
 
 ## Tin tức
 
+- 🔵 **Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says** — Ars Technica AI — `2026-06-30T15:38:08+00:00`
+  - https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/
+  - Sources suggest Musk may be mulling big donation to Trump Accounts.
+- 🔵 **Libby will filter out AI content, kind of** — The Verge AI — `2026-06-30T15:30:00+00:00`
+  - https://www.theverge.com/column/959433/libby-ai-filter
+  - This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. "AI is the new frontier for us," says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for 
+- 🔵 **X now offers an MCP server to make its platform easier for AI tools to use** — TechCrunch AI — `2026-06-30T15:08:42+00:00`
+  - https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/
+  - X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.
+- 🔵 **Podcasting platform Riverside enters the newsletter publishing game** — TechCrunch AI — `2026-06-30T15:00:00+00:00`
+  - https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/
+  - Users will be able use AI to create newsletters based on their recordings.
+- 🔵 **Amazon launches new $1 billion FDE org, following OpenAI and Anthropic** — TechCrunch AI — `2026-06-30T15:00:00+00:00`
+  - https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/
+  - Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.
+- 🔵 **Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade** — TechCrunch AI — `2026-06-30T14:00:00+00:00`
+  - https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/
+  - Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.
 - 🔵 **Meet the lawyer who beat Elon Musk — twice** — The Verge AI — `2026-06-30T12:00:00+00:00`
   - https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter
   - Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were "designed to tric
 - 🔵 **Crypto exchange OKX wants AI agents to hire and pay each other** — TechCrunch AI — `2026-06-30T09:00:00+00:00`
   - https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/
-  - OKX is bringing together payments, identity and reputation into a marketplace for AI agents.
+  - OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.
 - 🔵 **The AI jobs debate just got messier** — TechCrunch AI — `2026-06-30T04:01:00+00:00`
   - https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/
   - A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.
-- 🔵 **Vibe coding platform Base44 launches own model as AI startups seek defensibility** — TechCrunch AI — `2026-06-30T02:28:41+00:00`
+- 🔵 **Vibe-coding platform Base44 launches own model as AI startups seek defensibility** — TechCrunch AI — `2026-06-30T02:28:41+00:00`
   - https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/
-  - Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.
+  - Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.
 - 🔵 **South Korea to spend $1T on more memory chip production and humanoid robots** — Ars Technica AI — `2026-06-29T21:09:43+00:00`
   - https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
   - South Korea targets physical AI lead and commercial humanoid robots by 2028.
@@ -612,12 +660,6 @@
 - 🔵 **Apple Vision Pro exec is reportedly leaving for OpenAI** — TechCrunch AI — `2026-06-27T16:45:09+00:00`
   - https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/
   - Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.
-- 🔵 **The fittest founder in the room got cancer. Here’s how he used AI to fight back.** — TechCrunch AI — `2026-06-27T14:00:00+00:00`
-  - https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/
-  - When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.
-- 🔵 **Why is Apple asking me to pay more for Big Tech’s AI obsession?** — The Verge AI — `2026-06-27T13:30:00+00:00`
-  - https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech
-  - Tim Cook recently said price increases were "unavoidable" and described the company's pricing as "unsustainable." The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
