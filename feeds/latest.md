@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-30T20:15:43.628757+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-30T23:36:34.433247+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -550,6 +550,9 @@
 
 ## Phân tích
 
+- 🔵 **Claude Science is Anthropic’s newest flagship product** — MIT Tech Review — `2026-06-30T21:50:04+00:00`
+  - https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/
+  - At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c
 - 🔵 **Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body** — MIT Tech Review — `2026-06-30T17:36:48+00:00`
   - https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/
   - Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Spe
@@ -583,7 +586,13 @@
 
 ## Tin tức
 
-- 🔵 **AI browsers can be lulled into a dream world where guardrails no longer apply** — Ars Technica AI — `2026-06-30T20:03:14+00:00`
+- 🔵 **OpenClaw is finally available on Android and iOS** — TechCrunch AI — `2026-06-30T21:53:28+00:00`
+  - https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/
+  - The free open source agentic program is finally invading your phone.
+- 🔵 **The DeepMind trio who built a poker AI are now making money for quant hedge funds** — TechCrunch AI — `2026-06-30T20:33:48+00:00`
+  - https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/
+  - EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.
+- 🔵 **New attack provides one more reason why AI browsers are a bad idea** — Ars Technica AI — `2026-06-30T20:03:14+00:00`
   - https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
   - Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
 - 🔵 **Google’s NotebookLM can sum up your research in a TikTok-style clip** — The Verge AI — `2026-06-30T19:24:51+00:00`
@@ -673,12 +682,6 @@
 - 🔵 **Lawmakers want to ban AI companies from selling your health data** — The Verge AI — `2026-06-29T16:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
   - A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new v
-- 🔵 **Robot hand company settles Tesla trade secret suit and announces $11M raise** — TechCrunch AI — `2026-06-29T14:00:08+00:00`
-  - https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/
-  - The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.
-- 🔵 **Omen AI’s plan to optimize data centers is all wet** — TechCrunch AI — `2026-06-29T13:00:00+00:00`
-  - https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/
-  - Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.
 - 🔵 **China’s Z.ai claims it can match Mythos on cybersecurity** — The Verge AI — `2026-06-28T21:42:51+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
   - China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the
