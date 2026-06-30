@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-06-30T04:22:02.031594+00:00 (UTC) — cửa sổ 72h — 197 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-06-30T09:58:27.248074+00:00 (UTC) — cửa sổ 72h — 199 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -16,6 +16,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers** — Google (Keyword AI) — `2026-06-30T06:00:00+00:00`
+  - https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/
+  - Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.
 - 🟢 **Ask an AI expert: What exactly is the full stack?** — Google (Keyword AI) — `2026-06-29T16:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/
   - A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.
@@ -534,6 +537,9 @@
 
 ## Tin tức
 
+- 🔵 **Crypto exchange OKX wants AI agents to hire and pay each other** — TechCrunch AI — `2026-06-30T09:00:00+00:00`
+  - https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/
+  - OKX is bringing together payments, identity and reputation into a marketplace for AI agents.
 - 🔵 **The AI jobs debate just got messier** — TechCrunch AI — `2026-06-30T04:01:00+00:00`
   - https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/
   - A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.
@@ -546,7 +552,7 @@
 - 🔵 **Gemini’s personalized AI image generation is now free for US users** — TechCrunch AI — `2026-06-29T20:12:59+00:00`
   - https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/
   - Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.
-- 🔵 **Tidal won’t pay royalties on AI-generated music but isn’t banning it outright** — The Verge AI — `2026-06-29T19:47:35+00:00`
+- 🔵 **Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright** — The Verge AI — `2026-06-29T19:47:35+00:00`
   - https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label
   - Tidal shared its new policies regarding AI-generated music today and how the platform plans to "protect artists" and "inform listeners." Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today 
 - 🔵 **OpenAI is teasing new hardware… for Codex** — The Verge AI — `2026-06-29T18:52:03+00:00`

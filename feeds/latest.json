@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T04:22:02.031594+00:00",
+  "generated_at": "2026-06-30T09:58:27.248074+00:00",
   "lookback_hours": 72,
-  "item_count": 197,
+  "item_count": 199,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -18,7 +18,7 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 16,
+      "items_kept": 17,
       "items_total": 20
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-06-30T09:00:00+00:00",
+      "published_ts": 1782810000.0,
+      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents."
+    },
+    {
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "Google (Keyword AI)",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-06-30T06:00:00+00:00",
+      "published_ts": 1782799200.0,
+      "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies."
+    },
     {
       "title": "The AI jobs debate just got messier",
       "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
@@ -1737,7 +1757,7 @@
       "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps."
     },
     {
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "source": "The Verge AI",
       "category": "Tin tức",
