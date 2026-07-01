@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-01T10:09:43.585128+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-01T12:45:11.755500+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -550,6 +550,12 @@
 
 ## Phân tích
 
+- 🔵 **The Download: Anthropic launches Claude Science, and California’s carbon manure math** — MIT Tech Review — `2026-07-01T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi
+- 🔵 **The Orbital Data Center Hype Machine Is Already in Orbit** — IEEE Spectrum AI — `2026-07-01T12:00:01+00:00`
+  - https://spectrum.ieee.org/orbital-data-center-hype
+  - “ The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public . Later that month, SpaceX filed an application with th
 - 🔵 **Claude Science is Anthropic’s newest flagship product** — MIT Tech Review — `2026-06-30T21:50:04+00:00`
   - https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/
   - At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c
@@ -586,6 +592,9 @@
 
 ## Tin tức
 
+- 🔵 **Google built a great smart speaker, but Gemini isn’t ready for it** — The Verge AI — `2026-07-01T12:00:00+00:00`
+  - https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home
+  - Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fal
 - 🔵 **The ‘Father of the Internet’ is finally retiring** — TechCrunch AI — `2026-07-01T03:15:37+00:00`
   - https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/
   - Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.
@@ -688,9 +697,6 @@
 - 🔵 **China’s Z.ai claims it can match Mythos on cybersecurity** — The Verge AI — `2026-06-28T21:42:51+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
   - China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the
-- 🔵 **Suno launches Spark incubator program to feed independent artists to its AI machine** — The Verge AI — `2026-06-28T20:27:36+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine
-  - Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned sin
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
