@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-01T16:37:36.793900+00:00 (UTC) — cửa sổ 72h — 233 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-01T20:08:33.499669+00:00 (UTC) — cửa sổ 72h — 234 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -31,6 +31,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **The latest AI news we announced in June 2026** — Google (Keyword AI) — `2026-07-01T18:15:00+00:00`
+  - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
+  - Here are Google’s latest AI updates from June 2026.
 - 🟢 **New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.** — Google (Keyword AI) — `2026-07-01T16:00:00+00:00`
   - https://blog.google/products-and-platforms/products/education/nyc-ai-summit/
   - Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.
@@ -42,23 +45,20 @@
 - 🟢 **Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers** — Google (Keyword AI) — `2026-06-30T06:00:00+00:00`
   - https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/
   - Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.
+- 🟢 **Inside Genebench-Pro** — OpenAI — `2026-06-30T00:00:00+00:00`
+  - https://openai.com/index/genebench-pro/case-studies
 - 🟢 **Introducing GeneBench-Pro** — OpenAI — `2026-06-30T00:00:00+00:00`
   - https://openai.com/index/introducing-genebench-pro
   - Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.
 - 🟢 **Core dump epidemiology: fixing an 18-year-old bug** — OpenAI — `2026-06-30T00:00:00+00:00`
   - https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
   - OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.
-- 🟢 **Inside Genebench-Pro** — OpenAI — `2026-06-30T00:00:00+00:00`
-  - https://openai.com/index/genebench-pro/case-studies
 - 🟢 **Ask an AI expert: What exactly is the full stack?** — Google (Keyword AI) — `2026-06-29T16:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/
   - A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.
 - 🟢 **Mapping Europe’s AI Workforce Opportunity** — OpenAI — `2026-06-29T07:00:00+00:00`
   - https://openai.com/index/mapping-ai-jobs-transition-eu
   - A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.
-- 🟢 **HP Inc. launches Frontier strategic partnership with OpenAI** — OpenAI — `2026-06-28T17:00:00+00:00`
-  - https://openai.com/index/hp-frontier-partnership
-  - HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.
 
 ## Mô hình mở
 
@@ -606,6 +606,18 @@
 
 ## Tin tức
 
+- 🔵 **SpaceX has an AI device prototype, and it sure sounds phone-ish** — TechCrunch AI — `2026-07-01T18:54:18+00:00`
+  - https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/
+  - SpaceX reportedly showed investors a "handset-like" AI device before going public. It could be another signal SpaceX wants to expand into wireless.
+- 🔵 **Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller** — TechCrunch AI — `2026-07-01T18:47:22+00:00`
+  - https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/
+  - Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.
+- 🔵 **Cloudflare’s new policy pushes AI companies to pay for publishers’ content** — TechCrunch AI — `2026-07-01T17:48:37+00:00`
+  - https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/
+  - Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.
+- 🔵 **After spooking Trump into safety testing, Anthropic AI models get global release** — Ars Technica AI — `2026-07-01T16:44:18+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/
+  - US lifts curbs on Anthropic’s advanced Fable and Mythos models.
 - 🔵 **Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off** — TechCrunch AI — `2026-07-01T14:25:23+00:00`
   - https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/
   - Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.
@@ -684,18 +696,9 @@
 - 🔵 **Amazon launches new $1 billion FDE org, following OpenAI and Anthropic** — TechCrunch AI — `2026-06-30T15:00:00+00:00`
   - https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/
   - Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.
-- 🔵 **Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade** — TechCrunch AI — `2026-06-30T14:00:00+00:00`
-  - https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/
-  - Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.
 - 🔵 **Meet the lawyer who beat Elon Musk — twice** — The Verge AI — `2026-06-30T12:00:00+00:00`
   - https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter
   - Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were "designed to tric
-- 🔵 **Crypto exchange OKX wants AI agents to hire and pay each other** — TechCrunch AI — `2026-06-30T09:00:00+00:00`
-  - https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/
-  - OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.
-- 🔵 **The AI jobs debate just got messier** — TechCrunch AI — `2026-06-30T04:01:00+00:00`
-  - https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/
-  - A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.
 - 🔵 **South Korea to spend $1T on more memory chip production and humanoid robots** — Ars Technica AI — `2026-06-29T21:09:43+00:00`
   - https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
   - South Korea targets physical AI lead and commercial humanoid robots by 2028.
