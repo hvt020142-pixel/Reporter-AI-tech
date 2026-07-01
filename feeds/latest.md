@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-01T12:45:11.755500+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-01T16:37:36.793900+00:00 (UTC) — cửa sổ 72h — 233 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-07-01T13:00:47+00:00`
+  - https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/
+  - NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.
 - 🟢 **NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science** — NVIDIA — `2026-06-30T17:00:38+00:00`
   - https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/
   - Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterat
@@ -28,6 +31,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.** — Google (Keyword AI) — `2026-07-01T16:00:00+00:00`
+  - https://blog.google/products-and-platforms/products/education/nyc-ai-summit/
+  - Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.
 - 🟢 **Start building with Nano Banana 2 Lite and Gemini Omni Flash** — Google DeepMind — `2026-06-30T16:02:40+00:00`
   - https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/
 - 🟢 **How ChatGPT adoption has expanded** — OpenAI — `2026-06-30T09:00:00+00:00`
@@ -56,6 +62,8 @@
 
 ## Mô hình mở
 
+- 🟢 **Hugging Face and Cerebras bring Gemma 4 to real-time voice AI** — Hugging Face — `2026-07-01T00:00:00+00:00`
+  - https://huggingface.co/blog/cerebras-gemma4-voice-ai
 - 🟢 **ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration** — Hugging Face — `2026-06-30T18:32:50+00:00`
   - https://huggingface.co/blog/ibm-research/scarfbench
 - 🟢 **Why Specialization Is Inevitable** — Hugging Face — `2026-06-30T14:39:11+00:00`
@@ -550,6 +558,12 @@
 
 ## Phân tích
 
+- 🔵 **As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration** — IEEE Spectrum AI — `2026-07-01T16:01:27+00:00`
+  - https://spectrum.ieee.org/ai-energy-systems-melbourne
+  - This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy. From hyperscale data centers to electrified industries, AI is d
+- 🔵 **LLMs are stuck in a groupthink groove. This startup is trying to get them out.** — MIT Tech Review — `2026-07-01T14:35:16+00:00`
+  - https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/
+  - Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;
 - 🔵 **The Download: Anthropic launches Claude Science, and California’s carbon manure math** — MIT Tech Review — `2026-07-01T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi
@@ -564,7 +578,7 @@
   - Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Spe
 - 🔵 **Emily Bender Sets the Record Straight on “Stochastic Parrots”** — IEEE Spectrum AI — `2026-06-30T14:00:02+00:00`
   - https://spectrum.ieee.org/stochastic-parrot
-  - In March 2021, a group of four linguists and computer scientists published their now legendary paper “ On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” The paper received significant attention at the time (in part because Google fired two of the authors, Timnit Gebru and Marg
+  - In March 2021, a group of four researchers—a collaboration of linguists and computer scientists—published their now legendary paper “ On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” The paper received significant attention at the time (in part because Google fired two of the
 - 🔵 **Poetry for Engineers: Nine Lives of Nikola Tesla** — IEEE Spectrum AI — `2026-06-30T12:24:33+00:00`
   - https://spectrum.ieee.org/poetry-for-engineers-nine-lives-of-nikola-tesla
   - He was born into a storm, lightning split the summer sky, in a village the world had not yet heard of. The midwife called it a bad omen, his mother called it a sign. Your first life began in a storm, under open sky. One winter night you ran your hand along a cat’s back, and the darkness cracked open
@@ -592,6 +606,18 @@
 
 ## Tin tức
 
+- 🔵 **Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off** — TechCrunch AI — `2026-07-01T14:25:23+00:00`
+  - https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/
+  - Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.
+- 🔵 **Gemini Spark, Google’s agentic assistant, is now available on Mac** — TechCrunch AI — `2026-07-01T14:20:19+00:00`
+  - https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/
+  - Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.
+- 🔵 **Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026** — TechCrunch AI — `2026-07-01T14:00:00+00:00`
+  - https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/
+  - The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.
+- 🔵 **Meta, like SpaceX, looks to turn excess AI compute into cash** — TechCrunch AI — `2026-07-01T13:43:07+00:00`
+  - https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/
+  - Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.
 - 🔵 **Google built a great smart speaker, but Gemini isn’t ready for it** — The Verge AI — `2026-07-01T12:00:00+00:00`
   - https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home
   - Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fal
@@ -670,27 +696,15 @@
 - 🔵 **The AI jobs debate just got messier** — TechCrunch AI — `2026-06-30T04:01:00+00:00`
   - https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/
   - A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.
-- 🔵 **Vibe-coding platform Base44 launches own model as AI startups seek defensibility** — TechCrunch AI — `2026-06-30T02:28:41+00:00`
-  - https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/
-  - Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.
 - 🔵 **South Korea to spend $1T on more memory chip production and humanoid robots** — Ars Technica AI — `2026-06-29T21:09:43+00:00`
   - https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
   - South Korea targets physical AI lead and commercial humanoid robots by 2028.
-- 🔵 **Gemini’s personalized AI image generation is now free for US users** — TechCrunch AI — `2026-06-29T20:12:59+00:00`
-  - https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/
-  - Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.
 - 🔵 **Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright** — The Verge AI — `2026-06-29T19:47:35+00:00`
   - https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label
   - Tidal shared its new policies regarding AI-generated music today and how the platform plans to "protect artists" and "inform listeners." Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today 
 - 🔵 **OpenAI is teasing new hardware… for Codex** — The Verge AI — `2026-06-29T18:52:03+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder
   - OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, "Your favorite Codex shortcuts are getting an upgrade." This isn't the mysterious AI-
-- 🔵 **Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price** — TechCrunch AI — `2026-06-29T18:10:26+00:00`
-  - https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/
-  - As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.
-- 🔵 **South Korean tech giants commit over $550B to ease ‘RAMageddon’** — TechCrunch AI — `2026-06-29T18:07:48+00:00`
-  - https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/
-  - The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.
 - 🔵 **Lawmakers want to ban AI companies from selling your health data** — The Verge AI — `2026-06-29T16:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
   - A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new v
