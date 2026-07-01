@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-01T20:08:33.499669+00:00 (UTC) — cửa sổ 72h — 234 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-01T21:44:57.301081+00:00 (UTC) — cửa sổ 72h — 233 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -711,9 +711,6 @@
 - 🔵 **Lawmakers want to ban AI companies from selling your health data** — The Verge AI — `2026-06-29T16:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
   - A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new v
-- 🔵 **China’s Z.ai claims it can match Mythos on cybersecurity** — The Verge AI — `2026-06-28T21:42:51+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
-  - China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

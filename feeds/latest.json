@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T20:08:33.499669+00:00",
+  "generated_at": "2026-07-01T21:44:57.301081+00:00",
   "lookback_hours": 72,
-  "item_count": 234,
+  "item_count": 233,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 10,
+      "items_kept": 9,
       "items_total": 10
     },
     {
@@ -2425,16 +2425,6 @@
       "published_iso": "2026-06-29T07:00:00+00:00",
       "published_ts": 1782716400.0,
       "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
-    },
-    {
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-28T21:42:51+00:00",
-      "published_ts": 1782682971.0,
-      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the"
     }
   ]
 }
