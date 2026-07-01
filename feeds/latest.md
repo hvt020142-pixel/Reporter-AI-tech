@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-01T04:50:47.330774+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-01T10:09:43.585128+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -586,12 +586,12 @@
 
 ## Tin tức
 
-- 🔵 **The “Father of the Internet” is finally retiring** — TechCrunch AI — `2026-07-01T03:15:37+00:00`
+- 🔵 **The ‘Father of the Internet’ is finally retiring** — TechCrunch AI — `2026-07-01T03:15:37+00:00`
   - https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/
   - Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.
 - 🔵 **Trump drops restrictions on Anthropic’s Mythos and Fable models** — TechCrunch AI — `2026-07-01T02:16:06+00:00`
   - https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/
-  - Anthropic said it would begin restoring access to the Fable on July 1.
+  - The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.
 - 🔵 **Wayve launches $85M employee tender offer at $8.5B valuation** — TechCrunch AI — `2026-07-01T02:04:40+00:00`
   - https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/
   - Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.
