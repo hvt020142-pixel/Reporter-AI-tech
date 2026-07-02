@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-02T21:21:32.403568+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-02T23:20:19.444467+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -595,7 +595,7 @@
 
 - 🔵 **Jersey Mike’s IPO illustrates how bad the AI hype has become** — TechCrunch AI — `2026-07-02T20:11:59+00:00`
   - https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/
-  - Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.
+  - Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.
 - 🔵 **Meta quietly launches vibe-coded gaming app Pocket** — TechCrunch AI — `2026-07-02T18:44:02+00:00`
   - https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/
   - Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.
