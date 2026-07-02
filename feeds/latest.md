@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-02T18:01:46.424826+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-02T19:46:58.129836+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -62,8 +62,6 @@
   - https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
 - 🟢 **Featuring Every Eval Ever Results on Hugging Face Model Pages** — Hugging Face — `2026-06-30T00:00:00+00:00`
   - https://huggingface.co/blog/eee-community-evals
-- 🟢 **DiScoFormer: One transformer for density and score, across distributions** — Hugging Face — `2026-06-29T18:02:48+00:00`
-  - https://huggingface.co/blog/allenai/discoformer
 
 ## Nghiên cứu
 
@@ -595,6 +593,12 @@
 
 ## Tin tức
 
+- 🔵 **Meta quietly launches vibe-coded gaming app Pocket** — TechCrunch AI — `2026-07-02T18:44:02+00:00`
+  - https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/
+  - Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.
+- 🔵 **Anthropic is discussing a new custom chip with Samsung** — TechCrunch AI — `2026-07-02T18:31:09+00:00`
+  - https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/
+  - The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.
 - 🔵 **OpenAI proposed donating 5% of its equity to a US sovereign wealth fund** — TechCrunch AI — `2026-07-02T15:20:51+00:00`
   - https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/
   - OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.
@@ -679,12 +683,6 @@
 - 🔵 **Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip** — TechCrunch AI — `2026-06-30T18:13:02+00:00`
   - https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/
   - Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.
-- 🔵 **Anthropic launches Claude Sonnet 5 as a cheaper way to run agents** — TechCrunch AI — `2026-06-30T18:00:00+00:00`
-  - https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/
-  - Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.
-- 🔵 **Acti puts AI agents directly into your smartphone keyboard** — TechCrunch AI — `2026-06-30T17:52:46+00:00`
-  - https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/
-  - Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.
 - 🔵 **Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show** — The Verge AI — `2026-06-30T17:19:15+00:00`
   - https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder
   - A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI f
@@ -706,9 +704,6 @@
 - 🔵 **Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright** — The Verge AI — `2026-06-29T19:47:35+00:00`
   - https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label
   - Tidal shared its new policies regarding AI-generated music today and how the platform plans to "protect artists" and "inform listeners." Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today 
-- 🔵 **OpenAI is teasing new hardware… for Codex** — The Verge AI — `2026-06-29T18:52:03+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder
-  - OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, "Your favorite Codex shortcuts are getting an upgrade." This isn't the mysterious AI-
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
