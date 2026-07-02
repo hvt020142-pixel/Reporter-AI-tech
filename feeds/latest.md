@@ -1,11 +1,11 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-02T04:18:27.137276+00:00 (UTC) — cửa sổ 72h — 234 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-02T09:29:57.696512+00:00 (UTC) — cửa sổ 72h — 233 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
-- 🟢 **NVIDIA Unlocks AI Compute at Scale, Inviting Capital Partners to Power the AI Infrastructure Buildout** — NVIDIA — `2026-07-02T03:34:48+00:00`
+- 🟢 **NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout** — NVIDIA — `2026-07-02T03:34:48+00:00`
   - https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/
   - As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly ut
 - 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-07-01T13:00:47+00:00`
@@ -59,9 +59,6 @@
 - 🟢 **Ask an AI expert: What exactly is the full stack?** — Google (Keyword AI) — `2026-06-29T16:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/
   - A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.
-- 🟢 **Mapping Europe’s AI Workforce Opportunity** — OpenAI — `2026-06-29T07:00:00+00:00`
-  - https://openai.com/index/mapping-ai-jobs-transition-eu
-  - A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.
 
 ## Mô hình mở
 
@@ -561,6 +558,9 @@
 
 ## Phân tích
 
+- 🔵 **Why California’s carbon manure math doesn’t add up** — MIT Tech Review — `2026-07-02T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/
+  - Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s b
 - 🔵 **As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration** — IEEE Spectrum AI — `2026-07-01T16:01:27+00:00`
   - https://spectrum.ieee.org/ai-energy-systems-melbourne
   - This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy. From hyperscale data centers to electrified industries, AI is d
@@ -603,12 +603,12 @@
 - 🔵 **The Lab Mistake That Might Revolutionize Computing** — IEEE Spectrum AI — `2026-06-29T13:00:01+00:00`
   - https://spectrum.ieee.org/artificial-neurons-on-silicon-chips
   - Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But
-- 🔵 **The Download: metric weaknesses and AI elephant warnings** — MIT Tech Review — `2026-06-29T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a l
 
 ## Tin tức
 
+- 🔵 **Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office** — TechCrunch AI — `2026-07-02T05:30:00+00:00`
+  - https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/
+  - Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.
 - 🔵 **SpaceX has an AI device prototype, and it sure sounds phone-ish** — TechCrunch AI — `2026-07-01T18:54:18+00:00`
   - https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/
   - SpaceX reportedly showed investors a "handset-like" AI device before going public. It could be another signal SpaceX wants to expand into wireless.
@@ -696,9 +696,6 @@
 - 🔵 **Podcasting platform Riverside enters the newsletter publishing game** — TechCrunch AI — `2026-06-30T15:00:00+00:00`
   - https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/
   - Users will be able use AI to create newsletters based on their recordings.
-- 🔵 **Amazon launches new $1 billion FDE org, following OpenAI and Anthropic** — TechCrunch AI — `2026-06-30T15:00:00+00:00`
-  - https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/
-  - Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.
 - 🔵 **Meet the lawyer who beat Elon Musk — twice** — The Verge AI — `2026-06-30T12:00:00+00:00`
   - https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter
   - Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were "designed to tric
