@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-02T19:46:58.129836+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-02T21:21:32.403568+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -593,6 +593,9 @@
 
 ## Tin tức
 
+- 🔵 **Jersey Mike’s IPO illustrates how bad the AI hype has become** — TechCrunch AI — `2026-07-02T20:11:59+00:00`
+  - https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/
+  - Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.
 - 🔵 **Meta quietly launches vibe-coded gaming app Pocket** — TechCrunch AI — `2026-07-02T18:44:02+00:00`
   - https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/
   - Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.
@@ -680,9 +683,6 @@
 - 🔵 **Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet** — Ars Technica AI — `2026-06-30T18:36:10+00:00`
   - https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/
   - They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.
-- 🔵 **Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip** — TechCrunch AI — `2026-06-30T18:13:02+00:00`
-  - https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/
-  - Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.
 - 🔵 **Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show** — The Verge AI — `2026-06-30T17:19:15+00:00`
   - https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder
   - A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI f
@@ -698,12 +698,6 @@
 - 🔵 **Meet the lawyer who beat Elon Musk — twice** — The Verge AI — `2026-06-30T12:00:00+00:00`
   - https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter
   - Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were "designed to tric
-- 🔵 **South Korea to spend $1T on more memory chip production and humanoid robots** — Ars Technica AI — `2026-06-29T21:09:43+00:00`
-  - https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
-  - South Korea targets physical AI lead and commercial humanoid robots by 2028.
-- 🔵 **Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright** — The Verge AI — `2026-06-29T19:47:35+00:00`
-  - https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label
-  - Tidal shared its new policies regarding AI-generated music today and how the platform plans to "protect artists" and "inform listeners." Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today 
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
