@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-02T16:14:59.108030+00:00 (UTC) — cửa sổ 72h — 233 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-02T18:01:46.424826+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -26,9 +26,6 @@
 - 🟢 **Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning** — NVIDIA — `2026-06-30T13:00:27+00:00`
   - https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/
   - Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from t
-- 🟢 **Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure** — NVIDIA — `2026-06-29T17:00:19+00:00`
-  - https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/
-  - Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise
 
 ## Mô hình & LLM
 
