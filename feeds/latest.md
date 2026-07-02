@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-02T12:20:21.561839+00:00 (UTC) — cửa sổ 72h — 234 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-02T16:14:59.108030+00:00 (UTC) — cửa sổ 72h — 233 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Joyride Through July With 12 Games Coming to GeForce NOW** — NVIDIA — `2026-07-02T13:00:23+00:00`
+  - https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/
+  - Summer is heating up — and GeForce NOW is taking players along for the ride. Start the month with Monopoly: Star Wars Heroes vs. Villains, bringing a galaxy far, far away to the iconic board-game franchise, alongside 12 new games joining the cloud this month. Plus, don’t let the sun set on the bigge
 - 🟢 **NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout** — NVIDIA — `2026-07-02T03:34:48+00:00`
   - https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/
   - As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly ut
@@ -26,8 +29,6 @@
 - 🟢 **Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure** — NVIDIA — `2026-06-29T17:00:19+00:00`
   - https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/
   - Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise
-- 🟢 **Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time** — NVIDIA — `2026-06-29T15:00:04+00:00`
-  - https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/
 
 ## Mô hình & LLM
 
@@ -53,9 +54,6 @@
 - 🟢 **Core dump epidemiology: fixing an 18-year-old bug** — OpenAI — `2026-06-30T00:00:00+00:00`
   - https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
   - OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.
-- 🟢 **Ask an AI expert: What exactly is the full stack?** — Google (Keyword AI) — `2026-06-29T16:00:00+00:00`
-  - https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/
-  - A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.
 
 ## Mô hình mở
 
@@ -555,6 +553,12 @@
 
 ## Phân tích
 
+- 🔵 **Achieving operational excellence with AI** — MIT Tech Review — `2026-07-02T15:37:08+00:00`
+  - https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/
+  - Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo
+- 🔵 **Teaching AI to run with the turbines** — MIT Tech Review — `2026-07-02T12:51:44+00:00`
+  - https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
+  - Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco
 - 🔵 **The Download: a startup has a solution for AI’s groupthink problem** — MIT Tech Review — `2026-07-02T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give m
@@ -570,7 +574,7 @@
 - 🔵 **The Download: Anthropic launches Claude Science, and California’s carbon manure math** — MIT Tech Review — `2026-07-01T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi
-- 🔵 **The Orbital Data Center Hype Machine Is Already in Orbit** — IEEE Spectrum AI — `2026-07-01T12:00:01+00:00`
+- 🔵 **The Space-based Data Center Hype Machine Is Already in Orbit** — IEEE Spectrum AI — `2026-07-01T12:00:01+00:00`
   - https://spectrum.ieee.org/orbital-data-center-hype
   - “ The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public . Later that month, SpaceX filed an application with th
 - 🔵 **Claude Science is Anthropic’s newest flagship product** — MIT Tech Review — `2026-06-30T21:50:04+00:00`
@@ -591,18 +595,24 @@
 - 🔵 **Agriculture is ready for AI, but its data isn’t** — MIT Tech Review — `2026-06-30T12:00:00+00:00`
   - https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/
   - Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins 
-- 🔵 **Building tech in the world’s secret R&D hub** — MIT Tech Review — `2026-06-30T10:23:30+00:00`
-  - https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/
-  - Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, howe
-- 🔵 **AI agents are not your “coworkers”** — MIT Tech Review — `2026-06-29T18:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex
-- 🔵 **The Lab Mistake That Might Revolutionize Computing** — IEEE Spectrum AI — `2026-06-29T13:00:01+00:00`
-  - https://spectrum.ieee.org/artificial-neurons-on-silicon-chips
-  - Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But
 
 ## Tin tức
 
+- 🔵 **OpenAI proposed donating 5% of its equity to a US sovereign wealth fund** — TechCrunch AI — `2026-07-02T15:20:51+00:00`
+  - https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/
+  - OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.
+- 🔵 **Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target** — Ars Technica AI — `2026-07-02T15:12:25+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/
+  - Insiders say Sam Altman is in active talks with the Trump administration.
+- 🔵 **Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC** — Ars Technica AI — `2026-07-02T14:39:17+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/
+  - FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.
+- 🔵 **Microsoft launches its own AI deployment company with $2.5 billion commitment** — TechCrunch AI — `2026-07-02T13:53:00+00:00`
+  - https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
+  - Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.
+- 🔵 **Yep, we’re using OpenClaw to date now** — TechCrunch AI — `2026-07-02T12:00:00+00:00`
+  - https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/
+  - Ben Guez has "a bunch of potential international wives in [his] DMs," thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.
 - 🔵 **Google’s AI buildout drove 37% increase in electricity use in 2025** — Ars Technica AI — `2026-07-02T11:15:49+00:00`
   - https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/
   - Google tries balancing AI data center emissions with clean energy efforts.
@@ -611,7 +621,7 @@
   - OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would
 - 🔵 **Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office** — TechCrunch AI — `2026-07-02T05:30:00+00:00`
   - https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/
-  - Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.
+  - Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.
 - 🔵 **SpaceX has an AI device prototype, and it sure sounds phone-ish** — TechCrunch AI — `2026-07-01T18:54:18+00:00`
   - https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/
   - SpaceX reportedly showed investors a "handset-like" AI device before going public. It could be another signal SpaceX wants to expand into wireless.
@@ -681,9 +691,6 @@
 - 🔵 **Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show** — The Verge AI — `2026-06-30T17:19:15+00:00`
   - https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder
   - A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI f
-- 🔵 **Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists** — TechCrunch AI — `2026-06-30T17:00:00+00:00`
-  - https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/
-  - Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.
 - 🔵 **Trump's plan to redesign every .gov website leads to AI-designed horrors** — Ars Technica AI — `2026-06-30T16:59:02+00:00`
   - https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/
   - A year in, National Design Studio delays plan to update government web standards.
@@ -693,12 +700,6 @@
 - 🔵 **Libby will filter out AI content, kind of** — The Verge AI — `2026-06-30T15:30:00+00:00`
   - https://www.theverge.com/column/959433/libby-ai-filter
   - This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. "AI is the new frontier for us," says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for 
-- 🔵 **X now offers an MCP server to make its platform easier for AI tools to use** — TechCrunch AI — `2026-06-30T15:08:42+00:00`
-  - https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/
-  - X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.
-- 🔵 **Podcasting platform Riverside enters the newsletter publishing game** — TechCrunch AI — `2026-06-30T15:00:00+00:00`
-  - https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/
-  - Users will be able use AI to create newsletters based on their recordings.
 - 🔵 **Meet the lawyer who beat Elon Musk — twice** — The Verge AI — `2026-06-30T12:00:00+00:00`
   - https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter
   - Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were "designed to tric
@@ -711,9 +712,6 @@
 - 🔵 **OpenAI is teasing new hardware… for Codex** — The Verge AI — `2026-06-29T18:52:03+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder
   - OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, "Your favorite Codex shortcuts are getting an upgrade." This isn't the mysterious AI-
-- 🔵 **Lawmakers want to ban AI companies from selling your health data** — The Verge AI — `2026-06-29T16:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
-  - A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new v
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
