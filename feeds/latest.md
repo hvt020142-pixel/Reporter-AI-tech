@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-02T09:29:57.696512+00:00 (UTC) — cửa sổ 72h — 233 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-02T12:20:21.561839+00:00 (UTC) — cửa sổ 72h — 234 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -28,9 +28,6 @@
   - Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise
 - 🟢 **Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time** — NVIDIA — `2026-06-29T15:00:04+00:00`
   - https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/
-- 🟢 **Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron** — NVIDIA — `2026-06-29T10:59:38+00:00`
-  - https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/
-  - Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connec
 
 ## Mô hình & LLM
 
@@ -558,6 +555,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: a startup has a solution for AI’s groupthink problem** — MIT Tech Review — `2026-07-02T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give m
 - 🔵 **Why California’s carbon manure math doesn’t add up** — MIT Tech Review — `2026-07-02T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/
   - Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s b
@@ -597,15 +597,18 @@
 - 🔵 **AI agents are not your “coworkers”** — MIT Tech Review — `2026-06-29T18:00:00+00:00`
   - https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex
-- 🔵 **Agent confidence on the technical frontier** — MIT Tech Review — `2026-06-29T14:44:01+00:00`
-  - https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/
-  - Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out
 - 🔵 **The Lab Mistake That Might Revolutionize Computing** — IEEE Spectrum AI — `2026-06-29T13:00:01+00:00`
   - https://spectrum.ieee.org/artificial-neurons-on-silicon-chips
   - Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But
 
 ## Tin tức
 
+- 🔵 **Google’s AI buildout drove 37% increase in electricity use in 2025** — Ars Technica AI — `2026-07-02T11:15:49+00:00`
+  - https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/
+  - Google tries balancing AI data center emissions with clean energy efforts.
+- 🔵 **OpenAI floats giving Trump administration 5 percent cut of AI boom** — The Verge AI — `2026-07-02T10:23:27+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump
+  - OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would
 - 🔵 **Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office** — TechCrunch AI — `2026-07-02T05:30:00+00:00`
   - https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/
   - Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.
