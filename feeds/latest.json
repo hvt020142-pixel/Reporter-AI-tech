@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T04:04:45.367463+00:00",
+  "generated_at": "2026-07-03T07:33:34.137495+00:00",
   "lookback_hours": 72,
-  "item_count": 224,
+  "item_count": 223,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -18,7 +18,7 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 20
     },
     {
@@ -2325,16 +2325,6 @@
       "published_iso": "2026-06-30T09:00:00+00:00",
       "published_ts": 1782810000.0,
       "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
-    },
-    {
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "source": "Google (Keyword AI)",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-30T06:00:00+00:00",
-      "published_ts": 1782799200.0,
-      "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies."
     }
   ]
 }

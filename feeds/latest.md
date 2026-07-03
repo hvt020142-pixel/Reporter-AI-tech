@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-03T04:04:45.367463+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-03T07:33:34.137495+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -40,9 +40,6 @@
 - 🟢 **How ChatGPT adoption has expanded** — OpenAI — `2026-06-30T09:00:00+00:00`
   - https://openai.com/index/how-chatgpt-adoption-has-expanded
   - New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.
-- 🟢 **Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers** — Google (Keyword AI) — `2026-06-30T06:00:00+00:00`
-  - https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/
-  - Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.
 
 ## Mô hình mở
 
