@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-03T19:45:09.339567+00:00 (UTC) — cửa sổ 72h — 210 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-03T21:20:50.196426+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -558,6 +558,9 @@
 
 ## Tin tức
 
+- 🔵 **The only AI glossary you’ll need this year** — TechCrunch AI — `2026-07-03T21:20:00+00:00`
+  - https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+  - The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
 - 🔵 **The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari** — TechCrunch AI — `2026-07-03T18:43:00+00:00`
   - https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/
   - We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
@@ -642,12 +645,6 @@
 - 🔵 **Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return** — The Verge AI — `2026-07-01T00:03:55+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back
   - After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, 
-- 🔵 **OpenClaw is finally available on Android and iOS** — TechCrunch AI — `2026-06-30T21:53:28+00:00`
-  - https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/
-  - The free open source agentic program is finally invading your phone.
-- 🔵 **New attack provides one more reason why AI browsers are a bad idea** — Ars Technica AI — `2026-06-30T20:03:14+00:00`
-  - https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
-  - Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
