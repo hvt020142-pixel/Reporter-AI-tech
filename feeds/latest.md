@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-03T07:33:34.137495+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-03T10:48:31.948353+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -37,9 +37,6 @@
   - Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.
 - 🟢 **Start building with Nano Banana 2 Lite and Gemini Omni Flash** — Google DeepMind — `2026-06-30T16:02:40+00:00`
   - https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/
-- 🟢 **How ChatGPT adoption has expanded** — OpenAI — `2026-06-30T09:00:00+00:00`
-  - https://openai.com/index/how-chatgpt-adoption-has-expanded
-  - New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.
 
 ## Mô hình mở
 
@@ -535,6 +532,9 @@
 
 ## Phân tích
 
+- 🔵 **The UK’s generational tobacco ban might not work. I’m supporting it anyway.** — MIT Tech Review — `2026-07-03T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/
+  - As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili
 - 🔵 **Achieving operational excellence with AI** — MIT Tech Review — `2026-07-02T15:37:08+00:00`
   - https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/
   - Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo
@@ -574,9 +574,6 @@
 - 🔵 **The Download: AI “coworkers” and stratospheric internet** — MIT Tech Review — `2026-06-30T12:10:00+00:00`
   - https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI to
-- 🔵 **Agriculture is ready for AI, but its data isn’t** — MIT Tech Review — `2026-06-30T12:00:00+00:00`
-  - https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/
-  - Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins 
 
 ## Tin tức
 

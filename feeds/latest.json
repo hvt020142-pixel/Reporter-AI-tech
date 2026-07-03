@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-03T07:33:34.137495+00:00",
+  "generated_at": "2026-07-03T10:48:31.948353+00:00",
   "lookback_hours": 72,
-  "item_count": 223,
+  "item_count": 222,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 1028
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-03T09:00:00+00:00",
+      "published_ts": 1783069200.0,
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili"
+    },
     {
       "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
       "url": "https://arxiv.org/abs/2607.01306",
@@ -2305,26 +2315,6 @@
       "published_iso": "2026-06-30T12:00:00+00:00",
       "published_ts": 1782820800.0,
       "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to tric"
-    },
-    {
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-30T12:00:00+00:00",
-      "published_ts": 1782820800.0,
-      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins "
-    },
-    {
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-06-30T09:00:00+00:00",
-      "published_ts": 1782810000.0,
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
     }
   ]
 }
