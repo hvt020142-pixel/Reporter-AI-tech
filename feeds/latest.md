@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-03T17:44:39.987574+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-03T19:45:09.339567+00:00 (UTC) — cửa sổ 72h — 210 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -30,8 +30,6 @@
 
 - 🟢 **Hugging Face and Cerebras bring Gemma 4 to real-time voice AI** — Hugging Face — `2026-07-01T00:00:00+00:00`
   - https://huggingface.co/blog/cerebras-gemma4-voice-ai
-- 🟢 **ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration** — Hugging Face — `2026-06-30T18:32:50+00:00`
-  - https://huggingface.co/blog/ibm-research/scarfbench
 
 ## Nghiên cứu
 
@@ -518,6 +516,9 @@
 
 ## Phân tích
 
+- 🔵 **A device that revives eyeballs from dead donors could make eye transplants possible** — MIT Tech Review — `2026-07-03T17:34:37+00:00`
+  - https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/
+  - It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi
 - 🔵 **The Download: a smoking “endgame” and a new Elizabeth Bear story** — MIT Tech Review — `2026-07-03T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h
@@ -557,6 +558,9 @@
 
 ## Tin tức
 
+- 🔵 **The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari** — TechCrunch AI — `2026-07-03T18:43:00+00:00`
+  - https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/
+  - We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
 - 🔵 **Anthropic wants to develop its own drugs** — The Verge AI — `2026-07-03T13:56:52+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
   - At the event "The Briefing: AI for Science" earlier this week, Anthropic announced Claude Science, a new "AI workbench for scientists" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding 
@@ -641,18 +645,9 @@
 - 🔵 **OpenClaw is finally available on Android and iOS** — TechCrunch AI — `2026-06-30T21:53:28+00:00`
   - https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/
   - The free open source agentic program is finally invading your phone.
-- 🔵 **The DeepMind trio who built a poker AI are now making money for quant hedge funds** — TechCrunch AI — `2026-06-30T20:33:48+00:00`
-  - https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/
-  - EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.
 - 🔵 **New attack provides one more reason why AI browsers are a bad idea** — Ars Technica AI — `2026-06-30T20:03:14+00:00`
   - https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
   - Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
-- 🔵 **Google’s NotebookLM can sum up your research in a TikTok-style clip** — The Verge AI — `2026-06-30T19:24:51+00:00`
-  - https://www.theverge.com/tech/959778/google-notebooklm-ai-clips
-  - Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google detai
-- 🔵 **Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet** — Ars Technica AI — `2026-06-30T18:36:10+00:00`
-  - https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/
-  - They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

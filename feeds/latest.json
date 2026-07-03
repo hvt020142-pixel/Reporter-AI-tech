@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T17:44:39.987574+00:00",
+  "generated_at": "2026-07-03T19:45:09.339567+00:00",
   "lookback_hours": 72,
-  "item_count": 212,
+  "item_count": 210,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 814
     },
     {
@@ -72,19 +72,19 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 6,
+      "items_kept": 5,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 6,
+      "items_kept": 5,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 9,
+      "items_kept": 10,
       "items_total": 10
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-03T18:43:00+00:00",
+      "published_ts": 1783104180.0,
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+    },
+    {
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-03T17:34:37+00:00",
+      "published_ts": 1783100077.0,
+      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi"
+    },
     {
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
@@ -2167,16 +2187,6 @@
       "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c"
     },
     {
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-30T20:33:48+00:00",
-      "published_ts": 1782851628.0,
-      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million."
-    },
-    {
       "title": "New attack provides one more reason why AI browsers are a bad idea",
       "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
       "source": "Ars Technica AI",
@@ -2185,36 +2195,6 @@
       "published_iso": "2026-06-30T20:03:14+00:00",
       "published_ts": 1782849794.0,
       "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions."
-    },
-    {
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-30T19:24:51+00:00",
-      "published_ts": 1782847491.0,
-      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google detai"
-    },
-    {
-      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-06-30T18:36:10+00:00",
-      "published_ts": 1782844570.0,
-      "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create."
-    },
-    {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-06-30T18:32:50+00:00",
-      "published_ts": 1782844370.0,
-      "summary": ""
     }
   ]
 }
