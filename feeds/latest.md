@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-03T10:48:31.948353+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-03T14:29:15.090089+00:00 (UTC) — cửa sổ 72h — 220 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,9 +23,6 @@
 - 🟢 **How Jaiveer Singh Is Helping Robots — and Developers — Move Faster** — NVIDIA — `2026-06-30T15:00:49+00:00`
   - https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/
   - When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a rob
-- 🟢 **Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning** — NVIDIA — `2026-06-30T13:00:27+00:00`
-  - https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/
-  - Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from t
 
 ## Mô hình & LLM
 
@@ -532,6 +529,12 @@
 
 ## Phân tích
 
+- 🔵 **The Download: a smoking “endgame” and a new Elizabeth Bear story** — MIT Tech Review — `2026-07-03T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h
+- 🔵 **AI’s Volatile Power Use Quietly Tests Grid Limits** — IEEE Spectrum AI — `2026-07-03T12:00:01+00:00`
+  - https://spectrum.ieee.org/data-centers-grid-instability
+  - The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption with
 - 🔵 **The UK’s generational tobacco ban might not work. I’m supporting it anyway.** — MIT Tech Review — `2026-07-03T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/
   - As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili
@@ -565,18 +568,12 @@
 - 🔵 **Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body** — MIT Tech Review — `2026-06-30T17:36:48+00:00`
   - https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/
   - Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Spe
-- 🔵 **Emily Bender Sets the Record Straight on “Stochastic Parrots”** — IEEE Spectrum AI — `2026-06-30T14:00:02+00:00`
-  - https://spectrum.ieee.org/stochastic-parrot
-  - In March 2021, a group of four researchers—a collaboration of linguists and computer scientists—published their now legendary paper “ On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” The paper received significant attention at the time (in part because Google fired two of the
-- 🔵 **Poetry for Engineers: Nine Lives of Nikola Tesla** — IEEE Spectrum AI — `2026-06-30T12:24:33+00:00`
-  - https://spectrum.ieee.org/poetry-for-engineers-nine-lives-of-nikola-tesla
-  - He was born into a storm, lightning split the summer sky, in a village the world had not yet heard of. The midwife called it a bad omen, his mother called it a sign. Your first life began in a storm, under open sky. One winter night you ran your hand along a cat’s back, and the darkness cracked open
-- 🔵 **The Download: AI “coworkers” and stratospheric internet** — MIT Tech Review — `2026-06-30T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI to
 
 ## Tin tức
 
+- 🔵 **A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered** — The Verge AI — `2026-07-03T11:49:10+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video
+  - Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with ch
 - 🔵 **Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped** — TechCrunch AI — `2026-07-02T23:38:10+00:00`
   - https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
   - At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
@@ -679,9 +676,6 @@
 - 🔵 **Libby will filter out AI content, kind of** — The Verge AI — `2026-06-30T15:30:00+00:00`
   - https://www.theverge.com/column/959433/libby-ai-filter
   - This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. "AI is the new frontier for us," says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for 
-- 🔵 **Meet the lawyer who beat Elon Musk — twice** — The Verge AI — `2026-06-30T12:00:00+00:00`
-  - https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter
-  - Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were "designed to tric
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
