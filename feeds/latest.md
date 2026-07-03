@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-03T21:20:50.196426+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-03T23:16:46.922643+00:00 (UTC) — cửa sổ 72h — 208 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -552,9 +552,6 @@
 - 🔵 **The Space-based Data Center Hype Machine Is Already in Orbit** — IEEE Spectrum AI — `2026-07-01T12:00:01+00:00`
   - https://spectrum.ieee.org/orbital-data-center-hype
   - “ The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public . Later that month, SpaceX filed an application with th
-- 🔵 **Claude Science is Anthropic’s newest flagship product** — MIT Tech Review — `2026-06-30T21:50:04+00:00`
-  - https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/
-  - At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c
 
 ## Tin tức
 

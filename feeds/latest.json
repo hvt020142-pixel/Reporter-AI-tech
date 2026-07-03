@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T21:20:50.196426+00:00",
+  "generated_at": "2026-07-03T23:16:46.922643+00:00",
   "lookback_hours": 72,
-  "item_count": 209,
+  "item_count": 208,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 10,
+      "items_kept": 9,
       "items_total": 10
     },
     {
@@ -2175,16 +2175,6 @@
       "published_iso": "2026-07-01T00:00:00+00:00",
       "published_ts": 1782864000.0,
       "summary": ""
-    },
-    {
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-06-30T21:50:04+00:00",
-      "published_ts": 1782856204.0,
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c"
     }
   ]
 }
