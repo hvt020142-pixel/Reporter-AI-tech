@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-03T14:29:15.090089+00:00 (UTC) — cửa sổ 72h — 220 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-03T17:44:39.987574+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,26 +14,17 @@
 - 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-07-01T13:00:47+00:00`
   - https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/
   - NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.
-- 🟢 **NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science** — NVIDIA — `2026-06-30T17:00:38+00:00`
-  - https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/
-  - Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterat
-- 🟢 **How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost** — NVIDIA — `2026-06-30T15:00:57+00:00`
-  - https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/
-  - As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and 
-- 🟢 **How Jaiveer Singh Is Helping Robots — and Developers — Move Faster** — NVIDIA — `2026-06-30T15:00:49+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/
-  - When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a rob
 
 ## Mô hình & LLM
 
+- 🟢 **Google DeepMind and A24 announce first-of-its-kind research partnership** — Google DeepMind — `2026-07-03T14:25:43+00:00`
+  - https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/
 - 🟢 **The latest AI news we announced in June 2026** — Google (Keyword AI) — `2026-07-01T18:15:00+00:00`
   - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
   - Here are Google’s latest AI updates from June 2026.
 - 🟢 **New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.** — Google (Keyword AI) — `2026-07-01T16:00:00+00:00`
   - https://blog.google/products-and-platforms/products/education/nyc-ai-summit/
   - Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.
-- 🟢 **Start building with Nano Banana 2 Lite and Gemini Omni Flash** — Google DeepMind — `2026-06-30T16:02:40+00:00`
-  - https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/
 
 ## Mô hình mở
 
@@ -41,8 +32,6 @@
   - https://huggingface.co/blog/cerebras-gemma4-voice-ai
 - 🟢 **ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration** — Hugging Face — `2026-06-30T18:32:50+00:00`
   - https://huggingface.co/blog/ibm-research/scarfbench
-- 🟢 **Why Specialization Is Inevitable** — Hugging Face — `2026-06-30T14:39:11+00:00`
-  - https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
 
 ## Nghiên cứu
 
@@ -565,12 +554,12 @@
 - 🔵 **Claude Science is Anthropic’s newest flagship product** — MIT Tech Review — `2026-06-30T21:50:04+00:00`
   - https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/
   - At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c
-- 🔵 **Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body** — MIT Tech Review — `2026-06-30T17:36:48+00:00`
-  - https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/
-  - Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Spe
 
 ## Tin tức
 
+- 🔵 **Anthropic wants to develop its own drugs** — The Verge AI — `2026-07-03T13:56:52+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
+  - At the event "The Briefing: AI for Science" earlier this week, Anthropic announced Claude Science, a new "AI workbench for scientists" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding 
 - 🔵 **A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered** — The Verge AI — `2026-07-03T11:49:10+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video
   - Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with ch
@@ -664,18 +653,6 @@
 - 🔵 **Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet** — Ars Technica AI — `2026-06-30T18:36:10+00:00`
   - https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/
   - They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.
-- 🔵 **Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show** — The Verge AI — `2026-06-30T17:19:15+00:00`
-  - https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder
-  - A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI f
-- 🔵 **Trump's plan to redesign every .gov website leads to AI-designed horrors** — Ars Technica AI — `2026-06-30T16:59:02+00:00`
-  - https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/
-  - A year in, National Design Studio delays plan to update government web standards.
-- 🔵 **Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says** — Ars Technica AI — `2026-06-30T15:38:08+00:00`
-  - https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/
-  - Sources suggest Musk may be mulling big donation to Trump Accounts.
-- 🔵 **Libby will filter out AI content, kind of** — The Verge AI — `2026-06-30T15:30:00+00:00`
-  - https://www.theverge.com/column/959433/libby-ai-filter
-  - This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. "AI is the new frontier for us," says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for 
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
