@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-03T23:16:46.922643+00:00 (UTC) — cửa sổ 72h — 208 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-04T03:57:54.926591+00:00 (UTC) — cửa sổ 72h — 203 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -25,11 +25,6 @@
 - 🟢 **New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.** — Google (Keyword AI) — `2026-07-01T16:00:00+00:00`
   - https://blog.google/products-and-platforms/products/education/nyc-ai-summit/
   - Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.
-
-## Mô hình mở
-
-- 🟢 **Hugging Face and Cerebras bring Gemma 4 to real-time voice AI** — Hugging Face — `2026-07-01T00:00:00+00:00`
-  - https://huggingface.co/blog/cerebras-gemma4-voice-ai
 
 ## Nghiên cứu
 
@@ -630,18 +625,6 @@
 - 🔵 **Google built a great smart speaker, but Gemini isn’t ready for it** — The Verge AI — `2026-07-01T12:00:00+00:00`
   - https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home
   - Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fal
-- 🔵 **The ‘Father of the Internet’ is finally retiring** — TechCrunch AI — `2026-07-01T03:15:37+00:00`
-  - https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/
-  - Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.
-- 🔵 **Trump drops restrictions on Anthropic’s Mythos and Fable models** — TechCrunch AI — `2026-07-01T02:16:06+00:00`
-  - https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/
-  - The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.
-- 🔵 **Wayve launches $85M employee tender offer at $8.5B valuation** — TechCrunch AI — `2026-07-01T02:04:40+00:00`
-  - https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/
-  - Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.
-- 🔵 **Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return** — The Verge AI — `2026-07-01T00:03:55+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back
-  - After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, 
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
