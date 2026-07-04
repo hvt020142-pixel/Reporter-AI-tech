@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-04T15:19:20.630633+00:00 (UTC) — cửa sổ 72h — 35 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-04T17:17:03.974074+00:00 (UTC) — cửa sổ 72h — 34 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -19,15 +19,12 @@
 - 🟢 **The latest AI news we announced in June 2026** — Google (Keyword AI) — `2026-07-01T18:15:00+00:00`
   - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
   - Here are Google’s latest AI updates from June 2026.
-- 🟢 **New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.** — Google (Keyword AI) — `2026-07-01T16:00:00+00:00`
-  - https://blog.google/products-and-platforms/products/education/nyc-ai-summit/
-  - Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.
 
 ## Phân tích
 
 - 🔵 **A device that revives eyeballs from dead donors could make eye transplants possible** — MIT Tech Review — `2026-07-03T17:34:37+00:00`
   - https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/
-  - It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi
+  - It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi
 - 🔵 **The Download: a smoking “endgame” and a new Elizabeth Bear story** — MIT Tech Review — `2026-07-03T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h
@@ -49,12 +46,15 @@
 - 🔵 **Why California’s carbon manure math doesn’t add up** — MIT Tech Review — `2026-07-02T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/
   - Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s b
-- 🔵 **As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration** — IEEE Spectrum AI — `2026-07-01T16:01:27+00:00`
-  - https://spectrum.ieee.org/ai-energy-systems-melbourne
-  - This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy. From hyperscale data centers to electrified industries, AI is d
 
 ## Tin tức
 
+- 🔵 **Alibaba reportedly bans employees from using Claude Code** — TechCrunch AI — `2026-07-04T16:32:08+00:00`
+  - https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/
+  - Alibaba has reportedly classified Claude Code as high-risk software.
+- 🔵 **What is Mistral AI? Everything to know about the OpenAI competitor** — TechCrunch AI — `2026-07-04T15:51:32+00:00`
+  - https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
+  - Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
 - 🔵 **The fanfiction community is at war with AI — and itself** — The Verge AI — `2026-07-04T12:00:00+00:00`
   - https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector
   - Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools
@@ -115,9 +115,6 @@
 - 🔵 **Cloudflare’s new policy pushes AI companies to pay for publishers’ content** — TechCrunch AI — `2026-07-01T17:48:37+00:00`
   - https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/
   - Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.
-- 🔵 **After spooking Trump into safety testing, Anthropic AI models get global release** — Ars Technica AI — `2026-07-01T16:44:18+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/
-  - US lifts curbs on Anthropic’s advanced Fable and Mythos models.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

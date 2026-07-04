@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T15:19:20.630633+00:00",
+  "generated_at": "2026-07-04T17:17:03.974074+00:00",
   "lookback_hours": 72,
-  "item_count": 35,
+  "item_count": 34,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -18,7 +18,7 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 13,
+      "items_kept": 15,
       "items_total": 20
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 20
     },
     {
@@ -90,12 +90,32 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-04T16:32:08+00:00",
+      "published_ts": 1783182728.0,
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-04T15:51:32+00:00",
+      "published_ts": 1783180292.0,
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
+    },
     {
       "title": "The fanfiction community is at war with AI — and itself",
       "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
@@ -134,7 +154,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-03T17:34:37+00:00",
       "published_ts": 1783100077.0,
-      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi"
+      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi"
     },
     {
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
@@ -415,36 +435,6 @@
       "published_iso": "2026-07-01T17:48:37+00:00",
       "published_ts": 1782928117.0,
       "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
-    },
-    {
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-01T16:44:18+00:00",
-      "published_ts": 1782924258.0,
-      "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models."
-    },
-    {
-      "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
-      "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-01T16:01:27+00:00",
-      "published_ts": 1782921687.0,
-      "summary": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy. From hyperscale data centers to electrified industries, AI is d"
-    },
-    {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "source": "Google (Keyword AI)",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-01T16:00:00+00:00",
-      "published_ts": 1782921600.0,
-      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
     }
   ]
 }
