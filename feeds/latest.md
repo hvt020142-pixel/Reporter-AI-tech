@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-04T17:17:03.974074+00:00 (UTC) — cửa sổ 72h — 34 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-04T19:34:26.240532+00:00 (UTC) — cửa sổ 72h — 31 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -16,9 +16,6 @@
 
 - 🟢 **Google DeepMind and A24 announce first-of-its-kind research partnership** — Google DeepMind — `2026-07-03T14:25:43+00:00`
   - https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/
-- 🟢 **The latest AI news we announced in June 2026** — Google (Keyword AI) — `2026-07-01T18:15:00+00:00`
-  - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
-  - Here are Google’s latest AI updates from June 2026.
 
 ## Phân tích
 
@@ -49,6 +46,9 @@
 
 ## Tin tức
 
+- 🔵 **Midjourney wants Hollywood studios to reveal the details of their AI usage** — TechCrunch AI — `2026-07-04T18:00:05+00:00`
+  - https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/
+  - As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.
 - 🔵 **Alibaba reportedly bans employees from using Claude Code** — TechCrunch AI — `2026-07-04T16:32:08+00:00`
   - https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/
   - Alibaba has reportedly classified Claude Code as high-risk software.
@@ -106,15 +106,6 @@
 - 🔵 **Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office** — TechCrunch AI — `2026-07-02T05:30:00+00:00`
   - https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/
   - Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.
-- 🔵 **SpaceX has an AI device prototype, and it sure sounds phone-ish** — TechCrunch AI — `2026-07-01T18:54:18+00:00`
-  - https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/
-  - SpaceX reportedly showed investors a "handset-like" AI device before going public. It could be another signal SpaceX wants to expand into wireless.
-- 🔵 **Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller** — TechCrunch AI — `2026-07-01T18:47:22+00:00`
-  - https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/
-  - Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.
-- 🔵 **Cloudflare’s new policy pushes AI companies to pay for publishers’ content** — TechCrunch AI — `2026-07-01T17:48:37+00:00`
-  - https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/
-  - Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
