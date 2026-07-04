@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-04T10:22:40.434164+00:00 (UTC) — cửa sổ 72h — 43 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-04T13:55:22.270909+00:00 (UTC) — cửa sổ 72h — 39 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -11,9 +11,6 @@
 - 🟢 **NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout** — NVIDIA — `2026-07-02T03:34:48+00:00`
   - https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/
   - As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly ut
-- 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-07-01T13:00:47+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/
-  - NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.
 
 ## Mô hình & LLM
 
@@ -58,15 +55,12 @@
 - 🔵 **LLMs are stuck in a groupthink groove. This startup is trying to get them out.** — MIT Tech Review — `2026-07-01T14:35:16+00:00`
   - https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/
   - Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;
-- 🔵 **The Download: Anthropic launches Claude Science, and California’s carbon manure math** — MIT Tech Review — `2026-07-01T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi
-- 🔵 **The Space-based Data Center Hype Machine Is Already in Orbit** — IEEE Spectrum AI — `2026-07-01T12:00:01+00:00`
-  - https://spectrum.ieee.org/orbital-data-center-hype
-  - “ The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public . Later that month, SpaceX filed an application with th
 
 ## Tin tức
 
+- 🔵 **The fanfiction community is at war with AI — and itself** — The Verge AI — `2026-07-04T12:00:00+00:00`
+  - https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector
+  - Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools
 - 🔵 **The only AI glossary you’ll need this year** — TechCrunch AI — `2026-07-03T21:20:00+00:00`
   - https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
   - The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
@@ -136,12 +130,6 @@
 - 🔵 **Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026** — TechCrunch AI — `2026-07-01T14:00:00+00:00`
   - https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/
   - The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.
-- 🔵 **Meta, like SpaceX, looks to turn excess AI compute into cash** — TechCrunch AI — `2026-07-01T13:43:07+00:00`
-  - https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/
-  - Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.
-- 🔵 **Google built a great smart speaker, but Gemini isn’t ready for it** — The Verge AI — `2026-07-01T12:00:00+00:00`
-  - https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home
-  - Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fal
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
