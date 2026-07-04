@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-04T19:34:26.240532+00:00 (UTC) — cửa sổ 72h — 31 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-04T21:12:23.197619+00:00 (UTC) — cửa sổ 72h — 32 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -46,6 +46,9 @@
 
 ## Tin tức
 
+- 🔵 **New Google commercial imagines a Declaration of Independence written with help from AI** — TechCrunch AI — `2026-07-04T20:55:25+00:00`
+  - https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
+  - Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
 - 🔵 **Midjourney wants Hollywood studios to reveal the details of their AI usage** — TechCrunch AI — `2026-07-04T18:00:05+00:00`
   - https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/
   - As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.

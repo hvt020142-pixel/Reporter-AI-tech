@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T19:34:26.240532+00:00",
+  "generated_at": "2026-07-04T21:12:23.197619+00:00",
   "lookback_hours": 72,
-  "item_count": 31,
+  "item_count": 32,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 13,
+      "items_kept": 14,
       "items_total": 20
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-04T20:55:25+00:00",
+      "published_ts": 1783198525.0,
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
+    },
     {
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
       "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
