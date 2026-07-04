@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-04T13:55:22.270909+00:00 (UTC) — cửa sổ 72h — 39 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-04T15:19:20.630633+00:00 (UTC) — cửa sổ 72h — 35 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -52,9 +52,6 @@
 - 🔵 **As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration** — IEEE Spectrum AI — `2026-07-01T16:01:27+00:00`
   - https://spectrum.ieee.org/ai-energy-systems-melbourne
   - This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy. From hyperscale data centers to electrified industries, AI is d
-- 🔵 **LLMs are stuck in a groupthink groove. This startup is trying to get them out.** — MIT Tech Review — `2026-07-01T14:35:16+00:00`
-  - https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/
-  - Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;
 
 ## Tin tức
 
@@ -121,15 +118,6 @@
 - 🔵 **After spooking Trump into safety testing, Anthropic AI models get global release** — Ars Technica AI — `2026-07-01T16:44:18+00:00`
   - https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/
   - US lifts curbs on Anthropic’s advanced Fable and Mythos models.
-- 🔵 **Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off** — TechCrunch AI — `2026-07-01T14:25:23+00:00`
-  - https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/
-  - Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.
-- 🔵 **Gemini Spark, Google’s agentic assistant, is now available on Mac** — TechCrunch AI — `2026-07-01T14:20:19+00:00`
-  - https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/
-  - Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.
-- 🔵 **Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026** — TechCrunch AI — `2026-07-01T14:00:00+00:00`
-  - https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/
-  - The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
