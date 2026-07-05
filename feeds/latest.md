@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-05T14:04:04.525139+00:00 (UTC) — cửa sổ 72h — 22 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-05T15:33:58.325960+00:00 (UTC) — cửa sổ 72h — 20 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -28,6 +28,9 @@
 
 ## Tin tức
 
+- 🔵 **Infuriating Google commercial imagines the founding fathers embracing AI** — The Verge AI — `2026-07-05T14:23:11+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence
+  - "Group project, but make it 1776." That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Be
 - 🔵 **New Google commercial imagines a Declaration of Independence written with help from AI** — TechCrunch AI — `2026-07-04T20:55:25+00:00`
   - https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
   - Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
@@ -67,15 +70,6 @@
 - 🔵 **Anthropic is discussing a new custom chip with Samsung** — TechCrunch AI — `2026-07-02T18:31:09+00:00`
   - https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/
   - The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.
-- 🔵 **OpenAI proposed donating 5% of its equity to a US sovereign wealth fund** — TechCrunch AI — `2026-07-02T15:20:51+00:00`
-  - https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/
-  - OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.
-- 🔵 **Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target** — Ars Technica AI — `2026-07-02T15:12:25+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/
-  - Insiders say Sam Altman is in active talks with the Trump administration.
-- 🔵 **Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC** — Ars Technica AI — `2026-07-02T14:39:17+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/
-  - FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
