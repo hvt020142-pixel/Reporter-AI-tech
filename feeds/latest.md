@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-04T23:10:43.794835+00:00 (UTC) — cửa sổ 72h — 32 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-05T04:17:10.026951+00:00 (UTC) — cửa sổ 72h — 31 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -8,9 +8,6 @@
 - 🟢 **Joyride Through July With 12 Games Coming to GeForce NOW** — NVIDIA — `2026-07-02T13:00:23+00:00`
   - https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/
   - Summer is heating up — and GeForce NOW is taking players along for the ride. Start the month with Monopoly: Star Wars Heroes vs. Villains, bringing a galaxy far, far away to the iconic board-game franchise, alongside 12 new games joining the cloud this month. Plus, don’t let the sun set on the bigge
-- 🟢 **NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout** — NVIDIA — `2026-07-02T03:34:48+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/
-  - As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly ut
 
 ## Mô hình & LLM
 

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T23:10:43.794835+00:00",
+  "generated_at": "2026-07-05T04:17:10.026951+00:00",
   "lookback_hours": 72,
-  "item_count": 32,
+  "item_count": 31,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 18
     },
     {
@@ -405,16 +405,6 @@
       "published_iso": "2026-07-02T05:30:00+00:00",
       "published_ts": 1782970200.0,
       "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
-    },
-    {
-      "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
-      "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-07-02T03:34:48+00:00",
-      "published_ts": 1782963288.0,
-      "summary": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly ut"
     }
   ]
 }
