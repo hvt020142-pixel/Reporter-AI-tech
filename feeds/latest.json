@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T15:33:58.325960+00:00",
+  "generated_at": "2026-07-05T17:30:34.391339+00:00",
   "lookback_hours": 72,
-  "item_count": 20,
+  "item_count": 19,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 10
     },
     {
@@ -285,16 +285,6 @@
       "published_iso": "2026-07-02T18:31:09+00:00",
       "published_ts": 1783017069.0,
       "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-02T15:37:08+00:00",
-      "published_ts": 1783006628.0,
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo"
     }
   ]
 }

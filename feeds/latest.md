@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-05T15:33:58.325960+00:00 (UTC) — cửa sổ 72h — 20 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-05T17:30:34.391339+00:00 (UTC) — cửa sổ 72h — 19 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -22,9 +22,6 @@
 - 🔵 **The UK’s generational tobacco ban might not work. I’m supporting it anyway.** — MIT Tech Review — `2026-07-03T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/
   - As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili
-- 🔵 **Achieving operational excellence with AI** — MIT Tech Review — `2026-07-02T15:37:08+00:00`
-  - https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/
-  - Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo
 
 ## Tin tức
 
