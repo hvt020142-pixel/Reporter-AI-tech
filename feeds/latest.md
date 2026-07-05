@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-05T19:40:01.648082+00:00 (UTC) — cửa sổ 72h — 18 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-05T21:16:52.909858+00:00 (UTC) — cửa sổ 72h — 17 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -61,9 +61,6 @@
 - 🔵 **Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped** — TechCrunch AI — `2026-07-02T23:38:10+00:00`
   - https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
   - At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
-- 🔵 **Jersey Mike’s IPO illustrates how bad the AI hype has become** — TechCrunch AI — `2026-07-02T20:11:59+00:00`
-  - https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/
-  - Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
