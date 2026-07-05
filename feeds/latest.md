@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-05T04:17:10.026951+00:00 (UTC) — cửa sổ 72h — 31 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-05T09:20:46.604151+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -37,9 +37,6 @@
 - 🔵 **The Download: a startup has a solution for AI’s groupthink problem** — MIT Tech Review — `2026-07-02T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give m
-- 🔵 **Why California’s carbon manure math doesn’t add up** — MIT Tech Review — `2026-07-02T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/
-  - Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s b
 
 ## Tin tức
 
@@ -103,9 +100,6 @@
 - 🔵 **OpenAI floats giving Trump administration 5 percent cut of AI boom** — The Verge AI — `2026-07-02T10:23:27+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump
   - OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would
-- 🔵 **Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office** — TechCrunch AI — `2026-07-02T05:30:00+00:00`
-  - https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/
-  - Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

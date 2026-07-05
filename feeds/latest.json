@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T04:17:10.026951+00:00",
+  "generated_at": "2026-07-05T09:20:46.604151+00:00",
   "lookback_hours": 72,
-  "item_count": 31,
+  "item_count": 29,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 14,
+      "items_kept": 13,
       "items_total": 20
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 7,
+      "items_kept": 6,
       "items_total": 10
     },
     {
@@ -385,26 +385,6 @@
       "published_iso": "2026-07-02T10:23:27+00:00",
       "published_ts": 1782987807.0,
       "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would"
-    },
-    {
-      "title": "Why California’s carbon manure math doesn’t add up",
-      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-02T09:00:00+00:00",
-      "published_ts": 1782982800.0,
-      "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s b"
-    },
-    {
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-02T05:30:00+00:00",
-      "published_ts": 1782970200.0,
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
     }
   ]
 }
