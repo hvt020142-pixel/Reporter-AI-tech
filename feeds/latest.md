@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-05T09:20:46.604151+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-05T11:46:03.103564+00:00 (UTC) — cửa sổ 72h — 27 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -94,12 +94,6 @@
 - 🔵 **Yep, we’re using OpenClaw to date now** — TechCrunch AI — `2026-07-02T12:00:00+00:00`
   - https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/
   - Ben Guez has "a bunch of potential international wives in [his] DMs," thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.
-- 🔵 **Google’s AI buildout drove 37% increase in electricity use in 2025** — Ars Technica AI — `2026-07-02T11:15:49+00:00`
-  - https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/
-  - Google tries balancing AI data center emissions with clean energy efforts.
-- 🔵 **OpenAI floats giving Trump administration 5 percent cut of AI boom** — The Verge AI — `2026-07-02T10:23:27+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump
-  - OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

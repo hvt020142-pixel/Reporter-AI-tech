@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T09:20:46.604151+00:00",
+  "generated_at": "2026-07-05T11:46:03.103564+00:00",
   "lookback_hours": 72,
-  "item_count": 29,
+  "item_count": 27,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -72,13 +72,13 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 20
     },
     {
@@ -365,26 +365,6 @@
       "published_iso": "2026-07-02T12:00:00+00:00",
       "published_ts": 1782993600.0,
       "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
-    },
-    {
-      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-02T11:15:49+00:00",
-      "published_ts": 1782990949.0,
-      "summary": "Google tries balancing AI data center emissions with clean energy efforts."
-    },
-    {
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-02T10:23:27+00:00",
-      "published_ts": 1782987807.0,
-      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would"
     }
   ]
 }
