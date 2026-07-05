@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-05T17:30:34.391339+00:00 (UTC) — cửa sổ 72h — 19 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-05T19:40:01.648082+00:00 (UTC) — cửa sổ 72h — 18 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -25,6 +25,9 @@
 
 ## Tin tức
 
+- 🔵 **Amazon will stop accepting new customers for Mechanical Turk** — TechCrunch AI — `2026-07-05T17:43:36+00:00`
+  - https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
+  - These may be the last days of Amazon’s Mechanical Turk.
 - 🔵 **Infuriating Google commercial imagines the founding fathers embracing AI** — The Verge AI — `2026-07-05T14:23:11+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence
   - "Group project, but make it 1776." That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Be
@@ -61,12 +64,6 @@
 - 🔵 **Jersey Mike’s IPO illustrates how bad the AI hype has become** — TechCrunch AI — `2026-07-02T20:11:59+00:00`
   - https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/
   - Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.
-- 🔵 **Meta quietly launches vibe-coded gaming app Pocket** — TechCrunch AI — `2026-07-02T18:44:02+00:00`
-  - https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/
-  - Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.
-- 🔵 **Anthropic is discussing a new custom chip with Samsung** — TechCrunch AI — `2026-07-02T18:31:09+00:00`
-  - https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/
-  - The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

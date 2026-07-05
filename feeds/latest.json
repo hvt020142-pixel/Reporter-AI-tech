@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T17:30:34.391339+00:00",
+  "generated_at": "2026-07-05T19:40:01.648082+00:00",
   "lookback_hours": 72,
-  "item_count": 19,
+  "item_count": 18,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 10,
+      "items_kept": 9,
       "items_total": 20
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-05T17:43:36+00:00",
+      "published_ts": 1783273416.0,
+      "summary": "These may be the last days of Amazon’s Mechanical Turk."
+    },
     {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
@@ -265,26 +275,6 @@
       "published_iso": "2026-07-02T20:11:59+00:00",
       "published_ts": 1783023119.0,
       "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
-    },
-    {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-02T18:44:02+00:00",
-      "published_ts": 1783017842.0,
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
-    },
-    {
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-02T18:31:09+00:00",
-      "published_ts": 1783017069.0,
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
     }
   ]
 }
