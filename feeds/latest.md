@@ -1,13 +1,7 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-05T11:46:03.103564+00:00 (UTC) — cửa sổ 72h — 27 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-05T14:04:04.525139+00:00 (UTC) — cửa sổ 72h — 22 mục — nguồn sơ cấp/uy tín.*
 
-
-## Hạ tầng & phần cứng
-
-- 🟢 **Joyride Through July With 12 Games Coming to GeForce NOW** — NVIDIA — `2026-07-02T13:00:23+00:00`
-  - https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/
-  - Summer is heating up — and GeForce NOW is taking players along for the ride. Start the month with Monopoly: Star Wars Heroes vs. Villains, bringing a galaxy far, far away to the iconic board-game franchise, alongside 12 new games joining the cloud this month. Plus, don’t let the sun set on the bigge
 
 ## Mô hình & LLM
 
@@ -31,12 +25,6 @@
 - 🔵 **Achieving operational excellence with AI** — MIT Tech Review — `2026-07-02T15:37:08+00:00`
   - https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/
   - Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo
-- 🔵 **Teaching AI to run with the turbines** — MIT Tech Review — `2026-07-02T12:51:44+00:00`
-  - https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/
-  - Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco
-- 🔵 **The Download: a startup has a solution for AI’s groupthink problem** — MIT Tech Review — `2026-07-02T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give m
 
 ## Tin tức
 
@@ -88,12 +76,6 @@
 - 🔵 **Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC** — Ars Technica AI — `2026-07-02T14:39:17+00:00`
   - https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/
   - FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.
-- 🔵 **Microsoft launches its own AI deployment company with $2.5 billion commitment** — TechCrunch AI — `2026-07-02T13:53:00+00:00`
-  - https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
-  - Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.
-- 🔵 **Yep, we’re using OpenClaw to date now** — TechCrunch AI — `2026-07-02T12:00:00+00:00`
-  - https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/
-  - Ben Guez has "a bunch of potential international wives in [his] DMs," thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
