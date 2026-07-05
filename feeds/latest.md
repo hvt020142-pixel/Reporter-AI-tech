@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-05T21:16:52.909858+00:00 (UTC) — cửa sổ 72h — 17 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-05T23:15:01.654520+00:00 (UTC) — cửa sổ 72h — 18 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -25,6 +25,9 @@
 
 ## Tin tức
 
+- 🔵 **Some of the nation’s rich are letting AI teach their kids** — The Verge AI — `2026-07-05T22:30:54+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep
+  - Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep 
 - 🔵 **Amazon will stop accepting new customers for Mechanical Turk** — TechCrunch AI — `2026-07-05T17:43:36+00:00`
   - https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
   - These may be the last days of Amazon’s Mechanical Turk.

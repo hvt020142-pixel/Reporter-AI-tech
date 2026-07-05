@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T21:16:52.909858+00:00",
+  "generated_at": "2026-07-05T23:15:01.654520+00:00",
   "lookback_hours": 72,
-  "item_count": 17,
+  "item_count": 18,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 10
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-05T22:30:54+00:00",
+      "published_ts": 1783290654.0,
+      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep "
+    },
     {
       "title": "Amazon will stop accepting new customers for Mechanical Turk",
       "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
