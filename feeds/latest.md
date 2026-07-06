@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-06T15:52:54.755271+00:00 (UTC) — cửa sổ 72h — 21 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-06T18:19:05.308098+00:00 (UTC) — cửa sổ 72h — 25 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **How Open Models Are Driving AI Research** — NVIDIA — `2026-07-06T16:00:00+00:00`
+  - https://blogs.nvidia.com/blog/open-models-icml-2026/
+  - Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets d
 - 🟢 **How Nations Are Deploying AI for Strategic Priorities** — NVIDIA — `2026-07-06T15:00:25+00:00`
   - https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/
   - Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turb
@@ -20,18 +23,27 @@
 
 ## Phân tích
 
+- 🔵 **Small-AI Models Gain Traction Around the World** — IEEE Spectrum AI — `2026-07-06T16:06:23+00:00`
+  - https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
+  - One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: counterfeit medication, which kills thousands of people across the continent every year. The RxScanner is a handheld spectrometer that scan
 - 🔵 **The Download: South Korea’s hottest bachelors, and advancing eye transplants** — MIT Tech Review — `2026-07-06T13:00:00+00:00`
   - https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a m
 - 🔵 **South Korea’s hottest new bachelors are chip workers** — MIT Tech Review — `2026-07-06T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/
   - Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to 
-- 🔵 **A device that revives eyeballs from dead donors could make eye transplants possible** — MIT Tech Review — `2026-07-03T17:34:37+00:00`
-  - https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/
-  - It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi
 
 ## Tin tức
 
+- 🔵 **If you use Google, you’re training its AI. Here’s how to opt out.** — TechCrunch AI — `2026-07-06T17:04:58+00:00`
+  - https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/
+  - PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.
+- 🔵 **Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance** — Ars Technica AI — `2026-07-06T16:44:18+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/
+  - Anthropic accused of spying on users; engineer says “experiment” is over.
+- 🔵 **I spy** — The Verge AI — `2026-07-06T16:00:00+00:00`
+  - https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy
+  - I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart g
 - 🔵 **Microsoft lays off nearly 5,000 employees across Xbox, commercial sales** — TechCrunch AI — `2026-07-06T15:32:43+00:00`
   - https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/
   - Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.
