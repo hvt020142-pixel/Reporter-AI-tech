@@ -1,12 +1,17 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-05T23:15:01.654520+00:00 (UTC) — cửa sổ 72h — 18 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-06T04:36:01.910862+00:00 (UTC) — cửa sổ 72h — 18 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
 
 - 🟢 **Google DeepMind and A24 announce first-of-its-kind research partnership** — Google DeepMind — `2026-07-03T14:25:43+00:00`
   - https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/
+
+## Mô hình mở
+
+- 🟢 **🤗 Kernels: Major Updates** — Hugging Face — `2026-07-06T00:00:00+00:00`
+  - https://huggingface.co/blog/revamped-kernels
 
 ## Phân tích
 
@@ -61,9 +66,6 @@
 - 🔵 **A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered** — The Verge AI — `2026-07-03T11:49:10+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video
   - Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with ch
-- 🔵 **Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped** — TechCrunch AI — `2026-07-02T23:38:10+00:00`
-  - https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/
-  - At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

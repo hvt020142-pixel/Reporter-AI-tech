@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T23:15:01.654520+00:00",
+  "generated_at": "2026-07-06T04:36:01.910862+00:00",
   "lookback_hours": 72,
   "item_count": 18,
   "sources_ok": [
@@ -30,8 +30,8 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 0,
-      "items_total": 814
+      "items_kept": 1,
+      "items_total": 815
     },
     {
       "source": "arXiv cs.AI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 8,
+      "items_kept": 7,
       "items_total": 20
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-06T00:00:00+00:00",
+      "published_ts": 1783296000.0,
+      "summary": ""
+    },
     {
       "title": "Some of the nation’s rich are letting AI teach their kids",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
@@ -265,16 +275,6 @@
       "published_iso": "2026-07-03T09:00:00+00:00",
       "published_ts": 1783069200.0,
       "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili"
-    },
-    {
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-02T23:38:10+00:00",
-      "published_ts": 1783035490.0,
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
     }
   ]
 }
