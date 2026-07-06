@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T18:19:05.308098+00:00",
+  "generated_at": "2026-07-06T21:45:13.596396+00:00",
   "lookback_hours": 72,
-  "item_count": 25,
+  "item_count": 28,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 10,
+      "items_kept": 12,
       "items_total": 20
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 10
     },
     {
@@ -107,6 +107,46 @@
       "summary": ""
     },
     {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-06T19:49:10+00:00",
+      "published_ts": 1783367350.0,
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch."
+    },
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-06T19:01:59+00:00",
+      "published_ts": 1783364519.0,
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI."
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-06T18:35:00+00:00",
+      "published_ts": 1783362900.0,
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    },
+    {
+      "title": "Your family’s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-06T18:00:00+00:00",
+      "published_ts": 1783360800.0,
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times"
+    },
+    {
       "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
       "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
       "source": "TechCrunch AI",
@@ -114,7 +154,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-06T17:04:58+00:00",
       "published_ts": 1783357498.0,
-      "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out."
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models."
     },
     {
       "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
@@ -127,7 +167,7 @@
       "summary": "Anthropic accused of spying on users; engineer says “experiment” is over."
     },
     {
-      "title": "Small-AI Models Gain Traction Around the World",
+      "title": "Small AI Models Gain Traction Around the World",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "source": "IEEE Spectrum AI",
       "category": "Phân tích",
@@ -175,6 +215,16 @@
       "published_iso": "2026-07-06T15:30:55+00:00",
       "published_ts": 1783351855.0,
       "summary": ""
+    },
+    {
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-06T15:22:08+00:00",
+      "published_ts": 1783351328.0,
+      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam."
     },
     {
       "title": "How Nations Are Deploying AI for Strategic Priorities",
@@ -325,26 +375,6 @@
       "published_iso": "2026-07-04T12:00:00+00:00",
       "published_ts": 1783166400.0,
       "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools"
-    },
-    {
-      "title": "The only AI glossary you’ll need this year",
-      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-03T21:20:00+00:00",
-      "published_ts": 1783113600.0,
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
-    },
-    {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-03T18:43:00+00:00",
-      "published_ts": 1783104180.0,
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
     }
   ]
 }

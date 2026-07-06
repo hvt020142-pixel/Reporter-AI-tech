@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-06T18:19:05.308098+00:00 (UTC) — cửa sổ 72h — 25 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-06T21:45:13.596396+00:00 (UTC) — cửa sổ 72h — 28 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,7 +23,10 @@
 
 ## Phân tích
 
-- 🔵 **Small-AI Models Gain Traction Around the World** — IEEE Spectrum AI — `2026-07-06T16:06:23+00:00`
+- 🔵 **Your family’s $300 stake in OpenAI** — MIT Tech Review — `2026-07-06T18:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times
+- 🔵 **Small AI Models Gain Traction Around the World** — IEEE Spectrum AI — `2026-07-06T16:06:23+00:00`
   - https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
   - One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: counterfeit medication, which kills thousands of people across the continent every year. The RxScanner is a handheld spectrometer that scan
 - 🔵 **The Download: South Korea’s hottest bachelors, and advancing eye transplants** — MIT Tech Review — `2026-07-06T13:00:00+00:00`
@@ -35,9 +38,18 @@
 
 ## Tin tức
 
+- 🔵 **Vercel CEO Guillermo Rauch on the fight to split off models from agents** — TechCrunch AI — `2026-07-06T19:49:10+00:00`
+  - https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/
+  - "The reality is, when you're optimizing for production, you start looking at a price/performance," Guillermo Rauch tells TechCrunch.
+- 🔵 **You can now customize Siri’s pace and expressivity in the latest iOS 27 beta** — TechCrunch AI — `2026-07-06T19:01:59+00:00`
+  - https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/
+  - The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.
+- 🔵 **Every major tech layoff in 2026 that has name-checked AI** — TechCrunch AI — `2026-07-06T18:35:00+00:00`
+  - https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
+  - A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
 - 🔵 **If you use Google, you’re training its AI. Here’s how to opt out.** — TechCrunch AI — `2026-07-06T17:04:58+00:00`
   - https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/
-  - PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.
+  - Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.
 - 🔵 **Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance** — Ars Technica AI — `2026-07-06T16:44:18+00:00`
   - https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/
   - Anthropic accused of spying on users; engineer says “experiment” is over.
@@ -47,6 +59,9 @@
 - 🔵 **Microsoft lays off nearly 5,000 employees across Xbox, commercial sales** — TechCrunch AI — `2026-07-06T15:32:43+00:00`
   - https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/
   - Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.
+- 🔵 **Reddit is using LLMs to solve a problem LLMs largely created** — TechCrunch AI — `2026-07-06T15:22:08+00:00`
+  - https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/
+  - In the AI era, platforms have no choice but to fight fire with fire to cull spam.
 - 🔵 **UK regulator warns of "arms race" to keep up with AI use in financial services** — Ars Technica AI — `2026-07-06T14:17:42+00:00`
   - https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/
   - FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.
@@ -80,12 +95,6 @@
 - 🔵 **The fanfiction community is at war with AI — and itself** — The Verge AI — `2026-07-04T12:00:00+00:00`
   - https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector
   - Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools
-- 🔵 **The only AI glossary you’ll need this year** — TechCrunch AI — `2026-07-03T21:20:00+00:00`
-  - https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
-  - The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
-- 🔵 **The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari** — TechCrunch AI — `2026-07-03T18:43:00+00:00`
-  - https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/
-  - We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
