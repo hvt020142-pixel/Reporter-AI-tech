@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-06T04:36:01.910862+00:00 (UTC) — cửa sổ 72h — 18 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-06T10:58:48.645947+00:00 (UTC) — cửa sổ 72h — 19 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -10,11 +10,16 @@
 
 ## Mô hình mở
 
+- 🟢 **LeRobot v0.6.0: Imagine, Evaluate, Improve** — Hugging Face — `2026-07-07T00:00:00+00:00`
+  - https://huggingface.co/blog/lerobot-release-v060
 - 🟢 **🤗 Kernels: Major Updates** — Hugging Face — `2026-07-06T00:00:00+00:00`
   - https://huggingface.co/blog/revamped-kernels
 
 ## Phân tích
 
+- 🔵 **South Korea’s hottest new bachelors are chip workers** — MIT Tech Review — `2026-07-06T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/
+  - Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to 
 - 🔵 **A device that revives eyeballs from dead donors could make eye transplants possible** — MIT Tech Review — `2026-07-03T17:34:37+00:00`
   - https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/
   - It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi
@@ -24,9 +29,6 @@
 - 🔵 **AI’s Volatile Power Use Quietly Tests Grid Limits** — IEEE Spectrum AI — `2026-07-03T12:00:01+00:00`
   - https://spectrum.ieee.org/data-centers-grid-instability
   - The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption with
-- 🔵 **The UK’s generational tobacco ban might not work. I’m supporting it anyway.** — MIT Tech Review — `2026-07-03T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/
-  - As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili
 
 ## Tin tức
 
