@@ -1,37 +1,49 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-06T10:58:48.645947+00:00 (UTC) — cửa sổ 72h — 19 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-06T15:52:54.755271+00:00 (UTC) — cửa sổ 72h — 21 mục — nguồn sơ cấp/uy tín.*
 
 
-## Mô hình & LLM
+## Hạ tầng & phần cứng
 
-- 🟢 **Google DeepMind and A24 announce first-of-its-kind research partnership** — Google DeepMind — `2026-07-03T14:25:43+00:00`
-  - https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/
+- 🟢 **How Nations Are Deploying AI for Strategic Priorities** — NVIDIA — `2026-07-06T15:00:25+00:00`
+  - https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/
+  - Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turb
 
 ## Mô hình mở
 
 - 🟢 **LeRobot v0.6.0: Imagine, Evaluate, Improve** — Hugging Face — `2026-07-07T00:00:00+00:00`
   - https://huggingface.co/blog/lerobot-release-v060
+- 🟢 **PRX Part 4: Our Data Strategy** — Hugging Face — `2026-07-06T15:30:55+00:00`
+  - https://huggingface.co/blog/Photoroom/prx-part4-data
 - 🟢 **🤗 Kernels: Major Updates** — Hugging Face — `2026-07-06T00:00:00+00:00`
   - https://huggingface.co/blog/revamped-kernels
 
 ## Phân tích
 
+- 🔵 **The Download: South Korea’s hottest bachelors, and advancing eye transplants** — MIT Tech Review — `2026-07-06T13:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a m
 - 🔵 **South Korea’s hottest new bachelors are chip workers** — MIT Tech Review — `2026-07-06T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/
   - Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to 
 - 🔵 **A device that revives eyeballs from dead donors could make eye transplants possible** — MIT Tech Review — `2026-07-03T17:34:37+00:00`
   - https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/
   - It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi
-- 🔵 **The Download: a smoking “endgame” and a new Elizabeth Bear story** — MIT Tech Review — `2026-07-03T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h
-- 🔵 **AI’s Volatile Power Use Quietly Tests Grid Limits** — IEEE Spectrum AI — `2026-07-03T12:00:01+00:00`
-  - https://spectrum.ieee.org/data-centers-grid-instability
-  - The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption with
 
 ## Tin tức
 
+- 🔵 **Microsoft lays off nearly 5,000 employees across Xbox, commercial sales** — TechCrunch AI — `2026-07-06T15:32:43+00:00`
+  - https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/
+  - Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.
+- 🔵 **UK regulator warns of "arms race" to keep up with AI use in financial services** — Ars Technica AI — `2026-07-06T14:17:42+00:00`
+  - https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/
+  - FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.
+- 🔵 **Microsoft is laying off 4,800 employees** — The Verge AI — `2026-07-06T13:30:00+00:00`
+  - https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox
+  - A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's com
+- 🔵 **Station F ramps up as a launchpad for Europe’s hottest AI startups** — TechCrunch AI — `2026-07-06T13:00:00+00:00`
+  - https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/
+  - Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.
 - 🔵 **Some of the nation’s rich are letting AI teach their kids** — The Verge AI — `2026-07-05T22:30:54+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep
   - Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep 
@@ -62,12 +74,6 @@
 - 🔵 **The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari** — TechCrunch AI — `2026-07-03T18:43:00+00:00`
   - https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/
   - We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
-- 🔵 **Anthropic wants to develop its own drugs** — The Verge AI — `2026-07-03T13:56:52+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development
-  - At the event "The Briefing: AI for Science" earlier this week, Anthropic announced Claude Science, a new "AI workbench for scientists" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding 
-- 🔵 **A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered** — The Verge AI — `2026-07-03T11:49:10+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video
-  - Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with ch
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
