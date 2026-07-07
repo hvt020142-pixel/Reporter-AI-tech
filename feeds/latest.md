@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-07T07:51:43.875849+00:00 (UTC) — cửa sổ 72h — 191 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-07T11:17:46.355483+00:00 (UTC) — cửa sổ 72h — 194 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -509,6 +509,9 @@
 
 ## Phân tích
 
+- 🔵 **Why worms (and microbes) are catching on as a manure pollution solution** — MIT Tech Review — `2026-07-07T10:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/
+  - Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi
 - 🔵 **Your family’s $300 stake in OpenAI** — MIT Tech Review — `2026-07-06T18:00:00+00:00`
   - https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times
@@ -524,6 +527,12 @@
 
 ## Tin tức
 
+- 🔵 **How AI could enable autonomous robot workers in workplaces—and maybe homes** — Ars Technica AI — `2026-07-07T11:00:18+00:00`
+  - https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/
+  - Top robotics researchers and founders explain how robot autonomy is evolving.
+- 🔵 **The first American autonomous ground vehicles are fighting in Ukraine** — TechCrunch AI — `2026-07-07T09:00:00+00:00`
+  - https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/
+  - Forterra has deployed more than 100
 - 🔵 **The ‘first’ AI-run ransomware attack still needed a human** — TechCrunch AI — `2026-07-06T23:56:14+00:00`
   - https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/
   - An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's

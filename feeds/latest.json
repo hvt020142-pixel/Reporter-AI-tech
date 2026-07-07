@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T07:51:43.875849+00:00",
+  "generated_at": "2026-07-07T11:17:46.355483+00:00",
   "lookback_hours": 72,
-  "item_count": 191,
+  "item_count": 194,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 14,
+      "items_kept": 15,
       "items_total": 20
     },
     {
@@ -78,13 +78,13 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 3,
+      "items_kept": 4,
       "items_total": 10
     },
     {
@@ -96,6 +96,36 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-07T11:00:18+00:00",
+      "published_ts": 1783422018.0,
+      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving."
+    },
+    {
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-07T10:00:00+00:00",
+      "published_ts": 1783418400.0,
+      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi"
+    },
+    {
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-07T09:00:00+00:00",
+      "published_ts": 1783414800.0,
+      "summary": "Forterra has deployed more than 100"
+    },
     {
       "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
       "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
