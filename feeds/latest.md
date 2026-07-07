@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-07T04:13:50.990469+00:00 (UTC) — cửa sổ 72h — 190 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-07T07:51:43.875849+00:00 (UTC) — cửa sổ 72h — 191 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community** — NVIDIA — `2026-07-07T06:00:26+00:00`
+  - https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
+  - Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, co
 - 🟢 **How Open Models Are Driving AI Research** — NVIDIA — `2026-07-06T16:00:00+00:00`
   - https://blogs.nvidia.com/blog/open-models-icml-2026/
   - Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets d

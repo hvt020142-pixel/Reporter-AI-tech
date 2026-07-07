@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T04:13:50.990469+00:00",
+  "generated_at": "2026-07-07T07:51:43.875849+00:00",
   "lookback_hours": 72,
-  "item_count": 190,
+  "item_count": 191,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 18
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-07T06:00:26+00:00",
+      "published_ts": 1783404026.0,
+      "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, co"
+    },
     {
       "title": "iFLYTEK-Embodied-Omni Technical Report",
       "url": "https://arxiv.org/abs/2607.02542",
