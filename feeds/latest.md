@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-07T21:38:38.123015+00:00 (UTC) — cửa sổ 72h — 208 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-07T23:13:01.005642+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -554,6 +554,9 @@
 
 ## Tin tức
 
+- 🔵 **Meta rolls out Muse, a new AI image generator** — TechCrunch AI — `2026-07-07T22:18:10+00:00`
+  - https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
+  - The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.
 - 🔵 **Data centers’ energy demand threatens Trump’s “Made in America” plan** — Ars Technica AI — `2026-07-07T21:03:07+00:00`
   - https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/
   - Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.
