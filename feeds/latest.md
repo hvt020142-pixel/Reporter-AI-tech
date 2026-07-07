@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-07T18:15:46.654861+00:00 (UTC) — cửa sổ 72h — 201 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-07T21:38:38.123015+00:00 (UTC) — cửa sổ 72h — 208 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,11 +23,18 @@
 - 🟢 **Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more** — Google (Keyword AI) — `2026-07-07T08:54:00+00:00`
   - https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
   - We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.
+- 🟢 **Australian Payments Plus moves faster with ChatGPT and Codex** — OpenAI — `2026-07-07T00:00:00+00:00`
+  - https://openai.com/index/australian-payments-plus
+  - See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
 
 ## Mô hình mở
 
+- 🟢 **From Hugging Face to Amazon SageMaker Studio in one click** — Hugging Face — `2026-07-07T21:15:33+00:00`
+  - https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 - 🟢 **Hugging Face Models on Foundry Managed Compute** — Hugging Face — `2026-07-07T15:20:06+00:00`
   - https://huggingface.co/blog/microsoft/foundry-managed-compute
+- 🟢 **Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot** — Hugging Face — `2026-07-07T00:00:00+00:00`
+  - https://huggingface.co/blog/skypilot-hf-storage
 - 🟢 **LeRobot v0.6.0: Imagine, Evaluate, Improve** — Hugging Face — `2026-07-07T00:00:00+00:00`
   - https://huggingface.co/blog/lerobot-release-v060
 - 🟢 **PRX Part 4: Our Data Strategy** — Hugging Face — `2026-07-06T15:30:55+00:00`
@@ -547,6 +554,21 @@
 
 ## Tin tức
 
+- 🔵 **Data centers’ energy demand threatens Trump’s “Made in America” plan** — Ars Technica AI — `2026-07-07T21:03:07+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/
+  - Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.
+- 🔵 **Meta’s new Muse Image model can pull other Instagram users into AI photos** — The Verge AI — `2026-07-07T20:31:58+00:00`
+  - https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram
+  - Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's par
+- 🔵 **Why the rise of open source AI isn’t hurting Anthropic … yet** — TechCrunch AI — `2026-07-07T20:04:32+00:00`
+  - https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/
+  - Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.
+- 🔵 **Microsoft joins AI cost-cutting trend by relying more on its own models** — TechCrunch AI — `2026-07-07T19:58:20+00:00`
+  - https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/
+  - Microsoft is the latest Silicon Valley giant to cut back on its AI spending.
+- 🔵 **Discord admits AI moderation bug wrongfully banned users over harmless images** — TechCrunch AI — `2026-07-07T19:28:38+00:00`
+  - https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/
+  - The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.
 - 🔵 **Anthropic is launching Claude Cowork on mobile and web** — The Verge AI — `2026-07-07T17:46:59+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
   - Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans "in the coming weeks." Claude Cowork was previously only accessible through the Claude
@@ -616,9 +638,6 @@
 - 🔵 **Infuriating Google commercial imagines the founding fathers embracing AI** — The Verge AI — `2026-07-05T14:23:11+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence
   - "Group project, but make it 1776." That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Be
-- 🔵 **New Google commercial imagines a Declaration of Independence written with help from AI** — TechCrunch AI — `2026-07-04T20:55:25+00:00`
-  - https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
-  - Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
