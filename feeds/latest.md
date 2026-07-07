@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-07T15:10:07.606633+00:00 (UTC) — cửa sổ 72h — 198 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-07T18:15:46.654861+00:00 (UTC) — cửa sổ 72h — 201 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -18,8 +18,16 @@
   - https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/
   - Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turb
 
+## Mô hình & LLM
+
+- 🟢 **Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more** — Google (Keyword AI) — `2026-07-07T08:54:00+00:00`
+  - https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
+  - We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.
+
 ## Mô hình mở
 
+- 🟢 **Hugging Face Models on Foundry Managed Compute** — Hugging Face — `2026-07-07T15:20:06+00:00`
+  - https://huggingface.co/blog/microsoft/foundry-managed-compute
 - 🟢 **LeRobot v0.6.0: Imagine, Evaluate, Improve** — Hugging Face — `2026-07-07T00:00:00+00:00`
   - https://huggingface.co/blog/lerobot-release-v060
 - 🟢 **PRX Part 4: Our Data Strategy** — Hugging Face — `2026-07-06T15:30:55+00:00`
@@ -512,6 +520,9 @@
 
 ## Phân tích
 
+- 🔵 **What Makes AI Art Worth Collecting?** — IEEE Spectrum AI — `2026-07-07T14:00:02+00:00`
+  - https://spectrum.ieee.org/ai-art-market
+  - In May, an anonymous artist who goes by SHL0MS on X posted that he had used AI to generate an image inspired by Claude Monet and asked people to weigh in on how it missed the mark. More than 600 responses called out issues, saying the colors were off, the depth was all wrong, and that AI didn’t unde
 - 🔵 **The Download: your stake in OpenAI, and the Treasury’s AI warning** — MIT Tech Review — `2026-07-07T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report
@@ -536,6 +547,15 @@
 
 ## Tin tức
 
+- 🔵 **Anthropic is launching Claude Cowork on mobile and web** — The Verge AI — `2026-07-07T17:46:59+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
+  - Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans "in the coming weeks." Claude Cowork was previously only accessible through the Claude
+- 🔵 **Claude Cowork expands to mobile and web** — TechCrunch AI — `2026-07-07T16:27:18+00:00`
+  - https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/
+  - With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.
+- 🔵 **Facing US export controls, China's DeepSeek plans to make its own chips** — Ars Technica AI — `2026-07-07T16:14:53+00:00`
+  - https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/
+  - It's early, but the plan is to reduce dependency on Nvidia and Huawei.
 - 🔵 **Solos debuts an even lighter version of its camera-less smart glasses** — The Verge AI — `2026-07-07T13:00:00+00:00`
   - https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy
   - Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savi
@@ -599,15 +619,6 @@
 - 🔵 **New Google commercial imagines a Declaration of Independence written with help from AI** — TechCrunch AI — `2026-07-04T20:55:25+00:00`
   - https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
   - Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
-- 🔵 **Midjourney wants Hollywood studios to reveal the details of their AI usage** — TechCrunch AI — `2026-07-04T18:00:05+00:00`
-  - https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/
-  - As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.
-- 🔵 **Alibaba reportedly bans employees from using Claude Code** — TechCrunch AI — `2026-07-04T16:32:08+00:00`
-  - https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/
-  - Alibaba has reportedly classified Claude Code as high-risk software.
-- 🔵 **What is Mistral AI? Everything to know about the OpenAI competitor** — TechCrunch AI — `2026-07-04T15:51:32+00:00`
-  - https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
-  - Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

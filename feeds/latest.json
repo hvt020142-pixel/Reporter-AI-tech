@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T15:10:07.606633+00:00",
+  "generated_at": "2026-07-07T18:15:46.654861+00:00",
   "lookback_hours": 72,
-  "item_count": 198,
+  "item_count": 201,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -18,7 +18,7 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 0,
+      "items_kept": 1,
       "items_total": 20
     },
     {
@@ -30,8 +30,8 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 3,
-      "items_total": 817
+      "items_kept": 4,
+      "items_total": 818
     },
     {
       "source": "arXiv cs.AI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 16,
+      "items_kept": 14,
       "items_total": 20
     },
     {
@@ -72,13 +72,13 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 5,
+      "items_kept": 6,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 3,
+      "items_kept": 4,
       "items_total": 20
     },
     {
@@ -90,12 +90,52 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-07T17:46:59+00:00",
+      "published_ts": 1783446419.0,
+      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude"
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-07T16:27:18+00:00",
+      "published_ts": 1783441638.0,
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed."
+    },
+    {
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-07T16:14:53+00:00",
+      "published_ts": 1783440893.0,
+      "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei."
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-07T15:20:06+00:00",
+      "published_ts": 1783437606.0,
+      "summary": ""
+    },
     {
       "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
       "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
@@ -105,6 +145,16 @@
       "published_iso": "2026-07-07T15:00:52+00:00",
       "published_ts": 1783436452.0,
       "summary": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the too"
+    },
+    {
+      "title": "What Makes AI Art Worth Collecting?",
+      "url": "https://spectrum.ieee.org/ai-art-market",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-07T14:00:02+00:00",
+      "published_ts": 1783432802.0,
+      "summary": "In May, an anonymous artist who goes by SHL0MS on X posted that he had used AI to generate an image inspired by Claude Monet and asked people to weigh in on how it missed the mark. More than 600 responses called out issues, saying the colors were off, the depth was all wrong, and that AI didn’t unde"
     },
     {
       "title": "Solos debuts an even lighter version of its camera-less smart glasses",
@@ -175,6 +225,16 @@
       "published_iso": "2026-07-07T09:00:00+00:00",
       "published_ts": 1783414800.0,
       "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine."
+    },
+    {
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "Google (Keyword AI)",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-07T08:54:00+00:00",
+      "published_ts": 1783414440.0,
+      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
     },
     {
       "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
@@ -2045,36 +2105,6 @@
       "published_iso": "2026-07-04T20:55:25+00:00",
       "published_ts": 1783198525.0,
       "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
-    },
-    {
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-04T18:00:05+00:00",
-      "published_ts": 1783188005.0,
-      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
-    },
-    {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-04T16:32:08+00:00",
-      "published_ts": 1783182728.0,
-      "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-04T15:51:32+00:00",
-      "published_ts": 1783180292.0,
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
     }
   ]
 }
