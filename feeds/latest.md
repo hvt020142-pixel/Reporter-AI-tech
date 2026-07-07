@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-07T11:17:46.355483+00:00 (UTC) — cửa sổ 72h — 194 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-07T15:10:07.606633+00:00 (UTC) — cửa sổ 72h — 198 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters** — NVIDIA — `2026-07-07T15:00:52+00:00`
+  - https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/
+  - Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the too
 - 🟢 **NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community** — NVIDIA — `2026-07-07T06:00:26+00:00`
   - https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
   - Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, co
@@ -509,6 +512,12 @@
 
 ## Phân tích
 
+- 🔵 **The Download: your stake in OpenAI, and the Treasury’s AI warning** — MIT Tech Review — `2026-07-07T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report
+- 🔵 **The foundational elements of AI architecture that IT leaders need to scale** — MIT Tech Review — `2026-07-07T11:10:52+00:00`
+  - https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/
+  - With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur
 - 🔵 **Why worms (and microbes) are catching on as a manure pollution solution** — MIT Tech Review — `2026-07-07T10:00:00+00:00`
   - https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/
   - Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi
@@ -527,12 +536,18 @@
 
 ## Tin tức
 
+- 🔵 **Solos debuts an even lighter version of its camera-less smart glasses** — The Verge AI — `2026-07-07T13:00:00+00:00`
+  - https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy
+  - Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savi
+- 🔵 **Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom** — TechCrunch AI — `2026-07-07T12:00:00+00:00`
+  - https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/
+  - The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.
 - 🔵 **How AI could enable autonomous robot workers in workplaces—and maybe homes** — Ars Technica AI — `2026-07-07T11:00:18+00:00`
   - https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/
   - Top robotics researchers and founders explain how robot autonomy is evolving.
 - 🔵 **The first American autonomous ground vehicles are fighting in Ukraine** — TechCrunch AI — `2026-07-07T09:00:00+00:00`
   - https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/
-  - Forterra has deployed more than 100
+  - Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.
 - 🔵 **The ‘first’ AI-run ransomware attack still needed a human** — TechCrunch AI — `2026-07-06T23:56:14+00:00`
   - https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/
   - An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's
@@ -593,9 +608,6 @@
 - 🔵 **What is Mistral AI? Everything to know about the OpenAI competitor** — TechCrunch AI — `2026-07-04T15:51:32+00:00`
   - https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
   - Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
-- 🔵 **The fanfiction community is at war with AI — and itself** — The Verge AI — `2026-07-04T12:00:00+00:00`
-  - https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector
-  - Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
