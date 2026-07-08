@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-08T14:37:08.789015+00:00",
+  "generated_at": "2026-07-08T17:49:52.666626+00:00",
   "lookback_hours": 72,
-  "item_count": 215,
+  "item_count": 223,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 2,
-      "items_total": 1029
+      "items_kept": 4,
+      "items_total": 1031
     },
     {
       "source": "Google DeepMind",
@@ -24,14 +24,14 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 18
     },
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 6,
-      "items_total": 820
+      "items_kept": 8,
+      "items_total": 822
     },
     {
       "source": "arXiv cs.AI",
@@ -72,19 +72,19 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 7,
+      "items_kept": 8,
       "items_total": 10
     },
     {
@@ -96,6 +96,106 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T17:47:55+00:00",
+      "published_ts": 1783532875.0,
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&"
+    },
+    {
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-08T17:16:05+00:00",
+      "published_ts": 1783530965.0,
+      "summary": ""
+    },
+    {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T17:11:18+00:00",
+      "published_ts": 1783530678.0,
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use."
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T17:00:00+00:00",
+      "published_ts": 1783530000.0,
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation."
+    },
+    {
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T17:00:00+00:00",
+      "published_ts": 1783530000.0,
+      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan "
+    },
+    {
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T16:39:48+00:00",
+      "published_ts": 1783528788.0,
+      "summary": "Android Bench is evolving, and developers can help guide that process."
+    },
+    {
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T16:26:10+00:00",
+      "published_ts": 1783527970.0,
+      "summary": ""
+    },
+    {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T16:22:38+00:00",
+      "published_ts": 1783527758.0,
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs."
+    },
+    {
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T15:41:06+00:00",
+      "published_ts": 1783525266.0,
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
+    },
+    {
+      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-08T15:00:27+00:00",
+      "published_ts": 1783522827.0,
+      "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completi"
+    },
     {
       "title": "The Download: worms fight pollution, and geoengineering faces reality",
       "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
@@ -127,6 +227,16 @@
       "summary": "Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critical vulnerability that could allow attackers to slow these systems to a crawl. Wh"
     },
     {
+      "title": "Helping K–12 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-08T10:00:00+00:00",
+      "published_ts": 1783504800.0,
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
+    },
+    {
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
       "source": "TechCrunch AI",
@@ -144,7 +254,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-08T07:16:00+00:00",
       "published_ts": 1783494960.0,
-      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
+      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
     },
     {
       "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
@@ -1757,6 +1867,26 @@
       "summary": "arXiv:2607.05965v1 Announce Type: new Abstract: Vascular computed tomography datasets are commonly annotated only once per scan, yielding the pervasive yet under addressed problem of single mask annotation noise. Existing solutions either require costly multirater fusion or are coupled with network "
     },
     {
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-08T00:00:00+00:00",
+      "published_ts": 1783468800.0,
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-08T00:00:00+00:00",
+      "published_ts": 1783468800.0,
+      "summary": ""
+    },
+    {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "source": "TechCrunch AI",
@@ -2077,16 +2207,6 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial "
     },
     {
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-06T17:04:58+00:00",
-      "published_ts": 1783357498.0,
-      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models."
-    },
-    {
       "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
       "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
       "source": "Ars Technica AI",
@@ -2127,16 +2247,6 @@
       "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart g"
     },
     {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-06T15:32:43+00:00",
-      "published_ts": 1783351963.0,
-      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest."
-    },
-    {
       "title": "PRX Part 4: Our Data Strategy",
       "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
       "source": "Hugging Face",
@@ -2145,16 +2255,6 @@
       "published_iso": "2026-07-06T15:30:55+00:00",
       "published_ts": 1783351855.0,
       "summary": ""
-    },
-    {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-06T15:22:08+00:00",
-      "published_ts": 1783351328.0,
-      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam."
     },
     {
       "title": "How Nations Are Deploying AI for Strategic Priorities",
@@ -2185,16 +2285,6 @@
       "published_iso": "2026-07-06T13:30:00+00:00",
       "published_ts": 1783344600.0,
       "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's com"
-    },
-    {
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-06T13:00:00+00:00",
-      "published_ts": 1783342800.0,
-      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups."
     },
     {
       "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
@@ -2235,16 +2325,6 @@
       "published_iso": "2026-07-05T22:30:54+00:00",
       "published_ts": 1783290654.0,
       "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep "
-    },
-    {
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-05T17:43:36+00:00",
-      "published_ts": 1783273416.0,
-      "summary": "These may be the last days of Amazon’s Mechanical Turk."
     }
   ]
 }

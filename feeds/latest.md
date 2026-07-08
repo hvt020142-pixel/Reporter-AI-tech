@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-08T14:37:08.789015+00:00 (UTC) — cửa sổ 72h — 215 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-08T17:49:52.666626+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness** — NVIDIA — `2026-07-08T15:00:27+00:00`
+  - https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/
+  - NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completi
 - 🟢 **AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters** — NVIDIA — `2026-07-07T15:00:52+00:00`
   - https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/
   - Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the too
@@ -20,6 +23,12 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Helping K–12 educators build practical AI skills** — OpenAI — `2026-07-08T10:00:00+00:00`
+  - https://openai.com/index/k-12-educators-practical-skills
+  - OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.
+- 🟢 **Introducing GPT-Live** — OpenAI — `2026-07-08T00:00:00+00:00`
+  - https://openai.com/index/introducing-gpt-live
+  - A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
 - 🟢 **Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more** — Google (Keyword AI) — `2026-07-07T08:54:00+00:00`
   - https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
   - We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.
@@ -32,6 +41,10 @@
 
 ## Mô hình mở
 
+- 🟢 **Data for Agents** — Hugging Face — `2026-07-08T17:16:05+00:00`
+  - https://huggingface.co/blog/nvidia/open-data-for-agents
+- 🟢 **Native-speed vLLM transformers modeling backend** — Hugging Face — `2026-07-08T00:00:00+00:00`
+  - https://huggingface.co/blog/native-speed-vllm-transformers-backend
 - 🟢 **From Hugging Face to Amazon SageMaker Studio in one click** — Hugging Face — `2026-07-07T21:15:33+00:00`
   - https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 - 🟢 **Hugging Face Models on Foundry Managed Compute** — Hugging Face — `2026-07-07T15:20:06+00:00`
@@ -530,6 +543,8 @@
 
 ## Phân tích
 
+- 🔵 **EmTech AI 2026: The Rise of the AI Platform** — MIT Tech Review — `2026-07-08T16:26:10+00:00`
+  - https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/
 - 🔵 **The Download: worms fight pollution, and geoengineering faces reality** — MIT Tech Review — `2026-07-08T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu
@@ -563,6 +578,27 @@
 
 ## Tin tức
 
+- 🔵 **Why this CEO thinks video games make better training data than the internet** — TechCrunch AI — `2026-07-08T17:47:55+00:00`
+  - https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/
+  - When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&
+- 🔵 **Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.** — TechCrunch AI — `2026-07-08T17:11:18+00:00`
+  - https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/
+  - Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.
+- 🔵 **OpenAI releases new voice models for more natural live conversations** — TechCrunch AI — `2026-07-08T17:00:00+00:00`
+  - https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/
+  - OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.
+- 🔵 **ChatGPT’s upgraded voice mode is better at shutting up** — The Verge AI — `2026-07-08T17:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live
+  - OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like "talking to another person." The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan 
+- 🔵 **Google updates Android Bench with new LLMs, but Gemini still lags behind** — Ars Technica AI — `2026-07-08T16:39:48+00:00`
+  - https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/
+  - Android Bench is evolving, and developers can help guide that process.
+- 🔵 **Prime Intellect raises $130M Series A to help enterprises build their own AI agents** — TechCrunch AI — `2026-07-08T16:22:38+00:00`
+  - https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
+  - Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.
+- 🔵 **These AI startups are growing  revenue at faster and faster rates** — TechCrunch AI — `2026-07-08T15:41:06+00:00`
+  - https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/
+  - There are a lot of fast-growing AI startups, but some are growing even faster, they say.
 - 🔵 **Former OpenAI exec Kevin Weil is now on the board of Stoke Space** — TechCrunch AI — `2026-07-08T12:00:00+00:00`
   - https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/
   - Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.
@@ -571,7 +607,7 @@
   - ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.
 - 🔵 **AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round** — TechCrunch AI — `2026-07-08T07:16:00+00:00`
   - https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
-  - AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.
+  - AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.
 - 🔵 **Hackers can use 9 of the most popular AI tools to assemble massive botnets** — Ars Technica AI — `2026-07-08T07:00:51+00:00`
   - https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
   - "HalluSquatting" weaponizes LLMs' inability to say "I don't know."
@@ -629,36 +665,21 @@
 - 🔵 **Every major tech layoff in 2026 that has name-checked AI** — TechCrunch AI — `2026-07-06T18:35:00+00:00`
   - https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
   - A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
-- 🔵 **If you use Google, you’re training its AI. Here’s how to opt out.** — TechCrunch AI — `2026-07-06T17:04:58+00:00`
-  - https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/
-  - Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.
 - 🔵 **Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance** — Ars Technica AI — `2026-07-06T16:44:18+00:00`
   - https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/
   - Anthropic accused of spying on users; engineer says “experiment” is over.
 - 🔵 **I spy** — The Verge AI — `2026-07-06T16:00:00+00:00`
   - https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy
   - I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart g
-- 🔵 **Microsoft lays off nearly 5,000 employees across Xbox, commercial sales** — TechCrunch AI — `2026-07-06T15:32:43+00:00`
-  - https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/
-  - Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.
-- 🔵 **Reddit is using LLMs to solve a problem LLMs largely created** — TechCrunch AI — `2026-07-06T15:22:08+00:00`
-  - https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/
-  - In the AI era, platforms have no choice but to fight fire with fire to cull spam.
 - 🔵 **UK regulator warns of "arms race" to keep up with AI use in financial services** — Ars Technica AI — `2026-07-06T14:17:42+00:00`
   - https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/
   - FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.
 - 🔵 **Microsoft is laying off 4,800 employees** — The Verge AI — `2026-07-06T13:30:00+00:00`
   - https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox
   - A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's com
-- 🔵 **Station F ramps up as a launchpad for Europe’s hottest AI startups** — TechCrunch AI — `2026-07-06T13:00:00+00:00`
-  - https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/
-  - Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.
 - 🔵 **Some of the nation’s rich are letting AI teach their kids** — The Verge AI — `2026-07-05T22:30:54+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep
   - Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep 
-- 🔵 **Amazon will stop accepting new customers for Mechanical Turk** — TechCrunch AI — `2026-07-05T17:43:36+00:00`
-  - https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
-  - These may be the last days of Amazon’s Mechanical Turk.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
