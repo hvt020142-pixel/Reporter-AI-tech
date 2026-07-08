@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-08T21:20:42.362067+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-08T23:21:25.086361+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -584,6 +584,12 @@
 
 ## Tin tức
 
+- 🔵 **Lovable reportedly in talks to double its valuation to $13.2B** — TechCrunch AI — `2026-07-08T22:41:33+00:00`
+  - https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/
+  - The $300 million round is expected to be led by Menlo Ventures, Sifted reported.
+- 🔵 **Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%** — Ars Technica AI — `2026-07-08T21:42:44+00:00`
+  - https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/
+  - AI cheating leads to "a failed society," professor says.
 - 🔵 **Google’s deepfake detector system used to debunk McConnell hoax pic** — TechCrunch AI — `2026-07-08T20:37:03+00:00`
   - https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/
   - Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.
@@ -671,9 +677,6 @@
 - 🔵 **How AI could enable autonomous robot workers in workplaces—and maybe homes** — Ars Technica AI — `2026-07-07T11:00:18+00:00`
   - https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/
   - Top robotics researchers and founders explain how robot autonomy is evolving.
-- 🔵 **The first American autonomous ground vehicles are fighting in Ukraine** — TechCrunch AI — `2026-07-07T09:00:00+00:00`
-  - https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/
-  - Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.
 - 🔵 **Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance** — Ars Technica AI — `2026-07-06T16:44:18+00:00`
   - https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/
   - Anthropic accused of spying on users; engineer says “experiment” is over.
@@ -686,9 +689,6 @@
 - 🔵 **Microsoft is laying off 4,800 employees** — The Verge AI — `2026-07-06T13:30:00+00:00`
   - https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox
   - A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's com
-- 🔵 **Some of the nation’s rich are letting AI teach their kids** — The Verge AI — `2026-07-05T22:30:54+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep
-  - Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep 
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

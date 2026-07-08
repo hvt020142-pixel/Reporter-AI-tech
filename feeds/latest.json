@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T21:20:42.362067+00:00",
+  "generated_at": "2026-07-08T23:21:25.086361+00:00",
   "lookback_hours": 72,
   "item_count": 226,
   "sources_ok": [
@@ -72,13 +72,13 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 7,
+      "items_kept": 6,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 8,
+      "items_kept": 9,
       "items_total": 20
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T22:41:33+00:00",
+      "published_ts": 1783550493.0,
+      "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported."
+    },
+    {
+      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T21:42:44+00:00",
+      "published_ts": 1783546964.0,
+      "summary": "AI cheating leads to \"a failed society,\" professor says."
+    },
     {
       "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
       "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
@@ -2157,16 +2177,6 @@
       "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi"
     },
     {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-07T09:00:00+00:00",
-      "published_ts": 1783414800.0,
-      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine."
-    },
-    {
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
       "source": "Google (Keyword AI)",
@@ -2345,16 +2355,6 @@
       "published_iso": "2026-07-06T00:00:00+00:00",
       "published_ts": 1783296000.0,
       "summary": ""
-    },
-    {
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-05T22:30:54+00:00",
-      "published_ts": 1783290654.0,
-      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep "
     }
   ]
 }
