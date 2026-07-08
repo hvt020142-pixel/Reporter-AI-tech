@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-08T17:49:52.666626+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-08T19:51:53.702011+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -578,6 +578,15 @@
 
 ## Tin tức
 
+- 🔵 **SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’** — TechCrunch AI — `2026-07-08T19:30:16+00:00`
+  - https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/
+  - Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.
+- 🔵 **This startup thinks robotics is about to have its ChatGPT moment** — TechCrunch AI — `2026-07-08T19:19:15+00:00`
+  - https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/
+  - General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
+- 🔵 **Google Photos adds a new AI ‘Video Remix’ tool** — TechCrunch AI — `2026-07-08T18:30:08+00:00`
+  - https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/
+  - The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.
 - 🔵 **Why this CEO thinks video games make better training data than the internet** — TechCrunch AI — `2026-07-08T17:47:55+00:00`
   - https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/
   - When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&
@@ -599,6 +608,9 @@
 - 🔵 **These AI startups are growing  revenue at faster and faster rates** — TechCrunch AI — `2026-07-08T15:41:06+00:00`
   - https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/
   - There are a lot of fast-growing AI startups, but some are growing even faster, they say.
+- 🔵 **Your gaming data could be the secret to AGI, according to this Bezos-backed startup** — TechCrunch AI — `2026-07-08T13:00:00+00:00`
+  - https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/
+  - When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&
 - 🔵 **Former OpenAI exec Kevin Weil is now on the board of Stoke Space** — TechCrunch AI — `2026-07-08T12:00:00+00:00`
   - https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/
   - Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.
@@ -653,18 +665,6 @@
 - 🔵 **The ‘first’ AI-run ransomware attack still needed a human** — TechCrunch AI — `2026-07-06T23:56:14+00:00`
   - https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/
   - An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's
-- 🔵 **US investors will soon get access to SK Hynix, another memory maker riding the AI boom** — TechCrunch AI — `2026-07-06T23:21:03+00:00`
-  - https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/
-  - SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.
-- 🔵 **Vercel CEO Guillermo Rauch on the fight to split off models from agents** — TechCrunch AI — `2026-07-06T19:49:10+00:00`
-  - https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/
-  - "The reality is, when you're optimizing for production, you start looking at a price/performance," Guillermo Rauch tells TechCrunch.
-- 🔵 **You can now customize Siri’s pace and expressivity in the latest iOS 27 beta** — TechCrunch AI — `2026-07-06T19:01:59+00:00`
-  - https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/
-  - The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.
-- 🔵 **Every major tech layoff in 2026 that has name-checked AI** — TechCrunch AI — `2026-07-06T18:35:00+00:00`
-  - https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
-  - A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
 - 🔵 **Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance** — Ars Technica AI — `2026-07-06T16:44:18+00:00`
   - https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/
   - Anthropic accused of spying on users; engineer says “experiment” is over.
