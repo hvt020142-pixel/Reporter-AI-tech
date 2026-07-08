@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-08T19:51:53.702011+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-08T21:20:42.362067+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,6 +23,12 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Our approach to government and national security partnerships** — OpenAI — `2026-07-08T13:30:00+00:00`
+  - https://openai.com/index/government-national-security-partnerships
+  - Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.
+- 🟢 **Separating signal from noise in coding evaluations** — OpenAI — `2026-07-08T13:00:00+00:00`
+  - https://openai.com/index/separating-signal-from-noise-coding-evaluations
+  - A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.
 - 🟢 **Helping K–12 educators build practical AI skills** — OpenAI — `2026-07-08T10:00:00+00:00`
   - https://openai.com/index/k-12-educators-practical-skills
   - OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.
@@ -578,6 +584,12 @@
 
 ## Tin tức
 
+- 🔵 **Google’s deepfake detector system used to debunk McConnell hoax pic** — TechCrunch AI — `2026-07-08T20:37:03+00:00`
+  - https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/
+  - Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.
+- 🔵 **Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself** — Ars Technica AI — `2026-07-08T19:56:37+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/
+  - More young girls sue X over Grok CSAM; X accused of shielding child predators.
 - 🔵 **SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’** — TechCrunch AI — `2026-07-08T19:30:16+00:00`
   - https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/
   - Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.
@@ -662,9 +674,6 @@
 - 🔵 **The first American autonomous ground vehicles are fighting in Ukraine** — TechCrunch AI — `2026-07-07T09:00:00+00:00`
   - https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/
   - Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.
-- 🔵 **The ‘first’ AI-run ransomware attack still needed a human** — TechCrunch AI — `2026-07-06T23:56:14+00:00`
-  - https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/
-  - An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's
 - 🔵 **Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance** — Ars Technica AI — `2026-07-06T16:44:18+00:00`
   - https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/
   - Anthropic accused of spying on users; engineer says “experiment” is over.
