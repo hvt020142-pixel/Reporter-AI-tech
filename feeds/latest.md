@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-08T06:36:32.858936+00:00 (UTC) — cửa sổ 72h — 210 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-08T10:29:41.978826+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -544,7 +544,7 @@
   - Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi
 - 🔵 **Your family’s $300 stake in OpenAI** — MIT Tech Review — `2026-07-06T18:00:00+00:00`
   - https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial 
 - 🔵 **Small AI Models Gain Traction Around the World** — IEEE Spectrum AI — `2026-07-06T16:06:23+00:00`
   - https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
   - One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: counterfeit medication, which kills thousands of people across the continent every year. The RxScanner is a handheld spectrometer that scan
@@ -557,6 +557,15 @@
 
 ## Tin tức
 
+- 🔵 **Hot French startup ZML releases free product to speed inference across lots of AI chips** — TechCrunch AI — `2026-07-08T08:00:00+00:00`
+  - https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/
+  - ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.
+- 🔵 **AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round** — TechCrunch AI — `2026-07-08T07:16:00+00:00`
+  - https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
+  - AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.
+- 🔵 **Hackers can use 9 of the most popular AI tools to assemble massive botnets** — Ars Technica AI — `2026-07-08T07:00:51+00:00`
+  - https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
+  - "HalluSquatting" weaponizes LLMs' inability to say "I don't know."
 - 🔵 **Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos** — TechCrunch AI — `2026-07-07T22:18:10+00:00`
   - https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
   - The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.

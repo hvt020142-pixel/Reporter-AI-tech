@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T06:36:32.858936+00:00",
+  "generated_at": "2026-07-08T10:29:41.978826+00:00",
   "lookback_hours": 72,
-  "item_count": 210,
+  "item_count": 213,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 17,
+      "items_kept": 19,
       "items_total": 20
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 5,
+      "items_kept": 6,
       "items_total": 20
     },
     {
@@ -96,6 +96,36 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T08:00:00+00:00",
+      "published_ts": 1783497600.0,
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T07:16:00+00:00",
+      "published_ts": 1783494960.0,
+      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
+    },
+    {
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T07:00:51+00:00",
+      "published_ts": 1783494051.0,
+      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\""
+    },
     {
       "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
       "url": "https://arxiv.org/abs/2607.05456",
@@ -2014,7 +2044,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-06T18:00:00+00:00",
       "published_ts": 1783360800.0,
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times"
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial "
     },
     {
       "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
