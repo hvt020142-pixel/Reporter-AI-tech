@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-07T23:13:01.005642+00:00",
+  "generated_at": "2026-07-08T03:39:25.668640+00:00",
   "lookback_hours": 72,
-  "item_count": 209,
+  "item_count": 210,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 1,
-      "items_total": 1035
+      "items_kept": 2,
+      "items_total": 1029
     },
     {
       "source": "Google DeepMind",
@@ -97,7 +97,7 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "Meta rolls out Muse, a new AI image generator",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
@@ -1087,14 +1087,14 @@
       "summary": "arXiv:2607.03833v1 Announce Type: new Abstract: While Large Language Models (LLMs) have achieved remarkable success in Text-to-SQL tasks, their deployment in real-world environments is hindered by latent reliability issues. Identifying these latent weaknesses is critical for building trustworthy dat"
     },
     {
-      "title": "Rethinking Scientific Discovery in an Agentic Era",
+      "title": "Rethinking Scientific Discovery in the Agentic Era",
       "url": "https://arxiv.org/abs/2607.03863",
       "source": "arXiv cs.CL",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-07T04:00:00+00:00",
       "published_ts": 1783396800.0,
-      "summary": "arXiv:2607.03863v1 Announce Type: new Abstract: Artificial intelligence has advanced scientific discovery, but most AI4Science systems remain fragmented tools that rely on humans to coordinate problem formulation, literature grounding, model use, simulation, validation, and knowledge reuse. This pap"
+      "summary": "arXiv:2607.03863v2 Announce Type: new Abstract: Artificial intelligence has advanced scientific discovery, but most AI4Science systems remain fragmented tools that rely on humans to coordinate problem formulation, literature grounding, model use, simulation, validation, and knowledge reuse. This pap"
     },
     {
       "title": "Consistent but Miscalibrated: Evaluating LLM Limitations for Risk Communication in Natural Language",
@@ -1394,7 +1394,7 @@
       "tier": "primary",
       "published_iso": "2026-07-07T04:00:00+00:00",
       "published_ts": 1783396800.0,
-      "summary": "arXiv:2607.02967v1 Announce Type: new Abstract: Large language models remain limited as continual learning systems, motivating renewed interest in Sparse Distributed Memory (SDM) as an explicit online episodic memory. CALM (Nechesov and Ruponen, 2025) identifies its threshold-binary encoder as an op"
+      "summary": "arXiv:2607.02967v2 Announce Type: new Abstract: Large language models remain limited as continual learning systems, motivating renewed interest in Sparse Distributed Memory (SDM) as an explicit online episodic memory. CALM (Nechesov and Ruponen, 2025) identifies its threshold-binary encoder as an op"
     },
     {
       "title": "MABLE: Masked Autoencoding with Bi-Lipschitz Decoding for Embeddings and Graph Metric Learning",
@@ -1925,6 +1925,16 @@
       "published_iso": "2026-07-07T00:00:00+00:00",
       "published_ts": 1783382400.0,
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-07T00:00:00+00:00",
+      "published_ts": 1783382400.0,
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
     },
     {
       "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",

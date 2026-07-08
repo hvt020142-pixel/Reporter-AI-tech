@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-07T23:13:01.005642+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-08T03:39:25.668640+00:00 (UTC) — cửa sổ 72h — 210 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -26,6 +26,9 @@
 - 🟢 **Australian Payments Plus moves faster with ChatGPT and Codex** — OpenAI — `2026-07-07T00:00:00+00:00`
   - https://openai.com/index/australian-payments-plus
   - See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
+- 🟢 **MUFG aims to become AI-native with OpenAI** — OpenAI — `2026-07-07T00:00:00+00:00`
+  - https://openai.com/index/mufg
+  - MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.
 
 ## Mô hình mở
 
@@ -275,9 +278,9 @@
 - 🟢 **Beyond Static Rules: Automated Discovery of Latent Vulnerabilities in Text-to-SQL** — arXiv cs.CL — `2026-07-07T04:00:00+00:00`
   - https://arxiv.org/abs/2607.03833
   - arXiv:2607.03833v1 Announce Type: new Abstract: While Large Language Models (LLMs) have achieved remarkable success in Text-to-SQL tasks, their deployment in real-world environments is hindered by latent reliability issues. Identifying these latent weaknesses is critical for building trustworthy dat
-- 🟢 **Rethinking Scientific Discovery in an Agentic Era** — arXiv cs.CL — `2026-07-07T04:00:00+00:00`
+- 🟢 **Rethinking Scientific Discovery in the Agentic Era** — arXiv cs.CL — `2026-07-07T04:00:00+00:00`
   - https://arxiv.org/abs/2607.03863
-  - arXiv:2607.03863v1 Announce Type: new Abstract: Artificial intelligence has advanced scientific discovery, but most AI4Science systems remain fragmented tools that rely on humans to coordinate problem formulation, literature grounding, model use, simulation, validation, and knowledge reuse. This pap
+  - arXiv:2607.03863v2 Announce Type: new Abstract: Artificial intelligence has advanced scientific discovery, but most AI4Science systems remain fragmented tools that rely on humans to coordinate problem formulation, literature grounding, model use, simulation, validation, and knowledge reuse. This pap
 - 🟢 **Consistent but Miscalibrated: Evaluating LLM Limitations for Risk Communication in Natural Language** — arXiv cs.CL — `2026-07-07T04:00:00+00:00`
   - https://arxiv.org/abs/2607.03882
   - arXiv:2607.03882v1 Announce Type: new Abstract: LLMs are increasingly deployed as post-hoc explainers of AI-generated outputs, yet it remains unclear whether they can reliably communicate probabilistic information in natural language. For this role to be viable, models must produce identical verbal 
@@ -367,7 +370,7 @@
   - arXiv:2607.02964v1 Announce Type: new Abstract: A central goal of mechanistic interpretability is to understand how neural networks work and what each individual component does. Dominant circuit-finding approaches focus on a specific behavior and reverse-engineer the role of components on the associ
 - 🟢 **Rank-Order N-of-M Codes for Sparse Distributed Memory: Disentangling Representation and Learning Effects in Noise Robustness Against Contemporary Neuromorphic Architectures** — arXiv cs.LG — `2026-07-07T04:00:00+00:00`
   - https://arxiv.org/abs/2607.02967
-  - arXiv:2607.02967v1 Announce Type: new Abstract: Large language models remain limited as continual learning systems, motivating renewed interest in Sparse Distributed Memory (SDM) as an explicit online episodic memory. CALM (Nechesov and Ruponen, 2025) identifies its threshold-binary encoder as an op
+  - arXiv:2607.02967v2 Announce Type: new Abstract: Large language models remain limited as continual learning systems, motivating renewed interest in Sparse Distributed Memory (SDM) as an explicit online episodic memory. CALM (Nechesov and Ruponen, 2025) identifies its threshold-binary encoder as an op
 - 🟢 **MABLE: Masked Autoencoding with Bi-Lipschitz Decoding for Embeddings and Graph Metric Learning** — arXiv cs.LG — `2026-07-07T04:00:00+00:00`
   - https://arxiv.org/abs/2607.02990
   - arXiv:2607.02990v1 Announce Type: new Abstract: We propose MABLE (Masked Autoencoding with Bi-Lipschitz Decoding for Embeddings and Graph Metric Learning), a self-supervised framework for learning node and graph embeddings from large, heterogeneous graphs, demonstrated here on geospatial mineral-exp
@@ -554,7 +557,7 @@
 
 ## Tin tức
 
-- 🔵 **Meta rolls out Muse, a new AI image generator** — TechCrunch AI — `2026-07-07T22:18:10+00:00`
+- 🔵 **Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos** — TechCrunch AI — `2026-07-07T22:18:10+00:00`
   - https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
   - The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.
 - 🔵 **Data centers’ energy demand threatens Trump’s “Made in America” plan** — Ars Technica AI — `2026-07-07T21:03:07+00:00`
