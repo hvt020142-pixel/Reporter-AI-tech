@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T10:29:41.978826+00:00",
+  "generated_at": "2026-07-08T14:37:08.789015+00:00",
   "lookback_hours": 72,
-  "item_count": 213,
+  "item_count": 215,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 19,
+      "items_kept": 20,
       "items_total": 20
     },
     {
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 7,
+      "items_kept": 6,
       "items_total": 10
     },
     {
@@ -84,18 +84,48 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T12:10:00+00:00",
+      "published_ts": 1783512600.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu"
+    },
+    {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T12:00:00+00:00",
+      "published_ts": 1783512000.0,
+      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley."
+    },
+    {
+      "title": "AI Models Overthink Problems—and It’s a Security Risk",
+      "url": "https://spectrum.ieee.org/ai-reasoning-models-security-risk",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-08T11:00:01+00:00",
+      "published_ts": 1783508401.0,
+      "summary": "Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critical vulnerability that could allow attackers to slow these systems to a crawl. Wh"
+    },
     {
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
@@ -1898,7 +1928,7 @@
     },
     {
       "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "url": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
       "source": "Ars Technica AI",
       "category": "Tin tức",
       "tier": "reputable",
@@ -2215,16 +2245,6 @@
       "published_iso": "2026-07-05T17:43:36+00:00",
       "published_ts": 1783273416.0,
       "summary": "These may be the last days of Amazon’s Mechanical Turk."
-    },
-    {
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-05T14:23:11+00:00",
-      "published_ts": 1783261391.0,
-      "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Be"
     }
   ]
 }

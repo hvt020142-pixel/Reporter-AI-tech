@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-08T10:29:41.978826+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-08T14:37:08.789015+00:00 (UTC) — cửa sổ 72h — 215 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -530,6 +530,12 @@
 
 ## Phân tích
 
+- 🔵 **The Download: worms fight pollution, and geoengineering faces reality** — MIT Tech Review — `2026-07-08T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu
+- 🔵 **AI Models Overthink Problems—and It’s a Security Risk** — IEEE Spectrum AI — `2026-07-08T11:00:01+00:00`
+  - https://spectrum.ieee.org/ai-reasoning-models-security-risk
+  - Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critical vulnerability that could allow attackers to slow these systems to a crawl. Wh
 - 🔵 **What Makes AI Art Worth Collecting?** — IEEE Spectrum AI — `2026-07-07T14:00:02+00:00`
   - https://spectrum.ieee.org/ai-art-market
   - In May, an anonymous artist who goes by SHL0MS on X posted that he had used AI to generate an image inspired by Claude Monet and asked people to weigh in on how it missed the mark. More than 600 responses called out issues, saying the colors were off, the depth was all wrong, and that AI didn’t unde
@@ -557,6 +563,9 @@
 
 ## Tin tức
 
+- 🔵 **Former OpenAI exec Kevin Weil is now on the board of Stoke Space** — TechCrunch AI — `2026-07-08T12:00:00+00:00`
+  - https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/
+  - Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.
 - 🔵 **Hot French startup ZML releases free product to speed inference across lots of AI chips** — TechCrunch AI — `2026-07-08T08:00:00+00:00`
   - https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/
   - ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.
@@ -600,7 +609,7 @@
   - https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/
   - The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.
 - 🔵 **How AI could enable autonomous robot workers in workplaces—and maybe homes** — Ars Technica AI — `2026-07-07T11:00:18+00:00`
-  - https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/
+  - https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/
   - Top robotics researchers and founders explain how robot autonomy is evolving.
 - 🔵 **The first American autonomous ground vehicles are fighting in Ukraine** — TechCrunch AI — `2026-07-07T09:00:00+00:00`
   - https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/
@@ -650,9 +659,6 @@
 - 🔵 **Amazon will stop accepting new customers for Mechanical Turk** — TechCrunch AI — `2026-07-05T17:43:36+00:00`
   - https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
   - These may be the last days of Amazon’s Mechanical Turk.
-- 🔵 **Infuriating Google commercial imagines the founding fathers embracing AI** — The Verge AI — `2026-07-05T14:23:11+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence
-  - "Group project, but make it 1776." That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Be
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
