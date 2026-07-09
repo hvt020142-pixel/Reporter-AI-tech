@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-09T18:06:33.316989+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-09T20:01:06.722804+00:00 (UTC) — cửa sổ 72h — 215 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -29,6 +29,9 @@
 - 🟢 **GPT-5.6: Frontier intelligence that scales with your ambition** — OpenAI — `2026-07-09T10:00:00+00:00`
   - https://openai.com/index/gpt-5-6
   - More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
+- 🟢 **GPT-5.6 is now the preferred model in Microsoft 365 Copilot** — OpenAI — `2026-07-09T00:00:00+00:00`
+  - https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
+  - Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
 - 🟢 **Our approach to government and national security partnerships** — OpenAI — `2026-07-08T13:30:00+00:00`
   - https://openai.com/index/government-national-security-partnerships
   - Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.
@@ -541,9 +544,27 @@
 
 ## Tin tức
 
-- 🔵 **How to stop Meta’s AI image generator from using your Instagram photos** — TechCrunch AI — `2026-07-09T17:56:47+00:00`
+- 🔵 **Meta enters the crowded AI coding battle with Muse Spark 1.1** — TechCrunch AI — `2026-07-09T19:40:45+00:00`
+  - https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/
+  - Meta's new Muse Spark 1.1. will go up against similar products offered by Anthropic and OpenAI.
+- 🔵 **New York Times says OpenAI hid evidence in ChatGPT copyright trial** — TechCrunch AI — `2026-07-09T19:05:58+00:00`
+  - https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/
+  - News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.
+- 🔵 **OpenAI may have made a fatal misstep in copyright fight with news orgs** — Ars Technica AI — `2026-07-09T18:57:53+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/
+  - OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.
+- 🔵 **Google will now disclose which ads are made with AI** — TechCrunch AI — `2026-07-09T18:40:51+00:00`
+  - https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/
+  - While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.
+- 🔵 **Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia** — TechCrunch AI — `2026-07-09T18:34:35+00:00`
+  - https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/
+  - The company is using the cash to open an office in the Bay Area and compete for talent there, "strengthening its position at the heart of the world's leading AI ecosystem."
+- 🔵 **How did the government decide OpenAI’s frontier model was safe to release?** — TechCrunch AI — `2026-07-09T18:22:39+00:00`
+  - https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/
+  - "Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear."
+- 🔵 **Instagram users: Here’s how to stop Meta’s AI from using your photos** — TechCrunch AI — `2026-07-09T17:56:47+00:00`
   - https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/
-  - Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that.
+  - Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.
 - 🔵 **Meta’s new AI chips will begin production in September** — TechCrunch AI — `2026-07-09T17:17:37+00:00`
   - https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/
   - The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.
@@ -610,27 +631,12 @@
 - 🔵 **Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.** — TechCrunch AI — `2026-07-08T17:11:18+00:00`
   - https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/
   - Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.
-- 🔵 **OpenAI releases new voice models for more natural live conversations** — TechCrunch AI — `2026-07-08T17:00:00+00:00`
-  - https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/
-  - OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.
 - 🔵 **ChatGPT’s upgraded voice mode is better at shutting up** — The Verge AI — `2026-07-08T17:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live
   - OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like "talking to another person." The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan 
 - 🔵 **Google updates Android Bench with new LLMs, but Gemini still lags behind** — Ars Technica AI — `2026-07-08T16:39:48+00:00`
   - https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/
   - Android Bench is evolving, and developers can help guide that process.
-- 🔵 **Prime Intellect raises $130M Series A to help enterprises build their own AI agents** — TechCrunch AI — `2026-07-08T16:22:38+00:00`
-  - https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
-  - Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.
-- 🔵 **These AI startups are growing  revenue at faster and faster rates** — TechCrunch AI — `2026-07-08T15:41:06+00:00`
-  - https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/
-  - There are a lot of fast-growing AI startups, but some are growing even faster, they say.
-- 🔵 **Your gaming data could be the secret to AGI, according to this Bezos-backed startup** — TechCrunch AI — `2026-07-08T13:00:00+00:00`
-  - https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/
-  - When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&
-- 🔵 **Former OpenAI exec Kevin Weil is now on the board of Stoke Space** — TechCrunch AI — `2026-07-08T12:00:00+00:00`
-  - https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/
-  - Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.
 - 🔵 **Hackers can use 9 of the most popular AI tools to assemble massive botnets** — Ars Technica AI — `2026-07-08T07:00:51+00:00`
   - https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
   - "HalluSquatting" weaponizes LLMs' inability to say "I don't know."
