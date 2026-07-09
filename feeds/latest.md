@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-09T11:21:29.907146+00:00 (UTC) — cửa sổ 72h — 211 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-09T15:31:31.392362+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server** — NVIDIA — `2026-07-09T13:00:55+00:00`
+  - https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/
+  - This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also get
 - 🟢 **NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness** — NVIDIA — `2026-07-08T15:00:27+00:00`
   - https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/
   - NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completi
@@ -17,9 +20,6 @@
 - 🟢 **How Open Models Are Driving AI Research** — NVIDIA — `2026-07-06T16:00:00+00:00`
   - https://blogs.nvidia.com/blog/open-models-icml-2026/
   - Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets d
-- 🟢 **How Nations Are Deploying AI for Strategic Priorities** — NVIDIA — `2026-07-06T15:00:25+00:00`
-  - https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/
-  - Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turb
 
 ## Mô hình & LLM
 
@@ -59,8 +59,6 @@
   - https://huggingface.co/blog/skypilot-hf-storage
 - 🟢 **LeRobot v0.6.0: Imagine, Evaluate, Improve** — Hugging Face — `2026-07-07T00:00:00+00:00`
   - https://huggingface.co/blog/lerobot-release-v060
-- 🟢 **PRX Part 4: Our Data Strategy** — Hugging Face — `2026-07-06T15:30:55+00:00`
-  - https://huggingface.co/blog/Photoroom/prx-part4-data
 
 ## Nghiên cứu
 
@@ -505,6 +503,12 @@
 
 ## Phân tích
 
+- 🔵 **The Download: a nuclear landmark, and China eyes Nvidia chips** — MIT Tech Review — `2026-07-09T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside ba
+- 🔵 **Large Tabular Models Excel Where LLMs Fail** — IEEE Spectrum AI — `2026-07-09T12:00:01+00:00`
+  - https://spectrum.ieee.org/large-tabular-models-nexus
+  - The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, ironically, looks at face value to be right in their wheelhouse: analyzing structur
 - 🔵 **Four nuclear reactors hit a big milestone in the US** — MIT Tech Review — `2026-07-09T08:00:00+00:00`
   - https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/
   - I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es
@@ -534,12 +538,36 @@
 - 🔵 **Small AI Models Gain Traction Around the World** — IEEE Spectrum AI — `2026-07-06T16:06:23+00:00`
   - https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
   - One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: counterfeit medication, which kills thousands of people across the continent every year. The RxScanner is a handheld spectrometer that scan
-- 🔵 **The Download: South Korea’s hottest bachelors, and advancing eye transplants** — MIT Tech Review — `2026-07-06T13:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a m
 
 ## Tin tức
 
+- 🔵 **Anthropic’s new Claude feature is quietly selling you on AI** — TechCrunch AI — `2026-07-09T14:53:09+00:00`
+  - https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/
+  - Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.
+- 🔵 **Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits** — TechCrunch AI — `2026-07-09T14:51:00+00:00`
+  - https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/
+  - Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.
+- 🔵 **Meta says its new AI model is ready to compete on coding** — The Verge AI — `2026-07-09T14:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api
+  - After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a "step-change" from the first generation, with improvem
+- 🔵 **Say hello to Claude Wrapped** — The Verge AI — `2026-07-09T13:30:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage
+  - The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a "reflect" feature for its Claude chatbot, allowing users to see an analysis of their usage data over 
+- 🔵 **Character.AI wants a piece of the microdrama pie** — The Verge AI — `2026-07-09T13:11:53+00:00`
+  - https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video
+  - Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional
+- 🔵 **Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
+  - https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
+  - Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.
+- 🔵 **Character.AI enters the microdrama arena with its own productions, but there’s a twist** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
+  - https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/
+  - In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.
+- 🔵 **FL Studio 2026 turns its AI chatbot into your assistant engineer** — The Verge AI — `2026-07-09T13:00:00+00:00`
+  - https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot
+  - Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gop
+- 🔵 **Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund** — TechCrunch AI — `2026-07-09T12:00:00+00:00`
+  - https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/
+  - Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.
 - 🔵 **Lovable reportedly in talks to double its valuation to $13.2B** — TechCrunch AI — `2026-07-08T22:41:33+00:00`
   - https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/
   - The $300 million round is expected to be led by Menlo Ventures, Sifted reported.
@@ -606,30 +634,15 @@
 - 🔵 **Meta’s new Muse Image model can pull other Instagram users into AI photos** — The Verge AI — `2026-07-07T20:31:58+00:00`
   - https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram
   - Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's par
-- 🔵 **Why the rise of open source AI isn’t hurting Anthropic … yet** — TechCrunch AI — `2026-07-07T20:04:32+00:00`
-  - https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/
-  - Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.
-- 🔵 **Microsoft joins AI cost-cutting trend by relying more on its own models** — TechCrunch AI — `2026-07-07T19:58:20+00:00`
-  - https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/
-  - Microsoft is the latest Silicon Valley giant to cut back on its AI spending.
-- 🔵 **Discord admits AI moderation bug wrongfully banned users over harmless images** — TechCrunch AI — `2026-07-07T19:28:38+00:00`
-  - https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/
-  - The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.
 - 🔵 **Anthropic is launching Claude Cowork on mobile and web** — The Verge AI — `2026-07-07T17:46:59+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
   - Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans "in the coming weeks." Claude Cowork was previously only accessible through the Claude
-- 🔵 **Claude Cowork expands to mobile and web** — TechCrunch AI — `2026-07-07T16:27:18+00:00`
-  - https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/
-  - With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.
 - 🔵 **Facing US export controls, China's DeepSeek plans to make its own chips** — Ars Technica AI — `2026-07-07T16:14:53+00:00`
   - https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/
   - It's early, but the plan is to reduce dependency on Nvidia and Huawei.
 - 🔵 **Solos debuts an even lighter version of its camera-less smart glasses** — The Verge AI — `2026-07-07T13:00:00+00:00`
   - https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy
   - Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savi
-- 🔵 **Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom** — TechCrunch AI — `2026-07-07T12:00:00+00:00`
-  - https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/
-  - The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.
 - 🔵 **How AI could enable autonomous robot workers in workplaces—and maybe homes** — Ars Technica AI — `2026-07-07T11:00:18+00:00`
   - https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/
   - Top robotics researchers and founders explain how robot autonomy is evolving.
@@ -639,12 +652,6 @@
 - 🔵 **I spy** — The Verge AI — `2026-07-06T16:00:00+00:00`
   - https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy
   - I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart g
-- 🔵 **UK regulator warns of "arms race" to keep up with AI use in financial services** — Ars Technica AI — `2026-07-06T14:17:42+00:00`
-  - https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/
-  - FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.
-- 🔵 **Microsoft is laying off 4,800 employees** — The Verge AI — `2026-07-06T13:30:00+00:00`
-  - https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox
-  - A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's com
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
