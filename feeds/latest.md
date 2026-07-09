@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-09T15:31:31.392362+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-09T18:06:33.316989+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -17,12 +17,18 @@
 - 🟢 **NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community** — NVIDIA — `2026-07-07T06:00:26+00:00`
   - https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
   - Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, co
-- 🟢 **How Open Models Are Driving AI Research** — NVIDIA — `2026-07-06T16:00:00+00:00`
-  - https://blogs.nvidia.com/blog/open-models-icml-2026/
-  - Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets d
 
 ## Mô hình & LLM
 
+- 🟢 **ChatGPT is now a partner for your most ambitious work** — OpenAI — `2026-07-09T10:00:00+00:00`
+  - https://openai.com/index/chatgpt-for-your-most-ambitious-work
+  - ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.
+- 🟢 **GPT-5.5 Bio Bug Bounty** — OpenAI — `2026-07-09T10:00:00+00:00`
+  - https://openai.com/index/bio-bug-bounty
+  - Details about the OpenAI Bio Bounty program
+- 🟢 **GPT-5.6: Frontier intelligence that scales with your ambition** — OpenAI — `2026-07-09T10:00:00+00:00`
+  - https://openai.com/index/gpt-5-6
+  - More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
 - 🟢 **Our approach to government and national security partnerships** — OpenAI — `2026-07-08T13:30:00+00:00`
   - https://openai.com/index/government-national-security-partnerships
   - Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.
@@ -38,12 +44,12 @@
 - 🟢 **Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more** — Google (Keyword AI) — `2026-07-07T08:54:00+00:00`
   - https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
   - We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.
-- 🟢 **Australian Payments Plus moves faster with ChatGPT and Codex** — OpenAI — `2026-07-07T00:00:00+00:00`
-  - https://openai.com/index/australian-payments-plus
-  - See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
 - 🟢 **MUFG aims to become AI-native with OpenAI** — OpenAI — `2026-07-07T00:00:00+00:00`
   - https://openai.com/index/mufg
   - MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.
+- 🟢 **Australian Payments Plus moves faster with ChatGPT and Codex** — OpenAI — `2026-07-07T00:00:00+00:00`
+  - https://openai.com/index/australian-payments-plus
+  - See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
 
 ## Mô hình mở
 
@@ -532,15 +538,24 @@
 - 🔵 **Why worms (and microbes) are catching on as a manure pollution solution** — MIT Tech Review — `2026-07-07T10:00:00+00:00`
   - https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/
   - Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi
-- 🔵 **Your family’s $300 stake in OpenAI** — MIT Tech Review — `2026-07-06T18:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial 
-- 🔵 **Small AI Models Gain Traction Around the World** — IEEE Spectrum AI — `2026-07-06T16:06:23+00:00`
-  - https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
-  - One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: counterfeit medication, which kills thousands of people across the continent every year. The RxScanner is a handheld spectrometer that scan
 
 ## Tin tức
 
+- 🔵 **How to stop Meta’s AI image generator from using your Instagram photos** — TechCrunch AI — `2026-07-09T17:56:47+00:00`
+  - https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/
+  - Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that.
+- 🔵 **Meta’s new AI chips will begin production in September** — TechCrunch AI — `2026-07-09T17:17:37+00:00`
+  - https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/
+  - The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.
+- 🔵 **Nvidia is a victim of the compute marketplace it created** — TechCrunch AI — `2026-07-09T17:06:11+00:00`
+  - https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/
+  - Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.
+- 🔵 **Microsoft’s patch Tuesdays are about to get bigger** — The Verge AI — `2026-07-09T17:00:00+00:00`
+  - https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates
+  - Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to "identify potential issues earlier," which means "customers will see a higher volume of security updates included in each security release." Hackers, even
+- 🔵 **OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’** — The Verge AI — `2026-07-09T17:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work
+  - About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a "limited preview" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it "the b
 - 🔵 **Anthropic’s new Claude feature is quietly selling you on AI** — TechCrunch AI — `2026-07-09T14:53:09+00:00`
   - https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/
   - Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.
@@ -616,18 +631,9 @@
 - 🔵 **Former OpenAI exec Kevin Weil is now on the board of Stoke Space** — TechCrunch AI — `2026-07-08T12:00:00+00:00`
   - https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/
   - Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.
-- 🔵 **Hot French startup ZML releases free product to speed inference across lots of AI chips** — TechCrunch AI — `2026-07-08T08:00:00+00:00`
-  - https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/
-  - ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.
-- 🔵 **AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round** — TechCrunch AI — `2026-07-08T07:16:00+00:00`
-  - https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
-  - AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.
 - 🔵 **Hackers can use 9 of the most popular AI tools to assemble massive botnets** — Ars Technica AI — `2026-07-08T07:00:51+00:00`
   - https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
   - "HalluSquatting" weaponizes LLMs' inability to say "I don't know."
-- 🔵 **Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos** — TechCrunch AI — `2026-07-07T22:18:10+00:00`
-  - https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
-  - The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.
 - 🔵 **Data centers’ energy demand threatens Trump’s “Made in America” plan** — Ars Technica AI — `2026-07-07T21:03:07+00:00`
   - https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/
   - Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.
@@ -646,12 +652,6 @@
 - 🔵 **How AI could enable autonomous robot workers in workplaces—and maybe homes** — Ars Technica AI — `2026-07-07T11:00:18+00:00`
   - https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/
   - Top robotics researchers and founders explain how robot autonomy is evolving.
-- 🔵 **Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance** — Ars Technica AI — `2026-07-06T16:44:18+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/
-  - Anthropic accused of spying on users; engineer says “experiment” is over.
-- 🔵 **I spy** — The Verge AI — `2026-07-06T16:00:00+00:00`
-  - https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy
-  - I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart g
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
