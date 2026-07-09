@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-09T21:40:00.547048+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-09T23:33:46.402287+00:00 (UTC) — cửa sổ 72h — 218 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -547,12 +547,36 @@
 
 ## Tin tức
 
+- 🔵 **Fidji Simo steps down from leading OpenAI’s AGI work due to illness** — The Verge AI — `2026-07-09T23:24:04+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor
+  - OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a "part-time advisor," she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she
+- 🔵 **OpenAI launches its new family of models with GPT-5.6** — TechCrunch AI — `2026-07-09T22:24:24+00:00`
+  - https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/
+  - OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity.
+- 🔵 **An AI agent startup just let its agent run its $100M fundraise** — TechCrunch AI — `2026-07-09T22:08:58+00:00`
+  - https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/
+  - Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.
+- 🔵 **OpenAI is shutting down Atlas, but its AI browser ambitions are still growing** — TechCrunch AI — `2026-07-09T22:03:54+00:00`
+  - https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/
+  - OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.
+- 🔵 **Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic** — TechCrunch AI — `2026-07-09T21:57:42+00:00`
+  - https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/
+  - Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.
+- 🔵 **Can AI answer the $3 trillion question?** — TechCrunch AI — `2026-07-09T21:47:50+00:00`
+  - https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/
+  - The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.
 - 🔵 **OpenAI wants its new tool to do your work for you and with you** — Ars Technica AI — `2026-07-09T21:25:55+00:00`
   - https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/
   - Rebranded Codex promises independent workflows that can run "for hours if needed."
+- 🔵 **The ChatGPT browser is already dead** — The Verge AI — `2026-07-09T20:34:05+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset
+  - OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be "sunsetting" Atlas and is target
 - 🔵 **Humanoid robots controlled by surgeons did world-first operation on live pigs** — Ars Technica AI — `2026-07-09T20:12:03+00:00`
   - https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/
   - Preclinical trial is testing the feasibility of humanoid robots in surgery.
+- 🔵 **Google will now tell you if an ad was made with AI** — The Verge AI — `2026-07-09T20:11:38+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label
+  - You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's "My Ad Center," as reported earlier by TechCrunch. The update, announced on Thursday, adds a "created or edited with AI" label under the "how this ad was made" tab. Users can
 - 🔵 **Meta enters the crowded AI coding battle with Muse Spark 1.1** — TechCrunch AI — `2026-07-09T19:40:45+00:00`
   - https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/
   - Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.
@@ -580,18 +604,36 @@
 - 🔵 **Nvidia is a victim of the compute marketplace it created** — TechCrunch AI — `2026-07-09T17:06:11+00:00`
   - https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/
   - Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.
+- 🔵 **Microsoft’s patch Tuesdays are about to get bigger** — The Verge AI — `2026-07-09T17:00:00+00:00`
+  - https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates
+  - Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to "identify potential issues earlier," which means "customers will see a higher volume of security updates included in each security release." Hackers, even
+- 🔵 **OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’** — The Verge AI — `2026-07-09T17:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work
+  - About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a "limited preview" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it "the b
 - 🔵 **Anthropic’s new Claude feature is quietly selling you on AI** — TechCrunch AI — `2026-07-09T14:53:09+00:00`
   - https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/
   - Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.
 - 🔵 **Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits** — TechCrunch AI — `2026-07-09T14:51:00+00:00`
   - https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/
   - Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.
+- 🔵 **Meta says its new AI model is ready to compete on coding** — The Verge AI — `2026-07-09T14:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api
+  - After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a "step-change" from the first generation, with improvem
+- 🔵 **Say hello to Claude Wrapped** — The Verge AI — `2026-07-09T13:30:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage
+  - The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a "reflect" feature for its Claude chatbot, allowing users to see an analysis of their usage data over 
+- 🔵 **Character.AI wants a piece of the microdrama pie** — The Verge AI — `2026-07-09T13:11:53+00:00`
+  - https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video
+  - Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional
 - 🔵 **Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
   - https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
   - Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.
 - 🔵 **Character.AI enters the microdrama arena with its own productions, but there’s a twist** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
   - https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/
   - In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.
+- 🔵 **FL Studio 2026 turns its AI chatbot into your assistant engineer** — The Verge AI — `2026-07-09T13:00:00+00:00`
+  - https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot
+  - Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gop
 - 🔵 **Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund** — TechCrunch AI — `2026-07-09T12:00:00+00:00`
   - https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/
   - Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.
@@ -607,21 +649,6 @@
 - 🔵 **Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself** — Ars Technica AI — `2026-07-08T19:56:37+00:00`
   - https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/
   - More young girls sue X over Grok CSAM; X accused of shielding child predators.
-- 🔵 **SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’** — TechCrunch AI — `2026-07-08T19:30:16+00:00`
-  - https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/
-  - Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.
-- 🔵 **This startup thinks robotics is about to have its ChatGPT moment** — TechCrunch AI — `2026-07-08T19:19:15+00:00`
-  - https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/
-  - General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
-- 🔵 **Google Photos adds a new AI ‘Video Remix’ tool** — TechCrunch AI — `2026-07-08T18:30:08+00:00`
-  - https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/
-  - The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.
-- 🔵 **Why this CEO thinks video games make better training data than the internet** — TechCrunch AI — `2026-07-08T17:47:55+00:00`
-  - https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/
-  - When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&
-- 🔵 **Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.** — TechCrunch AI — `2026-07-08T17:11:18+00:00`
-  - https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/
-  - Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.
 - 🔵 **ChatGPT’s upgraded voice mode is better at shutting up** — The Verge AI — `2026-07-08T17:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live
   - OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like "talking to another person." The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan 
@@ -634,18 +661,9 @@
 - 🔵 **Data centers’ energy demand threatens Trump’s “Made in America” plan** — Ars Technica AI — `2026-07-07T21:03:07+00:00`
   - https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/
   - Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.
-- 🔵 **Meta’s new Muse Image model can pull other Instagram users into AI photos** — The Verge AI — `2026-07-07T20:31:58+00:00`
-  - https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram
-  - Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's par
-- 🔵 **Anthropic is launching Claude Cowork on mobile and web** — The Verge AI — `2026-07-07T17:46:59+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web
-  - Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans "in the coming weeks." Claude Cowork was previously only accessible through the Claude
 - 🔵 **Facing US export controls, China's DeepSeek plans to make its own chips** — Ars Technica AI — `2026-07-07T16:14:53+00:00`
   - https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/
   - It's early, but the plan is to reduce dependency on Nvidia and Huawei.
-- 🔵 **Solos debuts an even lighter version of its camera-less smart glasses** — The Verge AI — `2026-07-07T13:00:00+00:00`
-  - https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy
-  - Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savi
 - 🔵 **How AI could enable autonomous robot workers in workplaces—and maybe homes** — Ars Technica AI — `2026-07-07T11:00:18+00:00`
   - https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/
   - Top robotics researchers and founders explain how robot autonomy is evolving.
