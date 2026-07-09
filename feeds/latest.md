@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-09T20:01:06.722804+00:00 (UTC) — cửa sổ 72h — 215 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-09T21:40:00.547048+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,6 +20,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **GPT-5.6 is now the preferred model in Microsoft 365 Copilot** — OpenAI — `2026-07-09T13:00:00+00:00`
+  - https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
+  - Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
 - 🟢 **ChatGPT is now a partner for your most ambitious work** — OpenAI — `2026-07-09T10:00:00+00:00`
   - https://openai.com/index/chatgpt-for-your-most-ambitious-work
   - ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.
@@ -29,9 +32,6 @@
 - 🟢 **GPT-5.6: Frontier intelligence that scales with your ambition** — OpenAI — `2026-07-09T10:00:00+00:00`
   - https://openai.com/index/gpt-5-6
   - More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
-- 🟢 **GPT-5.6 is now the preferred model in Microsoft 365 Copilot** — OpenAI — `2026-07-09T00:00:00+00:00`
-  - https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
-  - Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
 - 🟢 **Our approach to government and national security partnerships** — OpenAI — `2026-07-08T13:30:00+00:00`
   - https://openai.com/index/government-national-security-partnerships
   - Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.
@@ -512,6 +512,9 @@
 
 ## Phân tích
 
+- 🔵 **Anthropic found a hidden space where Claude puzzles over concepts** — MIT Tech Review — `2026-07-09T20:22:28+00:00`
+  - https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
+  - The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the 
 - 🔵 **The Download: a nuclear landmark, and China eyes Nvidia chips** — MIT Tech Review — `2026-07-09T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside ba
@@ -544,9 +547,15 @@
 
 ## Tin tức
 
+- 🔵 **OpenAI wants its new tool to do your work for you and with you** — Ars Technica AI — `2026-07-09T21:25:55+00:00`
+  - https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/
+  - Rebranded Codex promises independent workflows that can run "for hours if needed."
+- 🔵 **Humanoid robots controlled by surgeons did world-first operation on live pigs** — Ars Technica AI — `2026-07-09T20:12:03+00:00`
+  - https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/
+  - Preclinical trial is testing the feasibility of humanoid robots in surgery.
 - 🔵 **Meta enters the crowded AI coding battle with Muse Spark 1.1** — TechCrunch AI — `2026-07-09T19:40:45+00:00`
   - https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/
-  - Meta's new Muse Spark 1.1. will go up against similar products offered by Anthropic and OpenAI.
+  - Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.
 - 🔵 **New York Times says OpenAI hid evidence in ChatGPT copyright trial** — TechCrunch AI — `2026-07-09T19:05:58+00:00`
   - https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/
   - News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.
@@ -571,36 +580,18 @@
 - 🔵 **Nvidia is a victim of the compute marketplace it created** — TechCrunch AI — `2026-07-09T17:06:11+00:00`
   - https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/
   - Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.
-- 🔵 **Microsoft’s patch Tuesdays are about to get bigger** — The Verge AI — `2026-07-09T17:00:00+00:00`
-  - https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates
-  - Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to "identify potential issues earlier," which means "customers will see a higher volume of security updates included in each security release." Hackers, even
-- 🔵 **OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’** — The Verge AI — `2026-07-09T17:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work
-  - About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a "limited preview" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it "the b
 - 🔵 **Anthropic’s new Claude feature is quietly selling you on AI** — TechCrunch AI — `2026-07-09T14:53:09+00:00`
   - https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/
   - Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.
 - 🔵 **Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits** — TechCrunch AI — `2026-07-09T14:51:00+00:00`
   - https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/
   - Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.
-- 🔵 **Meta says its new AI model is ready to compete on coding** — The Verge AI — `2026-07-09T14:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api
-  - After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a "step-change" from the first generation, with improvem
-- 🔵 **Say hello to Claude Wrapped** — The Verge AI — `2026-07-09T13:30:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage
-  - The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a "reflect" feature for its Claude chatbot, allowing users to see an analysis of their usage data over 
-- 🔵 **Character.AI wants a piece of the microdrama pie** — The Verge AI — `2026-07-09T13:11:53+00:00`
-  - https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video
-  - Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional
 - 🔵 **Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
   - https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
   - Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.
 - 🔵 **Character.AI enters the microdrama arena with its own productions, but there’s a twist** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
   - https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/
   - In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.
-- 🔵 **FL Studio 2026 turns its AI chatbot into your assistant engineer** — The Verge AI — `2026-07-09T13:00:00+00:00`
-  - https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot
-  - Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gop
 - 🔵 **Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund** — TechCrunch AI — `2026-07-09T12:00:00+00:00`
   - https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/
   - Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.
