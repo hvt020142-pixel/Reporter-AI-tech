@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-09T07:50:10.317707+00:00 (UTC) — cửa sổ 72h — 211 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-09T11:21:29.907146+00:00 (UTC) — cửa sổ 72h — 211 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -505,6 +505,9 @@
 
 ## Phân tích
 
+- 🔵 **Four nuclear reactors hit a big milestone in the US** — MIT Tech Review — `2026-07-09T08:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/
+  - I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es
 - 🔵 **EmTech AI 2026: The Rise of the AI Platform** — MIT Tech Review — `2026-07-08T16:26:10+00:00`
   - https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/
 - 🔵 **The Download: worms fight pollution, and geoengineering faces reality** — MIT Tech Review — `2026-07-08T12:10:00+00:00`
@@ -534,9 +537,6 @@
 - 🔵 **The Download: South Korea’s hottest bachelors, and advancing eye transplants** — MIT Tech Review — `2026-07-06T13:00:00+00:00`
   - https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a m
-- 🔵 **South Korea’s hottest new bachelors are chip workers** — MIT Tech Review — `2026-07-06T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/
-  - Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to 
 
 ## Tin tức
 

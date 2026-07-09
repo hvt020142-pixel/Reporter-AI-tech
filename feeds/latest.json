@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T07:50:10.317707+00:00",
+  "generated_at": "2026-07-09T11:21:29.907146+00:00",
   "lookback_hours": 72,
   "item_count": 211,
   "sources_ok": [
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Four nuclear reactors hit a big milestone in the US",
+      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-09T08:00:00+00:00",
+      "published_ts": 1783584000.0,
+      "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es"
+    },
     {
       "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
       "url": "https://arxiv.org/abs/2607.06624",
@@ -2195,16 +2205,6 @@
       "published_iso": "2026-07-06T13:00:00+00:00",
       "published_ts": 1783342800.0,
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a m"
-    },
-    {
-      "title": "South Korea’s hottest new bachelors are chip workers",
-      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-06T09:00:00+00:00",
-      "published_ts": 1783328400.0,
-      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to "
     }
   ]
 }
