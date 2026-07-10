@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-10T11:16:10.066476+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-10T14:49:07.603121+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -543,6 +543,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: Claude’s inner workings and OpenAI’s “super app”** — MIT Tech Review — `2026-07-10T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on ins
 - 🔵 **Sperm donors need limits, says a European fertility group** — MIT Tech Review — `2026-07-10T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/
   - Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have
@@ -566,22 +569,22 @@
 - 🔵 **AI Models Overthink Problems—and It’s a Security Risk** — IEEE Spectrum AI — `2026-07-08T11:00:01+00:00`
   - https://spectrum.ieee.org/ai-reasoning-models-security-risk
   - Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critical vulnerability that could allow attackers to slow these systems to a crawl. Wh
-- 🔵 **What Makes AI Art Worth Collecting?** — IEEE Spectrum AI — `2026-07-07T14:00:02+00:00`
-  - https://spectrum.ieee.org/ai-art-market
-  - In May, an anonymous artist who goes by SHL0MS on X posted that he had used AI to generate an image inspired by Claude Monet and asked people to weigh in on how it missed the mark. More than 600 responses called out issues, saying the colors were off, the depth was all wrong, and that AI didn’t unde
-- 🔵 **The Download: your stake in OpenAI, and the Treasury’s AI warning** — MIT Tech Review — `2026-07-07T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report
 
 ## Tin tức
 
+- 🔵 **Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;** — The Verge AI — `2026-07-10T13:45:02+00:00`
+  - https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters
+  - Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you "shouldn't have it in your feed" if you don't like it. "I don't think we should filter out AI content," Mosseri said during an interview on Lenny Rachitsky's podcast. "I think we should let y
+- 🔵 **Would you host part of an AI data center in your home?** — The Verge AI — `2026-07-10T13:20:25+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center
+  - A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new "distributed AI compute" program that will "place numerous compute n
 - 🔵 **OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter** — TechCrunch AI — `2026-07-10T00:16:54+00:00`
   - https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/
   - OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.
 - 🔵 **Microsoft’s carbon emissions went up 25 percent last year** — The Verge AI — `2026-07-10T00:04:13+00:00`
   - https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026
   - Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons "without select interventions." Micro
-- 🔵 **Fidji Simo steps down from OpenAI’s no. 2 role** — TechCrunch AI — `2026-07-09T23:38:00+00:00`
+- 🔵 **Fidji Simo steps down from OpenAI’s No. 2 role** — TechCrunch AI — `2026-07-09T23:38:00+00:00`
   - https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/
   - OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.
 - 🔵 **Fidji Simo steps down from leading OpenAI’s AGI work due to illness** — The Verge AI — `2026-07-09T23:24:04+00:00`
@@ -659,18 +662,12 @@
 - 🔵 **Say hello to Claude Wrapped** — The Verge AI — `2026-07-09T13:30:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage
   - The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a "reflect" feature for its Claude chatbot, allowing users to see an analysis of their usage data over 
-- 🔵 **Character.AI wants a piece of the microdrama pie** — The Verge AI — `2026-07-09T13:11:53+00:00`
-  - https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video
-  - Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with on your phone. Unlike traditional m
 - 🔵 **Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
   - https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
   - Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.
 - 🔵 **Character.AI enters the microdrama arena with its own productions, but there’s a twist** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
   - https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/
   - In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.
-- 🔵 **FL Studio 2026 turns its AI chatbot into your assistant engineer** — The Verge AI — `2026-07-09T13:00:00+00:00`
-  - https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot
-  - Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gop
 - 🔵 **Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund** — TechCrunch AI — `2026-07-09T12:00:00+00:00`
   - https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/
   - Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.
