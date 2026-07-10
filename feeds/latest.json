@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T17:58:12.150860+00:00",
+  "generated_at": "2026-07-10T19:48:36.115059+00:00",
   "lookback_hours": 72,
   "item_count": 223,
   "sources_ok": [
@@ -97,6 +97,16 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-10T19:00:00+00:00",
+      "published_ts": 1783710000.0,
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st"
+    },
+    {
       "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
       "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "source": "TechCrunch AI",
@@ -115,6 +125,16 @@
       "published_iso": "2026-07-10T15:46:18+00:00",
       "published_ts": 1783698378.0,
       "summary": "Digital Services Act may force Meta to make big changes on its platforms."
+    },
+    {
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-10T14:00:00+00:00",
+      "published_ts": 1783692000.0,
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st"
     },
     {
       "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
@@ -1775,26 +1795,6 @@
       "published_iso": "2026-07-09T13:00:00+00:00",
       "published_ts": 1783602000.0,
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
-    },
-    {
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-09T13:00:00+00:00",
-      "published_ts": 1783602000.0,
-      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs."
-    },
-    {
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-09T13:00:00+00:00",
-      "published_ts": 1783602000.0,
-      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines."
     },
     {
       "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",

@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-10T17:58:12.150860+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-10T19:48:36.115059+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -567,12 +567,18 @@
 
 ## Tin tức
 
+- 🔵 **Open source AI matters more than ever, according to Hugging Face’s Clem Delangue** — TechCrunch AI — `2026-07-10T19:00:00+00:00`
+  - https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/
+  - Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st
 - 🔵 **SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs** — TechCrunch AI — `2026-07-10T17:17:12+00:00`
   - https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
   - The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.
 - 🔵 **Disable autoplay and infinite scroll or risk massive fines, EU tells Meta** — Ars Technica AI — `2026-07-10T15:46:18+00:00`
   - https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/
   - Digital Services Act may force Meta to make big changes on its platforms.
+- 🔵 **Hugging Face’s CEO on why companies are done renting their AI** — TechCrunch AI — `2026-07-10T14:00:00+00:00`
+  - https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/
+  - Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st
 - 🔵 **Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;** — The Verge AI — `2026-07-10T13:45:02+00:00`
   - https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters
   - Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you "shouldn't have it in your feed" if you don't like it. "I don't think we should filter out AI content," Mosseri said during an interview on Lenny Rachitsky's podcast. "I think we should let y
@@ -663,12 +669,6 @@
 - 🔵 **Say hello to Claude Wrapped** — The Verge AI — `2026-07-09T13:30:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage
   - The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a "reflect" feature for its Claude chatbot, allowing users to see an analysis of their usage data over 
-- 🔵 **Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
-  - https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
-  - Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.
-- 🔵 **Character.AI enters the microdrama arena with its own productions, but there’s a twist** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
-  - https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/
-  - In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.
 - 🔵 **Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%** — Ars Technica AI — `2026-07-08T21:42:44+00:00`
   - https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/
   - AI cheating leads to "a failed society," professor says.
