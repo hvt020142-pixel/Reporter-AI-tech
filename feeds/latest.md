@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-10T07:49:03.795563+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-10T11:16:10.066476+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -17,18 +17,21 @@
 
 ## Mô hình & LLM
 
+- 🟢 **How Deutsche Telekom is rewiring telecommunications with AI** — OpenAI — `2026-07-10T07:00:00+00:00`
+  - https://openai.com/index/deutsche-telekom
+  - How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.
 - 🟢 **GPT-5.6 is now the preferred model in Microsoft 365 Copilot** — OpenAI — `2026-07-09T13:00:00+00:00`
   - https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
   - Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
+- 🟢 **GPT-5.6: Frontier intelligence that scales with your ambition** — OpenAI — `2026-07-09T10:00:00+00:00`
+  - https://openai.com/index/gpt-5-6
+  - More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
 - 🟢 **ChatGPT is now a partner for your most ambitious work** — OpenAI — `2026-07-09T10:00:00+00:00`
   - https://openai.com/index/chatgpt-for-your-most-ambitious-work
   - ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.
 - 🟢 **GPT-5.5 Bio Bug Bounty** — OpenAI — `2026-07-09T10:00:00+00:00`
   - https://openai.com/index/bio-bug-bounty
   - Details about the OpenAI Bio Bounty program
-- 🟢 **GPT-5.6: Frontier intelligence that scales with your ambition** — OpenAI — `2026-07-09T10:00:00+00:00`
-  - https://openai.com/index/gpt-5-6
-  - More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
 - 🟢 **Our approach to government and national security partnerships** — OpenAI — `2026-07-08T13:30:00+00:00`
   - https://openai.com/index/government-national-security-partnerships
   - Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.
@@ -41,12 +44,11 @@
 - 🟢 **Introducing GPT-Live** — OpenAI — `2026-07-08T00:00:00+00:00`
   - https://openai.com/index/introducing-gpt-live
   - A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
-- 🟢 **Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more** — Google (Keyword AI) — `2026-07-07T08:54:00+00:00`
-  - https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
-  - We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.
 
 ## Mô hình mở
 
+- 🟢 **Profiling in PyTorch (Part 3): Attention is all you profile** — Hugging Face — `2026-07-10T00:00:00+00:00`
+  - https://huggingface.co/blog/torch-attention-profile
 - 🟢 **Data for Agents** — Hugging Face — `2026-07-08T17:16:05+00:00`
   - https://huggingface.co/blog/nvidia/open-data-for-agents
 - 🟢 **Native-speed vLLM transformers modeling backend** — Hugging Face — `2026-07-08T00:00:00+00:00`
@@ -541,6 +543,9 @@
 
 ## Phân tích
 
+- 🔵 **Sperm donors need limits, says a European fertility group** — MIT Tech Review — `2026-07-10T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/
+  - Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have
 - 🔵 **Anthropic found a hidden space where Claude puzzles over concepts** — MIT Tech Review — `2026-07-09T20:22:28+00:00`
   - https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
   - The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the 
@@ -567,12 +572,6 @@
 - 🔵 **The Download: your stake in OpenAI, and the Treasury’s AI warning** — MIT Tech Review — `2026-07-07T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report
-- 🔵 **The foundational elements of AI architecture that IT leaders need to scale** — MIT Tech Review — `2026-07-07T11:10:52+00:00`
-  - https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/
-  - With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur
-- 🔵 **Why worms (and microbes) are catching on as a manure pollution solution** — MIT Tech Review — `2026-07-07T10:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/
-  - Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi
 
 ## Tin tức
 
@@ -662,7 +661,7 @@
   - The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a "reflect" feature for its Claude chatbot, allowing users to see an analysis of their usage data over 
 - 🔵 **Character.AI wants a piece of the microdrama pie** — The Verge AI — `2026-07-09T13:11:53+00:00`
   - https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video
-  - Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional
+  - Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with on your phone. Unlike traditional m
 - 🔵 **Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
   - https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
   - Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.
@@ -693,9 +692,6 @@
 - 🔵 **Facing US export controls, China's DeepSeek plans to make its own chips** — Ars Technica AI — `2026-07-07T16:14:53+00:00`
   - https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/
   - It's early, but the plan is to reduce dependency on Nvidia and Huawei.
-- 🔵 **How AI could enable autonomous robot workers in workplaces—and maybe homes** — Ars Technica AI — `2026-07-07T11:00:18+00:00`
-  - https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/
-  - Top robotics researchers and founders explain how robot autonomy is evolving.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
