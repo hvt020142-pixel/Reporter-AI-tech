@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-10T14:49:07.603121+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-10T17:58:12.150860+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -11,9 +11,6 @@
 - 🟢 **NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness** — NVIDIA — `2026-07-08T15:00:27+00:00`
   - https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/
   - NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completi
-- 🟢 **AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters** — NVIDIA — `2026-07-07T15:00:52+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/
-  - Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the too
 
 ## Mô hình & LLM
 
@@ -55,8 +52,6 @@
   - https://huggingface.co/blog/native-speed-vllm-transformers-backend
 - 🟢 **From Hugging Face to Amazon SageMaker Studio in one click** — Hugging Face — `2026-07-07T21:15:33+00:00`
   - https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
-- 🟢 **Hugging Face Models on Foundry Managed Compute** — Hugging Face — `2026-07-07T15:20:06+00:00`
-  - https://huggingface.co/blog/microsoft/foundry-managed-compute
 
 ## Nghiên cứu
 
@@ -572,6 +567,12 @@
 
 ## Tin tức
 
+- 🔵 **SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs** — TechCrunch AI — `2026-07-10T17:17:12+00:00`
+  - https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
+  - The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.
+- 🔵 **Disable autoplay and infinite scroll or risk massive fines, EU tells Meta** — Ars Technica AI — `2026-07-10T15:46:18+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/
+  - Digital Services Act may force Meta to make big changes on its platforms.
 - 🔵 **Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;** — The Verge AI — `2026-07-10T13:45:02+00:00`
   - https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters
   - Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you "shouldn't have it in your feed" if you don't like it. "I don't think we should filter out AI content," Mosseri said during an interview on Lenny Rachitsky's podcast. "I think we should let y
@@ -668,9 +669,6 @@
 - 🔵 **Character.AI enters the microdrama arena with its own productions, but there’s a twist** — TechCrunch AI — `2026-07-09T13:00:00+00:00`
   - https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/
   - In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.
-- 🔵 **Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund** — TechCrunch AI — `2026-07-09T12:00:00+00:00`
-  - https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/
-  - Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.
 - 🔵 **Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%** — Ars Technica AI — `2026-07-08T21:42:44+00:00`
   - https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/
   - AI cheating leads to "a failed society," professor says.
@@ -686,9 +684,6 @@
 - 🔵 **Data centers’ energy demand threatens Trump’s “Made in America” plan** — Ars Technica AI — `2026-07-07T21:03:07+00:00`
   - https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/
   - Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.
-- 🔵 **Facing US export controls, China's DeepSeek plans to make its own chips** — Ars Technica AI — `2026-07-07T16:14:53+00:00`
-  - https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/
-  - It's early, but the plan is to reduce dependency on Nvidia and Huawei.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
