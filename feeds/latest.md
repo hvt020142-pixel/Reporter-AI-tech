@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-10T21:17:29.951981+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-10T23:11:22.051696+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -565,6 +565,9 @@
 
 ## Tin tức
 
+- 🔵 **Apple sues OpenAI for allegedly stealing hardware secrets** — The Verge AI — `2026-07-10T21:36:51+00:00`
+  - https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
+  - Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered "a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple." In addition to OpenAI, the lawsuit also names IO Prod
 - 🔵 **Apple sues OpenAI over alleged trade secret theft** — TechCrunch AI — `2026-07-10T21:00:29+00:00`
   - https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/
   - Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.
@@ -664,9 +667,6 @@
 - 🔵 **Meta says its new AI model is ready to compete on coding** — The Verge AI — `2026-07-09T14:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api
   - After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a "step-change" from the first generation, with improvem
-- 🔵 **Say hello to Claude Wrapped** — The Verge AI — `2026-07-09T13:30:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage
-  - The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a "reflect" feature for its Claude chatbot, allowing users to see an analysis of their usage data over 
 - 🔵 **Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%** — Ars Technica AI — `2026-07-08T21:42:44+00:00`
   - https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/
   - AI cheating leads to "a failed society," professor says.
