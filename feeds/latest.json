@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T19:48:36.115059+00:00",
+  "generated_at": "2026-07-10T21:17:29.951981+00:00",
   "lookback_hours": 72,
-  "item_count": 223,
+  "item_count": 221,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 823
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 9,
+      "items_kept": 8,
       "items_total": 20
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-10T21:00:29+00:00",
+      "published_ts": 1783717229.0,
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee."
+    },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
       "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
@@ -1747,16 +1757,6 @@
       "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot."
     },
     {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-09T14:51:00+00:00",
-      "published_ts": 1783608660.0,
-      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000."
-    },
-    {
       "title": "Meta says its new AI model is ready to compete on coding",
       "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
       "source": "The Verge AI",
@@ -2305,26 +2305,6 @@
       "published_iso": "2026-07-08T00:00:00+00:00",
       "published_ts": 1783468800.0,
       "summary": ""
-    },
-    {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-07T21:15:33+00:00",
-      "published_ts": 1783458933.0,
-      "summary": ""
-    },
-    {
-      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
-      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-07T21:03:07+00:00",
-      "published_ts": 1783458187.0,
-      "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan."
     }
   ]
 }

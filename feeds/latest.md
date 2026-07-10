@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-10T19:48:36.115059+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-10T21:17:29.951981+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -50,8 +50,6 @@
   - https://huggingface.co/blog/nvidia/open-data-for-agents
 - 🟢 **Native-speed vLLM transformers modeling backend** — Hugging Face — `2026-07-08T00:00:00+00:00`
   - https://huggingface.co/blog/native-speed-vllm-transformers-backend
-- 🟢 **From Hugging Face to Amazon SageMaker Studio in one click** — Hugging Face — `2026-07-07T21:15:33+00:00`
-  - https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 
 ## Nghiên cứu
 
@@ -567,6 +565,9 @@
 
 ## Tin tức
 
+- 🔵 **Apple sues OpenAI over alleged trade secret theft** — TechCrunch AI — `2026-07-10T21:00:29+00:00`
+  - https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/
+  - Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.
 - 🔵 **Open source AI matters more than ever, according to Hugging Face’s Clem Delangue** — TechCrunch AI — `2026-07-10T19:00:00+00:00`
   - https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/
   - Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st
@@ -660,9 +661,6 @@
 - 🔵 **Anthropic’s new Claude feature is quietly selling you on AI** — TechCrunch AI — `2026-07-09T14:53:09+00:00`
   - https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/
   - Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.
-- 🔵 **Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits** — TechCrunch AI — `2026-07-09T14:51:00+00:00`
-  - https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/
-  - Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.
 - 🔵 **Meta says its new AI model is ready to compete on coding** — The Verge AI — `2026-07-09T14:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api
   - After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a "step-change" from the first generation, with improvem
@@ -681,9 +679,6 @@
 - 🔵 **Hackers can use 9 of the most popular AI tools to assemble massive botnets** — Ars Technica AI — `2026-07-08T07:00:51+00:00`
   - https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
   - "HalluSquatting" weaponizes LLMs' inability to say "I don't know."
-- 🔵 **Data centers’ energy demand threatens Trump’s “Made in America” plan** — Ars Technica AI — `2026-07-07T21:03:07+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/
-  - Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
