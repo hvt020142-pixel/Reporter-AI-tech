@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T04:09:41.662048+00:00",
+  "generated_at": "2026-07-10T07:49:03.795563+00:00",
   "lookback_hours": 72,
-  "item_count": 228,
+  "item_count": 227,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 18
     },
     {
@@ -2365,16 +2365,6 @@
       "published_iso": "2026-07-07T08:54:00+00:00",
       "published_ts": 1783414440.0,
       "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
-    },
-    {
-      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-07-07T06:00:26+00:00",
-      "published_ts": 1783404026.0,
-      "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, co"
     }
   ]
 }

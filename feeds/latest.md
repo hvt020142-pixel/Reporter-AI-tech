@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-10T04:09:41.662048+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-10T07:49:03.795563+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,9 +14,6 @@
 - 🟢 **AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters** — NVIDIA — `2026-07-07T15:00:52+00:00`
   - https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/
   - Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the too
-- 🟢 **NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community** — NVIDIA — `2026-07-07T06:00:26+00:00`
-  - https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
-  - Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, co
 
 ## Mô hình & LLM
 
