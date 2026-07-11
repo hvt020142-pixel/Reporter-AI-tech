@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-11T13:48:58.517528+00:00 (UTC) — cửa sổ 72h — 93 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-11T15:11:36.093261+00:00 (UTC) — cửa sổ 72h — 92 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -8,9 +8,6 @@
 - 🟢 **GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server** — NVIDIA — `2026-07-09T13:00:55+00:00`
   - https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/
   - This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also get
-- 🟢 **NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness** — NVIDIA — `2026-07-08T15:00:27+00:00`
-  - https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/
-  - NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completi
 
 ## Mô hình & LLM
 
