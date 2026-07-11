@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-11T21:01:57.541488+00:00",
+  "generated_at": "2026-07-11T23:06:10.490474+00:00",
   "lookback_hours": 72,
-  "item_count": 88,
+  "item_count": 87,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 5,
+      "items_kept": 4,
       "items_total": 20
     },
     {
@@ -965,16 +965,6 @@
       "published_iso": "2026-07-09T08:00:00+00:00",
       "published_ts": 1783584000.0,
       "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es"
-    },
-    {
-      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-08T21:42:44+00:00",
-      "published_ts": 1783546964.0,
-      "summary": "AI cheating leads to \"a failed society,\" professor says."
     }
   ]
 }
