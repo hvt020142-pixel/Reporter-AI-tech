@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-11T06:23:40.813517+00:00 (UTC) — cửa sổ 72h — 99 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-11T09:45:43.251529+00:00 (UTC) — cửa sổ 72h — 98 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -311,9 +311,6 @@
 - 🔵 **Google updates Android Bench with new LLMs, but Gemini still lags behind** — Ars Technica AI — `2026-07-08T16:39:48+00:00`
   - https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/
   - Android Bench is evolving, and developers can help guide that process.
-- 🔵 **Hackers can use 9 of the most popular AI tools to assemble massive botnets** — Ars Technica AI — `2026-07-08T07:00:51+00:00`
-  - https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
-  - "HalluSquatting" weaponizes LLMs' inability to say "I don't know."
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
