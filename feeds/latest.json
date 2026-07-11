@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-10T23:11:22.051696+00:00",
+  "generated_at": "2026-07-11T03:37:08.557852+00:00",
   "lookback_hours": 72,
-  "item_count": 221,
+  "item_count": 219,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 9,
+      "items_kept": 8,
       "items_total": 1040
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 823
     },
     {
@@ -97,6 +97,26 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-10T23:55:07+00:00",
+      "published_ts": 1783727707.0,
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
+    },
+    {
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-10T23:49:50+00:00",
+      "published_ts": 1783727390.0,
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI c"
+    },
+    {
       "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
       "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
       "source": "The Verge AI",
@@ -114,7 +134,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-10T21:00:29+00:00",
       "published_ts": 1783717229.0,
-      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee."
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
     },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
@@ -1757,26 +1777,6 @@
       "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the b"
     },
     {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-09T14:53:09+00:00",
-      "published_ts": 1783608789.0,
-      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot."
-    },
-    {
-      "title": "Meta says its new AI model is ready to compete on coding",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-09T14:00:00+00:00",
-      "published_ts": 1783605600.0,
-      "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvem"
-    },
-    {
       "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
       "source": "NVIDIA",
@@ -2285,26 +2285,6 @@
       "published_iso": "2026-07-08T07:00:51+00:00",
       "published_ts": 1783494051.0,
       "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\""
-    },
-    {
-      "title": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-08T00:00:00+00:00",
-      "published_ts": 1783468800.0,
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
-    },
-    {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-08T00:00:00+00:00",
-      "published_ts": 1783468800.0,
-      "summary": ""
     }
   ]
 }

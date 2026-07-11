@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-10T23:11:22.051696+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-11T03:37:08.557852+00:00 (UTC) — cửa sổ 72h — 219 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -38,9 +38,6 @@
 - 🟢 **Helping K–12 educators build practical AI skills** — OpenAI — `2026-07-08T10:00:00+00:00`
   - https://openai.com/index/k-12-educators-practical-skills
   - OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.
-- 🟢 **Introducing GPT-Live** — OpenAI — `2026-07-08T00:00:00+00:00`
-  - https://openai.com/index/introducing-gpt-live
-  - A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
 
 ## Mô hình mở
 
@@ -48,8 +45,6 @@
   - https://huggingface.co/blog/torch-attention-profile
 - 🟢 **Data for Agents** — Hugging Face — `2026-07-08T17:16:05+00:00`
   - https://huggingface.co/blog/nvidia/open-data-for-agents
-- 🟢 **Native-speed vLLM transformers modeling backend** — Hugging Face — `2026-07-08T00:00:00+00:00`
-  - https://huggingface.co/blog/native-speed-vllm-transformers-backend
 
 ## Nghiên cứu
 
@@ -565,12 +560,18 @@
 
 ## Tin tức
 
+- 🔵 **Meta removes controversial AI feature on Instagram after backlash** — TechCrunch AI — `2026-07-10T23:55:07+00:00`
+  - https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
+  - "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the feedback that this feature missed the mark, so it's no longer available."
+- 🔵 **Meta turns off the Instagram feature that let users make AI deepfakes of public accounts** — The Verge AI — `2026-07-10T23:49:50+00:00`
+  - https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes
+  - Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI c
 - 🔵 **Apple sues OpenAI for allegedly stealing hardware secrets** — The Verge AI — `2026-07-10T21:36:51+00:00`
   - https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
   - Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered "a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple." In addition to OpenAI, the lawsuit also names IO Prod
 - 🔵 **Apple sues OpenAI over alleged trade secret theft** — TechCrunch AI — `2026-07-10T21:00:29+00:00`
   - https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/
-  - Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.
+  - Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
 - 🔵 **Open source AI matters more than ever, according to Hugging Face’s Clem Delangue** — TechCrunch AI — `2026-07-10T19:00:00+00:00`
   - https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/
   - Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st
@@ -661,12 +662,6 @@
 - 🔵 **OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’** — The Verge AI — `2026-07-09T17:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work
   - About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a "limited preview" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it "the b
-- 🔵 **Anthropic’s new Claude feature is quietly selling you on AI** — TechCrunch AI — `2026-07-09T14:53:09+00:00`
-  - https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/
-  - Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.
-- 🔵 **Meta says its new AI model is ready to compete on coding** — The Verge AI — `2026-07-09T14:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api
-  - After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a "step-change" from the first generation, with improvem
 - 🔵 **Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%** — Ars Technica AI — `2026-07-08T21:42:44+00:00`
   - https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/
   - AI cheating leads to "a failed society," professor says.
