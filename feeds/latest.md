@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-11T09:45:43.251529+00:00 (UTC) — cửa sổ 72h — 98 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-11T11:17:06.012191+00:00 (UTC) — cửa sổ 72h — 96 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -35,9 +35,6 @@
 - 🟢 **Separating signal from noise in coding evaluations** — OpenAI — `2026-07-08T13:00:00+00:00`
   - https://openai.com/index/separating-signal-from-noise-coding-evaluations
   - A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.
-- 🟢 **Helping K–12 educators build practical AI skills** — OpenAI — `2026-07-08T10:00:00+00:00`
-  - https://openai.com/index/k-12-educators-practical-skills
-  - OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.
 
 ## Mô hình mở
 
@@ -194,9 +191,6 @@
 - 🔵 **The Download: worms fight pollution, and geoengineering faces reality** — MIT Tech Review — `2026-07-08T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu
-- 🔵 **AI Models Overthink Problems—and It’s a Security Risk** — IEEE Spectrum AI — `2026-07-08T11:00:01+00:00`
-  - https://spectrum.ieee.org/ai-reasoning-models-security-risk
-  - Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critical vulnerability that could allow attackers to slow these systems to a crawl. Wh
 
 ## Tin tức
 
