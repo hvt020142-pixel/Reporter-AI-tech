@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-11T17:12:06.665370+00:00 (UTC) — cửa sổ 72h — 90 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-11T19:22:30.728949+00:00 (UTC) — cửa sổ 72h — 89 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -31,8 +31,6 @@
 
 - 🟢 **Profiling in PyTorch (Part 3): Attention is all you profile** — Hugging Face — `2026-07-10T00:00:00+00:00`
   - https://huggingface.co/blog/torch-attention-profile
-- 🟢 **Data for Agents** — Hugging Face — `2026-07-08T17:16:05+00:00`
-  - https://huggingface.co/blog/nvidia/open-data-for-agents
 
 ## Nghiên cứu
 

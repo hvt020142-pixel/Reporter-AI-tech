@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-11T17:12:06.665370+00:00",
+  "generated_at": "2026-07-11T19:22:30.728949+00:00",
   "lookback_hours": 72,
-  "item_count": 90,
+  "item_count": 89,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 823
     },
     {
@@ -985,16 +985,6 @@
       "published_iso": "2026-07-08T19:56:37+00:00",
       "published_ts": 1783540597.0,
       "summary": "More young girls sue X over Grok CSAM; X accused of shielding child predators."
-    },
-    {
-      "title": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-08T17:16:05+00:00",
-      "published_ts": 1783530965.0,
-      "summary": ""
     }
   ]
 }
