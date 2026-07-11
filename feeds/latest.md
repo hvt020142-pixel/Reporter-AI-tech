@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-11T11:17:06.012191+00:00 (UTC) — cửa sổ 72h — 96 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-11T13:48:58.517528+00:00 (UTC) — cửa sổ 72h — 93 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -29,12 +29,6 @@
 - 🟢 **GPT-5.5 Bio Bug Bounty** — OpenAI — `2026-07-09T10:00:00+00:00`
   - https://openai.com/index/bio-bug-bounty
   - Details about the OpenAI Bio Bounty program
-- 🟢 **Our approach to government and national security partnerships** — OpenAI — `2026-07-08T13:30:00+00:00`
-  - https://openai.com/index/government-national-security-partnerships
-  - Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.
-- 🟢 **Separating signal from noise in coding evaluations** — OpenAI — `2026-07-08T13:00:00+00:00`
-  - https://openai.com/index/separating-signal-from-noise-coding-evaluations
-  - A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.
 
 ## Mô hình mở
 
@@ -188,9 +182,6 @@
   - I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es
 - 🔵 **EmTech AI 2026: The Rise of the AI Platform** — MIT Tech Review — `2026-07-08T16:26:10+00:00`
   - https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/
-- 🔵 **The Download: worms fight pollution, and geoengineering faces reality** — MIT Tech Review — `2026-07-08T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu
 
 ## Tin tức
 
