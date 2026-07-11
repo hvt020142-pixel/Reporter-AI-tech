@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-11T15:11:36.093261+00:00 (UTC) — cửa sổ 72h — 92 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-11T17:12:06.665370+00:00 (UTC) — cửa sổ 72h — 90 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -177,11 +177,12 @@
 - 🔵 **Four nuclear reactors hit a big milestone in the US** — MIT Tech Review — `2026-07-09T08:00:00+00:00`
   - https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/
   - I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es
-- 🔵 **EmTech AI 2026: The Rise of the AI Platform** — MIT Tech Review — `2026-07-08T16:26:10+00:00`
-  - https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/
 
 ## Tin tức
 
+- 🔵 **OpenAI bets on families as ChatGPT goes deeper into households** — TechCrunch AI — `2026-07-11T14:13:00+00:00`
+  - https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/
+  - ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
 - 🔵 **Meta removes controversial AI feature on Instagram after backlash** — TechCrunch AI — `2026-07-10T23:55:07+00:00`
   - https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
   - "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the feedback that this feature missed the mark, so it's no longer available."
@@ -275,9 +276,6 @@
 - 🔵 **Meta’s new AI chips will begin production in September** — TechCrunch AI — `2026-07-09T17:17:37+00:00`
   - https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/
   - The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.
-- 🔵 **Nvidia is a victim of the compute marketplace it created** — TechCrunch AI — `2026-07-09T17:06:11+00:00`
-  - https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/
-  - Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.
 - 🔵 **Microsoft’s patch Tuesdays are about to get bigger** — The Verge AI — `2026-07-09T17:00:00+00:00`
   - https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates
   - Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to "identify potential issues earlier," which means "customers will see a higher volume of security updates included in each security release." Hackers, even
@@ -290,9 +288,6 @@
 - 🔵 **Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself** — Ars Technica AI — `2026-07-08T19:56:37+00:00`
   - https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/
   - More young girls sue X over Grok CSAM; X accused of shielding child predators.
-- 🔵 **Google updates Android Bench with new LLMs, but Gemini still lags behind** — Ars Technica AI — `2026-07-08T16:39:48+00:00`
-  - https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/
-  - Android Bench is evolving, and developers can help guide that process.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

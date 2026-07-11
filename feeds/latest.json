@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-11T15:11:36.093261+00:00",
+  "generated_at": "2026-07-11T17:12:06.665370+00:00",
   "lookback_hours": 72,
-  "item_count": 92,
+  "item_count": 90,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,13 +78,13 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 7,
+      "items_kept": 6,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 6,
+      "items_kept": 5,
       "items_total": 10
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-11T14:13:00+00:00",
+      "published_ts": 1783779180.0,
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
+    },
     {
       "title": "Context Graphs for Proactive Enterprise Agents",
       "url": "https://arxiv.org/abs/2607.07721",
@@ -857,16 +867,6 @@
       "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production."
     },
     {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-09T17:06:11+00:00",
-      "published_ts": 1783616771.0,
-      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines."
-    },
-    {
       "title": "Microsoft’s patch Tuesdays are about to get bigger",
       "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
       "source": "The Verge AI",
@@ -994,26 +994,6 @@
       "tier": "primary",
       "published_iso": "2026-07-08T17:16:05+00:00",
       "published_ts": 1783530965.0,
-      "summary": ""
-    },
-    {
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-08T16:39:48+00:00",
-      "published_ts": 1783528788.0,
-      "summary": "Android Bench is evolving, and developers can help guide that process."
-    },
-    {
-      "title": "EmTech AI 2026: The Rise of the AI Platform",
-      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-08T16:26:10+00:00",
-      "published_ts": 1783527970.0,
       "summary": ""
     }
   ]
