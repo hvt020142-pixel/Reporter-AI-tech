@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-11T19:22:30.728949+00:00",
+  "generated_at": "2026-07-11T21:01:57.541488+00:00",
   "lookback_hours": 72,
-  "item_count": 89,
+  "item_count": 88,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 6,
+      "items_kept": 5,
       "items_total": 20
     },
     {
@@ -975,16 +975,6 @@
       "published_iso": "2026-07-08T21:42:44+00:00",
       "published_ts": 1783546964.0,
       "summary": "AI cheating leads to \"a failed society,\" professor says."
-    },
-    {
-      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-08T19:56:37+00:00",
-      "published_ts": 1783540597.0,
-      "summary": "More young girls sue X over Grok CSAM; X accused of shielding child predators."
     }
   ]
 }

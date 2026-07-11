@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-11T19:22:30.728949+00:00 (UTC) — cửa sổ 72h — 89 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-11T21:01:57.541488+00:00 (UTC) — cửa sổ 72h — 88 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -283,9 +283,6 @@
 - 🔵 **Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%** — Ars Technica AI — `2026-07-08T21:42:44+00:00`
   - https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/
   - AI cheating leads to "a failed society," professor says.
-- 🔵 **Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself** — Ars Technica AI — `2026-07-08T19:56:37+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/
-  - More young girls sue X over Grok CSAM; X accused of shielding child predators.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
