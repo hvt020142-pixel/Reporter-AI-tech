@@ -1,22 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-12T11:22:28.888268+00:00 (UTC) — cửa sổ 72h — 43 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-12T13:51:25.490486+00:00 (UTC) — cửa sổ 72h — 39 mục — nguồn sơ cấp/uy tín.*
 
-
-## Hạ tầng & phần cứng
-
-- 🟢 **GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server** — NVIDIA — `2026-07-09T13:00:55+00:00`
-  - https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/
-  - This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also get
 
 ## Mô hình & LLM
 
 - 🟢 **How Deutsche Telekom is rewiring telecommunications with AI** — OpenAI — `2026-07-10T07:00:00+00:00`
   - https://openai.com/index/deutsche-telekom
   - How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.
-- 🟢 **GPT-5.6 is now the preferred model in Microsoft 365 Copilot** — OpenAI — `2026-07-09T13:00:00+00:00`
-  - https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
-  - Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
 
 ## Mô hình mở
 
@@ -34,15 +25,12 @@
 - 🔵 **Anthropic found a hidden space where Claude puzzles over concepts** — MIT Tech Review — `2026-07-09T20:22:28+00:00`
   - https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
   - The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the 
-- 🔵 **The Download: a nuclear landmark, and China eyes Nvidia chips** — MIT Tech Review — `2026-07-09T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside ba
-- 🔵 **Large Tabular Models Excel Where LLMs Fail** — IEEE Spectrum AI — `2026-07-09T12:00:01+00:00`
-  - https://spectrum.ieee.org/large-tabular-models-nexus
-  - The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, ironically, looks at face value to be right in their wheelhouse: analyzing structur
 
 ## Tin tức
 
+- 🔵 **The fight against AI data centers is just beginning** — The Verge AI — `2026-07-12T12:00:00+00:00`
+  - https://www.theverge.com/column/963346/ai-data-centers-fight
+  - This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threate
 - 🔵 **OpenAI bets on families as ChatGPT goes deeper into households** — TechCrunch AI — `2026-07-11T14:13:00+00:00`
   - https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/
   - ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
@@ -142,9 +130,6 @@
 - 🔵 **Microsoft’s patch Tuesdays are about to get bigger** — The Verge AI — `2026-07-09T17:00:00+00:00`
   - https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates
   - Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to "identify potential issues earlier," which means "customers will see a higher volume of security updates included in each security release." Hackers, even
-- 🔵 **OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’** — The Verge AI — `2026-07-09T17:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work
-  - About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a "limited preview" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it "the b
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

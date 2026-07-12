@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-12T11:22:28.888268+00:00",
+  "generated_at": "2026-07-12T13:51:25.490486+00:00",
   "lookback_hours": 72,
-  "item_count": 43,
+  "item_count": 39,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 1040
     },
     {
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 18
     },
     {
@@ -84,18 +84,28 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "The fight against AI data centers is just beginning",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-12T12:00:00+00:00",
+      "published_ts": 1783857600.0,
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threate"
+    },
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -475,56 +485,6 @@
       "published_iso": "2026-07-09T17:00:00+00:00",
       "published_ts": 1783616400.0,
       "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even"
-    },
-    {
-      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-09T17:00:00+00:00",
-      "published_ts": 1783616400.0,
-      "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the b"
-    },
-    {
-      "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-07-09T13:00:55+00:00",
-      "published_ts": 1783602055.0,
-      "summary": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also get"
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-09T13:00:00+00:00",
-      "published_ts": 1783602000.0,
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
-    },
-    {
-      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-09T12:10:00+00:00",
-      "published_ts": 1783599000.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside ba"
-    },
-    {
-      "title": "Large Tabular Models Excel Where LLMs Fail",
-      "url": "https://spectrum.ieee.org/large-tabular-models-nexus",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-09T12:00:01+00:00",
-      "published_ts": 1783598401.0,
-      "summary": "The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, ironically, looks at face value to be right in their wheelhouse: analyzing structur"
     }
   ]
 }
