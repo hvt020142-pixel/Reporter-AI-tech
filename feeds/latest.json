@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T15:11:54.400156+00:00",
+  "generated_at": "2026-07-12T17:13:35.743950+00:00",
   "lookback_hours": 72,
   "item_count": 39,
   "sources_ok": [
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-12T16:27:06+00:00",
+      "published_ts": 1783873626.0,
+      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor"
+    },
     {
       "title": "The fight against AI data centers is just beginning",
       "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
@@ -475,16 +485,6 @@
       "published_iso": "2026-07-09T17:17:37+00:00",
       "published_ts": 1783617457.0,
       "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production."
-    },
-    {
-      "title": "Microsoft’s patch Tuesdays are about to get bigger",
-      "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-09T17:00:00+00:00",
-      "published_ts": 1783616400.0,
-      "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even"
     }
   ]
 }

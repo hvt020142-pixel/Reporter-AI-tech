@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-12T15:11:54.400156+00:00 (UTC) — cửa sổ 72h — 39 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-12T17:13:35.743950+00:00 (UTC) — cửa sổ 72h — 39 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -28,6 +28,9 @@
 
 ## Tin tức
 
+- 🔵 **Apple’s failed self-driving car program left a legacy of powerful AI chips** — The Verge AI — `2026-07-12T16:27:06+00:00`
+  - https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
+  - Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor
 - 🔵 **The fight against AI data centers is just beginning** — The Verge AI — `2026-07-12T12:00:00+00:00`
   - https://www.theverge.com/column/963346/ai-data-centers-fight
   - This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threate
@@ -127,9 +130,6 @@
 - 🔵 **Meta’s new AI chips will begin production in September** — TechCrunch AI — `2026-07-09T17:17:37+00:00`
   - https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/
   - The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.
-- 🔵 **Microsoft’s patch Tuesdays are about to get bigger** — The Verge AI — `2026-07-09T17:00:00+00:00`
-  - https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates
-  - Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to "identify potential issues earlier," which means "customers will see a higher volume of security updates included in each security release." Hackers, even
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
