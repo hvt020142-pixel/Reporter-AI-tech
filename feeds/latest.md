@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-12T06:44:14.318615+00:00 (UTC) — cửa sổ 72h — 47 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-12T10:00:02.791007+00:00 (UTC) — cửa sổ 72h — 43 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -17,15 +17,6 @@
 - 🟢 **GPT-5.6 is now the preferred model in Microsoft 365 Copilot** — OpenAI — `2026-07-09T13:00:00+00:00`
   - https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
   - Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.
-- 🟢 **GPT-5.6: Frontier intelligence that scales with your ambition** — OpenAI — `2026-07-09T10:00:00+00:00`
-  - https://openai.com/index/gpt-5-6
-  - More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
-- 🟢 **ChatGPT is now a partner for your most ambitious work** — OpenAI — `2026-07-09T10:00:00+00:00`
-  - https://openai.com/index/chatgpt-for-your-most-ambitious-work
-  - ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.
-- 🟢 **GPT-5.5 Bio Bug Bounty** — OpenAI — `2026-07-09T10:00:00+00:00`
-  - https://openai.com/index/bio-bug-bounty
-  - Details about the OpenAI Bio Bounty program
 
 ## Mô hình mở
 
@@ -49,9 +40,6 @@
 - 🔵 **Large Tabular Models Excel Where LLMs Fail** — IEEE Spectrum AI — `2026-07-09T12:00:01+00:00`
   - https://spectrum.ieee.org/large-tabular-models-nexus
   - The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, ironically, looks at face value to be right in their wheelhouse: analyzing structur
-- 🔵 **Four nuclear reactors hit a big milestone in the US** — MIT Tech Review — `2026-07-09T08:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/
-  - I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es
 
 ## Tin tức
 
