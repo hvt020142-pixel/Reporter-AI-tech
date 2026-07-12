@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-12T17:13:35.743950+00:00 (UTC) — cửa sổ 72h — 39 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-12T19:21:06.424506+00:00 (UTC) — cửa sổ 72h — 32 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -109,27 +109,6 @@
 - 🔵 **Meta enters the crowded AI coding battle with Muse Spark 1.1** — TechCrunch AI — `2026-07-09T19:40:45+00:00`
   - https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/
   - Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.
-- 🔵 **New York Times says OpenAI hid evidence in ChatGPT copyright trial** — TechCrunch AI — `2026-07-09T19:05:58+00:00`
-  - https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/
-  - News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.
-- 🔵 **OpenAI may have made a fatal misstep in copyright fight with news orgs** — Ars Technica AI — `2026-07-09T18:57:53+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/
-  - OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.
-- 🔵 **Google will now disclose which ads are made with AI** — TechCrunch AI — `2026-07-09T18:40:51+00:00`
-  - https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/
-  - While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.
-- 🔵 **Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia** — TechCrunch AI — `2026-07-09T18:34:35+00:00`
-  - https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/
-  - The company is using the cash to open an office in the Bay Area and compete for talent there, "strengthening its position at the heart of the world's leading AI ecosystem."
-- 🔵 **How did the government decide OpenAI’s frontier model was safe to release?** — TechCrunch AI — `2026-07-09T18:22:39+00:00`
-  - https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/
-  - "Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear."
-- 🔵 **Instagram users: Here’s how to stop Meta’s AI from using your photos** — TechCrunch AI — `2026-07-09T17:56:47+00:00`
-  - https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/
-  - Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.
-- 🔵 **Meta’s new AI chips will begin production in September** — TechCrunch AI — `2026-07-09T17:17:37+00:00`
-  - https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/
-  - The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
