@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-12T19:21:06.424506+00:00 (UTC) — cửa sổ 72h — 32 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-12T21:03:14.338953+00:00 (UTC) — cửa sổ 72h — 28 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -22,12 +22,12 @@
 - 🔵 **Sperm donors need limits, says a European fertility group** — MIT Tech Review — `2026-07-10T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/
   - Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have
-- 🔵 **Anthropic found a hidden space where Claude puzzles over concepts** — MIT Tech Review — `2026-07-09T20:22:28+00:00`
-  - https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
-  - The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the 
 
 ## Tin tức
 
+- 🔵 **Lorde says Ray-Ban Meta AI glasses are ‘not sexy’** — The Verge AI — `2026-07-12T20:10:19+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy
+  - Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI s
 - 🔵 **Apple’s failed self-driving car program left a legacy of powerful AI chips** — The Verge AI — `2026-07-12T16:27:06+00:00`
   - https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
   - Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor
@@ -97,18 +97,6 @@
 - 🔵 **OpenAI wants its new tool to do your work for you and with you** — Ars Technica AI — `2026-07-09T21:25:55+00:00`
   - https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/
   - Rebranded Codex promises independent workflows that can run "for hours if needed."
-- 🔵 **The ChatGPT browser is already dead** — The Verge AI — `2026-07-09T20:34:05+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset
-  - OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be "sunsetting" Atlas and is target
-- 🔵 **Humanoid robots controlled by surgeons did world-first operation on live pigs** — Ars Technica AI — `2026-07-09T20:12:03+00:00`
-  - https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/
-  - Preclinical trial is testing the feasibility of humanoid robots in surgery.
-- 🔵 **Google will now tell you if an ad was made with AI** — The Verge AI — `2026-07-09T20:11:38+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label
-  - You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's "My Ad Center," as reported earlier by TechCrunch. The update, announced on Thursday, adds a "created or edited with AI" label under the "how this ad was made" tab. Users can
-- 🔵 **Meta enters the crowded AI coding battle with Muse Spark 1.1** — TechCrunch AI — `2026-07-09T19:40:45+00:00`
-  - https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/
-  - Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
