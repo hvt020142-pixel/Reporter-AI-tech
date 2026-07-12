@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-12T21:03:14.338953+00:00 (UTC) — cửa sổ 72h — 28 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-12T23:05:34.150367+00:00 (UTC) — cửa sổ 72h — 22 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -79,24 +79,6 @@
 - 🔵 **Fidji Simo steps down from leading OpenAI’s AGI work due to illness** — The Verge AI — `2026-07-09T23:24:04+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor
   - OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a "part-time advisor," she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she
-- 🔵 **OpenAI launches its new family of models with GPT-5.6** — TechCrunch AI — `2026-07-09T22:24:24+00:00`
-  - https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/
-  - OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.
-- 🔵 **An AI agent startup just let its agent run its $100M fundraise** — TechCrunch AI — `2026-07-09T22:08:58+00:00`
-  - https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/
-  - Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.
-- 🔵 **OpenAI is shutting down Atlas, but its AI browser ambitions are still growing** — TechCrunch AI — `2026-07-09T22:03:54+00:00`
-  - https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/
-  - OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.
-- 🔵 **Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic** — TechCrunch AI — `2026-07-09T21:57:42+00:00`
-  - https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/
-  - Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.
-- 🔵 **Can AI answer the $3 trillion question?** — TechCrunch AI — `2026-07-09T21:47:50+00:00`
-  - https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/
-  - The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.
-- 🔵 **OpenAI wants its new tool to do your work for you and with you** — Ars Technica AI — `2026-07-09T21:25:55+00:00`
-  - https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/
-  - Rebranded Codex promises independent workflows that can run "for hours if needed."
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
