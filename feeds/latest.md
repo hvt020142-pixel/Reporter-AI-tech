@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-13T21:10:21.043616+00:00 (UTC) — cửa sổ 72h — 165 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-13T23:08:57.305088+00:00 (UTC) — cửa sổ 72h — 164 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Nghiên cứu
@@ -451,7 +451,7 @@
 
 - 🔵 **Satya Nadella has issued a shocking warning to companies using AI** — TechCrunch AI — `2026-07-13T20:59:00+00:00`
   - https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/
-  - In a surprising blog post on Monday, Microsoft CEO is warning enterprises of the dangers of using proprietary models like Anthropic's and OpenAI's.
+  - Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.
 - 🔵 **Siri AI is already changing how I use my iPhone** — The Verge AI — `2026-07-13T20:43:20+00:00`
   - https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on
   - iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [
@@ -503,9 +503,6 @@
 - 🔵 **Meta turns off the Instagram feature that let users make AI deepfakes of public accounts** — The Verge AI — `2026-07-10T23:49:50+00:00`
   - https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes
   - Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI c
-- 🔵 **Apple sues OpenAI for allegedly stealing hardware secrets** — The Verge AI — `2026-07-10T21:36:51+00:00`
-  - https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
-  - Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered "a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple." In addition to OpenAI, the lawsuit also names IO Prod
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
