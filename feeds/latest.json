@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-13T03:53:56.764034+00:00",
+  "generated_at": "2026-07-13T07:33:57.432985+00:00",
   "lookback_hours": 72,
-  "item_count": 17,
+  "item_count": 158,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 1040
     },
     {
@@ -36,26 +36,26 @@
     {
       "source": "arXiv cs.AI",
       "url": "https://rss.arxiv.org/rss/cs.AI",
-      "items_kept": 0,
-      "items_total": 0
+      "items_kept": 40,
+      "items_total": 177
     },
     {
       "source": "arXiv cs.CL",
       "url": "https://rss.arxiv.org/rss/cs.CL",
-      "items_kept": 0,
-      "items_total": 0
+      "items_kept": 40,
+      "items_total": 69
     },
     {
       "source": "arXiv cs.LG",
       "url": "https://rss.arxiv.org/rss/cs.LG",
-      "items_kept": 0,
-      "items_total": 0
+      "items_kept": 40,
+      "items_total": 187
     },
     {
       "source": "arXiv cs.CV",
       "url": "https://rss.arxiv.org/rss/cs.CV",
-      "items_kept": 0,
-      "items_total": 0
+      "items_kept": 40,
+      "items_total": 114
     },
     {
       "source": "TechCrunch AI",
@@ -96,6 +96,1426 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+      "url": "https://arxiv.org/abs/2607.08773",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show that the adversarial robustness problem can be reduced to a lattice traversal problem. Each element o"
+    },
+    {
+      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+      "url": "https://arxiv.org/abs/2607.08774",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08774v1 Announce Type: new Abstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demonstrating that reliability is significantly influenced by \\emph{inference-time control} -- the computational layer governi"
+    },
+    {
+      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "url": "https://arxiv.org/abs/2607.08894",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08894v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning, leading to high computational costs and stochasti"
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "url": "https://arxiv.org/abs/2607.08964",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08964v1 Announce Type: new Abstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setup overlooks "
+    },
+    {
+      "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+      "url": "https://arxiv.org/abs/2607.08986",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08986v1 Announce Type: new Abstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activity as a formalization game. The objective is to turn a LaTeX document into Lean. The game is won when the development compil"
+    },
+    {
+      "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+      "url": "https://arxiv.org/abs/2607.09059",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09059v1 Announce Type: new Abstract: We present ARCANA, a collaborative multi agent framework for solving ARC AGI 2 tasks under strict test time and hardware constraints. ARCANA decomposes each task into iterative perception, hypothesis generation, symbolic execution, and reflective refin"
+    },
+    {
+      "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+      "url": "https://arxiv.org/abs/2607.09076",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09076v1 Announce Type: new Abstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of traditional rule-based monitoring in industrial IoT environments. While Large Language Models (LLMs) have strong semantic r"
+    },
+    {
+      "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+      "url": "https://arxiv.org/abs/2607.09099",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09099v1 Announce Type: new Abstract: While multi-agent debate (MAD) frameworks have shown significant potential in general reasoning, their effectiveness in highly structured, knowledge-heavy legal domains remains under-explored. In this work, we introduce the Legal Multi-Agent Debate (L-"
+    },
+    {
+      "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+      "url": "https://arxiv.org/abs/2607.09142",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09142v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly aligned with real clinical practice. Many rely on synthetic conversations or patient simulators, omit patient-uploaded medical "
+    },
+    {
+      "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2607.09153",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09153v1 Announce Type: new Abstract: Process Reward Models (PRMs) have been proven to be highly effective in guiding test-time scaling (TTS) methods, which significantly boost the capabilities of LLM-based multi-agent systems. However, existing PRMs are text-based: they re-encode the enti"
+    },
+    {
+      "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
+      "url": "https://arxiv.org/abs/2607.09175",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09175v1 Announce Type: new Abstract: Deployed LLM agents rely on agentic context, the model-external textual control content assembled by an operational harness. In this work, the mutable component of that context is a persistent system-level instruction that is updated from operational e"
+    },
+    {
+      "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.09195",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09195v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to play a central role in AI-driven scientific discovery. Equipped with broad knowledge, flexible reasoning, and tool use, they have the potential to autonomously explore and solve scientific "
+    },
+    {
+      "title": "OpenProver: Agentic and Interactive Theorem Proving with Lean 4",
+      "url": "https://arxiv.org/abs/2607.09217",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09217v1 Announce Type: new Abstract: In this system paper, we present OpenProver, an open-source system for LLM-driven automated theorem proving (ATP) with integrated Lean 4 formal verification. OpenProver integrates a Planner-Worker-Verifier architecture inspired by recent ATP agentic sy"
+    },
+    {
+      "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
+      "url": "https://arxiv.org/abs/2607.09322",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09322v1 Announce Type: new Abstract: In this work, we introduce LongMedBench, a real-world EHR-based benchmark for long-horizon clinical decision-making. Prior evaluations of LLM-based medical agents have largely emphasized short-context knowledge QA and tool use. However, real-world medi"
+    },
+    {
+      "title": "Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks",
+      "url": "https://arxiv.org/abs/2607.09330",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09330v1 Announce Type: new Abstract: Embodied agent teams powered by heterogeneous large language models (LLMs) are being widely deployed in physical artificial intelligence such as smart factories, warehouses, and service robotics. To enable collaboration among such an agent team, effici"
+    },
+    {
+      "title": "Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review",
+      "url": "https://arxiv.org/abs/2607.09403",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09403v1 Announce Type: new Abstract: Worldbuilding, the construction of coherent fictional worlds, is a foundational task in game design and literary creation. Large Language Models (LLMs) offer new possibilities for automated content generation, but their application to worldbuilding fac"
+    },
+    {
+      "title": "How Does Bayesian Causal Discovery Fail? Characterising Structural Consequences in Linear Gaussian Networks under Latent Confounding",
+      "url": "https://arxiv.org/abs/2607.09449",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09449v1 Announce Type: new Abstract: Bayesian causal discovery is widely used for its ability to quantify epistemic uncertainty over directed acyclic graphs (DAGs) through posterior inference. However, its behaviour under latent confounding remains poorly understood, as existing work typi"
+    },
+    {
+      "title": "ProofCouncil: An LLM Agent for Solving Open Mathematical Problems",
+      "url": "https://arxiv.org/abs/2607.09474",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09474v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in solving open problems in mathematics. However, their performance can be further improved through agentic workflows tailored to real-world mathematical practice. To this end, we introduce Pro"
+    },
+    {
+      "title": "Ceci n'est pas une pipe: AI systems as semantic abstractions",
+      "url": "https://arxiv.org/abs/2607.09489",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09489v1 Announce Type: new Abstract: An AI system's output is not the fact or world state it appears to describe, but rather an engineered representation. We propose a semantic framework to describe AI systems, to be able to examine the correctness of such representations. To do so, we di"
+    },
+    {
+      "title": "Multimodal Reward Hacking in Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.09492",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09492v1 Announce Type: new Abstract: Reinforcement learning (RL) is increasingly used to align multimodal large language models (MLLMs), but higher rewards do not always imply better task performance. This risk is amplified when visual evidence is evaluated by text-only or weakly grounded"
+    },
+    {
+      "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
+      "url": "https://arxiv.org/abs/2607.09493",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09493v1 Announce Type: new Abstract: Agentic LLM systems that generate code through multi-turn tool use face a fundamental context problem: each session starts from zero, discarding the configuration choices, domain constraints, data schemas, and tool-use patterns that made previous sessi"
+    },
+    {
+      "title": "SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction",
+      "url": "https://arxiv.org/abs/2607.09521",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09521v1 Announce Type: new Abstract: Does every cancer patient truly need a complete diagnostic workup for accurate survival prediction? In multimodal clinical oncology, diagnostic modalities follow a clinically mandated order of escalating burden -- from demographics collected at intake "
+    },
+    {
+      "title": "Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI",
+      "url": "https://arxiv.org/abs/2607.09560",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09560v1 Announce Type: new Abstract: Modern AI systems are increasingly being evaluated for their ability to reason, code, prove theorems, use tools, and long-horizon research tasks. These are powerful capabilities, but they share a structural limitation: the representational frame within"
+    },
+    {
+      "title": "Knowledge Graphs and Explainable AI as Complementary Resources for Urban Mining",
+      "url": "https://arxiv.org/abs/2607.09578",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09578v1 Announce Type: new Abstract: Pre-demolition assessment, the regulated audit process at the heart of urban mining, is an information process in which AI support must serve qualified auditors who remain accountable for the decisions taken. The relevant unit of value is not predictio"
+    },
+    {
+      "title": "TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2607.09586",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09586v1 Announce Type: new Abstract: The proliferation of agentic AI systems across enterprise and public-sector contexts has outpaced the capacity of general-purpose AI risk frameworks to classify and govern them. In this paper, we introduce the TrustX Agent Risk Classification Framework"
+    },
+    {
+      "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
+      "url": "https://arxiv.org/abs/2607.09600",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09600v1 Announce Type: new Abstract: Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchestration of diverse expert models and tools. However, existing frameworks typically call APIs based on coarse-grained matching between tasks and the funct"
+    },
+    {
+      "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
+      "url": "https://arxiv.org/abs/2607.09649",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09649v1 Announce Type: new Abstract: Concept-based explainable artificial intelligence (AI) can make model reasoning more human-understandable, but concept-level outputs are not automatically trustworthy. We introduce ConceptSMILE, a model-agnostic perturbation-based auditing framework fo"
+    },
+    {
+      "title": "Minimal Decision Dynamics and Contextual Probability: A Quantum Tug-of-War Model",
+      "url": "https://arxiv.org/abs/2601.10034",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2601.10034v2 Announce Type: cross Abstract: Decision making often exhibits context dependence that challenges classical probability theory. This paper develops a quantum-like extension of the Tug-of-War (QTOW) decision-making model to clarify when such context dependence can be represented by "
+    },
+    {
+      "title": "REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming",
+      "url": "https://arxiv.org/abs/2607.07738",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.07738v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly applied to reverse-engineering tasks, and recent threat-intelligence reporting shows them operating inside live offensive-security workflows. Claims about their capability, however, outpace our ability to"
+    },
+    {
+      "title": "A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions",
+      "url": "https://arxiv.org/abs/2607.08776",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08776v1 Announce Type: cross Abstract: Despite the success of knowledge distillation (KD) in Large Language Models (LLMs), the underlying mechanism behind its efficacy remains unclear. In this paper, we propose a unified approach to explore the common mechanism of various KD methods using"
+    },
+    {
+      "title": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis",
+      "url": "https://arxiv.org/abs/2607.08778",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08778v1 Announce Type: cross Abstract: Alzheimer's Disease (AD) is a complex neurodegenerative disorder that continues to impact millions of people worldwide. Predicting AD conversion during the prodromal stage remains critical for disease understanding and patient care. As such, survival"
+    },
+    {
+      "title": "Signed Symmetric Quantization for Few-Bit Integers",
+      "url": "https://arxiv.org/abs/2607.08779",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08779v1 Announce Type: cross Abstract: The signed integer alphabet contains one more negative representable value than positive. Yet, by convention, the standard symmetric integer quantizer fixes its scale to be strictly positive, which assigns this extra representable value to the negati"
+    },
+    {
+      "title": "Sticky Routing: Training MoE Models for Memory-Efficient Inference",
+      "url": "https://arxiv.org/abs/2607.08780",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08780v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) models activate only a sparse subset of experts per token, yet consecutive tokens frequently activate different experts -- causing constant weight swapping between slow storage and fast memory on edge devices. Existing remedi"
+    },
+    {
+      "title": "Reward Transport: Property Control in Flow Matching via Noise-Space Alignment",
+      "url": "https://arxiv.org/abs/2607.08781",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08781v1 Announce Type: cross Abstract: The coupling in flow matching -- the rule pairing noise vectors with data points -- is typically treated as a computational choice. We show that this coupling can instead serve as an alignment interface: by matching noise and data according to a targ"
+    },
+    {
+      "title": "Director: Accelerating Distributed MoE Serving via Online Proactive Expert Placement",
+      "url": "https://arxiv.org/abs/2607.08782",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08782v1 Announce Type: cross Abstract: Expert parallelism has become the prevailing paradigm to serve Mixture-of-Experts (MoE) models. Its efficiency depends on the communication and computation latencies of the GPUs, which are linked to the placement of experts in the GPUs. Existing work"
+    },
+    {
+      "title": "LieBN: Batch Normalization over Lie Groups",
+      "url": "https://arxiv.org/abs/2607.08783",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08783v1 Announce Type: cross Abstract: Manifold-valued measurements are prevalent in various machine learning tasks. Recent advances have extended Deep Neural Networks (DNNs) to operate on manifolds, accompanied by normalization techniques tailored to different geometries, collectively re"
+    },
+    {
+      "title": "HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning",
+      "url": "https://arxiv.org/abs/2607.08784",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08784v1 Announce Type: cross Abstract: Federated continual learning (FCL) evaluates how distributed clients learn from changing data streams while retaining previously learned knowledge. Existing evaluations are difficult to compare because they often change datasets, task splits, client "
+    },
+    {
+      "title": "DaDaDa: A Dataset for Data Pricing in Data Marketplaces",
+      "url": "https://arxiv.org/abs/2607.08785",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08785v1 Announce Type: cross Abstract: High-quality data drives machine learning advances across industries. Recognizing the value of data, data transactions are increasingly common, giving rise to many data marketplaces, e.g., AWS Marketplace, Databricks, and Datarade. However, determini"
+    },
+    {
+      "title": "Accelerating GPU Inference of Large Language Models with Moderately Unstructured Sparse Weight Matrices",
+      "url": "https://arxiv.org/abs/2607.08786",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08786v1 Announce Type: cross Abstract: With the growing deployment of large language models (LLMs), LLM inference cost has become a key challenge. Pruning techniques that introduce sparsity into weight matrices can accelerate inference. However, maintaining model quality typically limits "
+    },
+    {
+      "title": "LLM-Driven Evolutionary Generation of Multi-Objective Bayesian Optimization Algorithms",
+      "url": "https://arxiv.org/abs/2607.08791",
+      "source": "arXiv cs.AI",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08791v1 Announce Type: cross Abstract: Designing effective multi-objective Bayesian optimization (MOBO) algorithms requires balancing many interdependent design choices whose optimal configuration is problem-dependent and typically demands deep expertise. We extend the LLaMEA framework to"
+    },
+    {
+      "title": "HALO: Hybrid Adaptive Latent Reasoning for Language Models",
+      "url": "https://arxiv.org/abs/2607.08775",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08775v1 Announce Type: new Abstract: We study how to improve a frozen pretrained language model with a small amount of adaptive extra computation. A simple approach is to add additional refinement steps on top of the backbone hidden states, but fixed extra refinement can be wasteful: a on"
+    },
+    {
+      "title": "An Emergent Mirage: Is Emergent Misalignment and Realignment Indeed a Robust Phenomenon?",
+      "url": "https://arxiv.org/abs/2607.09053",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09053v1 Announce Type: new Abstract: Recent work has reported Emergent Misalignment (EM), where language models fine-tuned on narrow, domain-specific misaligned datasets abruptly acquire broadly misaligned behavior, alongside evidence that this behavior can be reversed through limited rea"
+    },
+    {
+      "title": "AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2607.09092",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09092v1 Announce Type: new Abstract: Knowledge graphs (KGs) are often automatically constructed from large-scale corpora, but they inevitably contain factual errors due to noisy sources and extraction failures, and verifying them reliably at industrial scale remains a critical challenge. "
+    },
+    {
+      "title": "PRecG: Legal Precedent Retrieval with Graph Neural Networks and Rhetorical Role Segmentation",
+      "url": "https://arxiv.org/abs/2607.09094",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09094v1 Announce Type: new Abstract: Legal precedent retrieval is a fundamental task in legal case preparation, planning, litigation strategy, and legal research. Current approaches for automatic precedent retrieval map legal documents to a low-dimensional semantic space and compute simil"
+    },
+    {
+      "title": "Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs",
+      "url": "https://arxiv.org/abs/2607.09121",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09121v1 Announce Type: new Abstract: In this study, we examine the opportunities brought by Large Language Models (LLMs) to various aspects of fundamental analysis of companies based on their reports as well as data and documents describing macroeconomic situation like GDP and inflation c"
+    },
+    {
+      "title": "Complexity-Guided Component-wise Initialization for Language Model Pretraining",
+      "url": "https://arxiv.org/abs/2607.09204",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09204v1 Announce Type: new Abstract: Pretrained language models often exhibit structured weight spectra, suggesting that training may repeatedly produce similar layerwise and component-wise organization. We ask whether these recurring spectral patterns can be reused as an initialization s"
+    },
+    {
+      "title": "Letter Lemmatization: One-to-one and Banded RNNs for Reversing Character-Set Simplification and Abbreviation in Medieval Text",
+      "url": "https://arxiv.org/abs/2607.09291",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09291v1 Announce Type: new Abstract: Medieval document transcribers have very different practices; on top of that, heterogeneous digitization policies have resulted in corpora where the character-set must be viewed as fluid. In this paper we address the problem of changing between charact"
+    },
+    {
+      "title": "Creativity, honesty and designed forgetting emerge in small hyperbolic language models",
+      "url": "https://arxiv.org/abs/2607.09306",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09306v1 Announce Type: new Abstract: Language models are optimised for scale, yet remain functional rather than companionable, and as an assistant personalises into a companion, accumulating memory of one user, it quietly becomes someone, and can silently acquire traits that harm that use"
+    },
+    {
+      "title": "Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire's Complete Works",
+      "url": "https://arxiv.org/abs/2607.09316",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09316v1 Announce Type: new Abstract: Thematic indexing -- the practice of assigning structured conceptual labels to sections of text -- is essential to scholarly access in large-scale literary and historical editions, yet it remains a largely manual, labour-intensive process. This paper e"
+    },
+    {
+      "title": "Letting the Data Speak: Extracting Keywords from Crowdsourced Collections with AI",
+      "url": "https://arxiv.org/abs/2607.09324",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09324v1 Announce Type: new Abstract: Identifying and assigning keywords at scale is a technical, practical, and ethical challenge for crowdsourced collections. This article reports the findings of the \"Extracting Keywords from Crowdsourced Collections\" project, which used the Their Finest"
+    },
+    {
+      "title": "WILDTRACE: Benchmarking Natural Evidence Trails in Long-Context Reasoning",
+      "url": "https://arxiv.org/abs/2607.09328",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09328v1 Announce Type: new Abstract: Answering complex questions over long documents frequently requires integrating evidence that the source itself disperses naturally across distant passages. In an incident report, the operating condition, design flaw, and missed safety check that joint"
+    },
+    {
+      "title": "Towards Detecting Inconsistencies in End-to-end Generated TODs",
+      "url": "https://arxiv.org/abs/2607.09338",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09338v1 Announce Type: new Abstract: Generative AI is profoundly transforming the core technologies behind conversational systems, shifting from component-based to end-to-end approaches. However, Large Language Models (LLMs) may still generate inconsistencies, a critical issue particularl"
+    },
+    {
+      "title": "DKCD: Domain Knowledge-Enhanced Causal Discovery from Unstructured Data",
+      "url": "https://arxiv.org/abs/2607.09348",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09348v1 Announce Type: new Abstract: Causal discovery from unstructured data is a challenging yet underexplored task in high-expertise domains such as healthcare, finance, and education. Existing methods typically leverage the general knowledge of large language models (LLMs) to identify "
+    },
+    {
+      "title": "Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2607.09349",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09349v1 Announce Type: new Abstract: Retrieval-augmented generation evaluation checks whether model claims are factually grounded in retrieved documents. It does not check whether retrieved evidence is attributed to the correct entity. A clinical RAG response can pass every automated chec"
+    },
+    {
+      "title": "Self-Guided Test-Time Training for Long-Context LLMs",
+      "url": "https://arxiv.org/abs/2607.09415",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09415v1 Announce Type: new Abstract: Long-context processing has become increasingly important for large language models (LLMs), but simply extending the context window does not guarantee effective utilization of long inputs. As input length grows, accuracy often degrades, indicating that"
+    },
+    {
+      "title": "A Sovereign, Open-Source Foundation Model for German and English",
+      "url": "https://arxiv.org/abs/2607.09424",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09424v1 Announce Type: new Abstract: We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transformer foundation model for German and English. Its hybrid design activates only 3B of 30B parameters per token and keeps the inference cache near-constant "
+    },
+    {
+      "title": "Test-Time Scaling for Small VLMs on Multilingual Visual MCQ",
+      "url": "https://arxiv.org/abs/2607.09438",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09438v1 Announce Type: new Abstract: Test-time scaling (TTS) reliably improves reasoning in large language models, but whether it transfers to small open vision-language models remains unclear. We examine this on EXAMS-V, a multilingual visual multiple-choice benchmark, comparing self-con"
+    },
+    {
+      "title": "Normalisation-Based Likelihood Ratio Estimation for Forensic Authorship Verification",
+      "url": "https://arxiv.org/abs/2607.09501",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09501v1 Announce Type: new Abstract: Authorship verification (AV) is the task of determining whether two texts were written by the same author. In a forensic context, the strength of AV evidence can be quantified using likelihood ratios. Most AV methods are score-based and deriving well-c"
+    },
+    {
+      "title": "FreyaTTS Technical Report",
+      "url": "https://arxiv.org/abs/2607.09530",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09530v1 Announce Type: new Abstract: We introduce Freya-TTS, a compact, tokenizer-free, Turkish-first text-to-speech model designed for highly reliable and efficient conversational synthesis. Freya-TTS is a 183.2M-parameter non-autoregressive conditional flow-matching Diffusion Transforme"
+    },
+    {
+      "title": "Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach",
+      "url": "https://arxiv.org/abs/2607.09576",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09576v1 Announce Type: new Abstract: We present an interpretable network-based framework for representing idiomatic and figurative meaning across eight typologically diverse languages, totaling 160 conventional expressions, the large majority of which are idiomatic. Each expression is ann"
+    },
+    {
+      "title": "Tokenizer Transplantation: Mitigating Autoregressive Collapse in Edge-Efficient Bengali ASR",
+      "url": "https://arxiv.org/abs/2607.09598",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09598v1 Announce Type: new Abstract: Lightweight speech recognition models are critical for edge deployment, yet highly optimized architectures like Moonshine often fail on morphologically rich, non-Latin languages such as Bengali. This study identifies the root cause of this failure as t"
+    },
+    {
+      "title": "Toward Real-Time Sentence-Level Sign Language Translation",
+      "url": "https://arxiv.org/abs/2607.09611",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09611v1 Announce Type: new Abstract: Most sign language understanding systems operate at the level of isolated signs, limiting their usefulness in natural communication. We study sentence-level sign language translation (SLT) with the primary goal of real-time deployment rather than propo"
+    },
+    {
+      "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
+      "url": "https://arxiv.org/abs/2607.09623",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09623v1 Announce Type: new Abstract: We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA). Quanta evaluates multimodal quizbowl systems that answer pyramid-style questions from incrementally revealed tex"
+    },
+    {
+      "title": "Training, Reading, and Editing Legible Transformers",
+      "url": "https://arxiv.org/abs/2607.08946",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08946v1 Announce Type: cross Abstract: A transformer can be built from operators that are legible by construction -- bounded, named units that read as fuzzy set operations rather than dense activations -- but legibility must be pressed for during training, and the pressure has a failure m"
+    },
+    {
+      "title": "Sensitivity-Aware Thresholding and Token Routing for Activation Sparsification in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.08991",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08991v1 Announce Type: cross Abstract: Efficient inference in Large Language Models (LLMs) requires deciding where computation can be reduced while preserving model quality. We study this problem through multilayer perceptron (MLP) activation sparsification and token-level conditional rou"
+    },
+    {
+      "title": "Phone Segmentation and Recognition through Phonological Activation Mapping",
+      "url": "https://arxiv.org/abs/2607.09020",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09020v1 Announce Type: cross Abstract: Phone segmentation and recognition are inherently related tasks, yet modern approaches typically model them separately. We argue that phonetic structure is already latent in the representations of self-supervised speech models (S3Ms), and one only ne"
+    },
+    {
+      "title": "VTaMo: Video-Text Alignment Model for Sign Language Translation",
+      "url": "https://arxiv.org/abs/2607.09126",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09126v1 Announce Type: cross Abstract: Sign language translation (SLT) converts continuous sign videos into spoken language text. Gloss-free approaches leverage pre-trained visual encoders and language models but rely on implicit cross-modal alignment from translation supervision alone. W"
+    },
+    {
+      "title": "Git-Assistant: Planning-Based Support for Updating Git Repositories",
+      "url": "https://arxiv.org/abs/2607.09224",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09224v1 Announce Type: cross Abstract: Version control systems are essential for collaborative software development, yet tools like git remain challenging for many practitioners. Recent advances in Large Language Models (LLMs) offer promising capabilities for interpreting developer intent"
+    },
+    {
+      "title": "Super-Tuning: From Activation-Aware Pruning to Sparse Fine-Tuning",
+      "url": "https://arxiv.org/abs/2607.09287",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09287v1 Announce Type: cross Abstract: Large language models (LLMs) remain expensive to fine-tune because full-parameter updates require substantial memory, compute, and per-task storage. We study whether saliency signals originally developed for pruning can be reused to choose where a mo"
+    },
+    {
+      "title": "Mach-Mind-4-Flash Technical Report",
+      "url": "https://arxiv.org/abs/2607.09375",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09375v1 Announce Type: cross Abstract: We present Mach-Mind-4-Flash, a 35B-parameter Mixture-of-Experts (MoE) agentic model with 3B activated parameters. Through post-training optimization alone without scaling pre-training compute, the model achieves performance on par with or surpassing"
+    },
+    {
+      "title": "Neural Collapse Is Forbidden: Information Floors in Language Models",
+      "url": "https://arxiv.org/abs/2607.09487",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09487v1 Announce Type: cross Abstract: Within-class variance in language-model representations is commonly read as incomplete neural collapse. We argue it is allocated information storage, and that the allocation obeys a law. A one-line centering identity voids a family of simplex equiang"
+    },
+    {
+      "title": "Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion",
+      "url": "https://arxiv.org/abs/2311.00300",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2311.00300v2 Announce Type: replace Abstract: The entity alignment of science and technology patents aims to link the equivalent entities in the knowledge graph of different science and technology patent data sources. Most entity alignment methods only use graph neural network to obtain the em"
+    },
+    {
+      "title": "Relation Extraction Model Based on Semantic Enhancement Mechanism",
+      "url": "https://arxiv.org/abs/2311.02564",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2311.02564v2 Announce Type: replace Abstract: Relational extraction is one of the basic tasks related to information extraction in the field of natural language processing, and is an important link and core task in the fields of information extraction, natural language understanding, and infor"
+    },
+    {
+      "title": "Topic model based on co-occurrence word networks for unbalanced short text datasets",
+      "url": "https://arxiv.org/abs/2311.02566",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2311.02566v2 Announce Type: replace Abstract: We propose a straightforward solution for detecting scarce topics in unbalanced short-text datasets. Our approach, named CWUTM (Topic model based on co-occurrence word networks for unbalanced short text datasets), addresses the challenge of sparse "
+    },
+    {
+      "title": "Accelerating Large Language Model Inference with Self-Supervised Early Exits",
+      "url": "https://arxiv.org/abs/2407.21082",
+      "source": "arXiv cs.CL",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2407.21082v3 Announce Type: replace Abstract: This paper presents a modular approach to accelerate inference in large language models (LLMs) by adding early exit heads at intermediate transformer layers. Each head is trained in a self-supervised manner to mimic the main model's predictions, al"
+    },
+    {
+      "title": "Adaptive Bayes exactly tracks information over intrinsic time",
+      "url": "https://arxiv.org/abs/2607.08789",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08789v1 Announce Type: new Abstract: Bayesian and multiplicative-weights updates reweight experts, models, or actions from sequential feedback. We show that the regret of any such update obeys an exact information-accounting identity. On each round, the learner's excess loss to any chosen"
+    },
+    {
+      "title": "Prompt-Driven Exploration",
+      "url": "https://arxiv.org/abs/2607.08837",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08837v1 Announce Type: new Abstract: Exploration is essential to RL since a policy cannot improve by repeatedly sampling the behaviors it already prefers. Standard methods inject stochasticity in the action space, but such jitter only yields rollouts close to the original. Escaping a weak"
+    },
+    {
+      "title": "How are linear representations learned? Exact solutions to the dynamics of abstraction",
+      "url": "https://arxiv.org/abs/2607.08843",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08843v1 Announce Type: new Abstract: In artificial and biological neural networks, concepts are often encoded as consistent linear directions in representation space. In deep learning, this idea is known as the linear representation hypothesis and underpins many interpretability and contr"
+    },
+    {
+      "title": "Optimizing Against Safety Representations: Activation-Guided Adversarial Suffixes and the Geometry of Refusal",
+      "url": "https://arxiv.org/abs/2607.08883",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08883v1 Announce Type: new Abstract: Behavioral alignment in large language models often masks fragile internal safety representations. Recent work suggests that refusal behavior is mediated by low-dimensional directions in activation space. This raises questions about how such representa"
+    },
+    {
+      "title": "Pattern-Aware Graph Neural Networks for Handling Missing Data",
+      "url": "https://arxiv.org/abs/2607.08915",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08915v1 Announce Type: new Abstract: Missing data is ubiquitous in real-world datasets. Traditional methods either discard incomplete samples or apply imputation techniques that ignore potentially informative missingness patterns, implicitly assuming that missingness occurs randomly. Howe"
+    },
+    {
+      "title": "A Machine Learning Surrogate for Component Criticality Ranking in Interdependent Power-Communication Networks",
+      "url": "https://arxiv.org/abs/2607.08918",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08918v1 Announce Type: new Abstract: Cyber-physical power systems are vulnerable to cascading failures caused by tight interdependencies between power and communication infrastructures. Evaluating these failures over large N-k contingency sets with a high-fidelity simulator is computation"
+    },
+    {
+      "title": "SafeExplorer: An Unbiased Policy Gradient for Reinforcement Learning with Recovery Interventions",
+      "url": "https://arxiv.org/abs/2607.08925",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08925v1 Announce Type: new Abstract: Training reinforcement-learning agents directly on physical robots makes every fall costly, since a fall can damage the platform and cannot be undone like a simulator reset; the goal is therefore to minimize falls during training rather than trade them"
+    },
+    {
+      "title": "BlockServe: Block-Grained Continuous Batching for High-Throughput Diffusion LLM Serving",
+      "url": "https://arxiv.org/abs/2607.08930",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08930v1 Announce Type: new Abstract: Efficient serving of diffusion large language models (dLLMs) is hindered by convergence heterogeneity: when batching multiple requests, different sequences converge at different rates, causing faster requests to stall behind slower stragglers and intro"
+    },
+    {
+      "title": "TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning",
+      "url": "https://arxiv.org/abs/2607.08940",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08940v1 Announce Type: new Abstract: Time series reasoning is essential for real-world problem-solving. While both Large Language Models (LLMs) and Vision-Language Models (VLMs) can reason about time-series data, their capabilities are complementary: LLMs process time series as text seque"
+    },
+    {
+      "title": "FairSelect: A Systematic Evaluation of Multi-Level and Intersectional Algorithmic Fairness",
+      "url": "https://arxiv.org/abs/2607.08953",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08953v1 Announce Type: new Abstract: Algorithmic fairness methods are increasingly used to identify and mitigate bias in machine learning models, yet most approaches are evaluated in isolation and along single demographic axes. This limits practical guidance for selecting fairness strateg"
+    },
+    {
+      "title": "Eluna: An Agentic LLM System for Automating Warehouse Operations with Reasoning and Task Execution",
+      "url": "https://arxiv.org/abs/2607.08960",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08960v1 Announce Type: new Abstract: Warehouse operations are governed by Standard Operating Procedures (SOPs) that encode complex, multi-system decision logic, which must be executed reliably under strict time constraints, yet LLM agents lack mechanisms to enforce procedural compliance a"
+    },
+    {
+      "title": "NL-PAC: Specification Ambiguity and Certified Minimax Risk Floors in LLM-Mediated Supervision",
+      "url": "https://arxiv.org/abs/2607.08961",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08961v1 Announce Type: new Abstract: Large language models increasingly provide labels, evaluations, and feedback for tasks specified in natural language. When a specification admits multiple readings but the supervision channel does not reveal which is operative, additional labels reduce"
+    },
+    {
+      "title": "Stochastic Linear Bandits with Partially Observed Actions",
+      "url": "https://arxiv.org/abs/2607.08971",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08971v1 Announce Type: new Abstract: The stochastic linear bandit, where actions are represented as vectors and rewards are linear, is a central paradigm for sequential decision making. We study a partially observed variant of this problem in which the learning agent only sees a random su"
+    },
+    {
+      "title": "Federated Low-Rank Koopman Learning for Multivariate Time-Series Anomaly Detection in IoT Systems",
+      "url": "https://arxiv.org/abs/2607.08978",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08978v1 Announce Type: new Abstract: Distributed IoT systems generate multivariate time-series streams for monitoring physical assets, servers, and embedded sensing platforms. Detecting abnormal temporal behavior is critical for fault diagnosis, predictive maintenance, and security. Howev"
+    },
+    {
+      "title": "Optimal Top-$k$ Identification from Pairwise Comparisons",
+      "url": "https://arxiv.org/abs/2607.08979",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08979v1 Announce Type: new Abstract: We study the active learning problem of fixed-confidence top-$k$ identification from noisy pairwise comparisons. In this problem, an algorithm sequentially chooses pairs of items to compare, observes the outcomes, and stops when it can return the set o"
+    },
+    {
+      "title": "AlphaZero in Sparsely Rewarded Games: Limits and Auxiliary Supervision",
+      "url": "https://arxiv.org/abs/2607.08984",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08984v1 Announce Type: new Abstract: AlphaZero has demonstrated that a neural-guided Monte Carlo Tree Search can achieve superhuman performance, but strong play does not necessarily imply perfect play. We study this gap in two oracle-evaluable domains with contrasting structure: Connect F"
+    },
+    {
+      "title": "Group Invariant Spectral Embedding",
+      "url": "https://arxiv.org/abs/2607.08987",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08987v1 Announce Type: new Abstract: Spectral embedding methods are widely used for dimensionality reduction and clustering of high-dimensional datasets with intrinsic low-dimensional structures. Although many datasets of practical interest exhibit invariance under symmetries such as rota"
+    },
+    {
+      "title": "Model Agnostic Graph Prompt Learning for Crystal Property Prediction",
+      "url": "https://arxiv.org/abs/2607.08996",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08996v1 Announce Type: new Abstract: Graph Neural Networks have emerged as a powerful tool for the fast and accurate prediction of various crystal properties. These models often encode domain-specific knowledge into their graph encoding modules, which increases their parameter size and ma"
+    },
+    {
+      "title": "Correlation-Aware Contextual Bandits with Surrogate Rewards for LLM Routing",
+      "url": "https://arxiv.org/abs/2607.09015",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09015v1 Announce Type: new Abstract: We study contextual bandit problems with correlated arms and access to surrogate reward signals produced by a machine learning model, motivated by applications such as large language model (LLM) routing. Unlike classical contextual bandits that rely so"
+    },
+    {
+      "title": "Variable-Length Generative Protein Design via Generalized Poisson Flow",
+      "url": "https://arxiv.org/abs/2607.09039",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09039v1 Announce Type: new Abstract: The ability to generate variable-length proteins is crucial in protein design, where the optimal length is often unknown and tightly coupled to designability. Current diffusion- and flow-based generative models typically require the protein length to b"
+    },
+    {
+      "title": "Learning More from Less: Reinforcement Learning from Hindsight",
+      "url": "https://arxiv.org/abs/2607.09042",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09042v1 Announce Type: new Abstract: Reinforcement learning (RL) is increasingly used to post-train vision-language-action (VLA) models, but every update consumes robot rollouts that are slow and costly to collect, making sample efficiency a central concern. Manipulation tasks typically p"
+    },
+    {
+      "title": "COBS: Cumulant Order Block Sparse Attention",
+      "url": "https://arxiv.org/abs/2607.09052",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09052v1 Announce Type: new Abstract: Block sparse attention is a hardware friendly way to alleviate the key-value (KV) cache read bottleneck in large language models (LLMs). However, it is not prevalent among leading open-weight LLMs, which rely instead on dense attention or fine-grained "
+    },
+    {
+      "title": "EvoLP: Self-Evolving Latency Predictor for Model Compression in Real-Time Edge Systems",
+      "url": "https://arxiv.org/abs/2607.09063",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09063v1 Announce Type: new Abstract: Edge devices are increasingly utilized for deploying deep learning applications on embedded systems. The real-time nature of many applications and the limited resources of edge devices necessitate latency-targeted neural network compression. However, m"
+    },
+    {
+      "title": "Pitfalls and Remedies for Multi-Task Bayesian Optimization",
+      "url": "https://arxiv.org/abs/2607.09073",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09073v1 Announce Type: new Abstract: Bayesian optimization routinely warm-starts a target experiment with data from related source tasks, and the multi-task Gaussian process is the textbook surrogate for the job. We revisit this default in a controlled setting and find that it misestimate"
+    },
+    {
+      "title": "A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design",
+      "url": "https://arxiv.org/abs/2607.09084",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09084v1 Announce Type: new Abstract: The rapid expansion of large-scale AI models has led to significant performance breakthroughs across diverse domains, yet it has also raised critical concerns regarding computational costs, energy consumption, and environmental sustainability. This sur"
+    },
+    {
+      "title": "EXHOLD: Experience-Aware Real-Time Hold Control for Large-Scale Ride-Hailing Matching at DiDi",
+      "url": "https://arxiv.org/abs/2607.09090",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09090v1 Announce Type: new Abstract: In large-scale ride-hailing, hold control is a critical mechanism for improving passenger-driver experience. By selectively delaying certain driver-order pairs, the system waits for better opportunities, reduces cancellations, and mitigates wasted driv"
+    },
+    {
+      "title": "Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures",
+      "url": "https://arxiv.org/abs/2607.09108",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09108v1 Announce Type: new Abstract: We study the integration of variational quantum circuits (VQCs) into diffusion models through a squeeze-and-excitation (SE) channel-modulation scaffold that isolates the quantum contribution. Using a role-matched classical control and multi-seed signif"
+    },
+    {
+      "title": "Power Flow Feasibility Assessment Using Variational Graph Autoencoders",
+      "url": "https://arxiv.org/abs/2607.09122",
+      "source": "arXiv cs.LG",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09122v1 Announce Type: new Abstract: Data-driven methods, including graph neural networks, have been studied for accelerating power flow calculations in recent years, but very little attention has been paid to the solution feasibility, which can be obtained by traditional solvers. This pa"
+    },
+    {
+      "title": "StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference",
+      "url": "https://arxiv.org/abs/2607.08808",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08808v1 Announce Type: new Abstract: Recent advances in 3D Gaussian Splatting (3DGS) have enabled high-quality, render-ready scene representations for novel-view synthesis. However, most existing 3DGS pipelines rely on multi-view observations (or non-causal access to future frames) to ach"
+    },
+    {
+      "title": "Mixture of Probes: Learning from Privileged Modalities in Multimodal LLMs Through Probing",
+      "url": "https://arxiv.org/abs/2607.08839",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08839v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) are typically designed under the assumption that all modalities available during training will also be accessible at inference. However, many real-world settings violate this assumption, requiring models to oper"
+    },
+    {
+      "title": "Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling",
+      "url": "https://arxiv.org/abs/2607.08867",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08867v1 Announce Type: new Abstract: Cloud-based deep learning enables large-scale medical image analysis but raises significant privacy concerns when sensitive patient images are outsourced for model development. Image disguising has recently emerged as a promising privacy-enhancing tech"
+    },
+    {
+      "title": "Decoupled Illumination Priors for Spatially Controllable Multi-View Indoor Scene Relighting",
+      "url": "https://arxiv.org/abs/2607.08879",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08879v1 Announce Type: new Abstract: Indoor scene relighting demands photorealism, precise spatial control, and strict multi-view consistency. While diffusion-based image editing models enable semantic lighting manipulation via text prompts, enforcing exact 3D light placement often disrup"
+    },
+    {
+      "title": "HAT Super-Resolution and a PARSeq+CLIP4STR Voting Ensemble for Extreme In-the-Wild License Plate Recognition",
+      "url": "https://arxiv.org/abs/2607.08896",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08896v1 Announce Type: new Abstract: We describe our entry to the ICIP 2026 Grand Challenge on Extreme In-the-Wild License Plate Super-Resolution (XLPSR), which scored 9.73 wECR on the public validation leaderboard. The system pairs a Hybrid Attention Transformer super-resolution (HAT) fr"
+    },
+    {
+      "title": "Vision Transformers Learn Gestalt-Like Figure-Ground Cues from Natural Images",
+      "url": "https://arxiv.org/abs/2607.08932",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08932v1 Announce Type: new Abstract: Figure-ground organization in the human visual system relies on several shape-based cues, including surroundedness, convexity, and symmetry. While these cues have been extensively studied using abstract stimuli, little is known about how they operate u"
+    },
+    {
+      "title": "Is sub-metre resolution necessary for cocoa mapping? A landscape-stratified evaluation of very high resolution imagery, decametric Earth Observation inputs, and operational products in Cote d'Ivoire",
+      "url": "https://arxiv.org/abs/2607.08945",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08945v1 Announce Type: new Abstract: Accurate cocoa mapping is increasingly important for deforestation monitoring, supply-chain transparency, and regulatory applications. Spatial aggregation in conventional medium-resolution Earth observation (EO) imagery may limit cocoa detection in het"
+    },
+    {
+      "title": "MultiView-Bench: A Diagnostic Benchmark for World-Centric Multi-View Integration in VLMs",
+      "url": "https://arxiv.org/abs/2607.08970",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.08970v1 Announce Type: new Abstract: Recent benchmarks for VLMs largely assess single- or limited-view perception, leaving untested the core cognitive ability to integrate observations across viewpoints into a coherent, world-centric (allocentric) 3D mental model. We introduce MultiView-B"
+    },
+    {
+      "title": "C-GAP: Class-Aware and Online Prompting Improves Vision-Language Models on Imbalanced Classes",
+      "url": "https://arxiv.org/abs/2607.09008",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09008v1 Announce Type: new Abstract: Safety-critical perception systems must reliably detect rare object classes within small label spaces, a setting that long-tailed detection methods, designed for hundreds of classes with dense annotation, fundamentally do not address. Open-vocabulary d"
+    },
+    {
+      "title": "Video Generation Models are General-Purpose Vision Learners",
+      "url": "https://arxiv.org/abs/2607.09024",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09024v1 Announce Type: new Abstract: Driven by next-token prediction, NLP shifted from task-specific models into powerful generalist foundation models. What, then, is the equivalent catalyst needed to achieve a general-purpose model in computer vision? In this paper, we contend that large"
+    },
+    {
+      "title": "MOSAIC: Adaptive Inter-layer Composition for Efficient Heterogeneous Vision-Language Models",
+      "url": "https://arxiv.org/abs/2607.09029",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09029v1 Announce Type: new Abstract: Vision-Language Models (VLMs) have achieved success using homogeneous Transformers to process multimedia data. Recent studies show that heterogeneous structures interleaving efficient mechanisms, like linear attention, improve both performance and infe"
+    },
+    {
+      "title": "STEAM: Stable Self-Training with Elastic Matching and Adaptive Purification",
+      "url": "https://arxiv.org/abs/2607.09057",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09057v1 Announce Type: new Abstract: Cross-view geo-localization (CVGL) aims to achieve GPS-free localization by matching drone-view images with corresponding satellite-view images. Existing supervised methods rely on large-scale manually annotated cross-view image pairs, making them cost"
+    },
+    {
+      "title": "On Locality and Length Generalization in Visual Reasoning",
+      "url": "https://arxiv.org/abs/2607.09061",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09061v1 Announce Type: new Abstract: A striking feature of the human visual system is that it ingests visual information through a series of local foveated glimpses, rather than a single global computation. This makes human vision distinctly different from most popular computer vision mod"
+    },
+    {
+      "title": "Probing Diffusion Denoising Dynamics for Contrastive Representation Learning",
+      "url": "https://arxiv.org/abs/2607.09067",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09067v1 Announce Type: new Abstract: Text-to-image diffusion models exhibit unprecedented generative capability and contain rich intermediate representations that can be useful for discriminative vision tasks. Motivated by this observation, we study a focused question: how can the denoisi"
+    },
+    {
+      "title": "OmniMapBench: Benchmarking Visual-Centric Reasoning on Diverse Map Documents",
+      "url": "https://arxiv.org/abs/2607.09068",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09068v1 Announce Type: new Abstract: Recent advancements in LVLMs necessitate robust benchmarks for complex, visually grounded reasoning. A critical limitation is identified in many document understanding benchmarks: visual content is often reducible to text, enabling high performance wit"
+    },
+    {
+      "title": "Toward Active Object Detection for UAVs in the Wild: A Large-Scale Dataset, Benchmark and Method",
+      "url": "https://arxiv.org/abs/2607.09078",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09078v1 Announce Type: new Abstract: Object detection is a fundamental component in numerous Unmanned Aerial Vehicle (UAV) applications, yet it has long been plagued by hindrances like occlusion or target pixel scarcity. Active Object Detection (AOD) provides a novel paradigm to address t"
+    },
+    {
+      "title": "GeoTrace: Geometry-Aware Trajectory Token Compression for Video Large Language Models",
+      "url": "https://arxiv.org/abs/2607.09080",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09080v1 Announce Type: new Abstract: Although Video Large Language Models (Video LLMs) have shown strong performance in video understanding, their efficiency is still limited by the large number of visual tokens. Existing video token compression methods typically rely on frame-wise salien"
+    },
+    {
+      "title": "Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation",
+      "url": "https://arxiv.org/abs/2607.09081",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09081v1 Announce Type: new Abstract: Dataset condensation for action segmentation synthesizes compact, informative representations of long, untrimmed video datasets. The existing approach relies on Variational Autoencoders and an iterative latent optimization; it is computationally expens"
+    },
+    {
+      "title": "REBASE: Reference-Background Subspace Elimination for Training-Free In-Context Segmentation",
+      "url": "https://arxiv.org/abs/2607.09082",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09082v1 Announce Type: new Abstract: Training-free in-context segmentation enables new object categories to be introduced at inference time from a single annotated reference image, eliminating the retraining and memory overhead of class-incremental learning. Recent approaches achieve this"
+    },
+    {
+      "title": "Subtoken Vision Transformer for Fine-grained Recognition",
+      "url": "https://arxiv.org/abs/2607.09086",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09086v1 Announce Type: new Abstract: We present Subtoken Vision Transformer (SubViT), a selective image tokenization method for fine-grained visual recognition. Standard Vision Transformers compress each fixed-size patch into a single token, although fine-grained distinctions often depend"
+    },
+    {
+      "title": "DETRAM: End-to-end DEtection, Tracking and Recovery of HumAn Meshes",
+      "url": "https://arxiv.org/abs/2607.09089",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09089v1 Announce Type: new Abstract: In the task of human mesh recovery (HMR), multi-person scenes are particularly difficult to handle due to the many entities that appear and occlusions between them over time. In particular for video inputs, there is a need to track each entity reliably"
+    },
+    {
+      "title": "Beyond Time Shifts: Adapting Omni-LLM as a Reference-Free Evaluator for Generative Audio-Visual Models",
+      "url": "https://arxiv.org/abs/2607.09091",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09091v1 Announce Type: new Abstract: As audio-visual generative models evolve into world simulators, cross-modal synchronization stands as a critical proxy for assessing the consistency of world dynamics and causality in generated content. However, existing evaluation metrics presume stru"
+    },
+    {
+      "title": "A Coreset Selection Framework with Ensemble Aggregation for Image Classification",
+      "url": "https://arxiv.org/abs/2607.09100",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09100v1 Announce Type: new Abstract: The rapid growth of image data has produced large-scale datasets, raising concerns about the time and memory costs of model training. Selecting representative training subsets, however, remains challenging: individual sample contributions are unclear, "
+    },
+    {
+      "title": "Equivariant Filter for High Performance Image Tracking using an Event Camera",
+      "url": "https://arxiv.org/abs/2607.09103",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09103v1 Announce Type: new Abstract: Image tracking is the problem of estimating the transformation that relates a moving image of a scene to an original reference image. The problem is important in control of autonomous vehicles or robots, where the image encodes information about the mo"
+    },
+    {
+      "title": "Integrating Large Language Models and Graph Convolutional Networks for Semi-Supervised Image Classification",
+      "url": "https://arxiv.org/abs/2607.09104",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09104v1 Announce Type: new Abstract: While the growing availability of image data has driven significant advances, labeling datasets remains costly and time-consuming. Therefore, semi-supervised approaches such as Graph Convolutional Networks (GCNs), which learn from both labeled and unla"
+    },
+    {
+      "title": "Event Stream based Multi-Modal Video Anomaly Detection: A Benchmark Dataset and Algorithms",
+      "url": "https://arxiv.org/abs/2607.09114",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09114v1 Announce Type: new Abstract: Video anomaly detection (VAD) is critical for automated surveillance but remains fragile under challenging conditions such as illumination variations, fast motion, and complex backgrounds when relying solely on visible light videos. To address these li"
+    },
+    {
+      "title": "Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection",
+      "url": "https://arxiv.org/abs/2607.09115",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09115v1 Announce Type: new Abstract: Event-based vision and spiking neural networks (SNNs) are increasingly adopted for edge intelligence under strict latency and energy constraints. However, the vulnerability of event-based SNN object detection models to availability backdoor attacks rem"
+    },
+    {
+      "title": "4D Human-Scene Reconstruction from Low-Overlap Captures",
+      "url": "https://arxiv.org/abs/2607.09125",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09125v1 Announce Type: new Abstract: Existing volumetric capture of dynamic human performance achieves high fidelity with dense camera arrays. However, in real-world scenarios, only a handful of low-overlap cameras are available, which degrades the output quality and leaves large areas un"
+    },
+    {
+      "title": "IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation",
+      "url": "https://arxiv.org/abs/2607.09133",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09133v1 Announce Type: new Abstract: While large-scale text-to-image generative models have achieved unprecedented visual performance, their inherent reliance on multi-step iterative solvers incurs severe inference latency. Few-step distillation targeting the Classifier-Free Guidance (CFG"
+    },
+    {
+      "title": "Super-Generalist: Towards Comprehensive and Accurate Medical Image Understanding via Generalist-Specialist Synergy",
+      "url": "https://arxiv.org/abs/2607.09135",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09135v1 Announce Type: new Abstract: Medical images require comprehensive and accurate interpretation to support the diagnosis of diverse clincial conditions. Recent vision-language generalist models offer broad task coverage and promising zero-shot capabilities, yet often lack fine-grain"
+    },
+    {
+      "title": "Weaving Light and Time: Unified Harmonic-Geometric Representation Learning for Dense RGB-Event Parsing",
+      "url": "https://arxiv.org/abs/2607.09143",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09143v1 Announce Type: new Abstract: Fusing standard RGB frames with asynchronous event streams has emerged as a definitive paradigm for robust perception in degraded environments. Although unified backbones have recently gained traction in multi-modal vision, adapting them to the RGB-Eve"
+    },
+    {
+      "title": "What Pixels Are Enough? SEAMS: Sufficiency Saliency via MSE-Preservation Soft-Masks",
+      "url": "https://arxiv.org/abs/2607.09164",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09164v1 Announce Type: new Abstract: Saliency maps are most useful when they identify the image regions that are sufficient to preserve a model's behaviour. We introduce SEAMS, a sufficiency-based saliency method that directly optimises a soft mask using a preservation objective. Given a "
+    },
+    {
+      "title": "TSR-Ego: Temporally Guided Stereo Refinement Framework for Egocentric 3D Human Pose Estimation",
+      "url": "https://arxiv.org/abs/2607.09169",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09169v1 Announce Type: new Abstract: Egocentric 3D human pose estimation from head-mounted stereo cameras is challenging due to fisheye distortion, severe self-occlusion, and frequent truncation of body joints outside the camera field of view. Recent stereo egocentric methods have improve"
+    },
+    {
+      "title": "Causally Debiased Latent Action Model for Embodied Action Conditioned World Models",
+      "url": "https://arxiv.org/abs/2607.09185",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09185v1 Announce Type: new Abstract: Action-conditioned world models (ACWMs) aim to simulate future observations conditioned on embodied actions, offering a promising foundation for robot planning, policy evaluation, and data augmentation. However, learning controllable ACWMs requires lar"
+    },
+    {
+      "title": "HiHR: Hierarchical Hyperbolic Representation for Aerial-Ground Person Re-Identification",
+      "url": "https://arxiv.org/abs/2607.09186",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09186v1 Announce Type: new Abstract: Aerial-Ground Person Re-IDentification (AG-ReID) aims to retrieve the same person across heterogeneous aerial and ground camera platforms. Although great progress has been made, existing methods remain suboptimal due to the direct feature alignment acr"
+    },
+    {
+      "title": "YeTI: You Only Need Two Noisy Images for Real-World sRGB Noise Generation",
+      "url": "https://arxiv.org/abs/2607.09193",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09193v1 Announce Type: new Abstract: Real-world sRGB image denoising remains challenging due to the nonlinear characteristics of sensor noise and the difficulty of acquiring aligned clean-noisy image pairs. Supervised denoisers often overfit to limited paired datasets, while self-supervis"
+    },
+    {
+      "title": "Glob3R: Global Structure-from-Motion with 3D Foundation Models",
+      "url": "https://arxiv.org/abs/2607.09225",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09225v1 Announce Type: new Abstract: Recent 3D geometric foundation models, such as VGGT, provide robust feed-forward 3D reconstruction by directly predicting camera poses and 3D scene points from input images. However, their results remain inaccurate, and scaling them to long sequences o"
+    },
+    {
+      "title": "AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration",
+      "url": "https://arxiv.org/abs/2607.09260",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09260v1 Announce Type: new Abstract: We present a novel integrated architecture for robust online 3D Gaussian splatting, real-time VR exploration, and speech-driven Vision-Language-Model interaction. Unlike methods assuming clean depth or external poses, our system combines ORB-SLAM3-base"
+    },
+    {
+      "title": "Semantic Hardness Is Not Visual Hardness: Sign-Aware Hard Negative Mining for Sign Language Retrieval",
+      "url": "https://arxiv.org/abs/2607.09263",
+      "source": "arXiv cs.CV",
+      "category": "Nghiên cứu",
+      "tier": "primary",
+      "published_iso": "2026-07-13T04:00:00+00:00",
+      "published_ts": 1783915200.0,
+      "summary": "arXiv:2607.09263v1 Announce Type: new Abstract: Sign Language Retrieval (SLRet) enables efficient access to sign language content but remains fragile in fine-grained scenarios where visually similar signs must be distinguished. We show that this limitation does not stem from model capacity, but from"
+    },
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
@@ -255,16 +1675,6 @@
       "published_iso": "2026-07-10T09:00:00+00:00",
       "published_ts": 1783674000.0,
       "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have"
-    },
-    {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-10T07:00:00+00:00",
-      "published_ts": 1783666800.0,
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
     }
   ]
 }
