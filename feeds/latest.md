@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-13T15:08:12.580533+00:00 (UTC) — cửa sổ 72h — 157 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-13T18:04:17.924986+00:00 (UTC) — cửa sổ 72h — 162 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Nghiên cứu
@@ -434,6 +434,9 @@
 
 ## Phân tích
 
+- 🔵 **The AI Arms Race in Technical Interviews Is Escalating** — IEEE Spectrum AI — `2026-07-13T15:15:03+00:00`
+  - https://spectrum.ieee.org/technical-interview-ai-arms-race
+  - Software engineering jobs are under threat from AI . Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews. Meanwhile, some employers are countering with—you guessed it—AI. They’re applying
 - 🔵 **The Download: a donor conception cap and world models for AI** — MIT Tech Review — `2026-07-13T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a 
@@ -443,15 +446,33 @@
 
 ## Tin tức
 
+- 🔵 **Sam Altman’s space data center trash talk is what most experts already believe** — TechCrunch AI — `2026-07-13T17:28:37+00:00`
+  - https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/
+  - Responding to Musk accusing him of being a scammer, Altman said, "homeboy you're the one sellling [sic] public market investors on short-term space datacenters."
+- 🔵 **The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI** — The Verge AI — `2026-07-13T17:00:00+00:00`
+  - https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims
+  - When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confi
+- 🔵 **Should AI help you get away with killing your spouse?** — TechCrunch AI — `2026-07-13T16:31:23+00:00`
+  - https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/
+  - What does a world of total user-aligned AI actually look like?
+- 🔵 **Anthropic starts localizing Claude pricing for India, its biggest market after the US** — TechCrunch AI — `2026-07-13T15:34:59+00:00`
+  - https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/
+  - Claude users in India are starting to see Indian rupee-denominated subscription plans.
+- 🔵 **Now, defenders are embracing the prompt injection, too** — Ars Technica AI — `2026-07-13T15:06:34+00:00`
+  - https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/
+  - "Context bombing" tricks hacking agents into shutting down before they can do harm.
 - 🔵 **Waze adds new AI-powered features and customization updates** — TechCrunch AI — `2026-07-13T14:18:16+00:00`
   - https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/
-  - Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.
+  - Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.
+- 🔵 **Simulating everything, sort of: The promise and limits of world models** — Ars Technica AI — `2026-07-13T11:00:51+00:00`
+  - https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/
+  - Experts explain how they work, what they can do, and what's still unsettled.
 - 🔵 **Waze is getting a bunch of new AI-powered features** — The Verge AI — `2026-07-13T09:00:00+00:00`
   - https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty
   - Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation repor
 - 🔵 **Lorde says Ray-Ban Meta AI glasses are ‘not sexy’** — The Verge AI — `2026-07-12T20:10:19+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy
-  - Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI s
+  - Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI sm
 - 🔵 **Apple’s failed self-driving car program left a legacy of powerful AI chips** — The Verge AI — `2026-07-12T16:27:06+00:00`
   - https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
   - Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor
@@ -476,12 +497,6 @@
 - 🔵 **Open source AI matters more than ever, according to Hugging Face’s Clem Delangue** — TechCrunch AI — `2026-07-10T19:00:00+00:00`
   - https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/
   - Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st
-- 🔵 **SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs** — TechCrunch AI — `2026-07-10T17:17:12+00:00`
-  - https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
-  - The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.
-- 🔵 **Disable autoplay and infinite scroll or risk massive fines, EU tells Meta** — Ars Technica AI — `2026-07-10T15:46:18+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/
-  - Digital Services Act may force Meta to make big changes on its platforms.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
