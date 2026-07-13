@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-13T19:44:57.515071+00:00 (UTC) — cửa sổ 72h — 164 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-13T21:10:21.043616+00:00 (UTC) — cửa sổ 72h — 165 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Nghiên cứu
@@ -449,6 +449,12 @@
 
 ## Tin tức
 
+- 🔵 **Satya Nadella has issued a shocking warning to companies using AI** — TechCrunch AI — `2026-07-13T20:59:00+00:00`
+  - https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/
+  - In a surprising blog post on Monday, Microsoft CEO is warning enterprises of the dangers of using proprietary models like Anthropic's and OpenAI's.
+- 🔵 **Siri AI is already changing how I use my iPhone** — The Verge AI — `2026-07-13T20:43:20+00:00`
+  - https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on
+  - iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [
 - 🔵 **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets** — Ars Technica AI — `2026-07-13T19:17:51+00:00`
   - https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
   - OpenAI accused of conspiring with former Apple employees to steal trade secrets.
@@ -500,9 +506,6 @@
 - 🔵 **Apple sues OpenAI for allegedly stealing hardware secrets** — The Verge AI — `2026-07-10T21:36:51+00:00`
   - https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
   - Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered "a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple." In addition to OpenAI, the lawsuit also names IO Prod
-- 🔵 **Apple sues OpenAI over alleged trade secret theft** — TechCrunch AI — `2026-07-10T21:00:29+00:00`
-  - https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/
-  - Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

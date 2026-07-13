@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T19:44:57.515071+00:00",
+  "generated_at": "2026-07-13T21:10:21.043616+00:00",
   "lookback_hours": 72,
-  "item_count": 164,
+  "item_count": 165,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 7,
+      "items_kept": 8,
       "items_total": 10
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-13T20:59:00+00:00",
+      "published_ts": 1783976340.0,
+      "summary": "In a surprising blog post on Monday, Microsoft CEO is warning enterprises of the dangers of using proprietary models like Anthropic's and OpenAI's."
+    },
+    {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-13T20:43:20+00:00",
+      "published_ts": 1783975400.0,
+      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard ["
+    },
     {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
       "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
@@ -1725,16 +1745,6 @@
       "published_iso": "2026-07-10T21:36:51+00:00",
       "published_ts": 1783719411.0,
       "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Prod"
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-10T21:00:29+00:00",
-      "published_ts": 1783717229.0,
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
     }
   ]
 }
