@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-12T23:05:34.150367+00:00 (UTC) — cửa sổ 72h — 22 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-13T03:53:56.764034+00:00 (UTC) — cửa sổ 72h — 17 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -8,11 +8,6 @@
 - 🟢 **How Deutsche Telekom is rewiring telecommunications with AI** — OpenAI — `2026-07-10T07:00:00+00:00`
   - https://openai.com/index/deutsche-telekom
   - How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.
-
-## Mô hình mở
-
-- 🟢 **Profiling in PyTorch (Part 3): Attention is all you profile** — Hugging Face — `2026-07-10T00:00:00+00:00`
-  - https://huggingface.co/blog/torch-attention-profile
 
 ## Phân tích
 
@@ -67,18 +62,6 @@
 - 🔵 **Would you host part of an AI data center in your home?** — The Verge AI — `2026-07-10T13:20:25+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center
   - A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new "distributed AI compute" program that will "place numerous compute n
-- 🔵 **OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter** — TechCrunch AI — `2026-07-10T00:16:54+00:00`
-  - https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/
-  - OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.
-- 🔵 **Microsoft’s carbon emissions went up 25 percent last year** — The Verge AI — `2026-07-10T00:04:13+00:00`
-  - https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026
-  - Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons "without select interventions." Micro
-- 🔵 **Fidji Simo steps down from OpenAI’s No. 2 role** — TechCrunch AI — `2026-07-09T23:38:00+00:00`
-  - https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/
-  - OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.
-- 🔵 **Fidji Simo steps down from leading OpenAI’s AGI work due to illness** — The Verge AI — `2026-07-09T23:24:04+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor
-  - OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a "part-time advisor," she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
