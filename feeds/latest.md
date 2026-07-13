@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-13T18:04:17.924986+00:00 (UTC) — cửa sổ 72h — 162 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-13T19:44:57.515071+00:00 (UTC) — cửa sổ 72h — 164 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Nghiên cứu
@@ -434,6 +434,9 @@
 
 ## Phân tích
 
+- 🔵 **What Anthropic’s latest AI discovery does—and doesn’t—show** — MIT Tech Review — `2026-07-13T18:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo
 - 🔵 **The AI Arms Race in Technical Interviews Is Escalating** — IEEE Spectrum AI — `2026-07-13T15:15:03+00:00`
   - https://spectrum.ieee.org/technical-interview-ai-arms-race
   - Software engineering jobs are under threat from AI . Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews. Meanwhile, some employers are countering with—you guessed it—AI. They’re applying
@@ -446,6 +449,12 @@
 
 ## Tin tức
 
+- 🔵 **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets** — Ars Technica AI — `2026-07-13T19:17:51+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
+  - OpenAI accused of conspiring with former Apple employees to steal trade secrets.
+- 🔵 **The wildest allegations in Apple’s trade secrets lawsuit against OpenAI** — TechCrunch AI — `2026-07-13T18:22:10+00:00`
+  - https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/
+  - Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.
 - 🔵 **Sam Altman’s space data center trash talk is what most experts already believe** — TechCrunch AI — `2026-07-13T17:28:37+00:00`
   - https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/
   - Responding to Musk accusing him of being a scammer, Altman said, "homeboy you're the one sellling [sic] public market investors on short-term space datacenters."
@@ -494,9 +503,6 @@
 - 🔵 **Apple sues OpenAI over alleged trade secret theft** — TechCrunch AI — `2026-07-10T21:00:29+00:00`
   - https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/
   - Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
-- 🔵 **Open source AI matters more than ever, according to Hugging Face’s Clem Delangue** — TechCrunch AI — `2026-07-10T19:00:00+00:00`
-  - https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/
-  - Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
