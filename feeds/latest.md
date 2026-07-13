@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-13T11:26:35.836757+00:00 (UTC) — cửa sổ 72h — 158 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-13T15:08:12.580533+00:00 (UTC) — cửa sổ 72h — 157 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Nghiên cứu
@@ -434,12 +434,18 @@
 
 ## Phân tích
 
-- 🔵 **The Download: Claude’s inner workings and OpenAI’s “super app”** — MIT Tech Review — `2026-07-10T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on ins
+- 🔵 **The Download: a donor conception cap and world models for AI** — MIT Tech Review — `2026-07-13T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a 
+- 🔵 **Building a Foundation Stack for General-Purpose Robots** — IEEE Spectrum AI — `2026-07-13T10:19:51+00:00`
+  - https://spectrum.ieee.org/x-square-robot-embodied-ai-stack
+  - This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and
 
 ## Tin tức
 
+- 🔵 **Waze adds new AI-powered features and customization updates** — TechCrunch AI — `2026-07-13T14:18:16+00:00`
+  - https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/
+  - Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.
 - 🔵 **Waze is getting a bunch of new AI-powered features** — The Verge AI — `2026-07-13T09:00:00+00:00`
   - https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty
   - Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation repor
@@ -476,15 +482,6 @@
 - 🔵 **Disable autoplay and infinite scroll or risk massive fines, EU tells Meta** — Ars Technica AI — `2026-07-10T15:46:18+00:00`
   - https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/
   - Digital Services Act may force Meta to make big changes on its platforms.
-- 🔵 **Hugging Face’s CEO on why companies are done renting their AI** — TechCrunch AI — `2026-07-10T14:00:00+00:00`
-  - https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/
-  - Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st
-- 🔵 **Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;** — The Verge AI — `2026-07-10T13:45:02+00:00`
-  - https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters
-  - Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you "shouldn't have it in your feed" if you don't like it. "I don't think we should filter out AI content," Mosseri said during an interview on Lenny Rachitsky's podcast. "I think we should let y
-- 🔵 **Would you host part of an AI data center in your home?** — The Verge AI — `2026-07-10T13:20:25+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center
-  - A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new "distributed AI compute" program that will "place numerous compute n
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
