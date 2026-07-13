@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-13T07:33:57.432985+00:00 (UTC) — cửa sổ 72h — 158 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-13T11:26:35.836757+00:00 (UTC) — cửa sổ 72h — 158 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Nghiên cứu
@@ -437,12 +437,12 @@
 - 🔵 **The Download: Claude’s inner workings and OpenAI’s “super app”** — MIT Tech Review — `2026-07-10T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on ins
-- 🔵 **Sperm donors need limits, says a European fertility group** — MIT Tech Review — `2026-07-10T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/
-  - Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have
 
 ## Tin tức
 
+- 🔵 **Waze is getting a bunch of new AI-powered features** — The Verge AI — `2026-07-13T09:00:00+00:00`
+  - https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty
+  - Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation repor
 - 🔵 **Lorde says Ray-Ban Meta AI glasses are ‘not sexy’** — The Verge AI — `2026-07-12T20:10:19+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy
   - Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI s
