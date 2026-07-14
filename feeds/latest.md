@@ -1,16 +1,25 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-14T15:41:39.323904+00:00 (UTC) — cửa sổ 72h — 198 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-14T17:32:44.625817+00:00 (UTC) — cửa sổ 72h — 206 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize** — NVIDIA — `2026-07-14T16:45:13+00:00`
+  - https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/
+  - Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.
 - 🟢 **Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency** — NVIDIA — `2026-07-14T15:00:20+00:00`
   - https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/
   - Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for A
 
 ## Mô hình & LLM
 
+- 🟢 **Celebrating 25 years of visual search innovation** — Google (Keyword AI) — `2026-07-14T16:00:00+00:00`
+  - https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/
+  - Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.
+- 🟢 **How to manage AI investments in the agentic era** — OpenAI — `2026-07-14T10:00:00+00:00`
+  - https://openai.com/index/managing-ai-investments-in-agentic-era
+  - Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.
 - 🟢 **How sales teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
   - https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
   - See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
@@ -506,6 +515,9 @@
 
 ## Phân tích
 
+- 🔵 **How I Turned AI to the Dark Side** — IEEE Spectrum AI — `2026-07-14T15:59:35+00:00`
+  - https://spectrum.ieee.org/jailbreaking-llms
+  - Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc
 - 🔵 **The Download: Claude’s inner workings, and the future of world models** — MIT Tech Review — `2026-07-14T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window in
@@ -527,6 +539,24 @@
 
 ## Tin tức
 
+- 🔵 **Meta accused of using biased AI targeting for mass layoffs** — The Verge AI — `2026-07-14T17:18:11+00:00`
+  - https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs
+  - A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a "constel
+- 🔵 **Google revamps image search for its 25th anniversary with more images and more AI** — Ars Technica AI — `2026-07-14T16:28:14+00:00`
+  - https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/
+  - The new Google image search will use your "unique interests" to create an always-updated gallery.
+- 🔵 **Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer** — TechCrunch AI — `2026-07-14T16:22:15+00:00`
+  - https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/
+  - Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.
+- 🔵 **Google Images gets a Pinterest-like redesign focused on discovery** — TechCrunch AI — `2026-07-14T16:00:00+00:00`
+  - https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/
+  - Now, when users navigate to Google Images, they'll see a "For You" gallery of images tailored to their interests and browsing history.
+- 🔵 **The Google Images homepage will recommend photos even before you search** — The Verge AI — `2026-07-14T16:00:00+00:00`
+  - https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana
+  - Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says t
+- 🔵 **Spotify is now an AI chatbot, too** — The Verge AI — `2026-07-14T15:47:36+00:00`
+  - https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts
+  - Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The "Talk to Spotify" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the cha
 - 🔵 **New York State halts construction of all new data centers** — TechCrunch AI — `2026-07-14T15:17:59+00:00`
   - https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/
   - New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.
@@ -605,12 +635,6 @@
 - 🔵 **Lorde says Ray-Ban Meta AI glasses are ‘not sexy’** — The Verge AI — `2026-07-12T20:10:19+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy
   - Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI sm
-- 🔵 **Apple’s failed self-driving car program left a legacy of powerful AI chips** — The Verge AI — `2026-07-12T16:27:06+00:00`
-  - https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra
-  - Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor
-- 🔵 **The fight against AI data centers is just beginning** — The Verge AI — `2026-07-12T12:00:00+00:00`
-  - https://www.theverge.com/column/963346/ai-data-centers-fight
-  - This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threate
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
