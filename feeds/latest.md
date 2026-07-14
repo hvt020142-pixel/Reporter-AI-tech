@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-13T23:08:57.305088+00:00 (UTC) — cửa sổ 72h — 164 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-14T03:28:27.869129+00:00 (UTC) — cửa sổ 72h — 166 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Nghiên cứu
@@ -16,7 +16,7 @@
   - arXiv:2607.08894v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning, leading to high computational costs and stochasti
 - 🟢 **Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading** — arXiv cs.AI — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.08964
-  - arXiv:2607.08964v1 Announce Type: new Abstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setup overlooks 
+  - arXiv:2607.08964v2 Announce Type: new Abstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setup overlooks 
 - 🟢 **A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game** — arXiv cs.AI — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.08986
   - arXiv:2607.08986v1 Announce Type: new Abstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activity as a formalization game. The objective is to turn a LaTeX document into Lean. The game is won when the development compil
@@ -46,7 +46,7 @@
   - arXiv:2607.09217v1 Announce Type: new Abstract: In this system paper, we present OpenProver, an open-source system for LLM-driven automated theorem proving (ATP) with integrated Lean 4 formal verification. OpenProver integrates a Planner-Worker-Verifier architecture inspired by recent ATP agentic sy
 - 🟢 **LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making** — arXiv cs.AI — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09322
-  - arXiv:2607.09322v1 Announce Type: new Abstract: In this work, we introduce LongMedBench, a real-world EHR-based benchmark for long-horizon clinical decision-making. Prior evaluations of LLM-based medical agents have largely emphasized short-context knowledge QA and tool use. However, real-world medi
+  - arXiv:2607.09322v2 Announce Type: new Abstract: In this work, we introduce LongMedBench, a real-world EHR-based benchmark for long-horizon clinical decision-making. Prior evaluations of LLM-based medical agents have largely emphasized short-context knowledge QA and tool use. However, real-world medi
 - 🟢 **Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks** — arXiv cs.AI — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09330
   - arXiv:2607.09330v1 Announce Type: new Abstract: Embodied agent teams powered by heterogeneous large language models (LLMs) are being widely deployed in physical artificial intelligence such as smart factories, warehouses, and service robotics. To enable collaboration among such an agent team, effici
@@ -112,7 +112,7 @@
   - arXiv:2607.08782v1 Announce Type: cross Abstract: Expert parallelism has become the prevailing paradigm to serve Mixture-of-Experts (MoE) models. Its efficiency depends on the communication and computation latencies of the GPUs, which are linked to the placement of experts in the GPUs. Existing work
 - 🟢 **LieBN: Batch Normalization over Lie Groups** — arXiv cs.AI — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.08783
-  - arXiv:2607.08783v1 Announce Type: cross Abstract: Manifold-valued measurements are prevalent in various machine learning tasks. Recent advances have extended Deep Neural Networks (DNNs) to operate on manifolds, accompanied by normalization techniques tailored to different geometries, collectively re
+  - arXiv:2607.08783v2 Announce Type: cross Abstract: Manifold-valued measurements are prevalent in various machine learning tasks. Recent advances have extended Deep Neural Networks (DNNs) to operate on manifolds, accompanied by normalization techniques tailored to different geometries, collectively re
 - 🟢 **HERO: A Heterogeneity-Aware Benchmark Library for Federated Continual Learning** — arXiv cs.AI — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.08784
   - arXiv:2607.08784v1 Announce Type: cross Abstract: Federated continual learning (FCL) evaluates how distributed clients learn from changing data streams while retaining previously learned knowledge. Existing evaluations are difficult to compare because they often change datasets, task splits, client 
@@ -172,7 +172,7 @@
   - arXiv:2607.09415v1 Announce Type: new Abstract: Long-context processing has become increasingly important for large language models (LLMs), but simply extending the context window does not guarantee effective utilization of long inputs. As input length grows, accuracy often degrades, indicating that
 - 🟢 **A Sovereign, Open-Source Foundation Model for German and English** — arXiv cs.CL — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09424
-  - arXiv:2607.09424v1 Announce Type: new Abstract: We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transformer foundation model for German and English. Its hybrid design activates only 3B of 30B parameters per token and keeps the inference cache near-constant 
+  - arXiv:2607.09424v2 Announce Type: new Abstract: We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transformer foundation model for German and English. Its hybrid design activates only 3B of 30B parameters per token and keeps the inference cache near-constant 
 - 🟢 **Test-Time Scaling for Small VLMs on Multilingual Visual MCQ** — arXiv cs.CL — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09438
   - arXiv:2607.09438v1 Announce Type: new Abstract: Test-time scaling (TTS) reliably improves reasoning in large language models, but whether it transfers to small open vision-language models remains unclear. We examine this on EXAMS-V, a multilingual visual multiple-choice benchmark, comparing self-con
@@ -182,9 +182,9 @@
 - 🟢 **FreyaTTS Technical Report** — arXiv cs.CL — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09530
   - arXiv:2607.09530v1 Announce Type: new Abstract: We introduce Freya-TTS, a compact, tokenizer-free, Turkish-first text-to-speech model designed for highly reliable and efficient conversational synthesis. Freya-TTS is a 183.2M-parameter non-autoregressive conditional flow-matching Diffusion Transforme
-- 🟢 **Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach** — arXiv cs.CL — `2026-07-13T04:00:00+00:00`
+- 🟢 **Conceptual Networks for Cross-Linguistic Idiomatic Expressions: A Feature-Based Graph Approach** — arXiv cs.CL — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09576
-  - arXiv:2607.09576v1 Announce Type: new Abstract: We present an interpretable network-based framework for representing idiomatic and figurative meaning across eight typologically diverse languages, totaling 160 conventional expressions, the large majority of which are idiomatic. Each expression is ann
+  - arXiv:2607.09576v2 Announce Type: new Abstract: We present an interpretable network-based framework for representing idiomatic and figurative meaning across eight typologically diverse languages, totaling 160 conventional expressions, the large majority of which are idiomatic. Each expression is ann
 - 🟢 **Tokenizer Transplantation: Mitigating Autoregressive Collapse in Edge-Efficient Bengali ASR** — arXiv cs.CL — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09598
   - arXiv:2607.09598v1 Announce Type: new Abstract: Lightweight speech recognition models are critical for edge deployment, yet highly optimized architectures like Moonshine often fail on morphologically rich, non-Latin languages such as Bengali. This study identifies the root cause of this failure as t
@@ -394,7 +394,7 @@
   - arXiv:2607.09114v1 Announce Type: new Abstract: Video anomaly detection (VAD) is critical for automated surveillance but remains fragile under challenging conditions such as illumination variations, fast motion, and complex backgrounds when relying solely on visible light videos. To address these li
 - 🟢 **Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection** — arXiv cs.CV — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09115
-  - arXiv:2607.09115v1 Announce Type: new Abstract: Event-based vision and spiking neural networks (SNNs) are increasingly adopted for edge intelligence under strict latency and energy constraints. However, the vulnerability of event-based SNN object detection models to availability backdoor attacks rem
+  - arXiv:2607.09115v2 Announce Type: new Abstract: Event-based vision and spiking neural networks (SNNs) are increasingly adopted for edge intelligence under strict latency and energy constraints. However, the vulnerability of event-based SNN object detection models to availability backdoor attacks rem
 - 🟢 **4D Human-Scene Reconstruction from Low-Overlap Captures** — arXiv cs.CV — `2026-07-13T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09125
   - arXiv:2607.09125v1 Announce Type: new Abstract: Existing volumetric capture of dynamic human performance achieves high fidelity with dense camera arrays. However, in real-world scenarios, only a handful of low-overlap cameras are available, which degrades the output quality and leaves large areas un
@@ -449,6 +449,18 @@
 
 ## Tin tức
 
+- 🔵 **Already rich, already successful, why the last wave of tech winners is grinding again** — TechCrunch AI — `2026-07-14T02:46:42+00:00`
+  - https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/
+  - They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.
+- 🔵 **Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”** — TechCrunch AI — `2026-07-14T00:45:00+00:00`
+  - https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/
+  - Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.
+- 🔵 **Video-generation startup PixVerse raises $439M, valuation soars past $2B** — TechCrunch AI — `2026-07-14T00:00:00+00:00`
+  - https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
+  - With the cash, the company aims to expand its world model offering and reach customers across geographies.
+- 🔵 **Hermes agent maker Nous Research in talks for new funding at $1.5B valuation** — TechCrunch AI — `2026-07-13T23:31:18+00:00`
+  - https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/
+  - The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.
 - 🔵 **Satya Nadella has issued a shocking warning to companies using AI** — TechCrunch AI — `2026-07-13T20:59:00+00:00`
   - https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/
   - Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.
@@ -497,12 +509,6 @@
 - 🔵 **OpenAI bets on families as ChatGPT goes deeper into households** — TechCrunch AI — `2026-07-11T14:13:00+00:00`
   - https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/
   - ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
-- 🔵 **Meta removes controversial AI feature on Instagram after backlash** — TechCrunch AI — `2026-07-10T23:55:07+00:00`
-  - https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
-  - "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the feedback that this feature missed the mark, so it's no longer available."
-- 🔵 **Meta turns off the Instagram feature that let users make AI deepfakes of public accounts** — The Verge AI — `2026-07-10T23:49:50+00:00`
-  - https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes
-  - Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI c
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
