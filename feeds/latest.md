@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-14T19:40:28.789926+00:00 (UTC) — cửa sổ 72h — 210 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-14T21:12:30.430120+00:00 (UTC) — cửa sổ 72h — 211 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -539,6 +539,15 @@
 
 ## Tin tức
 
+- 🔵 **Lawsuit claims Meta's layoff decisions were made by AI, not humans** — Ars Technica AI — `2026-07-14T20:05:53+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/
+  - Meta denies using AI to terminate workers with disabilities and medical problems.
+- 🔵 **Apple opens its new Siri AI to everyone with the iOS 27 public beta** — TechCrunch AI — `2026-07-14T19:42:27+00:00`
+  - https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/
+  - If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.
+- 🔵 **Anthropic’s newest ad is creeping people out** — TechCrunch AI — `2026-07-14T19:41:27+00:00`
+  - https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/
+  - Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.
 - 🔵 **The founder of Hinge raised $18M to build a new AI dating service, Overtone** — TechCrunch AI — `2026-07-14T19:39:39+00:00`
   - https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/
   - Overtone describes itself as "a voice- and audio-forward service, enabled by AI, that provides highly curated introductions."
@@ -632,15 +641,9 @@
 - 🔵 **Should AI help you get away with killing your spouse?** — TechCrunch AI — `2026-07-13T16:31:23+00:00`
   - https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/
   - What does a world of total user-aligned AI actually look like?
-- 🔵 **Anthropic starts localizing Claude pricing for India, its biggest market after the US** — TechCrunch AI — `2026-07-13T15:34:59+00:00`
-  - https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/
-  - Claude users in India are starting to see Indian rupee-denominated subscription plans.
 - 🔵 **Now, defenders are embracing the prompt injection, too** — Ars Technica AI — `2026-07-13T15:06:34+00:00`
   - https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/
   - "Context bombing" tricks hacking agents into shutting down before they can do harm.
-- 🔵 **Waze adds new AI-powered features and customization updates** — TechCrunch AI — `2026-07-13T14:18:16+00:00`
-  - https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/
-  - Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.
 - 🔵 **Simulating everything, sort of: The promise and limits of world models** — Ars Technica AI — `2026-07-13T11:00:51+00:00`
   - https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/
   - Experts explain how they work, what they can do, and what's still unsettled.
