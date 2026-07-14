@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-14T06:21:50.066164+00:00 (UTC) — cửa sổ 72h — 185 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-14T10:07:05.797226+00:00 (UTC) — cửa sổ 72h — 187 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -494,6 +494,9 @@
 
 ## Phân tích
 
+- 🔵 **PsiQuantum has a plan to make a massive quantum computer out of light** — MIT Tech Review — `2026-07-14T08:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/
+  - The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze
 - 🔵 **What Anthropic’s latest AI discovery does—and doesn’t—show** — MIT Tech Review — `2026-07-13T18:00:00+00:00`
   - https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo
@@ -509,6 +512,9 @@
 
 ## Tin tức
 
+- 🔵 **New York becomes the first state to enact a data center moratorium** — The Verge AI — `2026-07-14T09:00:00+00:00`
+  - https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium
+  - New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new env
 - 🔵 **Already rich, already successful, why the last wave of tech winners is grinding again** — TechCrunch AI — `2026-07-14T02:46:42+00:00`
   - https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/
   - They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T06:21:50.066164+00:00",
+  "generated_at": "2026-07-14T10:07:05.797226+00:00",
   "lookback_hours": 72,
-  "item_count": 185,
+  "item_count": 187,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 10
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 10
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-14T09:00:00+00:00",
+      "published_ts": 1784019600.0,
+      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new env"
+    },
+    {
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-14T08:00:00+00:00",
+      "published_ts": 1784016000.0,
+      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze"
+    },
     {
       "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
       "url": "https://arxiv.org/abs/2607.09664",
