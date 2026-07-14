@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-14T17:32:44.625817+00:00 (UTC) — cửa sổ 72h — 206 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-14T19:40:28.789926+00:00 (UTC) — cửa sổ 72h — 210 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -539,6 +539,21 @@
 
 ## Tin tức
 
+- 🔵 **The founder of Hinge raised $18M to build a new AI dating service, Overtone** — TechCrunch AI — `2026-07-14T19:39:39+00:00`
+  - https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/
+  - Overtone describes itself as "a voice- and audio-forward service, enabled by AI, that provides highly curated introductions."
+- 🔵 **SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage** — The Verge AI — `2026-07-14T19:25:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
+  - SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositorie
+- 🔵 **Google faces another AI training lawsuit from major publishers** — TechCrunch AI — `2026-07-14T18:33:31+00:00`
+  - https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/
+  - Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.
+- 🔵 **US military sent explosive drone boats into combat for the first time** — Ars Technica AI — `2026-07-14T18:00:01+00:00`
+  - https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/
+  - US military’s drone boats struck an Iranian naval port as war heats up again.
+- 🔵 **DeepMind CEO calls for an independent standards body to regulate frontier AI** — TechCrunch AI — `2026-07-14T17:45:55+00:00`
+  - https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/
+  - DeepMind CEO Demis Hassabis is proposing an AI "standards body" modeled after FINRA, to test frontier models and develop best practices for their release.
 - 🔵 **Meta accused of using biased AI targeting for mass layoffs** — The Verge AI — `2026-07-14T17:18:11+00:00`
   - https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs
   - A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a "constel
@@ -632,9 +647,6 @@
 - 🔵 **Waze is getting a bunch of new AI-powered features** — The Verge AI — `2026-07-13T09:00:00+00:00`
   - https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty
   - Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation repor
-- 🔵 **Lorde says Ray-Ban Meta AI glasses are ‘not sexy’** — The Verge AI — `2026-07-12T20:10:19+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy
-  - Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI sm
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
