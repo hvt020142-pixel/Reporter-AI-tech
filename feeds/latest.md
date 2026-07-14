@@ -1,10 +1,16 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-14T10:07:05.797226+00:00 (UTC) — cửa sổ 72h — 187 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-14T11:42:20.087726+00:00 (UTC) — cửa sổ 72h — 189 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
 
+- 🟢 **How data science teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
+  - https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
+  - See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
+- 🟢 **How sales teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
+  - https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
+  - See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
 - 🟢 **Empowering India’s next generation of innovators with ATL Saathi** — Google DeepMind — `2026-07-13T12:37:28+00:00`
   - https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/
   - Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-14T10:07:05.797226+00:00",
+  "generated_at": "2026-07-14T11:42:20.087726+00:00",
   "lookback_hours": 72,
-  "item_count": 187,
+  "item_count": 189,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 0,
+      "items_kept": 2,
       "items_total": 1040
     },
     {
@@ -1735,6 +1735,26 @@
       "published_iso": "2026-07-14T00:45:00+00:00",
       "published_ts": 1783989900.0,
       "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice."
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-14T00:00:00+00:00",
+      "published_ts": 1783987200.0,
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-14T00:00:00+00:00",
+      "published_ts": 1783987200.0,
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
     },
     {
       "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
