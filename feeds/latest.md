@@ -1,7 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-14T14:09:28.410000+00:00 (UTC) — cửa sổ 72h — 193 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-14T15:41:39.323904+00:00 (UTC) — cửa sổ 72h — 198 mục — nguồn sơ cấp/uy tín.*
 
+
+## Hạ tầng & phần cứng
+
+- 🟢 **Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency** — NVIDIA — `2026-07-14T15:00:20+00:00`
+  - https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/
+  - Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for A
 
 ## Mô hình & LLM
 
@@ -521,12 +527,27 @@
 
 ## Tin tức
 
+- 🔵 **New York State halts construction of all new data centers** — TechCrunch AI — `2026-07-14T15:17:59+00:00`
+  - https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/
+  - New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.
+- 🔵 **New York bans data center construction for a year, rattling AI industry** — Ars Technica AI — `2026-07-14T15:06:28+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/
+  - New York’s data center moratorium may become the blueprint for anti-AI movement.
+- 🔵 **Reflection inks $1B compute deal with Nebius** — TechCrunch AI — `2026-07-14T14:37:48+00:00`
+  - https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/
+  - Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.
+- 🔵 **The real AI race may no longer be at the frontier** — TechCrunch AI — `2026-07-14T14:24:53+00:00`
+  - https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/
+  - Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?
 - 🔵 **Spotify expands its AI push with a ChatGPT-like music assistant** — TechCrunch AI — `2026-07-14T14:06:47+00:00`
   - https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/
-  - Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, and audiobooks, and more.
+  - Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.
 - 🔵 **Sam Altman didn’t need another lawsuit** — The Verge AI — `2026-07-14T14:01:07+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo
   - OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit agai
+- 🔵 **Superhuman’s new auto-draft feature almost makes me like AI replies** — TechCrunch AI — `2026-07-14T14:00:00+00:00`
+  - https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/
+  - Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.
 - 🔵 **Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US** — The Verge AI — `2026-07-14T11:43:29+00:00`
   - https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog
   - Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards "giv
@@ -590,9 +611,6 @@
 - 🔵 **The fight against AI data centers is just beginning** — The Verge AI — `2026-07-12T12:00:00+00:00`
   - https://www.theverge.com/column/963346/ai-data-centers-fight
   - This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threate
-- 🔵 **OpenAI bets on families as ChatGPT goes deeper into households** — TechCrunch AI — `2026-07-11T14:13:00+00:00`
-  - https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/
-  - ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
