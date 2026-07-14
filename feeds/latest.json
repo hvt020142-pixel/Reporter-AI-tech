@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T21:12:30.430120+00:00",
+  "generated_at": "2026-07-14T23:08:35.686397+00:00",
   "lookback_hours": 72,
   "item_count": 211,
   "sources_ok": [
@@ -7,7 +7,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
       "items_kept": 3,
-      "items_total": 1041
+      "items_total": 1035
     },
     {
       "source": "Google DeepMind",
@@ -96,6 +96,46 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-14T22:22:24+00:00",
+      "published_ts": 1784067744.0,
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\""
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-14T22:07:42+00:00",
+      "published_ts": 1784066862.0,
+      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit."
+    },
+    {
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-14T21:50:11+00:00",
+      "published_ts": 1784065811.0,
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June."
+    },
+    {
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-14T21:26:32+00:00",
+      "published_ts": 1784064392.0,
+      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit a"
+    },
     {
       "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
       "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
@@ -2017,16 +2057,6 @@
       "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice."
     },
     {
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-14T00:00:00+00:00",
-      "published_ts": 1783987200.0,
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
       "title": "How data science teams use ChatGPT Work",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "source": "OpenAI",
@@ -2035,6 +2065,16 @@
       "published_iso": "2026-07-14T00:00:00+00:00",
       "published_ts": 1783987200.0,
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-14T00:00:00+00:00",
+      "published_ts": 1783987200.0,
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
     },
     {
       "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
@@ -2087,16 +2127,6 @@
       "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets."
     },
     {
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-13T18:22:10+00:00",
-      "published_ts": 1783966930.0,
-      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims."
-    },
-    {
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
       "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "source": "MIT Tech Review",
@@ -2107,16 +2137,6 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo"
     },
     {
-      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-13T17:28:37+00:00",
-      "published_ts": 1783963717.0,
-      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\""
-    },
-    {
       "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
       "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
       "source": "The Verge AI",
@@ -2125,16 +2145,6 @@
       "published_iso": "2026-07-13T17:00:00+00:00",
       "published_ts": 1783962000.0,
       "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confi"
-    },
-    {
-      "title": "Should AI help you get away with killing your spouse?",
-      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-13T16:31:23+00:00",
-      "published_ts": 1783960283.0,
-      "summary": "What does a world of total user-aligned AI actually look like?"
     },
     {
       "title": "The AI Arms Race in Technical Interviews Is Escalating",
@@ -2195,16 +2205,6 @@
       "published_iso": "2026-07-13T10:19:51+00:00",
       "published_ts": 1783937991.0,
       "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and"
-    },
-    {
-      "title": "Waze is getting a bunch of new AI-powered features",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-13T09:00:00+00:00",
-      "published_ts": 1783933200.0,
-      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation repor"
     }
   ]
 }

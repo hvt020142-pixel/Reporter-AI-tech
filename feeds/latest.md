@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-14T21:12:30.430120+00:00 (UTC) — cửa sổ 72h — 211 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-14T23:08:35.686397+00:00 (UTC) — cửa sổ 72h — 211 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,12 +20,12 @@
 - 🟢 **How to manage AI investments in the agentic era** — OpenAI — `2026-07-14T10:00:00+00:00`
   - https://openai.com/index/managing-ai-investments-in-agentic-era
   - Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.
-- 🟢 **How sales teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
-  - https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
-  - See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
 - 🟢 **How data science teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
   - https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
   - See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
+- 🟢 **How sales teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
+  - https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
+  - See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
 - 🟢 **Empowering India’s next generation of innovators with ATL Saathi** — Google DeepMind — `2026-07-13T12:37:28+00:00`
   - https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/
   - Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.
@@ -539,6 +539,18 @@
 
 ## Tin tức
 
+- 🔵 **OpenAI’s first hardware device is reportedly a screenless speaker that can move** — TechCrunch AI — `2026-07-14T22:22:24+00:00`
+  - https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/
+  - The device is weirdly described as involving "mechanical elements that can move on their own" and the Bloomberg report includes the detail that the device is designed to "feel like a companion and become a physical manifestation of OpenAI’s ChatGPT."
+- 🔵 **OpenAI pushes back on Apple trade secret lawsuit** — TechCrunch AI — `2026-07-14T22:07:42+00:00`
+  - https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/
+  - OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.
+- 🔵 **OpenAI’s new flagship model deletes files on its own, people keep warning** — TechCrunch AI — `2026-07-14T21:50:11+00:00`
+  - https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/
+  - A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.
+- 🔵 **OpenAI may announce a ChatGPT smart speaker this year** — The Verge AI — `2026-07-14T21:26:32+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
+  - OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to "understand" your environment. The report comes just days after Apple filed a lawsuit a
 - 🔵 **Lawsuit claims Meta's layoff decisions were made by AI, not humans** — Ars Technica AI — `2026-07-14T20:05:53+00:00`
   - https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/
   - Meta denies using AI to terminate workers with disabilities and medical problems.
@@ -629,27 +641,15 @@
 - 🔵 **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets** — Ars Technica AI — `2026-07-13T19:17:51+00:00`
   - https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
   - OpenAI accused of conspiring with former Apple employees to steal trade secrets.
-- 🔵 **The wildest allegations in Apple’s trade secrets lawsuit against OpenAI** — TechCrunch AI — `2026-07-13T18:22:10+00:00`
-  - https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/
-  - Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.
-- 🔵 **Sam Altman’s space data center trash talk is what most experts already believe** — TechCrunch AI — `2026-07-13T17:28:37+00:00`
-  - https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/
-  - Responding to Musk accusing him of being a scammer, Altman said, "homeboy you're the one sellling [sic] public market investors on short-term space datacenters."
 - 🔵 **The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI** — The Verge AI — `2026-07-13T17:00:00+00:00`
   - https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims
   - When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confi
-- 🔵 **Should AI help you get away with killing your spouse?** — TechCrunch AI — `2026-07-13T16:31:23+00:00`
-  - https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/
-  - What does a world of total user-aligned AI actually look like?
 - 🔵 **Now, defenders are embracing the prompt injection, too** — Ars Technica AI — `2026-07-13T15:06:34+00:00`
   - https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/
   - "Context bombing" tricks hacking agents into shutting down before they can do harm.
 - 🔵 **Simulating everything, sort of: The promise and limits of world models** — Ars Technica AI — `2026-07-13T11:00:51+00:00`
   - https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/
   - Experts explain how they work, what they can do, and what's still unsettled.
-- 🔵 **Waze is getting a bunch of new AI-powered features** — The Verge AI — `2026-07-13T09:00:00+00:00`
-  - https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty
-  - Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation repor
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
