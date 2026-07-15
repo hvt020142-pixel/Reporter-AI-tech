@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-15T14:05:41.980135+00:00",
+  "generated_at": "2026-07-15T15:44:58.956270+00:00",
   "lookback_hours": 72,
-  "item_count": 215,
+  "item_count": 216,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
       "items_kept": 3,
-      "items_total": 1035
+      "items_total": 1034
     },
     {
       "source": "Google DeepMind",
@@ -90,14 +90,34 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
     {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "title": "The First Chatbot’s Multiple Personalities",
+      "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T15:35:53+00:00",
+      "published_ts": 1784129753.0,
+      "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychothera"
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T15:29:33+00:00",
+      "published_ts": 1784129373.0,
+      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most impor"
+    },
+    {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
@@ -107,14 +127,14 @@
       "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
     },
     {
-      "title": "This AI Folds DNA into Mini Masterpieces",
+      "title": "This AI Folds DNA Into Mini Masterpieces",
       "url": "https://spectrum.ieee.org/ai-dna-origami",
       "source": "IEEE Spectrum AI",
       "category": "Phân tích",
       "tier": "reputable",
       "published_iso": "2026-07-15T13:00:01+00:00",
       "published_ts": 1784120401.0,
-      "summary": "Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami that can bend genetic material into any form. Designing DNA strands so "
+      "summary": "Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami , which can bend genetic material into any form. Designing DNA strands "
     },
     {
       "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
@@ -1655,16 +1675,6 @@
       "published_iso": "2026-07-14T14:37:48+00:00",
       "published_ts": 1784039868.0,
       "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology."
-    },
-    {
-      "title": "The real AI race may no longer be at the frontier",
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T14:24:53+00:00",
-      "published_ts": 1784039093.0,
-      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?"
     },
     {
       "title": "Sam Altman didn’t need another lawsuit",

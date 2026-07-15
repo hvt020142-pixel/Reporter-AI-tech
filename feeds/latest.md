@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-15T14:05:41.980135+00:00 (UTC) — cửa sổ 72h — 215 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-15T15:44:58.956270+00:00 (UTC) — cửa sổ 72h — 216 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -523,9 +523,12 @@
 
 ## Phân tích
 
-- 🔵 **This AI Folds DNA into Mini Masterpieces** — IEEE Spectrum AI — `2026-07-15T13:00:01+00:00`
+- 🔵 **The First Chatbot’s Multiple Personalities** — IEEE Spectrum AI — `2026-07-15T15:35:53+00:00`
+  - https://spectrum.ieee.org/eliza-chatbot-source-code
+  - ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychothera
+- 🔵 **This AI Folds DNA Into Mini Masterpieces** — IEEE Spectrum AI — `2026-07-15T13:00:01+00:00`
   - https://spectrum.ieee.org/ai-dna-origami
-  - Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami that can bend genetic material into any form. Designing DNA strands so 
+  - Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami , which can bend genetic material into any form. Designing DNA strands 
 - 🔵 **The Download: a useful quantum machine and a record-breaking subsea tunnel** — MIT Tech Review — `2026-07-15T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like
@@ -553,7 +556,10 @@
 
 ## Tin tức
 
-- 🔵 **Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models** — TechCrunch AI — `2026-07-15T13:10:47+00:00`
+- 🔵 **Apple Intelligence approved for launch in China with Alibaba’s Qwen AI** — TechCrunch AI — `2026-07-15T15:29:33+00:00`
+  - https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
+  - Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most impor
+- 🔵 **Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models** — TechCrunch AI — `2026-07-15T13:10:47+00:00`
   - https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/
   - Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.
 - 🔵 **Reelful’s AI turns your camera roll into short-form videos for social media** — TechCrunch AI — `2026-07-15T13:00:00+00:00`
@@ -637,9 +643,6 @@
 - 🔵 **Reflection inks $1B compute deal with Nebius** — TechCrunch AI — `2026-07-14T14:37:48+00:00`
   - https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/
   - Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.
-- 🔵 **The real AI race may no longer be at the frontier** — TechCrunch AI — `2026-07-14T14:24:53+00:00`
-  - https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/
-  - Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?
 - 🔵 **Sam Altman didn’t need another lawsuit** — The Verge AI — `2026-07-14T14:01:07+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo
   - OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit agai
