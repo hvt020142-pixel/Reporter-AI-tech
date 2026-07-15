@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T11:47:02.017591+00:00",
+  "generated_at": "2026-07-15T14:05:41.980135+00:00",
   "lookback_hours": 72,
-  "item_count": 212,
+  "item_count": 215,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,8 +30,8 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 0,
-      "items_total": 823
+      "items_kept": 1,
+      "items_total": 824
     },
     {
       "source": "arXiv cs.AI",
@@ -84,18 +84,88 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 3,
+      "items_kept": 4,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T13:10:47+00:00",
+      "published_ts": 1784121047.0,
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
+    },
+    {
+      "title": "This AI Folds DNA into Mini Masterpieces",
+      "url": "https://spectrum.ieee.org/ai-dna-origami",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T13:00:01+00:00",
+      "published_ts": 1784120401.0,
+      "summary": "Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami that can bend genetic material into any form. Designing DNA strands so "
+    },
+    {
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T13:00:00+00:00",
+      "published_ts": 1784120400.0,
+      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming."
+    },
+    {
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T13:00:00+00:00",
+      "published_ts": 1784120400.0,
+      "summary": "Rime is handling over 100 million calls each month across multiple companies."
+    },
+    {
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T12:10:00+00:00",
+      "published_ts": 1784117400.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like"
+    },
+    {
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T12:00:00+00:00",
+      "published_ts": 1784116800.0,
+      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers."
+    },
+    {
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T12:00:00+00:00",
+      "published_ts": 1784116800.0,
+      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild."
+    },
     {
       "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
       "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
@@ -1317,6 +1387,16 @@
       "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences."
     },
     {
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-15T00:00:00+00:00",
+      "published_ts": 1784073600.0,
+      "summary": ""
+    },
+    {
       "title": "Lorde says AI glasses are ‘not sexy’",
       "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
       "source": "TechCrunch AI",
@@ -1587,16 +1667,6 @@
       "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?"
     },
     {
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T14:06:47+00:00",
-      "published_ts": 1784038007.0,
-      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more."
-    },
-    {
       "title": "Sam Altman didn’t need another lawsuit",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
       "source": "The Verge AI",
@@ -1605,16 +1675,6 @@
       "published_iso": "2026-07-14T14:01:07+00:00",
       "published_ts": 1784037667.0,
       "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit agai"
-    },
-    {
-      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
-      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T14:00:00+00:00",
-      "published_ts": 1784037600.0,
-      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing."
     },
     {
       "title": "The Download: Claude’s inner workings, and the future of world models",
@@ -2067,26 +2127,6 @@
       "summary": "arXiv:2607.10159v1 Announce Type: new Abstract: In real-world multimodal web scenarios, graph-structured data often arrives in a streaming manner, making graph continual learning a crucial paradigm for continuously modeling such evolving structures. However, existing graph continual learning methods"
     },
     {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T02:46:42+00:00",
-      "published_ts": 1783997202.0,
-      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more."
-    },
-    {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T00:45:00+00:00",
-      "published_ts": 1783989900.0,
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice."
-    },
-    {
       "title": "How data science teams use ChatGPT Work",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "source": "OpenAI",
@@ -2105,16 +2145,6 @@
       "published_iso": "2026-07-14T00:00:00+00:00",
       "published_ts": 1783987200.0,
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T00:00:00+00:00",
-      "published_ts": 1783987200.0,
-      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies."
     },
     {
       "title": "Siri AI is already changing how I use my iPhone",

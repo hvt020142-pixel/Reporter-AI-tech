@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-15T11:47:02.017591+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-15T14:05:41.980135+00:00 (UTC) — cửa sổ 72h — 215 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -32,6 +32,11 @@
 - 🟢 **Empowering India’s next generation of innovators with ATL Saathi** — Google DeepMind — `2026-07-13T12:37:28+00:00`
   - https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/
   - Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.
+
+## Mô hình mở
+
+- 🟢 **Introducing Real World VoiceEQ: Measuring the human quality of voice AI** — Hugging Face — `2026-07-15T00:00:00+00:00`
+  - https://huggingface.co/blog/real-world-voiceeq
 
 ## Nghiên cứu
 
@@ -518,6 +523,12 @@
 
 ## Phân tích
 
+- 🔵 **This AI Folds DNA into Mini Masterpieces** — IEEE Spectrum AI — `2026-07-15T13:00:01+00:00`
+  - https://spectrum.ieee.org/ai-dna-origami
+  - Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami that can bend genetic material into any form. Designing DNA strands so 
+- 🔵 **The Download: a useful quantum machine and a record-breaking subsea tunnel** — MIT Tech Review — `2026-07-15T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like
 - 🔵 **How I Turned AI to the Dark Side** — IEEE Spectrum AI — `2026-07-14T15:59:35+00:00`
   - https://spectrum.ieee.org/jailbreaking-llms
   - Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc
@@ -542,6 +553,21 @@
 
 ## Tin tức
 
+- 🔵 **Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models** — TechCrunch AI — `2026-07-15T13:10:47+00:00`
+  - https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/
+  - Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.
+- 🔵 **Reelful’s AI turns your camera roll into short-form videos for social media** — TechCrunch AI — `2026-07-15T13:00:00+00:00`
+  - https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/
+  - The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.
+- 🔵 **Rime picks up $24M Series A to help enterprises field customer calls** — TechCrunch AI — `2026-07-15T13:00:00+00:00`
+  - https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/
+  - Rime is handling over 100 million calls each month across multiple companies.
+- 🔵 **Indian AI coding startup Emergent becomes a unicorn with $130M Series C** — TechCrunch AI — `2026-07-15T12:00:00+00:00`
+  - https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/
+  - The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.
+- 🔵 **Vint Cerf is working on a plan to unleash AI agents on the open internet** — TechCrunch AI — `2026-07-15T12:00:00+00:00`
+  - https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/
+  - The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.
 - 🔵 **OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B** — TechCrunch AI — `2026-07-15T00:27:04+00:00`
   - https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/
   - The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.
@@ -614,30 +640,15 @@
 - 🔵 **The real AI race may no longer be at the frontier** — TechCrunch AI — `2026-07-14T14:24:53+00:00`
   - https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/
   - Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?
-- 🔵 **Spotify expands its AI push with a ChatGPT-like music assistant** — TechCrunch AI — `2026-07-14T14:06:47+00:00`
-  - https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/
-  - Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.
 - 🔵 **Sam Altman didn’t need another lawsuit** — The Verge AI — `2026-07-14T14:01:07+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo
   - OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit agai
-- 🔵 **Superhuman’s new auto-draft feature almost makes me like AI replies** — TechCrunch AI — `2026-07-14T14:00:00+00:00`
-  - https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/
-  - Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.
 - 🔵 **Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US** — The Verge AI — `2026-07-14T11:43:29+00:00`
   - https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog
   - Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards "giv
 - 🔵 **New York becomes the first state to enact a data center moratorium** — The Verge AI — `2026-07-14T09:00:00+00:00`
   - https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium
   - New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new env
-- 🔵 **Already rich, already successful, why the last wave of tech winners is grinding again** — TechCrunch AI — `2026-07-14T02:46:42+00:00`
-  - https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/
-  - They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.
-- 🔵 **Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’** — TechCrunch AI — `2026-07-14T00:45:00+00:00`
-  - https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/
-  - Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.
-- 🔵 **Video-generation startup PixVerse raises $439M, valuation soars past $2B** — TechCrunch AI — `2026-07-14T00:00:00+00:00`
-  - https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
-  - With the cash, the company aims to expand its world model offering and reach customers across geographies.
 - 🔵 **Siri AI is already changing how I use my iPhone** — The Verge AI — `2026-07-13T20:43:20+00:00`
   - https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on
   - iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [
