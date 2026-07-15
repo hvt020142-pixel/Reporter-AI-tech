@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-15T21:12:22.608169+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-15T23:10:04.565414+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI** — NVIDIA — `2026-07-15T23:00:54+00:00`
+  - https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/
+  - General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modu
 - 🟢 **NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry** — NVIDIA — `2026-07-15T10:51:37+00:00`
   - https://blogs.nvidia.com/blog/japan-ecosystem-2026/
   - Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest a
@@ -29,12 +32,12 @@
 - 🟢 **How to manage AI investments in the agentic era** — OpenAI — `2026-07-14T10:00:00+00:00`
   - https://openai.com/index/managing-ai-investments-in-agentic-era
   - Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.
-- 🟢 **How data science teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
-  - https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
-  - See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
 - 🟢 **How sales teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
   - https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
   - See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
+- 🟢 **How data science teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
+  - https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
+  - See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
 - 🟢 **Empowering India’s next generation of innovators with ATL Saathi** — Google DeepMind — `2026-07-13T12:37:28+00:00`
   - https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/
   - Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.
@@ -571,6 +574,12 @@
 
 ## Tin tức
 
+- 🔵 **Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents** — VentureBeat AI — `2026-07-15T22:24:17+00:00`
+  - https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents
+  - Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”
+- 🔵 **xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;** — The Verge AI — `2026-07-15T21:33:20+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
+  - The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood "knowingly and intentionally used Grok to circumvent safeguards, alter nonco
 - 🔵 **AI slop movies are the new direct-to-video cash grabs** — The Verge AI — `2026-07-15T20:00:00+00:00`
   - https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood
   - This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki
@@ -673,9 +682,6 @@
 - 🔵 **Sam Altman didn’t need another lawsuit** — The Verge AI — `2026-07-14T14:01:07+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo
   - OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit agai
-- 🔵 **Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US** — The Verge AI — `2026-07-14T11:43:29+00:00`
-  - https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog
-  - Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards "giv
 - 🔵 **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets** — Ars Technica AI — `2026-07-13T19:17:51+00:00`
   - https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
   - OpenAI accused of conspiring with former Apple employees to steal trade secrets.
