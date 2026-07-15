@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T10:13:44.739851+00:00",
+  "generated_at": "2026-07-15T11:47:02.017591+00:00",
   "lookback_hours": 72,
-  "item_count": 211,
+  "item_count": 212,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 18
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-15T10:51:37+00:00",
+      "published_ts": 1784112697.0,
+      "summary": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are this week showcasing the AI ecosystem’s latest advancements. Check back here for upd"
+    },
     {
       "title": "Scaling Point-in-Time Language Models",
       "url": "https://arxiv.org/abs/2607.11889",

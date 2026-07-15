@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-15T10:13:44.739851+00:00 (UTC) — cửa sổ 72h — 211 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-15T11:47:02.017591+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry** — NVIDIA — `2026-07-15T10:51:37+00:00`
+  - https://blogs.nvidia.com/blog/japan-ecosystem-2026/
+  - Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are this week showcasing the AI ecosystem’s latest advancements. Check back here for upd
 - 🟢 **Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize** — NVIDIA — `2026-07-14T16:45:13+00:00`
   - https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/
   - Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.
