@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T19:33:51.496634+00:00",
+  "generated_at": "2026-07-15T21:12:22.608169+00:00",
   "lookback_hours": 72,
   "item_count": 223,
   "sources_ok": [
@@ -97,8 +97,28 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T20:00:00+00:00",
+      "published_ts": 1784145600.0,
+      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki"
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T19:41:38+00:00",
+      "published_ts": 1784144498.0,
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
+    },
+    {
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
       "tier": "reputable",
@@ -1647,16 +1667,6 @@
       "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same."
     },
     {
-      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T19:39:39+00:00",
-      "published_ts": 1784057979.0,
-      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\""
-    },
-    {
       "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
       "source": "The Verge AI",
@@ -1805,16 +1815,6 @@
       "published_iso": "2026-07-14T10:00:00+00:00",
       "published_ts": 1784023200.0,
       "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
-    },
-    {
-      "title": "New York becomes the first state to enact a data center moratorium",
-      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T09:00:00+00:00",
-      "published_ts": 1784019600.0,
-      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new env"
     },
     {
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light",

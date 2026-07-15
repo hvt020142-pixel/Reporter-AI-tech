@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-15T19:33:51.496634+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-15T21:12:22.608169+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -571,8 +571,14 @@
 
 ## Tin tức
 
-- 🔵 **SpaceX slips below its $135 IPO price ahead of Starship launch** — TechCrunch AI — `2026-07-15T18:06:05+00:00`
-  - https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/
+- 🔵 **AI slop movies are the new direct-to-video cash grabs** — The Verge AI — `2026-07-15T20:00:00+00:00`
+  - https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood
+  - This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki
+- 🔵 **Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex** — TechCrunch AI — `2026-07-15T19:41:38+00:00`
+  - https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/
+  - OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.
+- 🔵 **SpaceX falls to $135 IPO price ahead of Starship launch** — TechCrunch AI — `2026-07-15T18:06:05+00:00`
+  - https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/
   - The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.
 - 🔵 **Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling** — TechCrunch AI — `2026-07-15T18:04:06+00:00`
   - https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/
@@ -643,9 +649,6 @@
 - 🔵 **Anthropic’s newest ad is creeping people out** — TechCrunch AI — `2026-07-14T19:41:27+00:00`
   - https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/
   - Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.
-- 🔵 **The founder of Hinge raised $18M to build a new AI dating service, Overtone** — TechCrunch AI — `2026-07-14T19:39:39+00:00`
-  - https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/
-  - Overtone describes itself as "a voice- and audio-forward service, enabled by AI, that provides highly curated introductions."
 - 🔵 **SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage** — The Verge AI — `2026-07-14T19:25:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
   - SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositorie
@@ -673,9 +676,6 @@
 - 🔵 **Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US** — The Verge AI — `2026-07-14T11:43:29+00:00`
   - https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog
   - Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards "giv
-- 🔵 **New York becomes the first state to enact a data center moratorium** — The Verge AI — `2026-07-14T09:00:00+00:00`
-  - https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium
-  - New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new env
 - 🔵 **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets** — Ars Technica AI — `2026-07-13T19:17:51+00:00`
   - https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
   - OpenAI accused of conspiring with former Apple employees to steal trade secrets.
