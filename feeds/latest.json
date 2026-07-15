@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T17:35:23.182879+00:00",
+  "generated_at": "2026-07-15T19:33:51.496634+00:00",
   "lookback_hours": 72,
-  "item_count": 221,
+  "item_count": 223,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,8 +30,8 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 3,
-      "items_total": 826
+      "items_kept": 4,
+      "items_total": 827
     },
     {
       "source": "arXiv cs.AI",
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 5,
+      "items_kept": 6,
       "items_total": 10
     },
     {
@@ -96,6 +96,36 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T18:06:05+00:00",
+      "published_ts": 1784138765.0,
+      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T18:04:06+00:00",
+      "published_ts": 1784138646.0,
+      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view."
+    },
+    {
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T17:48:01+00:00",
+      "published_ts": 1784137681.0,
+      "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and"
+    },
     {
       "title": "What building Shippy taught us about building agents",
       "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
@@ -115,6 +145,16 @@
       "published_iso": "2026-07-15T17:27:01+00:00",
       "published_ts": 1784136421.0,
       "summary": ""
+    },
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T17:09:37+00:00",
+      "published_ts": 1784135377.0,
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m"
     },
     {
       "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
@@ -184,7 +224,17 @@
       "tier": "reputable",
       "published_iso": "2026-07-15T15:29:33+00:00",
       "published_ts": 1784129373.0,
-      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most impor"
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
+    },
+    {
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T15:00:00+00:00",
+      "published_ts": 1784127600.0,
+      "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs"
     },
     {
       "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
@@ -1497,6 +1547,16 @@
       "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences."
     },
     {
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-15T00:00:00+00:00",
+      "published_ts": 1784073600.0,
+      "summary": ""
+    },
+    {
       "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
       "url": "https://huggingface.co/blog/real-world-voiceeq",
       "source": "Hugging Face",
@@ -1607,16 +1667,6 @@
       "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositorie"
     },
     {
-      "title": "Google faces another AI training lawsuit from major publishers",
-      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T18:33:31+00:00",
-      "published_ts": 1784054011.0,
-      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions."
-    },
-    {
       "title": "US military sent explosive drone boats into combat for the first time",
       "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
       "source": "Ars Technica AI",
@@ -1625,16 +1675,6 @@
       "published_iso": "2026-07-14T18:00:01+00:00",
       "published_ts": 1784052001.0,
       "summary": "US military’s drone boats struck an Iranian naval port as war heats up again."
-    },
-    {
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T17:45:55+00:00",
-      "published_ts": 1784051155.0,
-      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release."
     },
     {
       "title": "Meta accused of using biased AI targeting for mass layoffs",
@@ -1665,16 +1705,6 @@
       "published_iso": "2026-07-14T16:28:14+00:00",
       "published_ts": 1784046494.0,
       "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery."
-    },
-    {
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T16:22:15+00:00",
-      "published_ts": 1784046135.0,
-      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools."
     },
     {
       "title": "Celebrating 25 years of visual search innovation",
@@ -2215,16 +2245,6 @@
       "published_iso": "2026-07-14T00:00:00+00:00",
       "published_ts": 1783987200.0,
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "title": "Siri AI is already changing how I use my iPhone",
-      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-13T20:43:20+00:00",
-      "published_ts": 1783975400.0,
-      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard ["
     },
     {
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",

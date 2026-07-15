@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-15T17:35:23.182879+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-15T19:33:51.496634+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -45,6 +45,8 @@
   - https://huggingface.co/blog/allenai/shippy-tech-blog
 - 🟢 **Model Routing Is Simple. Until It Isn’t.** — Hugging Face — `2026-07-15T17:27:01+00:00`
   - https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
+- 🟢 **Welcome Inkling by Thinking Machines** — Hugging Face — `2026-07-15T00:00:00+00:00`
+  - https://huggingface.co/blog/thinkingmachines-inkling
 - 🟢 **Introducing Real World VoiceEQ: Measuring the human quality of voice AI** — Hugging Face — `2026-07-15T00:00:00+00:00`
   - https://huggingface.co/blog/real-world-voiceeq
 
@@ -533,6 +535,9 @@
 
 ## Phân tích
 
+- 🔵 **Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer** — MIT Tech Review — `2026-07-15T17:09:37+00:00`
+  - https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
+  - OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m
 - 🔵 **The First Chatbot’s Multiple Personalities** — IEEE Spectrum AI — `2026-07-15T15:35:53+00:00`
   - https://spectrum.ieee.org/eliza-chatbot-source-code
   - ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychothera
@@ -566,6 +571,15 @@
 
 ## Tin tức
 
+- 🔵 **SpaceX slips below its $135 IPO price ahead of Starship launch** — TechCrunch AI — `2026-07-15T18:06:05+00:00`
+  - https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/
+  - The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.
+- 🔵 **Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling** — TechCrunch AI — `2026-07-15T18:04:06+00:00`
+  - https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/
+  - It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.
+- 🔵 **Suno snatched millions of songs from YouTube, Genius, and Deezer** — The Verge AI — `2026-07-15T17:48:01+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
+  - Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and
 - 🔵 **Hack suggests AI music generator Suno scraped YouTube for training data** — TechCrunch AI — `2026-07-15T17:00:34+00:00`
   - https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/
   - The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.
@@ -583,7 +597,10 @@
   - OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-s
 - 🔵 **Apple Intelligence approved for launch in China with Alibaba’s Qwen AI** — TechCrunch AI — `2026-07-15T15:29:33+00:00`
   - https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
-  - Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most impor
+  - The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.
+- 🔵 **Inside Ode with Anthropic, the startup betting AI services are the future of enterprise** — TechCrunch AI — `2026-07-15T15:00:00+00:00`
+  - https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/
+  - Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs
 - 🔵 **Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models** — TechCrunch AI — `2026-07-15T13:10:47+00:00`
   - https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/
   - Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.
@@ -632,24 +649,15 @@
 - 🔵 **SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage** — The Verge AI — `2026-07-14T19:25:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
   - SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositorie
-- 🔵 **Google faces another AI training lawsuit from major publishers** — TechCrunch AI — `2026-07-14T18:33:31+00:00`
-  - https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/
-  - Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.
 - 🔵 **US military sent explosive drone boats into combat for the first time** — Ars Technica AI — `2026-07-14T18:00:01+00:00`
   - https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/
   - US military’s drone boats struck an Iranian naval port as war heats up again.
-- 🔵 **DeepMind CEO calls for an independent standards body to regulate frontier AI** — TechCrunch AI — `2026-07-14T17:45:55+00:00`
-  - https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/
-  - DeepMind CEO Demis Hassabis is proposing an AI "standards body" modeled after FINRA, to test frontier models and develop best practices for their release.
 - 🔵 **Meta accused of using biased AI targeting for mass layoffs** — The Verge AI — `2026-07-14T17:18:11+00:00`
   - https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs
   - A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a "constel
 - 🔵 **Google revamps image search for its 25th anniversary with more images and more AI** — Ars Technica AI — `2026-07-14T16:28:14+00:00`
   - https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/
   - The new Google image search will use your "unique interests" to create an always-updated gallery.
-- 🔵 **Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer** — TechCrunch AI — `2026-07-14T16:22:15+00:00`
-  - https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/
-  - Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.
 - 🔵 **The Google Images homepage will recommend photos even before you search** — The Verge AI — `2026-07-14T16:00:00+00:00`
   - https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana
   - Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says t
@@ -668,9 +676,6 @@
 - 🔵 **New York becomes the first state to enact a data center moratorium** — The Verge AI — `2026-07-14T09:00:00+00:00`
   - https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium
   - New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new env
-- 🔵 **Siri AI is already changing how I use my iPhone** — The Verge AI — `2026-07-13T20:43:20+00:00`
-  - https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on
-  - iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [
 - 🔵 **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets** — Ars Technica AI — `2026-07-13T19:17:51+00:00`
   - https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
   - OpenAI accused of conspiring with former Apple employees to steal trade secrets.
