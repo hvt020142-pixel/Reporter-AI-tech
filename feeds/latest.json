@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T23:08:35.686397+00:00",
+  "generated_at": "2026-07-15T03:27:56.170785+00:00",
   "lookback_hours": 72,
   "item_count": 211,
   "sources_ok": [
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-15T00:27:04+00:00",
+      "published_ts": 1784075224.0,
+      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences."
+    },
+    {
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-14T23:10:02+00:00",
+      "published_ts": 1784070602.0,
+      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage."
+    },
     {
       "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
       "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
@@ -794,7 +814,7 @@
       "tier": "primary",
       "published_iso": "2026-07-14T04:00:00+00:00",
       "published_ts": 1784001600.0,
-      "summary": "arXiv:2607.10079v1 Announce Type: new Abstract: Digital Adoption Platforms (DAPs) are embedded overlays widely used on web systems to guide users through operations inside a page, helping them get started with unfamiliar interfaces quickly. Completing a real task, however, rarely means clicking a fe"
+      "summary": "arXiv:2607.10079v2 Announce Type: new Abstract: Digital Adoption Platforms (DAPs) are embedded overlays widely used on web systems to guide users through operations inside a page, helping them get started with unfamiliar interfaces quickly. Completing a real task, however, rarely means clicking a fe"
     },
     {
       "title": "Looped State-Space Language Models with Adaptive Exit-State Selection",
@@ -824,7 +844,7 @@
       "tier": "primary",
       "published_iso": "2026-07-14T04:00:00+00:00",
       "published_ts": 1784001600.0,
-      "summary": "arXiv:2607.10144v1 Announce Type: new Abstract: Scientific research is a complex, multi-stage workflow rather than a single act of text generation. The ideation process typically emerges through literature search, paper reading, tool use, claim checking, cross-paper synthesis, brainstorming, rejecti"
+      "summary": "arXiv:2607.10144v2 Announce Type: new Abstract: Scientific ideation unfolds over multiple stages, including literature search, paper reading, tool use, claim checking, cross-paper synthesis, brainstorming, rejection of weak directions, and iterative writing. Yet most existing resources capture isola"
     },
     {
       "title": "UNIT: Unleash Large Language Models Potential for Graph Continual Learning",
@@ -1614,7 +1634,7 @@
       "tier": "primary",
       "published_iso": "2026-07-14T04:00:00+00:00",
       "published_ts": 1784001600.0,
-      "summary": "arXiv:2607.09967v1 Announce Type: new Abstract: Many neural networks operations have a multiplicative nature rather than additive: halving or doubling a norm are analogous relatively but require unequal optimization distances when taking linear steps. Adaptive optimizers such as Adam normalize updat"
+      "summary": "arXiv:2607.09967v2 Announce Type: new Abstract: Many neural networks operations have a multiplicative nature rather than additive: halving or doubling a norm are analogous relatively but require unequal optimization distances when taking linear steps. Adaptive optimizers such as Adam normalize updat"
     },
     {
       "title": "Multimodal Routing for Interpretable, Robust, and Auditable Clinical Prediction",
@@ -1667,14 +1687,14 @@
       "summary": "arXiv:2607.09757v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become a cornerstone of parameter-efficient fine-tuning (PEFT); however, the conventional practice of uniform rank assignment ignores the functional heterogeneity of neural layers. Existing rank allocation methods typical"
     },
     {
-      "title": "ReflectWorld-MM: An Entity-Oriented Multi-Media Memory System for Open-Ended Video Streams",
+      "title": "ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams",
       "url": "https://arxiv.org/abs/2607.09759",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-14T04:00:00+00:00",
       "published_ts": 1784001600.0,
-      "summary": "arXiv:2607.09759v1 Announce Type: new Abstract: Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with long-term memory over video streams have attracted incr"
+      "summary": "arXiv:2607.09759v2 Announce Type: new Abstract: Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with long-term memory over video streams have attracted incr"
     },
     {
       "title": "Knowledge-Constrained Shape Optimization with a Mixture-of-Experts Neural Operator for High-Confidence Design",
@@ -2085,26 +2105,6 @@
       "published_iso": "2026-07-14T00:00:00+00:00",
       "published_ts": 1783987200.0,
       "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies."
-    },
-    {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-13T23:31:18+00:00",
-      "published_ts": 1783985478.0,
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors."
-    },
-    {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-13T20:59:00+00:00",
-      "published_ts": 1783976340.0,
-      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses."
     },
     {
       "title": "Siri AI is already changing how I use my iPhone",

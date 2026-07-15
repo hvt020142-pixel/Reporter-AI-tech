@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-14T23:08:35.686397+00:00 (UTC) — cửa sổ 72h — 211 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-15T03:27:56.170785+00:00 (UTC) — cửa sổ 72h — 211 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -139,7 +139,7 @@
   - arXiv:2607.10069v1 Announce Type: new Abstract: Semantic caching defines answer reuse on embedding similarity: two utterances share a stored answer when a similarity score clears a threshold, with no notion of authorization, versioning, or of what makes two demands the same. This note changes the ob
 - 🟢 **MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation** — arXiv cs.AI — `2026-07-14T04:00:00+00:00`
   - https://arxiv.org/abs/2607.10079
-  - arXiv:2607.10079v1 Announce Type: new Abstract: Digital Adoption Platforms (DAPs) are embedded overlays widely used on web systems to guide users through operations inside a page, helping them get started with unfamiliar interfaces quickly. Completing a real task, however, rarely means clicking a fe
+  - arXiv:2607.10079v2 Announce Type: new Abstract: Digital Adoption Platforms (DAPs) are embedded overlays widely used on web systems to guide users through operations inside a page, helping them get started with unfamiliar interfaces quickly. Completing a real task, however, rarely means clicking a fe
 - 🟢 **Looped State-Space Language Models with Adaptive Exit-State Selection** — arXiv cs.AI — `2026-07-14T04:00:00+00:00`
   - https://arxiv.org/abs/2607.10110
   - arXiv:2607.10110v1 Announce Type: new Abstract: Recent work on looped language models suggests that many reasoning problems benefit from greater computational depth rather than from additional independent parameters. Existing studies, however, focus almost exclusively on Transformer backbones, leavi
@@ -148,7 +148,7 @@
   - arXiv:2607.10113v1 Announce Type: new Abstract: Large language model agents increasingly store reusable procedures outside the model. These reusable procedures are often called \emph{skills}: they may be code functions, natural-language instructions, SKILL.md packages, workflow graphs, or learned ad
 - 🟢 **IdeaTrail: Full-Process Agent Trajectories for Scientific Ideation** — arXiv cs.AI — `2026-07-14T04:00:00+00:00`
   - https://arxiv.org/abs/2607.10144
-  - arXiv:2607.10144v1 Announce Type: new Abstract: Scientific research is a complex, multi-stage workflow rather than a single act of text generation. The ideation process typically emerges through literature search, paper reading, tool use, claim checking, cross-paper synthesis, brainstorming, rejecti
+  - arXiv:2607.10144v2 Announce Type: new Abstract: Scientific ideation unfolds over multiple stages, including literature search, paper reading, tool use, claim checking, cross-paper synthesis, brainstorming, rejection of weak directions, and iterative writing. Yet most existing resources capture isola
 - 🟢 **UNIT: Unleash Large Language Models Potential for Graph Continual Learning** — arXiv cs.AI — `2026-07-14T04:00:00+00:00`
   - https://arxiv.org/abs/2607.10159
   - arXiv:2607.10159v1 Announce Type: new Abstract: In real-world multimodal web scenarios, graph-structured data often arrives in a streaming manner, making graph continual learning a crucial paradigm for continuously modeling such evolving structures. However, existing graph continual learning methods
@@ -385,7 +385,7 @@
   - arXiv:2607.09956v1 Announce Type: new Abstract: Pricing food products to balance profitability with consumer welfare is a central challenge for retailers. Dynamic pricing is widely used to maximize revenue, yet most pricing models optimize business objectives while overlooking consumer fairness. Thi
 - 🟢 **Learning in Curved Weight Space:Exponential-Linear Weight Reparameterization for Improved Optimization** — arXiv cs.LG — `2026-07-14T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09967
-  - arXiv:2607.09967v1 Announce Type: new Abstract: Many neural networks operations have a multiplicative nature rather than additive: halving or doubling a norm are analogous relatively but require unequal optimization distances when taking linear steps. Adaptive optimizers such as Adam normalize updat
+  - arXiv:2607.09967v2 Announce Type: new Abstract: Many neural networks operations have a multiplicative nature rather than additive: halving or doubling a norm are analogous relatively but require unequal optimization distances when taking linear steps. Adaptive optimizers such as Adam normalize updat
 - 🟢 **Multimodal Routing for Interpretable, Robust, and Auditable Clinical Prediction** — arXiv cs.LG — `2026-07-14T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09982
   - arXiv:2607.09982v1 Announce Type: new Abstract: Electronic health record (EHR) data are inherently multimodal, and leveraging multiple modalities can improve predictive performance. However, most existing approaches rely on deep fusion, which obscures how individual modalities contribute to predicti
@@ -401,9 +401,9 @@
 - 🟢 **RSLoRA: Training-free Rank Allocation for LoRA via Representational Sensitivity Probing** — arXiv cs.CV — `2026-07-14T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09757
   - arXiv:2607.09757v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become a cornerstone of parameter-efficient fine-tuning (PEFT); however, the conventional practice of uniform rank assignment ignores the functional heterogeneity of neural layers. Existing rank allocation methods typical
-- 🟢 **ReflectWorld-MM: An Entity-Oriented Multi-Media Memory System for Open-Ended Video Streams** — arXiv cs.CV — `2026-07-14T04:00:00+00:00`
+- 🟢 **ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams** — arXiv cs.CV — `2026-07-14T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09759
-  - arXiv:2607.09759v1 Announce Type: new Abstract: Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with long-term memory over video streams have attracted incr
+  - arXiv:2607.09759v2 Announce Type: new Abstract: Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with long-term memory over video streams have attracted incr
 - 🟢 **Knowledge-Constrained Shape Optimization with a Mixture-of-Experts Neural Operator for High-Confidence Design** — arXiv cs.CV — `2026-07-14T04:00:00+00:00`
   - https://arxiv.org/abs/2607.09763
   - arXiv:2607.09763v1 Announce Type: new Abstract: Engineering shape optimization faces challenges in both expert-dependent problem setup and surrogate-model reliability. In practical aerodynamic design, optimization settings such as editable regions, deformation ranges, and design-preservation constra
@@ -539,6 +539,12 @@
 
 ## Tin tức
 
+- 🔵 **OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B** — TechCrunch AI — `2026-07-15T00:27:04+00:00`
+  - https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/
+  - The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.
+- 🔵 **Lorde says AI glasses are ‘not sexy’** — TechCrunch AI — `2026-07-14T23:10:02+00:00`
+  - https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/
+  - "Increasingly in our world, it gets harder and harder to know what is real," Lorde said onstage.
 - 🔵 **OpenAI’s first hardware device is reportedly a screenless speaker that can move** — TechCrunch AI — `2026-07-14T22:22:24+00:00`
   - https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/
   - The device is weirdly described as involving "mechanical elements that can move on their own" and the Bloomberg report includes the detail that the device is designed to "feel like a companion and become a physical manifestation of OpenAI’s ChatGPT."
@@ -629,12 +635,6 @@
 - 🔵 **Video-generation startup PixVerse raises $439M, valuation soars past $2B** — TechCrunch AI — `2026-07-14T00:00:00+00:00`
   - https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
   - With the cash, the company aims to expand its world model offering and reach customers across geographies.
-- 🔵 **Hermes agent maker Nous Research in talks for new funding at $1.5B valuation** — TechCrunch AI — `2026-07-13T23:31:18+00:00`
-  - https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/
-  - The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.
-- 🔵 **Satya Nadella has issued a shocking warning to companies using AI** — TechCrunch AI — `2026-07-13T20:59:00+00:00`
-  - https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/
-  - Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.
 - 🔵 **Siri AI is already changing how I use my iPhone** — The Verge AI — `2026-07-13T20:43:20+00:00`
   - https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on
   - iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [
