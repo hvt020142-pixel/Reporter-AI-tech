@@ -1,13 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-15T15:44:58.956270+00:00 (UTC) — cửa sổ 72h — 216 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-15T17:35:23.182879+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
 - 🟢 **NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry** — NVIDIA — `2026-07-15T10:51:37+00:00`
   - https://blogs.nvidia.com/blog/japan-ecosystem-2026/
-  - Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are this week showcasing the AI ecosystem’s latest advancements. Check back here for upd
+  - Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest a
 - 🟢 **Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize** — NVIDIA — `2026-07-14T16:45:13+00:00`
   - https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/
   - Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.
@@ -17,6 +17,12 @@
 
 ## Mô hình & LLM
 
+- 🟢 **The US is advancing AI safety through state and federal action** — OpenAI — `2026-07-15T12:00:00+00:00`
+  - https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
+  - OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.
+- 🟢 **GPT-Red: Unlocking Self-Improvement for Robustness** — OpenAI — `2026-07-15T10:00:00+00:00`
+  - https://openai.com/index/unlocking-self-improvement-gpt-red
+  - Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.
 - 🟢 **Celebrating 25 years of visual search innovation** — Google (Keyword AI) — `2026-07-14T16:00:00+00:00`
   - https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/
   - Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.
@@ -35,6 +41,10 @@
 
 ## Mô hình mở
 
+- 🟢 **What building Shippy taught us about building agents** — Hugging Face — `2026-07-15T17:29:41+00:00`
+  - https://huggingface.co/blog/allenai/shippy-tech-blog
+- 🟢 **Model Routing Is Simple. Until It Isn’t.** — Hugging Face — `2026-07-15T17:27:01+00:00`
+  - https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
 - 🟢 **Introducing Real World VoiceEQ: Measuring the human quality of voice AI** — Hugging Face — `2026-07-15T00:00:00+00:00`
   - https://huggingface.co/blog/real-world-voiceeq
 
@@ -556,6 +566,21 @@
 
 ## Tin tức
 
+- 🔵 **Hack suggests AI music generator Suno scraped YouTube for training data** — TechCrunch AI — `2026-07-15T17:00:34+00:00`
+  - https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/
+  - The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.
+- 🔵 **Whatnot acquires Shaped to power real-time live shopping recommendations** — TechCrunch AI — `2026-07-15T17:00:00+00:00`
+  - https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/
+  - Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.
+- 🔵 **Microsoft patches record number of security vulnerabilities, citing its use of AI** — TechCrunch AI — `2026-07-15T16:20:18+00:00`
+  - https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/
+  - Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.
+- 🔵 **OpenAI's first branded hardware is... a light-up keyboard?** — Ars Technica AI — `2026-07-15T16:00:33+00:00`
+  - https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/
+  - The Codex Micro is designed to monitor multiple agentic threads at a glance.
+- 🔵 **OpenAI finally launches hardware… for Codex** — The Verge AI — `2026-07-15T16:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch
+  - OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-s
 - 🔵 **Apple Intelligence approved for launch in China with Alibaba’s Qwen AI** — TechCrunch AI — `2026-07-15T15:29:33+00:00`
   - https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
   - Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most impor
@@ -625,24 +650,15 @@
 - 🔵 **Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer** — TechCrunch AI — `2026-07-14T16:22:15+00:00`
   - https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/
   - Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.
-- 🔵 **Google Images gets a Pinterest-like redesign focused on discovery** — TechCrunch AI — `2026-07-14T16:00:00+00:00`
-  - https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/
-  - Now, when users navigate to Google Images, they'll see a "For You" gallery of images tailored to their interests and browsing history.
 - 🔵 **The Google Images homepage will recommend photos even before you search** — The Verge AI — `2026-07-14T16:00:00+00:00`
   - https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana
   - Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says t
 - 🔵 **Spotify is now an AI chatbot, too** — The Verge AI — `2026-07-14T15:47:36+00:00`
   - https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts
   - Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The "Talk to Spotify" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the cha
-- 🔵 **New York State halts construction of all new data centers** — TechCrunch AI — `2026-07-14T15:17:59+00:00`
-  - https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/
-  - New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.
 - 🔵 **New York bans data center construction for a year, rattling AI industry** — Ars Technica AI — `2026-07-14T15:06:28+00:00`
   - https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/
   - New York’s data center moratorium may become the blueprint for anti-AI movement.
-- 🔵 **Reflection inks $1B compute deal with Nebius** — TechCrunch AI — `2026-07-14T14:37:48+00:00`
-  - https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/
-  - Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.
 - 🔵 **Sam Altman didn’t need another lawsuit** — The Verge AI — `2026-07-14T14:01:07+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo
   - OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit agai
@@ -658,9 +674,6 @@
 - 🔵 **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets** — Ars Technica AI — `2026-07-13T19:17:51+00:00`
   - https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
   - OpenAI accused of conspiring with former Apple employees to steal trade secrets.
-- 🔵 **The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI** — The Verge AI — `2026-07-13T17:00:00+00:00`
-  - https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims
-  - When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confi
 - 🔵 **Now, defenders are embracing the prompt injection, too** — Ars Technica AI — `2026-07-13T15:06:34+00:00`
   - https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/
   - "Context bombing" tricks hacking agents into shutting down before they can do harm.
