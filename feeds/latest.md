@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-16T06:28:50.999324+00:00 (UTC) — cửa sổ 72h — 220 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-16T10:20:09.206139+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,6 +20,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Our approach to bioresilience** — Google DeepMind — `2026-07-16T09:30:42+00:00`
+  - https://deepmind.google/blog/our-approach-to-bioresilience/
+  - Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.
 - 🟢 **The US is advancing AI safety through state and federal action** — OpenAI — `2026-07-15T12:00:00+00:00`
   - https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
   - OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.
@@ -523,6 +526,9 @@
 
 ## Phân tích
 
+- 🔵 **Why heat pumps are still so hot in the US** — MIT Tech Review — `2026-07-16T10:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/
+  - It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo
 - 🔵 **Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer** — MIT Tech Review — `2026-07-15T17:09:37+00:00`
   - https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
   - OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m
@@ -553,9 +559,6 @@
 - 🔵 **The Download: a donor conception cap and world models for AI** — MIT Tech Review — `2026-07-13T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a 
-- 🔵 **Building a Foundation Stack for General-Purpose Robots** — IEEE Spectrum AI — `2026-07-13T10:19:51+00:00`
-  - https://spectrum.ieee.org/x-square-robot-embodied-ai-stack
-  - This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and
 
 ## Tin tức
 

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T06:28:50.999324+00:00",
+  "generated_at": "2026-07-16T10:20:09.206139+00:00",
   "lookback_hours": 72,
-  "item_count": 220,
+  "item_count": 221,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -12,7 +12,7 @@
     {
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/rss.xml",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 100
     },
     {
@@ -84,18 +84,38 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 5,
+      "items_kept": 4,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Why heat pumps are still so hot in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-16T10:00:00+00:00",
+      "published_ts": 1784196000.0,
+      "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo"
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "Google DeepMind",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-16T09:30:42+00:00",
+      "published_ts": 1784194242.0,
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+    },
     {
       "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
       "url": "https://arxiv.org/abs/2607.13037",
@@ -2285,16 +2305,6 @@
       "published_iso": "2026-07-13T11:00:51+00:00",
       "published_ts": 1783940451.0,
       "summary": "Experts explain how they work, what they can do, and what's still unsettled."
-    },
-    {
-      "title": "Building a Foundation Stack for General-Purpose Robots",
-      "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-13T10:19:51+00:00",
-      "published_ts": 1783937991.0,
-      "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and"
     }
   ]
 }
