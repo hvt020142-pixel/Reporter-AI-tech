@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-16T17:37:21.268781+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-16T19:32:03.405939+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -574,15 +574,27 @@
 - 🔵 **PsiQuantum has a plan to make a massive quantum computer out of light** — MIT Tech Review — `2026-07-14T08:00:00+00:00`
   - https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/
   - The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze
-- 🔵 **What Anthropic’s latest AI discovery does—and doesn’t—show** — MIT Tech Review — `2026-07-13T18:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo
 
 ## Tin tức
 
-- 🔵 **The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs** — VentureBeat AI — `2026-07-16T17:35:19+00:00`
+- 🔵 **Linus Torvalds to critics of AI coding in Linux: "Fork it. Or just walk away."** — Ars Technica AI — `2026-07-16T19:18:23+00:00`
+  - https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/
+  - Creator says he will "very loudly ignore" those arguing for a ban on AI tools.
+- 🔵 **The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs** — VentureBeat AI — `2026-07-16T19:16:48+00:00`
   - https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs
   - Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a
+- 🔵 **The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials** — VentureBeat AI — `2026-07-16T19:02:38+00:00`
+  - https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials
+  - Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents stil
+- 🔵 **Google Vids now lets you star in your own AI videos** — TechCrunch AI — `2026-07-16T18:32:54+00:00`
+  - https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/
+  - Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.
+- 🔵 **Roblox launches an AI-powered game-creation feature in its mobile app** — TechCrunch AI — `2026-07-16T18:22:06+00:00`
+  - https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/
+  - Roblox's new "Build" feature lets users generate basic games using a single text prompt.
+- 🔵 **New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state** — The Verge AI — `2026-07-16T17:58:37+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies
+  - New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using "AI to analyze every single rule, regulation, [and] po
 - 🔵 **The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix** — VentureBeat AI — `2026-07-16T17:06:08+00:00`
   - https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix
   - Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define th
@@ -670,21 +682,12 @@
 - 🔵 **Inside Ode with Anthropic, the startup betting AI services are the future of enterprise** — TechCrunch AI — `2026-07-15T15:00:00+00:00`
   - https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/
   - Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs
-- 🔵 **Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models** — TechCrunch AI — `2026-07-15T13:10:47+00:00`
-  - https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/
-  - Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.
-- 🔵 **Reelful’s AI turns your camera roll into short-form videos for social media** — TechCrunch AI — `2026-07-15T13:00:00+00:00`
-  - https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/
-  - The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.
 - 🔵 **OpenAI may announce a ChatGPT smart speaker this year** — The Verge AI — `2026-07-14T21:26:32+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
   - OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to "understand" your environment. The report comes just days after Apple filed a lawsuit a
 - 🔵 **Lawsuit claims Meta's layoff decisions were made by AI, not humans** — Ars Technica AI — `2026-07-14T20:05:53+00:00`
   - https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/
   - Meta denies using AI to terminate workers with disabilities and medical problems.
-- 🔵 **SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage** — The Verge AI — `2026-07-14T19:25:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload
-  - SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositorie
 - 🔵 **US military sent explosive drone boats into combat for the first time** — Ars Technica AI — `2026-07-14T18:00:01+00:00`
   - https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/
   - US military’s drone boats struck an Iranian naval port as war heats up again.
@@ -694,9 +697,6 @@
 - 🔵 **New York bans data center construction for a year, rattling AI industry** — Ars Technica AI — `2026-07-14T15:06:28+00:00`
   - https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/
   - New York’s data center moratorium may become the blueprint for anti-AI movement.
-- 🔵 **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets** — Ars Technica AI — `2026-07-13T19:17:51+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
-  - OpenAI accused of conspiring with former Apple employees to steal trade secrets.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
