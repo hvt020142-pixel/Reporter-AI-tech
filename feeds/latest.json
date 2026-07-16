@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T21:13:49.622383+00:00",
+  "generated_at": "2026-07-16T23:08:44.722508+00:00",
   "lookback_hours": 72,
-  "item_count": 231,
+  "item_count": 232,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -90,7 +90,7 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 30
     }
   ],
@@ -205,6 +205,16 @@
       "published_iso": "2026-07-16T16:40:48+00:00",
       "published_ts": 1784220048.0,
       "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated ev"
+    },
+    {
+      "title": "How to Make an Invisible Drone",
+      "url": "https://spectrum.ieee.org/invisible-spinning-drone",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-16T16:09:21+00:00",
+      "published_ts": 1784218161.0,
+      "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even l"
     },
     {
       "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",

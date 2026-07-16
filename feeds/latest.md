@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-16T21:13:49.622383+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-16T23:08:44.722508+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -544,6 +544,9 @@
 
 ## Phân tích
 
+- 🔵 **How to Make an Invisible Drone** — IEEE Spectrum AI — `2026-07-16T16:09:21+00:00`
+  - https://spectrum.ieee.org/invisible-spinning-drone
+  - There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even l
 - 🔵 **The Download: OpenAI unveils GPT-Red and heat pumps rise in the US** — MIT Tech Review — `2026-07-16T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring
