@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-16T19:32:03.405939+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-16T21:13:49.622383+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -577,6 +577,15 @@
 
 ## Tin tức
 
+- 🔵 **It's official: EU will force Google to share search data and open up AI on Android** — Ars Technica AI — `2026-07-16T20:41:45+00:00`
+  - https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/
+  - Google says these changes could endanger user privacy and security.
+- 🔵 **xAI can’t deny Grok makes CSAM anymore. So it’s suing users.** — Ars Technica AI — `2026-07-16T20:26:23+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/
+  - Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.
+- 🔵 **Fear of humanoid robots spurs human workers to strike at Hyundai auto factory** — Ars Technica AI — `2026-07-16T20:09:48+00:00`
+  - https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/
+  - Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
 - 🔵 **Linus Torvalds to critics of AI coding in Linux: "Fork it. Or just walk away."** — Ars Technica AI — `2026-07-16T19:18:23+00:00`
   - https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/
   - Creator says he will "very loudly ignore" those arguing for a ban on AI tools.
