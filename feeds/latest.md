@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-16T10:20:09.206139+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-16T14:17:26.759702+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW** — NVIDIA — `2026-07-16T13:00:34+00:00`
+  - https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/
+  - Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can si
 - 🟢 **NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI** — NVIDIA — `2026-07-15T23:00:54+00:00`
   - https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/
   - General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modu
@@ -41,12 +44,13 @@
 - 🟢 **How data science teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
   - https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
   - See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
-- 🟢 **Empowering India’s next generation of innovators with ATL Saathi** — Google DeepMind — `2026-07-13T12:37:28+00:00`
-  - https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/
-  - Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.
 
 ## Mô hình mở
 
+- 🟢 **Newer Models, Same Advantage** — Hugging Face — `2026-07-16T11:49:48+00:00`
+  - https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
+- 🟢 **Security incident disclosure — July 2026** — Hugging Face — `2026-07-16T00:00:00+00:00`
+  - https://huggingface.co/blog/security-incident-july-2026
 - 🟢 **What building Shippy taught us about building agents** — Hugging Face — `2026-07-15T17:29:41+00:00`
   - https://huggingface.co/blog/allenai/shippy-tech-blog
 - 🟢 **Model Routing Is Simple. Until It Isn’t.** — Hugging Face — `2026-07-15T17:27:01+00:00`
@@ -526,6 +530,12 @@
 
 ## Phân tích
 
+- 🔵 **The Download: OpenAI unveils GPT-Red and heat pumps rise in the US** — MIT Tech Review — `2026-07-16T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring
+- 🔵 **Digital Surveillance Reshapes Fishery Enforcement in Indonesia** — IEEE Spectrum AI — `2026-07-16T12:00:01+00:00`
+  - https://spectrum.ieee.org/fishery-satellite-surveillance
+  - In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the c
 - 🔵 **Why heat pumps are still so hot in the US** — MIT Tech Review — `2026-07-16T10:00:00+00:00`
   - https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/
   - It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo
@@ -556,12 +566,21 @@
 - 🔵 **The AI Arms Race in Technical Interviews Is Escalating** — IEEE Spectrum AI — `2026-07-13T15:15:03+00:00`
   - https://spectrum.ieee.org/technical-interview-ai-arms-race
   - Software engineering jobs are under threat from artificial intelligence . Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews. Meanwhile, some employers are countering with—you guessed it
-- 🔵 **The Download: a donor conception cap and world models for AI** — MIT Tech Review — `2026-07-13T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a 
 
 ## Tin tức
 
+- 🔵 **Apple Intelligence approved for launch in China with Alibaba and Baidu** — TechCrunch AI — `2026-07-16T13:17:59+00:00`
+  - https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
+  - The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.
+- 🔵 **Claude can now use your 1Password credentials for you** — The Verge AI — `2026-07-16T13:00:00+00:00`
+  - https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration
+  - 1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing onlin
+- 🔵 **Google ordered to open Android and Search to rivals in Europe** — The Verge AI — `2026-07-16T12:06:51+00:00`
+  - https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma
+  - Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech
+- 🔵 **Computer cops** — The Verge AI — `2026-07-16T11:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops
+  - I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as "the future of policing in the digital age." As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told m
 - 🔵 **Applied Computing wants to give oil and gas operators an AI model for the entire plant** — TechCrunch AI — `2026-07-16T04:00:00+00:00`
   - https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/
   - Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.
@@ -604,9 +623,6 @@
 - 🔵 **OpenAI finally launches hardware… for Codex** — The Verge AI — `2026-07-15T16:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch
   - OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-s
-- 🔵 **Apple Intelligence approved for launch in China with Alibaba’s Qwen AI** — TechCrunch AI — `2026-07-15T15:29:33+00:00`
-  - https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
-  - The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.
 - 🔵 **Inside Ode with Anthropic, the startup betting AI services are the future of enterprise** — TechCrunch AI — `2026-07-15T15:00:00+00:00`
   - https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/
   - Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs
@@ -637,9 +653,6 @@
 - 🔵 **OpenAI pushes back on Apple trade secret lawsuit** — TechCrunch AI — `2026-07-14T22:07:42+00:00`
   - https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/
   - OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.
-- 🔵 **OpenAI’s new flagship model deletes files on its own, people keep warning** — TechCrunch AI — `2026-07-14T21:50:11+00:00`
-  - https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/
-  - A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.
 - 🔵 **OpenAI may announce a ChatGPT smart speaker this year** — The Verge AI — `2026-07-14T21:26:32+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
   - OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to "understand" your environment. The report comes just days after Apple filed a lawsuit a
@@ -658,27 +671,15 @@
 - 🔵 **Google revamps image search for its 25th anniversary with more images and more AI** — Ars Technica AI — `2026-07-14T16:28:14+00:00`
   - https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/
   - The new Google image search will use your "unique interests" to create an always-updated gallery.
-- 🔵 **The Google Images homepage will recommend photos even before you search** — The Verge AI — `2026-07-14T16:00:00+00:00`
-  - https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana
-  - Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says t
-- 🔵 **Spotify is now an AI chatbot, too** — The Verge AI — `2026-07-14T15:47:36+00:00`
-  - https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts
-  - Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The "Talk to Spotify" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the cha
 - 🔵 **New York bans data center construction for a year, rattling AI industry** — Ars Technica AI — `2026-07-14T15:06:28+00:00`
   - https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/
   - New York’s data center moratorium may become the blueprint for anti-AI movement.
-- 🔵 **Sam Altman didn’t need another lawsuit** — The Verge AI — `2026-07-14T14:01:07+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo
-  - OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit agai
 - 🔵 **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets** — Ars Technica AI — `2026-07-13T19:17:51+00:00`
   - https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
   - OpenAI accused of conspiring with former Apple employees to steal trade secrets.
 - 🔵 **Now, defenders are embracing the prompt injection, too** — Ars Technica AI — `2026-07-13T15:06:34+00:00`
   - https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/
   - "Context bombing" tricks hacking agents into shutting down before they can do harm.
-- 🔵 **Simulating everything, sort of: The promise and limits of world models** — Ars Technica AI — `2026-07-13T11:00:51+00:00`
-  - https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/
-  - Experts explain how they work, what they can do, and what's still unsettled.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

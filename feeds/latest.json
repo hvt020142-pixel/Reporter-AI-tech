@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T10:20:09.206139+00:00",
+  "generated_at": "2026-07-16T14:17:26.759702+00:00",
   "lookback_hours": 72,
-  "item_count": 221,
+  "item_count": 222,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -12,7 +12,7 @@
     {
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/rss.xml",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 100
     },
     {
@@ -24,14 +24,14 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 18
     },
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 4,
-      "items_total": 827
+      "items_kept": 6,
+      "items_total": 829
     },
     {
       "source": "arXiv cs.AI",
@@ -60,8 +60,8 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 20,
-      "items_total": 20
+      "items_kept": 19,
+      "items_total": 19
     },
     {
       "source": "VentureBeat AI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 8,
+      "items_kept": 7,
       "items_total": 20
     },
     {
@@ -90,12 +90,92 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-16T13:17:59+00:00",
+      "published_ts": 1784207879.0,
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
+    },
+    {
+      "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-16T13:00:34+00:00",
+      "published_ts": 1784206834.0,
+      "summary": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can si"
+    },
+    {
+      "title": "Claude can now use your 1Password credentials for you",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-16T13:00:00+00:00",
+      "published_ts": 1784206800.0,
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing onlin"
+    },
+    {
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-16T12:10:00+00:00",
+      "published_ts": 1784203800.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring"
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-16T12:06:51+00:00",
+      "published_ts": 1784203611.0,
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech"
+    },
+    {
+      "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
+      "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-16T12:00:01+00:00",
+      "published_ts": 1784203201.0,
+      "summary": "In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the c"
+    },
+    {
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-16T11:49:48+00:00",
+      "published_ts": 1784202588.0,
+      "summary": ""
+    },
+    {
+      "title": "Computer cops",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-16T11:00:00+00:00",
+      "published_ts": 1784199600.0,
+      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told m"
+    },
     {
       "title": "Why heat pumps are still so hot in the US",
       "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
@@ -1677,6 +1757,16 @@
       "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
     },
     {
+      "title": "Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-16T00:00:00+00:00",
+      "published_ts": 1784160000.0,
+      "summary": ""
+    },
+    {
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
       "source": "TechCrunch AI",
@@ -1857,16 +1947,6 @@
       "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychothera"
     },
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-15T15:29:33+00:00",
-      "published_ts": 1784129373.0,
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
-    },
-    {
       "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
       "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
       "source": "TechCrunch AI",
@@ -2037,16 +2117,6 @@
       "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit."
     },
     {
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T21:50:11+00:00",
-      "published_ts": 1784065811.0,
-      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June."
-    },
-    {
       "title": "OpenAI may announce a ChatGPT smart speaker this year",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "source": "The Verge AI",
@@ -2127,16 +2197,6 @@
       "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content."
     },
     {
-      "title": "The Google Images homepage will recommend photos even before you search",
-      "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T16:00:00+00:00",
-      "published_ts": 1784044800.0,
-      "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says t"
-    },
-    {
       "title": "How I Turned AI to the Dark Side",
       "url": "https://spectrum.ieee.org/jailbreaking-llms",
       "source": "IEEE Spectrum AI",
@@ -2145,16 +2205,6 @@
       "published_iso": "2026-07-14T15:59:35+00:00",
       "published_ts": 1784044775.0,
       "summary": "Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc"
-    },
-    {
-      "title": "Spotify is now an AI chatbot, too",
-      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T15:47:36+00:00",
-      "published_ts": 1784044056.0,
-      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the cha"
     },
     {
       "title": "New York bans data center construction for a year, rattling AI industry",
@@ -2175,16 +2225,6 @@
       "published_iso": "2026-07-14T15:00:20+00:00",
       "published_ts": 1784041220.0,
       "summary": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for A"
-    },
-    {
-      "title": "Sam Altman didn’t need another lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T14:01:07+00:00",
-      "published_ts": 1784037667.0,
-      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit agai"
     },
     {
       "title": "The Download: Claude’s inner workings, and the future of world models",
@@ -2275,36 +2315,6 @@
       "published_iso": "2026-07-13T15:06:34+00:00",
       "published_ts": 1783955194.0,
       "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm."
-    },
-    {
-      "title": "Empowering India’s next generation of innovators with ATL Saathi",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "source": "Google DeepMind",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-13T12:37:28+00:00",
-      "published_ts": 1783946248.0,
-      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
-    },
-    {
-      "title": "The Download: a donor conception cap and world models for AI",
-      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-13T12:10:00+00:00",
-      "published_ts": 1783944600.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a "
-    },
-    {
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-13T11:00:51+00:00",
-      "published_ts": 1783940451.0,
-      "summary": "Experts explain how they work, what they can do, and what's still unsettled."
     }
   ]
 }
