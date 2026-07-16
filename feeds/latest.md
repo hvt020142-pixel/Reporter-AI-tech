@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-16T14:17:26.759702+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-16T17:37:21.268781+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,9 +23,21 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Why teens deserve access to safe AI** — OpenAI — `2026-07-16T16:00:00+00:00`
+  - https://openai.com/index/why-teens-deserve-access-safe-ai
+  - Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.
+- 🟢 **Connect more of your apps to Search** — Google (Keyword AI) — `2026-07-16T16:00:00+00:00`
+  - https://blog.google/products-and-platforms/products/search/connected-apps/
+  - You’ll be able to securely link and interact with your go-to services directly in AI Mode.
+- 🟢 **Create, edit and star in videos with two Google Vids updates** — Google (Keyword AI) — `2026-07-16T16:00:00+00:00`
+  - https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/
+  - Gemini Omni and personal avatars in Google Vids make video creation easier than ever.
 - 🟢 **Our approach to bioresilience** — Google DeepMind — `2026-07-16T09:30:42+00:00`
   - https://deepmind.google/blog/our-approach-to-bioresilience/
   - Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.
+- 🟢 **How Cars24 scales conversations and builds faster with OpenAI** — OpenAI — `2026-07-16T00:00:00+00:00`
+  - https://openai.com/index/cars24
+  - Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.
 - 🟢 **The US is advancing AI safety through state and federal action** — OpenAI — `2026-07-15T12:00:00+00:00`
   - https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
   - OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.
@@ -47,6 +59,8 @@
 
 ## Mô hình mở
 
+- 🟢 **NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval** — Hugging Face — `2026-07-16T16:01:21+00:00`
+  - https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 - 🟢 **Newer Models, Same Advantage** — Hugging Face — `2026-07-16T11:49:48+00:00`
   - https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 - 🟢 **Security incident disclosure — July 2026** — Hugging Face — `2026-07-16T00:00:00+00:00`
@@ -563,12 +577,42 @@
 - 🔵 **What Anthropic’s latest AI discovery does—and doesn’t—show** — MIT Tech Review — `2026-07-13T18:00:00+00:00`
   - https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo
-- 🔵 **The AI Arms Race in Technical Interviews Is Escalating** — IEEE Spectrum AI — `2026-07-13T15:15:03+00:00`
-  - https://spectrum.ieee.org/technical-interview-ai-arms-race
-  - Software engineering jobs are under threat from artificial intelligence . Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews. Meanwhile, some employers are countering with—you guessed it
 
 ## Tin tức
 
+- 🔵 **The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs** — VentureBeat AI — `2026-07-16T17:35:19+00:00`
+  - https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs
+  - Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a
+- 🔵 **The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix** — VentureBeat AI — `2026-07-16T17:06:08+00:00`
+  - https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix
+  - Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define th
+- 🔵 **The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway** — VentureBeat AI — `2026-07-16T16:40:48+00:00`
+  - https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway
+  - Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated ev
+- 🔵 **Google’s AI Mode now lets you link and interact with select apps** — TechCrunch AI — `2026-07-16T16:00:00+00:00`
+  - https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/
+  - With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.
+- 🔵 **Google is renaming NotebookLM to Gemini Notebook** — The Verge AI — `2026-07-16T16:00:00+00:00`
+  - https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm
+  - Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind 
+- 🔵 **Energy IPOs surge as investors hunt for ways to play AI boom** — Ars Technica AI — `2026-07-16T15:48:21+00:00`
+  - https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/
+  - Companies coming to market are raising money at fastest pace this century.
+- 🔵 **Yes, you can now order DoorDash from the command line** — TechCrunch AI — `2026-07-16T15:38:55+00:00`
+  - https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/
+  - DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.
+- 🔵 **Why is OpenAI selling a ChatGPT basketball?** — TechCrunch AI — `2026-07-16T15:31:09+00:00`
+  - https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/
+  - You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.
+- 🔵 **How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product** — TechCrunch AI — `2026-07-16T15:02:00+00:00`
+  - https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/
+  - Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.
+- 🔵 **Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’** — TechCrunch AI — `2026-07-16T14:40:00+00:00`
+  - https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/
+  - While everyone in AI is chasing "superintelligence," Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.
+- 🔵 **Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8** — TechCrunch AI — `2026-07-16T14:26:29+00:00`
+  - https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/
+  - The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.
 - 🔵 **Apple Intelligence approved for launch in China with Alibaba and Baidu** — TechCrunch AI — `2026-07-16T13:17:59+00:00`
   - https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
   - The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.
@@ -632,27 +676,6 @@
 - 🔵 **Reelful’s AI turns your camera roll into short-form videos for social media** — TechCrunch AI — `2026-07-15T13:00:00+00:00`
   - https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/
   - The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.
-- 🔵 **Rime picks up $24M Series A to help enterprises field customer calls** — TechCrunch AI — `2026-07-15T13:00:00+00:00`
-  - https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/
-  - Rime is handling over 100 million calls each month across multiple companies.
-- 🔵 **Indian AI coding startup Emergent becomes a unicorn with $130M Series C** — TechCrunch AI — `2026-07-15T12:00:00+00:00`
-  - https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/
-  - The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.
-- 🔵 **Vint Cerf is working on a plan to unleash AI agents on the open internet** — TechCrunch AI — `2026-07-15T12:00:00+00:00`
-  - https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/
-  - The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.
-- 🔵 **OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B** — TechCrunch AI — `2026-07-15T00:27:04+00:00`
-  - https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/
-  - The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.
-- 🔵 **Lorde says AI glasses are ‘not sexy’** — TechCrunch AI — `2026-07-14T23:10:02+00:00`
-  - https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/
-  - "Increasingly in our world, it gets harder and harder to know what is real," Lorde said onstage.
-- 🔵 **OpenAI’s first hardware device is reportedly a screenless speaker that can move** — TechCrunch AI — `2026-07-14T22:22:24+00:00`
-  - https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/
-  - The device is weirdly described as involving "mechanical elements that can move on their own" and the Bloomberg report includes the detail that the device is designed to "feel like a companion and become a physical manifestation of OpenAI’s ChatGPT."
-- 🔵 **OpenAI pushes back on Apple trade secret lawsuit** — TechCrunch AI — `2026-07-14T22:07:42+00:00`
-  - https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/
-  - OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.
 - 🔵 **OpenAI may announce a ChatGPT smart speaker this year** — The Verge AI — `2026-07-14T21:26:32+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
   - OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to "understand" your environment. The report comes just days after Apple filed a lawsuit a
@@ -665,9 +688,6 @@
 - 🔵 **US military sent explosive drone boats into combat for the first time** — Ars Technica AI — `2026-07-14T18:00:01+00:00`
   - https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/
   - US military’s drone boats struck an Iranian naval port as war heats up again.
-- 🔵 **Meta accused of using biased AI targeting for mass layoffs** — The Verge AI — `2026-07-14T17:18:11+00:00`
-  - https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs
-  - A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a "constel
 - 🔵 **Google revamps image search for its 25th anniversary with more images and more AI** — Ars Technica AI — `2026-07-14T16:28:14+00:00`
   - https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/
   - The new Google image search will use your "unique interests" to create an always-updated gallery.
@@ -677,9 +697,6 @@
 - 🔵 **Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets** — Ars Technica AI — `2026-07-13T19:17:51+00:00`
   - https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/
   - OpenAI accused of conspiring with former Apple employees to steal trade secrets.
-- 🔵 **Now, defenders are embracing the prompt injection, too** — Ars Technica AI — `2026-07-13T15:06:34+00:00`
-  - https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/
-  - "Context bombing" tricks hacking agents into shutting down before they can do harm.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
