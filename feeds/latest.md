@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-17T11:37:54.711417+00:00 (UTC) — cửa sổ 72h — 235 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-17T13:59:06.442154+00:00 (UTC) — cửa sổ 72h — 236 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,6 +23,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **A scorecard for the AI age** — OpenAI — `2026-07-17T10:00:00+00:00`
+  - https://openai.com/index/a-scorecard-for-the-ai-age
+  - Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
 - 🟢 **Why teens deserve access to safe AI** — OpenAI — `2026-07-16T16:00:00+00:00`
   - https://openai.com/index/why-teens-deserve-access-safe-ai
   - Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.
@@ -550,6 +553,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: perimenopause misinformation and China’s latest AI leap** — MIT Tech Review — `2026-07-17T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do
 - 🔵 **There’s a lot of hype around perimenopause. Don’t buy it.** — MIT Tech Review — `2026-07-17T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/
   - Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasing
@@ -583,12 +589,12 @@
 - 🔵 **How I Turned AI to the Dark Side** — IEEE Spectrum AI — `2026-07-14T15:59:35+00:00`
   - https://spectrum.ieee.org/jailbreaking-llms
   - Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc
-- 🔵 **The Download: Claude’s inner workings, and the future of world models** — MIT Tech Review — `2026-07-14T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window in
 
 ## Tin tức
 
+- 🔵 **Why the first GPU financiers are turning to inference chips in a $400 million deal** — TechCrunch AI — `2026-07-17T12:00:00+00:00`
+  - https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/
+  - A $400 million chip-backed loan points to the next wave of AI infrastructure deals.
 - 🔵 **It's official: EU will force Google to share search data and open up AI on Android** — Ars Technica AI — `2026-07-16T20:41:45+00:00`
   - https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/
   - Google says these changes could endanger user privacy and security.
@@ -700,9 +706,6 @@
 - 🔵 **OpenAI finally launches hardware… for Codex** — The Verge AI — `2026-07-15T16:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch
   - OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-s
-- 🔵 **Inside Ode with Anthropic, the startup betting AI services are the future of enterprise** — TechCrunch AI — `2026-07-15T15:00:00+00:00`
-  - https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/
-  - Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs
 - 🔵 **OpenAI may announce a ChatGPT smart speaker this year** — The Verge AI — `2026-07-14T21:26:32+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
   - OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to "understand" your environment. The report comes just days after Apple filed a lawsuit a
