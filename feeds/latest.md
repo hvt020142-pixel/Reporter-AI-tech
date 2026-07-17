@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-17T21:05:32.887595+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-17T23:04:36.000581+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -583,6 +583,15 @@
 
 ## Tin tức
 
+- 🔵 **Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs** — TechCrunch AI — `2026-07-17T22:55:09+00:00`
+  - https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/
+  - From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.
+- 🔵 **Databricks hits $188B valuation, extending its run as AI’s favorite second act** — TechCrunch AI — `2026-07-17T22:12:56+00:00`
+  - https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/
+  - Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.
+- 🔵 **The Zoom hack that says, ‘Don’t record me’** — TechCrunch AI — `2026-07-17T21:20:47+00:00`
+  - https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/
+  - If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?
 - 🔵 **Agility Robotics plants its flag in Tesla’s backyard** — TechCrunch AI — `2026-07-17T20:19:49+00:00`
   - https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/
   - Agility is opening a new training center for its Digit robots in Fremont, California.
@@ -682,12 +691,6 @@
 - 🔵 **Computer cops** — The Verge AI — `2026-07-16T11:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops
   - I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as "the future of policing in the digital age." As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told m
-- 🔵 **Applied Computing wants to give oil and gas operators an AI model for the entire plant** — TechCrunch AI — `2026-07-16T04:00:00+00:00`
-  - https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/
-  - Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.
-- 🔵 **Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic** — TechCrunch AI — `2026-07-15T23:59:44+00:00`
-  - https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/
-  - Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.
 - 🔵 **Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents** — VentureBeat AI — `2026-07-15T22:24:17+00:00`
   - https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents
   - Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”
@@ -697,9 +700,6 @@
 - 🔵 **AI slop movies are the new direct-to-video cash grabs** — The Verge AI — `2026-07-15T20:00:00+00:00`
   - https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood
   - This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki
-- 🔵 **Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex** — TechCrunch AI — `2026-07-15T19:41:38+00:00`
-  - https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/
-  - OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.
 - 🔵 **Suno snatched millions of songs from YouTube, Genius, and Deezer** — The Verge AI — `2026-07-15T17:48:01+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
   - Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and
