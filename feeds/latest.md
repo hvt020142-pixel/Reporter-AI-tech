@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-17T19:29:59.671311+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-17T21:05:32.887595+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -583,6 +583,18 @@
 
 ## Tin tức
 
+- 🔵 **Agility Robotics plants its flag in Tesla’s backyard** — TechCrunch AI — `2026-07-17T20:19:49+00:00`
+  - https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/
+  - Agility is opening a new training center for its Digit robots in Fremont, California.
+- 🔵 **AI-driven memory crunch jolts India’s smartphone market** — TechCrunch AI — `2026-07-17T20:09:27+00:00`
+  - https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/
+  - India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.
+- 🔵 **Google-backed satellites for wildfire detection launch as smoke chokes US, Canada** — Ars Technica AI — `2026-07-17T19:50:18+00:00`
+  - https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/
+  - The FireSat program can spot wildfires that other satellites miss.
+- 🔵 **TikTok is testing an AI likeness detection tool** — The Verge AI — `2026-07-17T19:34:30+00:00`
+  - https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool
+  - TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with "some" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been 
 - 🔵 **How Apple’s big lawsuit could disrupt OpenAI’s IPO plans** — TechCrunch AI — `2026-07-17T17:45:46+00:00`
   - https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/
   - Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c
@@ -688,24 +700,12 @@
 - 🔵 **Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex** — TechCrunch AI — `2026-07-15T19:41:38+00:00`
   - https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/
   - OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.
-- 🔵 **SpaceX falls to $135 IPO price ahead of Starship launch** — TechCrunch AI — `2026-07-15T18:06:05+00:00`
-  - https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/
-  - The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.
-- 🔵 **Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling** — TechCrunch AI — `2026-07-15T18:04:06+00:00`
-  - https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/
-  - It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.
 - 🔵 **Suno snatched millions of songs from YouTube, Genius, and Deezer** — The Verge AI — `2026-07-15T17:48:01+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
   - Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and
 - 🔵 **OpenAI's first branded hardware is... a light-up keyboard?** — Ars Technica AI — `2026-07-15T16:00:33+00:00`
   - https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/
   - The Codex Micro is designed to monitor multiple agentic threads at a glance.
-- 🔵 **OpenAI finally launches hardware… for Codex** — The Verge AI — `2026-07-15T16:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch
-  - OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-s
-- 🔵 **Lawsuit claims Meta's layoff decisions were made by AI, not humans** — Ars Technica AI — `2026-07-14T20:05:53+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/
-  - Meta denies using AI to terminate workers with disabilities and medical problems.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

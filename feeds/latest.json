@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T19:29:59.671311+00:00",
+  "generated_at": "2026-07-17T21:05:32.887595+00:00",
   "lookback_hours": 72,
   "item_count": 231,
   "sources_ok": [
@@ -96,6 +96,46 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-17T20:19:49+00:00",
+      "published_ts": 1784319589.0,
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California."
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-17T20:09:27+00:00",
+      "published_ts": 1784318967.0,
+      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
+    },
+    {
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-17T19:50:18+00:00",
+      "published_ts": 1784317818.0,
+      "summary": "The FireSat program can spot wildfires that other satellites miss."
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-17T19:34:30+00:00",
+      "published_ts": 1784316870.0,
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been "
+    },
     {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
@@ -2237,26 +2277,6 @@
       "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
     },
     {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-15T18:06:05+00:00",
-      "published_ts": 1784138765.0,
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
-    },
-    {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-15T18:04:06+00:00",
-      "published_ts": 1784138646.0,
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view."
-    },
-    {
       "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
       "source": "The Verge AI",
@@ -2305,16 +2325,6 @@
       "published_iso": "2026-07-15T16:00:33+00:00",
       "published_ts": 1784131233.0,
       "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance."
-    },
-    {
-      "title": "OpenAI finally launches hardware… for Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-15T16:00:00+00:00",
-      "published_ts": 1784131200.0,
-      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-s"
     },
     {
       "title": "The First Chatbot’s Multiple Personalities",
@@ -2395,16 +2405,6 @@
       "published_iso": "2026-07-15T00:00:00+00:00",
       "published_ts": 1784073600.0,
       "summary": ""
-    },
-    {
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T20:05:53+00:00",
-      "published_ts": 1784059553.0,
-      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems."
     }
   ]
 }
