@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T23:08:44.722508+00:00",
+  "generated_at": "2026-07-17T03:32:42.345591+00:00",
   "lookback_hours": 72,
-  "item_count": 232,
+  "item_count": 230,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 7,
+      "items_kept": 5,
       "items_total": 1038
     },
     {
@@ -534,7 +534,7 @@
       "tier": "primary",
       "published_iso": "2026-07-16T04:00:00+00:00",
       "published_ts": 1784174400.0,
-      "summary": "arXiv:2607.13220v1 Announce Type: new Abstract: Most AI-for-science systems focus on scaling a single reasoning process through better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems ar"
+      "summary": "arXiv:2607.13220v2 Announce Type: new Abstract: Most AI-for-science systems focus on scaling a single reasoning process by using better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems a"
     },
     {
       "title": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation",
@@ -597,14 +597,14 @@
       "summary": "arXiv:2607.13396v1 Announce Type: new Abstract: What happens to an LLM agent's tool choice when the reliable tool silently changes within an ongoing session? We borrow set-shifting from cognitive psychology to study how well agents adapt to hidden reliability shifts. Our benchmark mounts tool-skill "
     },
     {
-      "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
+      "title": "LOTAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
       "url": "https://arxiv.org/abs/2607.13501",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-16T04:00:00+00:00",
       "published_ts": 1784174400.0,
-      "summary": "arXiv:2607.13501v1 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LAPO, a self-generated process-supervision method based o"
+      "summary": "arXiv:2607.13501v2 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LOTAPO , a self-generated process-supervision method base"
     },
     {
       "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
@@ -704,7 +704,7 @@
       "tier": "primary",
       "published_iso": "2026-07-16T04:00:00+00:00",
       "published_ts": 1784174400.0,
-      "summary": "arXiv:2607.13705v1 Announce Type: new Abstract: As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing re"
+      "summary": "arXiv:2607.13705v2 Announce Type: new Abstract: As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing re"
     },
     {
       "title": "CAVA: Canonical Action Verification and Attestation for Runtime Governance of Agentic AI Systems",
@@ -864,7 +864,7 @@
       "tier": "primary",
       "published_iso": "2026-07-16T04:00:00+00:00",
       "published_ts": 1784174400.0,
-      "summary": "arXiv:2607.13162v1 Announce Type: new Abstract: What a language model will and will not do is largely set during post-training, but which behaviors it expresses, hides, or resists is not revealed by prompting alone. Persona vectors, behavioral directions in activation space, can probe this organizat"
+      "summary": "arXiv:2607.13162v2 Announce Type: new Abstract: What a language model will and will not do is largely set during post-training, but which behaviors it expresses, hides, or resists is not revealed by prompting alone. Persona vectors, behavioral directions in activation space, can probe this organizat"
     },
     {
       "title": "Text2Sign: A Single-GPU Diffusion Baseline for Text-to-Sign Language Video Generation",
@@ -2395,26 +2395,6 @@
       "published_iso": "2026-07-14T08:00:00+00:00",
       "published_ts": 1784016000.0,
       "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze"
-    },
-    {
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-14T00:00:00+00:00",
-      "published_ts": 1783987200.0,
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-14T00:00:00+00:00",
-      "published_ts": 1783987200.0,
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     }
   ]
 }

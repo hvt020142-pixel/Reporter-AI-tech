@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-16T23:08:44.722508+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-17T03:32:42.345591+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -50,12 +50,6 @@
 - 🟢 **How to manage AI investments in the agentic era** — OpenAI — `2026-07-14T10:00:00+00:00`
   - https://openai.com/index/managing-ai-investments-in-agentic-era
   - Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.
-- 🟢 **How sales teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
-  - https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
-  - See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
-- 🟢 **How data science teams use ChatGPT Work** — OpenAI — `2026-07-14T00:00:00+00:00`
-  - https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
-  - See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
 
 ## Mô hình mở
 
@@ -105,7 +99,7 @@
   - arXiv:2607.13219v1 Announce Type: new Abstract: We present cayleyR, an R package for solving permutation puzzles by detecting cycle intersections in Cayley graphs. The core algorithm performs an iterative bidirectional search: from both the initial and target permutation states, random operation seq
 - 🟢 **Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science** — arXiv cs.AI — `2026-07-16T04:00:00+00:00`
   - https://arxiv.org/abs/2607.13220
-  - arXiv:2607.13220v1 Announce Type: new Abstract: Most AI-for-science systems focus on scaling a single reasoning process through better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems ar
+  - arXiv:2607.13220v2 Announce Type: new Abstract: Most AI-for-science systems focus on scaling a single reasoning process by using better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems a
 - 🟢 **AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation** — arXiv cs.AI — `2026-07-16T04:00:00+00:00`
   - https://arxiv.org/abs/2607.13230
   - arXiv:2607.13230v1 Announce Type: new Abstract: Agentic AI introduces new insurance challenges because autonomous AI systems can make decisions, invoke tools, modify external environments, and interact with third-party services. This paper develops an AI-native mathematical framework for underwritin
@@ -124,9 +118,9 @@
 - 🟢 **Set-shifting Behavioral Test for Harnessed Agents** — arXiv cs.AI — `2026-07-16T04:00:00+00:00`
   - https://arxiv.org/abs/2607.13396
   - arXiv:2607.13396v1 Announce Type: new Abstract: What happens to an LLM agent's tool choice when the reliable tool silently changes within an ongoing session? We borrow set-shifting from cognitive psychology to study how well agents adapt to hidden reliability shifts. Our benchmark mounts tool-skill 
-- 🟢 **LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning** — arXiv cs.AI — `2026-07-16T04:00:00+00:00`
+- 🟢 **LOTAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning** — arXiv cs.AI — `2026-07-16T04:00:00+00:00`
   - https://arxiv.org/abs/2607.13501
-  - arXiv:2607.13501v1 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LAPO, a self-generated process-supervision method based o
+  - arXiv:2607.13501v2 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LOTAPO , a self-generated process-supervision method base
 - 🟢 **How Far Can Root Cause Analysis Go on Real-World Telemetry Data?** — arXiv cs.AI — `2026-07-16T04:00:00+00:00`
   - https://arxiv.org/abs/2607.13548
   - arXiv:2607.13548v1 Announce Type: new Abstract: Identifying root causes in production microservice failures requires reasoning over large-scale, multimodal telemetry spanning metrics, logs, and traces, a problem that has proved resistant to both classical and LLM-based approaches. The OpenRCA datase
@@ -156,7 +150,7 @@
   - arXiv:2607.13679v1 Announce Type: new Abstract: AI agents are joining human teams, raising a basic question: when an automated agent becomes a regular participant, does group organization strengthen or weaken? We study this question in open-source software, where bots open pull requests, review code
 - 🟢 **AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities** — arXiv cs.AI — `2026-07-16T04:00:00+00:00`
   - https://arxiv.org/abs/2607.13705
-  - arXiv:2607.13705v1 Announce Type: new Abstract: As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing re
+  - arXiv:2607.13705v2 Announce Type: new Abstract: As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing re
 - 🟢 **CAVA: Canonical Action Verification and Attestation for Runtime Governance of Agentic AI Systems** — arXiv cs.AI — `2026-07-16T04:00:00+00:00`
   - https://arxiv.org/abs/2607.13716
   - arXiv:2607.13716v1 Announce Type: new Abstract: Agentic AI systems increasingly act through heterogeneous runtimes: local coding hooks, SDK tools, browser automation, managed-agent traces, API gateways, and workflow engines. A single operational act such as publishing code, changing identity state, 
@@ -204,7 +198,7 @@
   - arXiv:2607.13158v1 Announce Type: new Abstract: Simultaneous speech translation (SimulST) requires incremental translation under strict latency constraints, yet remains challenging for decoder-only LLM systems due to limited context and cross-lingual reordering. Recent approaches often introduce arc
 - 🟢 **What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors** — arXiv cs.CL — `2026-07-16T04:00:00+00:00`
   - https://arxiv.org/abs/2607.13162
-  - arXiv:2607.13162v1 Announce Type: new Abstract: What a language model will and will not do is largely set during post-training, but which behaviors it expresses, hides, or resists is not revealed by prompting alone. Persona vectors, behavioral directions in activation space, can probe this organizat
+  - arXiv:2607.13162v2 Announce Type: new Abstract: What a language model will and will not do is largely set during post-training, but which behaviors it expresses, hides, or resists is not revealed by prompting alone. Persona vectors, behavioral directions in activation space, can probe this organizat
 - 🟢 **Text2Sign: A Single-GPU Diffusion Baseline for Text-to-Sign Language Video Generation** — arXiv cs.CL — `2026-07-16T04:00:00+00:00`
   - https://arxiv.org/abs/2607.13164
   - arXiv:2607.13164v1 Announce Type: new Abstract: Sign language is a primary communication channel for millions of Deaf and hard-of-hearing people, yet text-to-signer video generation remains costly because video diffusion models are expensive to train and evaluate. This paper presents Text2Sign, a te
