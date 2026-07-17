@@ -1,11 +1,11 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-17T15:35:41.055089+00:00 (UTC) — cửa sổ 72h — 235 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-17T17:21:22.592675+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
-- 🟢 **NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads – a Key Metric for Agentic AI** — NVIDIA — `2026-07-17T15:00:14+00:00`
+- 🟢 **NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI** — NVIDIA — `2026-07-17T15:00:14+00:00`
   - https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/
   - Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.
 - 🟢 **Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW** — NVIDIA — `2026-07-16T13:00:34+00:00`
@@ -17,9 +17,6 @@
 - 🟢 **NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry** — NVIDIA — `2026-07-15T10:51:37+00:00`
   - https://blogs.nvidia.com/blog/japan-ecosystem-2026/
   - Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest a
-- 🟢 **Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize** — NVIDIA — `2026-07-14T16:45:13+00:00`
-  - https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/
-  - Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.
 
 ## Mô hình & LLM
 
@@ -47,14 +44,11 @@
 - 🟢 **GPT-Red: Unlocking Self-Improvement for Robustness** — OpenAI — `2026-07-15T10:00:00+00:00`
   - https://openai.com/index/unlocking-self-improvement-gpt-red
   - Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.
-- 🟢 **Celebrating 25 years of visual search innovation** — Google (Keyword AI) — `2026-07-14T16:00:00+00:00`
-  - https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/
-  - Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.
 
 ## Mô hình mở
 
-- 🟢 **NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval** — Hugging Face — `2026-07-16T16:01:21+00:00`
-  - https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
+- 🟢 **Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers** — Hugging Face — `2026-07-17T15:57:54+00:00`
+  - https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
 - 🟢 **Newer Models, Same Advantage** — Hugging Face — `2026-07-16T11:49:48+00:00`
   - https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 - 🟢 **Security incident disclosure — July 2026** — Hugging Face — `2026-07-16T00:00:00+00:00`
@@ -586,12 +580,12 @@
 - 🔵 **The Download: a useful quantum machine and a record-breaking subsea tunnel** — MIT Tech Review — `2026-07-15T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like
-- 🔵 **How I Turned AI to the Dark Side** — IEEE Spectrum AI — `2026-07-14T15:59:35+00:00`
-  - https://spectrum.ieee.org/jailbreaking-llms
-  - Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc
 
 ## Tin tức
 
+- 🔵 **San Francisco orders Apple, Google to remove nudify apps from app stores** — Ars Technica AI — `2026-07-17T16:10:05+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/
+  - Official estimates Google and Apple likely made millions in nudify app fees.
 - 🔵 **Patreon stops asking AI bots not to scrape — and starts blocking them** — TechCrunch AI — `2026-07-17T15:21:17+00:00`
   - https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/
   - Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.
@@ -715,9 +709,6 @@
 - 🔵 **US military sent explosive drone boats into combat for the first time** — Ars Technica AI — `2026-07-14T18:00:01+00:00`
   - https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/
   - US military’s drone boats struck an Iranian naval port as war heats up again.
-- 🔵 **Google revamps image search for its 25th anniversary with more images and more AI** — Ars Technica AI — `2026-07-14T16:28:14+00:00`
-  - https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/
-  - The new Google image search will use your "unique interests" to create an always-updated gallery.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
