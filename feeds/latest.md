@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-17T17:21:22.592675+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-17T19:29:59.671311+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -22,7 +22,7 @@
 
 - 🟢 **A scorecard for the AI age** — OpenAI — `2026-07-17T10:00:00+00:00`
   - https://openai.com/index/a-scorecard-for-the-ai-age
-  - Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
+  - Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
 - 🟢 **Why teens deserve access to safe AI** — OpenAI — `2026-07-16T16:00:00+00:00`
   - https://openai.com/index/why-teens-deserve-access-safe-ai
   - Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.
@@ -583,12 +583,21 @@
 
 ## Tin tức
 
+- 🔵 **How Apple’s big lawsuit could disrupt OpenAI’s IPO plans** — TechCrunch AI — `2026-07-17T17:45:46+00:00`
+  - https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/
+  - Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c
+- 🔵 **Apple’s plot to crush OpenAI** — The Verge AI — `2026-07-17T17:41:32+00:00`
+  - https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast
+  - Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#
 - 🔵 **San Francisco orders Apple, Google to remove nudify apps from app stores** — Ars Technica AI — `2026-07-17T16:10:05+00:00`
   - https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/
   - Official estimates Google and Apple likely made millions in nudify app fees.
 - 🔵 **Patreon stops asking AI bots not to scrape — and starts blocking them** — TechCrunch AI — `2026-07-17T15:21:17+00:00`
   - https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/
   - Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.
+- 🔵 **Apple’s lawsuit couldn’t come at a worse time for OpenAI** — TechCrunch AI — `2026-07-17T14:00:00+00:00`
+  - https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/
+  - Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c
 - 🔵 **Why the first GPU financiers are turning to inference chips in a $400 million deal** — TechCrunch AI — `2026-07-17T12:00:00+00:00`
   - https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/
   - A $400 million chip-backed loan points to the next wave of AI infrastructure deals.
@@ -688,27 +697,15 @@
 - 🔵 **Suno snatched millions of songs from YouTube, Genius, and Deezer** — The Verge AI — `2026-07-15T17:48:01+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
   - Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and
-- 🔵 **Hack suggests AI music generator Suno scraped YouTube for training data** — TechCrunch AI — `2026-07-15T17:00:34+00:00`
-  - https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/
-  - The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.
-- 🔵 **Whatnot acquires Shaped to power real-time live shopping recommendations** — TechCrunch AI — `2026-07-15T17:00:00+00:00`
-  - https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/
-  - Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.
 - 🔵 **OpenAI's first branded hardware is... a light-up keyboard?** — Ars Technica AI — `2026-07-15T16:00:33+00:00`
   - https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/
   - The Codex Micro is designed to monitor multiple agentic threads at a glance.
 - 🔵 **OpenAI finally launches hardware… for Codex** — The Verge AI — `2026-07-15T16:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch
   - OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-s
-- 🔵 **OpenAI may announce a ChatGPT smart speaker this year** — The Verge AI — `2026-07-14T21:26:32+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
-  - OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to "understand" your environment. The report comes just days after Apple filed a lawsuit a
 - 🔵 **Lawsuit claims Meta's layoff decisions were made by AI, not humans** — Ars Technica AI — `2026-07-14T20:05:53+00:00`
   - https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/
   - Meta denies using AI to terminate workers with disabilities and medical problems.
-- 🔵 **US military sent explosive drone boats into combat for the first time** — Ars Technica AI — `2026-07-14T18:00:01+00:00`
-  - https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/
-  - US military’s drone boats struck an Iranian naval port as war heats up again.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
