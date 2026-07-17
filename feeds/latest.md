@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-17T06:25:10.713115+00:00 (UTC) — cửa sổ 72h — 235 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-17T10:08:49.972724+00:00 (UTC) — cửa sổ 72h — 235 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -47,9 +47,6 @@
 - 🟢 **Celebrating 25 years of visual search innovation** — Google (Keyword AI) — `2026-07-14T16:00:00+00:00`
   - https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/
   - Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.
-- 🟢 **How to manage AI investments in the agentic era** — OpenAI — `2026-07-14T10:00:00+00:00`
-  - https://openai.com/index/managing-ai-investments-in-agentic-era
-  - Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.
 
 ## Mô hình mở
 
@@ -553,6 +550,12 @@
 
 ## Phân tích
 
+- 🔵 **There’s a lot of hype around perimenopause. Don’t buy it.** — MIT Tech Review — `2026-07-17T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/
+  - Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasing
+- 🔵 **The risk of weather data sabotage is rising** — MIT Tech Review — `2026-07-17T08:57:32+00:00`
+  - https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/
+  - Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit
 - 🔵 **How to Make an Invisible Drone** — IEEE Spectrum AI — `2026-07-16T16:09:21+00:00`
   - https://spectrum.ieee.org/invisible-spinning-drone
   - There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even l
@@ -583,9 +586,6 @@
 - 🔵 **The Download: Claude’s inner workings, and the future of world models** — MIT Tech Review — `2026-07-14T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window in
-- 🔵 **PsiQuantum has a plan to make a massive quantum computer out of light** — MIT Tech Review — `2026-07-14T08:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/
-  - The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze
 
 ## Tin tức
 
