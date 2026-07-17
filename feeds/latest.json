@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T13:59:06.442154+00:00",
+  "generated_at": "2026-07-17T15:35:41.055089+00:00",
   "lookback_hours": 72,
-  "item_count": 236,
+  "item_count": 235,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 10,
+      "items_kept": 9,
       "items_total": 20
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-17T15:21:17+00:00",
+      "published_ts": 1784301677.0,
+      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training."
+    },
+    {
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads – a Key Metric for Agentic AI",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-17T15:00:14+00:00",
+      "published_ts": 1784300414.0,
+      "summary": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era."
+    },
     {
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
       "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
@@ -2257,16 +2277,6 @@
       "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories."
     },
     {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-15T16:20:18+00:00",
-      "published_ts": 1784132418.0,
-      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI."
-    },
-    {
       "title": "OpenAI's first branded hardware is... a light-up keyboard?",
       "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
       "source": "Ars Technica AI",
@@ -2435,26 +2445,6 @@
       "published_iso": "2026-07-14T15:59:35+00:00",
       "published_ts": 1784044775.0,
       "summary": "Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc"
-    },
-    {
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-14T15:06:28+00:00",
-      "published_ts": 1784041588.0,
-      "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement."
-    },
-    {
-      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-      "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-07-14T15:00:20+00:00",
-      "published_ts": 1784041220.0,
-      "summary": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for A"
     }
   ]
 }

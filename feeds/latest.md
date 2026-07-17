@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-17T13:59:06.442154+00:00 (UTC) — cửa sổ 72h — 236 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-17T15:35:41.055089+00:00 (UTC) — cửa sổ 72h — 235 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads – a Key Metric for Agentic AI** — NVIDIA — `2026-07-17T15:00:14+00:00`
+  - https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/
+  - Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.
 - 🟢 **Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW** — NVIDIA — `2026-07-16T13:00:34+00:00`
   - https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/
   - Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can si
@@ -17,9 +20,6 @@
 - 🟢 **Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize** — NVIDIA — `2026-07-14T16:45:13+00:00`
   - https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/
   - Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.
-- 🟢 **Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency** — NVIDIA — `2026-07-14T15:00:20+00:00`
-  - https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/
-  - Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for A
 
 ## Mô hình & LLM
 
@@ -592,6 +592,9 @@
 
 ## Tin tức
 
+- 🔵 **Patreon stops asking AI bots not to scrape — and starts blocking them** — TechCrunch AI — `2026-07-17T15:21:17+00:00`
+  - https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/
+  - Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.
 - 🔵 **Why the first GPU financiers are turning to inference chips in a $400 million deal** — TechCrunch AI — `2026-07-17T12:00:00+00:00`
   - https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/
   - A $400 million chip-backed loan points to the next wave of AI infrastructure deals.
@@ -697,9 +700,6 @@
 - 🔵 **Whatnot acquires Shaped to power real-time live shopping recommendations** — TechCrunch AI — `2026-07-15T17:00:00+00:00`
   - https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/
   - Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.
-- 🔵 **Microsoft patches record number of security vulnerabilities, citing its use of AI** — TechCrunch AI — `2026-07-15T16:20:18+00:00`
-  - https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/
-  - Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.
 - 🔵 **OpenAI's first branded hardware is... a light-up keyboard?** — Ars Technica AI — `2026-07-15T16:00:33+00:00`
   - https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/
   - The Codex Micro is designed to monitor multiple agentic threads at a glance.
@@ -718,9 +718,6 @@
 - 🔵 **Google revamps image search for its 25th anniversary with more images and more AI** — Ars Technica AI — `2026-07-14T16:28:14+00:00`
   - https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/
   - The new Google image search will use your "unique interests" to create an always-updated gallery.
-- 🔵 **New York bans data center construction for a year, rattling AI industry** — Ars Technica AI — `2026-07-14T15:06:28+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/
-  - New York’s data center moratorium may become the blueprint for anti-AI movement.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
