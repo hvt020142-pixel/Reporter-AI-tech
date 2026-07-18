@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T23:04:36.000581+00:00",
+  "generated_at": "2026-07-18T03:25:39.667713+00:00",
   "lookback_hours": 72,
-  "item_count": 231,
+  "item_count": 229,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 7,
+      "items_kept": 5,
       "items_total": 829
     },
     {
@@ -2385,26 +2385,6 @@
       "published_iso": "2026-07-15T10:00:00+00:00",
       "published_ts": 1784109600.0,
       "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
-    },
-    {
-      "title": "Welcome Inkling by Thinking Machines",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-15T00:00:00+00:00",
-      "published_ts": 1784073600.0,
-      "summary": ""
-    },
-    {
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-15T00:00:00+00:00",
-      "published_ts": 1784073600.0,
-      "summary": ""
     }
   ]
 }

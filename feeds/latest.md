@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-17T23:04:36.000581+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-18T03:25:39.667713+00:00 (UTC) — cửa sổ 72h — 229 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -57,10 +57,6 @@
   - https://huggingface.co/blog/allenai/shippy-tech-blog
 - 🟢 **Model Routing Is Simple. Until It Isn’t.** — Hugging Face — `2026-07-15T17:27:01+00:00`
   - https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
-- 🟢 **Welcome Inkling by Thinking Machines** — Hugging Face — `2026-07-15T00:00:00+00:00`
-  - https://huggingface.co/blog/thinkingmachines-inkling
-- 🟢 **Introducing Real World VoiceEQ: Measuring the human quality of voice AI** — Hugging Face — `2026-07-15T00:00:00+00:00`
-  - https://huggingface.co/blog/real-world-voiceeq
 
 ## Nghiên cứu
 
