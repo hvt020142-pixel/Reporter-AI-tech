@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T15:10:07.716142+00:00",
+  "generated_at": "2026-07-18T17:09:59.216869+00:00",
   "lookback_hours": 72,
-  "item_count": 65,
+  "item_count": 62,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,19 +78,19 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 9,
+      "items_kept": 8,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 6,
+      "items_kept": 5,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 30
     }
   ],
@@ -715,36 +715,6 @@
       "published_iso": "2026-07-15T17:27:01+00:00",
       "published_ts": 1784136421.0,
       "summary": ""
-    },
-    {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-15T17:09:37+00:00",
-      "published_ts": 1784135377.0,
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m"
-    },
-    {
-      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
-      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-15T16:00:33+00:00",
-      "published_ts": 1784131233.0,
-      "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance."
-    },
-    {
-      "title": "The First Chatbot’s Multiple Personalities",
-      "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-15T15:35:53+00:00",
-      "published_ts": 1784129753.0,
-      "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychothera"
     }
   ]
 }

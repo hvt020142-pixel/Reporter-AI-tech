@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-18T15:10:07.716142+00:00 (UTC) — cửa sổ 72h — 65 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-18T17:09:59.216869+00:00 (UTC) — cửa sổ 72h — 62 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -72,12 +72,6 @@
 - 🔵 **Why heat pumps are still so hot in the US** — MIT Tech Review — `2026-07-16T10:00:00+00:00`
   - https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/
   - It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo
-- 🔵 **Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer** — MIT Tech Review — `2026-07-15T17:09:37+00:00`
-  - https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/
-  - OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m
-- 🔵 **The First Chatbot’s Multiple Personalities** — IEEE Spectrum AI — `2026-07-15T15:35:53+00:00`
-  - https://spectrum.ieee.org/eliza-chatbot-source-code
-  - ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychothera
 
 ## Tin tức
 
@@ -204,9 +198,6 @@
 - 🔵 **AI slop movies are the new direct-to-video cash grabs** — The Verge AI — `2026-07-15T20:00:00+00:00`
   - https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood
   - This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki
-- 🔵 **OpenAI's first branded hardware is... a light-up keyboard?** — Ars Technica AI — `2026-07-15T16:00:33+00:00`
-  - https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/
-  - The Codex Micro is designed to monitor multiple agentic threads at a glance.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
