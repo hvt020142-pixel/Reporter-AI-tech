@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-18T17:09:59.216869+00:00 (UTC) — cửa sổ 72h — 62 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-18T19:20:34.615105+00:00 (UTC) — cửa sổ 72h — 61 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -44,10 +44,6 @@
   - https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 - 🟢 **Security incident disclosure — July 2026** — Hugging Face — `2026-07-16T00:00:00+00:00`
   - https://huggingface.co/blog/security-incident-july-2026
-- 🟢 **What building Shippy taught us about building agents** — Hugging Face — `2026-07-15T17:29:41+00:00`
-  - https://huggingface.co/blog/allenai/shippy-tech-blog
-- 🟢 **Model Routing Is Simple. Until It Isn’t.** — Hugging Face — `2026-07-15T17:27:01+00:00`
-  - https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
 
 ## Phân tích
 
@@ -75,6 +71,9 @@
 
 ## Tin tức
 
+- 🔵 **Kimi: Threat or menace?** — TechCrunch AI — `2026-07-18T18:51:07+00:00`
+  - https://techcrunch.com/2026/07/18/kimi-threat-or-menace/
+  - Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about "full AI communism."
 - 🔵 **The apps, gadgets, and tools every reader needs** — The Verge AI — `2026-07-18T12:00:00+00:00`
   - https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer
   - Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of V

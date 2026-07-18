@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T17:09:59.216869+00:00",
+  "generated_at": "2026-07-18T19:20:34.615105+00:00",
   "lookback_hours": 72,
-  "item_count": 62,
+  "item_count": 61,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 5,
+      "items_kept": 3,
       "items_total": 829
     },
     {
@@ -60,8 +60,8 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 18,
-      "items_total": 18
+      "items_kept": 19,
+      "items_total": 19
     },
     {
       "source": "VentureBeat AI",
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Kimi: Threat or menace?",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-18T18:51:07+00:00",
+      "published_ts": 1784400667.0,
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
+    },
     {
       "title": "The apps, gadgets, and tools every reader needs",
       "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
@@ -695,26 +705,6 @@
       "published_iso": "2026-07-15T20:00:00+00:00",
       "published_ts": 1784145600.0,
       "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki"
-    },
-    {
-      "title": "What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-15T17:29:41+00:00",
-      "published_ts": 1784136581.0,
-      "summary": ""
-    },
-    {
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-15T17:27:01+00:00",
-      "published_ts": 1784136421.0,
-      "summary": ""
     }
   ]
 }
