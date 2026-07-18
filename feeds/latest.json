@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-18T09:42:51.106394+00:00",
+  "generated_at": "2026-07-18T11:16:17.665848+00:00",
   "lookback_hours": 72,
-  "item_count": 69,
+  "item_count": 67,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 5,
+      "items_kept": 4,
       "items_total": 1039
     },
     {
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 18
     },
     {
@@ -765,26 +765,6 @@
       "published_iso": "2026-07-15T12:00:00+00:00",
       "published_ts": 1784116800.0,
       "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
-    },
-    {
-      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-07-15T10:51:37+00:00",
-      "published_ts": 1784112697.0,
-      "summary": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest a"
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-15T10:00:00+00:00",
-      "published_ts": 1784109600.0,
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
     }
   ]
 }

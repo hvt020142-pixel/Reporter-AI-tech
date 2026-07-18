@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-18T09:42:51.106394+00:00 (UTC) — cửa sổ 72h — 69 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-18T11:16:17.665848+00:00 (UTC) — cửa sổ 72h — 67 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,9 +14,6 @@
 - 🟢 **NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI** — NVIDIA — `2026-07-15T23:00:54+00:00`
   - https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/
   - General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modu
-- 🟢 **NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry** — NVIDIA — `2026-07-15T10:51:37+00:00`
-  - https://blogs.nvidia.com/blog/japan-ecosystem-2026/
-  - Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest a
 
 ## Mô hình & LLM
 
@@ -41,9 +38,6 @@
 - 🟢 **The US is advancing AI safety through state and federal action** — OpenAI — `2026-07-15T12:00:00+00:00`
   - https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
   - OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.
-- 🟢 **GPT-Red: Unlocking Self-Improvement for Robustness** — OpenAI — `2026-07-15T10:00:00+00:00`
-  - https://openai.com/index/unlocking-self-improvement-gpt-red
-  - Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.
 
 ## Mô hình mở
 
