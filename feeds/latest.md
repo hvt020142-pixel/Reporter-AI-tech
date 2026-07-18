@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-18T06:15:24.591747+00:00 (UTC) — cửa sổ 72h — 69 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-18T09:42:51.106394+00:00 (UTC) — cửa sổ 72h — 69 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
