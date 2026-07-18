@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-18T11:16:17.665848+00:00 (UTC) — cửa sổ 72h — 67 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-18T13:44:18.788132+00:00 (UTC) — cửa sổ 72h — 65 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -35,9 +35,6 @@
 - 🟢 **How Cars24 scales conversations and builds faster with OpenAI** — OpenAI — `2026-07-16T00:00:00+00:00`
   - https://openai.com/index/cars24
   - Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.
-- 🟢 **The US is advancing AI safety through state and federal action** — OpenAI — `2026-07-15T12:00:00+00:00`
-  - https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
-  - OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.
 
 ## Mô hình mở
 
@@ -81,15 +78,15 @@
 - 🔵 **The First Chatbot’s Multiple Personalities** — IEEE Spectrum AI — `2026-07-15T15:35:53+00:00`
   - https://spectrum.ieee.org/eliza-chatbot-source-code
   - ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychothera
-- 🔵 **This AI Folds DNA Into Mini Masterpieces** — IEEE Spectrum AI — `2026-07-15T13:00:01+00:00`
-  - https://spectrum.ieee.org/ai-dna-origami
-  - Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami , which can bend genetic material into any form. Designing DNA strands 
-- 🔵 **The Download: a useful quantum machine and a record-breaking subsea tunnel** — MIT Tech Review — `2026-07-15T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like
 
 ## Tin tức
 
+- 🔵 **The apps, gadgets, and tools every reader needs** — The Verge AI — `2026-07-18T12:00:00+00:00`
+  - https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer
+  - Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of V
+- 🔵 **Will AI fix prior authorization—or make it worse?** — Ars Technica AI — `2026-07-18T11:18:25+00:00`
+  - https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/
+  - The government is piloting a program that uses AI for insurance-coverage decisions.
 - 🔵 **Neil Rimer thinks the AI money is coming back out** — TechCrunch AI — `2026-07-18T04:47:25+00:00`
   - https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/
   - Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.
@@ -207,9 +204,6 @@
 - 🔵 **AI slop movies are the new direct-to-video cash grabs** — The Verge AI — `2026-07-15T20:00:00+00:00`
   - https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood
   - This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki
-- 🔵 **Suno snatched millions of songs from YouTube, Genius, and Deezer** — The Verge AI — `2026-07-15T17:48:01+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack
-  - Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and
 - 🔵 **OpenAI's first branded hardware is... a light-up keyboard?** — Ars Technica AI — `2026-07-15T16:00:33+00:00`
   - https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/
   - The Codex Micro is designed to monitor multiple agentic threads at a glance.
