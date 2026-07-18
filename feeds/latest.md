@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-18T21:01:48.654866+00:00 (UTC) — cửa sổ 72h — 61 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-18T23:05:29.289111+00:00 (UTC) — cửa sổ 72h — 58 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -11,9 +11,6 @@
 - 🟢 **Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW** — NVIDIA — `2026-07-16T13:00:34+00:00`
   - https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/
   - Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can si
-- 🟢 **NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI** — NVIDIA — `2026-07-15T23:00:54+00:00`
-  - https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/
-  - General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today introduced the T3000 and T2000, new modu
 
 ## Mô hình & LLM
 
@@ -191,12 +188,6 @@
 - 🔵 **Computer cops** — The Verge AI — `2026-07-16T11:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops
   - I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as "the future of policing in the digital age." As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told m
-- 🔵 **Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents** — VentureBeat AI — `2026-07-15T22:24:17+00:00`
-  - https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents
-  - Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”
-- 🔵 **xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;** — The Verge AI — `2026-07-15T21:33:20+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
-  - The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood "knowingly and intentionally used Grok to circumvent safeguards, alter nonco
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
