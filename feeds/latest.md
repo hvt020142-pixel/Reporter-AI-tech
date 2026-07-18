@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-18T19:20:34.615105+00:00 (UTC) — cửa sổ 72h — 61 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-18T21:01:48.654866+00:00 (UTC) — cửa sổ 72h — 61 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -71,6 +71,9 @@
 
 ## Tin tức
 
+- 🔵 **Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’** — The Verge AI — `2026-07-18T20:54:42+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
+  - Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect
 - 🔵 **Kimi: Threat or menace?** — TechCrunch AI — `2026-07-18T18:51:07+00:00`
   - https://techcrunch.com/2026/07/18/kimi-threat-or-menace/
   - Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about "full AI communism."
@@ -194,9 +197,6 @@
 - 🔵 **xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;** — The Verge AI — `2026-07-15T21:33:20+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
   - The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood "knowingly and intentionally used Grok to circumvent safeguards, alter nonco
-- 🔵 **AI slop movies are the new direct-to-video cash grabs** — The Verge AI — `2026-07-15T20:00:00+00:00`
-  - https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood
-  - This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
