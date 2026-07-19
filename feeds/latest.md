@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-19T09:59:39.841662+00:00 (UTC) — cửa sổ 72h — 55 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-19T11:20:13.050136+00:00 (UTC) — cửa sổ 72h — 53 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -54,9 +54,6 @@
 - 🔵 **Digital Surveillance Reshapes Fishery Enforcement in Indonesia** — IEEE Spectrum AI — `2026-07-16T12:00:01+00:00`
   - https://spectrum.ieee.org/fishery-satellite-surveillance
   - In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the c
-- 🔵 **Why heat pumps are still so hot in the US** — MIT Tech Review — `2026-07-16T10:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/
-  - It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo
 
 ## Tin tức
 
@@ -177,9 +174,6 @@
 - 🔵 **Google ordered to open Android and Search to rivals in Europe** — The Verge AI — `2026-07-16T12:06:51+00:00`
   - https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma
   - Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech
-- 🔵 **Computer cops** — The Verge AI — `2026-07-16T11:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops
-  - I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as "the future of policing in the digital age." As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told m
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
