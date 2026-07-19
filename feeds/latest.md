@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-19T06:40:49.886399+00:00 (UTC) — cửa sổ 72h — 56 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-19T09:59:39.841662+00:00 (UTC) — cửa sổ 72h — 55 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -26,9 +26,6 @@
 - 🟢 **Create, edit and star in videos with two Google Vids updates** — Google (Keyword AI) — `2026-07-16T16:00:00+00:00`
   - https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/
   - Gemini Omni and personal avatars in Google Vids make video creation easier than ever.
-- 🟢 **Our approach to bioresilience** — Google DeepMind — `2026-07-16T09:30:42+00:00`
-  - https://deepmind.google/blog/our-approach-to-bioresilience/
-  - Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.
 
 ## Mô hình mở
 

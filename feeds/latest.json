@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T06:40:49.886399+00:00",
+  "generated_at": "2026-07-19T09:59:39.841662+00:00",
   "lookback_hours": 72,
-  "item_count": 56,
+  "item_count": 55,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -12,7 +12,7 @@
     {
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/rss.xml",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 100
     },
     {
@@ -645,16 +645,6 @@
       "published_iso": "2026-07-16T10:00:00+00:00",
       "published_ts": 1784196000.0,
       "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo"
-    },
-    {
-      "title": "Our approach to bioresilience",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "source": "Google DeepMind",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-16T09:30:42+00:00",
-      "published_ts": 1784194242.0,
-      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
     }
   ]
 }
