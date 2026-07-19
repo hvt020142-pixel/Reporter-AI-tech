@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-18T23:05:29.289111+00:00 (UTC) — cửa sổ 72h — 58 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-19T03:47:09.349032+00:00 (UTC) — cửa sổ 72h — 56 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -29,9 +29,6 @@
 - 🟢 **Our approach to bioresilience** — Google DeepMind — `2026-07-16T09:30:42+00:00`
   - https://deepmind.google/blog/our-approach-to-bioresilience/
   - Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.
-- 🟢 **How Cars24 scales conversations and builds faster with OpenAI** — OpenAI — `2026-07-16T00:00:00+00:00`
-  - https://openai.com/index/cars24
-  - Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.
 
 ## Mô hình mở
 
@@ -39,8 +36,6 @@
   - https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
 - 🟢 **Newer Models, Same Advantage** — Hugging Face — `2026-07-16T11:49:48+00:00`
   - https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
-- 🟢 **Security incident disclosure — July 2026** — Hugging Face — `2026-07-16T00:00:00+00:00`
-  - https://huggingface.co/blog/security-incident-july-2026
 
 ## Phân tích
 

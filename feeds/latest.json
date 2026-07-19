@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-18T23:05:29.289111+00:00",
+  "generated_at": "2026-07-19T03:47:09.349032+00:00",
   "lookback_hours": 72,
-  "item_count": 58,
+  "item_count": 56,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 1039
     },
     {
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 829
     },
     {
@@ -655,26 +655,6 @@
       "published_iso": "2026-07-16T09:30:42+00:00",
       "published_ts": 1784194242.0,
       "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
-    },
-    {
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-16T00:00:00+00:00",
-      "published_ts": 1784160000.0,
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
-    },
-    {
-      "title": "Security incident disclosure — July 2026",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-16T00:00:00+00:00",
-      "published_ts": 1784160000.0,
-      "summary": ""
     }
   ]
 }
