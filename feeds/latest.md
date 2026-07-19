@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-19T19:22:10.149120+00:00 (UTC) — cửa sổ 72h — 30 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-19T21:03:53.762219+00:00 (UTC) — cửa sổ 72h — 28 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -34,6 +34,9 @@
 
 ## Tin tức
 
+- 🔵 **Can an Apple lawsuit derail OpenAI’s hardware plans?** — TechCrunch AI — `2026-07-19T19:24:45+00:00`
+  - https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
+  - On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.
 - 🔵 **I hate that I don’t hate this song made with Suno** — The Verge AI — `2026-07-19T17:35:54+00:00`
   - https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music
   - I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]
@@ -97,15 +100,6 @@
 - 🔵 **Why the first GPU financiers are turning to inference chips in a $400 million deal** — TechCrunch AI — `2026-07-17T12:00:00+00:00`
   - https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/
   - A $400 million chip-backed loan points to the next wave of AI infrastructure deals.
-- 🔵 **It's official: EU will force Google to share search data and open up AI on Android** — Ars Technica AI — `2026-07-16T20:41:45+00:00`
-  - https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/
-  - Google says these changes could endanger user privacy and security.
-- 🔵 **xAI can’t deny Grok makes CSAM anymore. So it’s suing users.** — Ars Technica AI — `2026-07-16T20:26:23+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/
-  - Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.
-- 🔵 **Fear of humanoid robots spurs human workers to strike at Hyundai auto factory** — Ars Technica AI — `2026-07-16T20:09:48+00:00`
-  - https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/
-  - Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
