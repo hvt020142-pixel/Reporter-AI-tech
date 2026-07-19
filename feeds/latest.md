@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-19T13:47:49.674087+00:00 (UTC) — cửa sổ 72h — 47 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-19T15:10:58.423610+00:00 (UTC) — cửa sổ 72h — 46 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -46,6 +46,12 @@
 
 ## Tin tức
 
+- 🔵 **‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’** — TechCrunch AI — `2026-07-19T14:52:08+00:00`
+  - https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/
+  - "Everybody knows the Greeks are inside."
+- 🔵 **Nonprofit Current AI is racing to build the World Wide Web of AI, free for all** — TechCrunch AI — `2026-07-19T14:00:00+00:00`
+  - https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/
+  - Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.
 - 🔵 **Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’** — The Verge AI — `2026-07-18T20:54:42+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
   - Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect
@@ -148,15 +154,6 @@
 - 🔵 **Why is OpenAI selling a ChatGPT basketball?** — TechCrunch AI — `2026-07-16T15:31:09+00:00`
   - https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/
   - You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.
-- 🔵 **How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product** — TechCrunch AI — `2026-07-16T15:02:00+00:00`
-  - https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/
-  - Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.
-- 🔵 **Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’** — TechCrunch AI — `2026-07-16T14:40:00+00:00`
-  - https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/
-  - While everyone in AI is chasing "superintelligence," Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.
-- 🔵 **Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8** — TechCrunch AI — `2026-07-16T14:26:29+00:00`
-  - https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/
-  - The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
