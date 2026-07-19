@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-19T11:20:13.050136+00:00 (UTC) — cửa sổ 72h — 53 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-19T13:47:49.674087+00:00 (UTC) — cửa sổ 72h — 47 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -8,9 +8,6 @@
 - 🟢 **NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI** — NVIDIA — `2026-07-17T15:00:14+00:00`
   - https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/
   - Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.
-- 🟢 **Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW** — NVIDIA — `2026-07-16T13:00:34+00:00`
-  - https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/
-  - Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can si
 
 ## Mô hình & LLM
 
@@ -31,8 +28,6 @@
 
 - 🟢 **Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers** — Hugging Face — `2026-07-17T15:57:54+00:00`
   - https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
-- 🟢 **Newer Models, Same Advantage** — Hugging Face — `2026-07-16T11:49:48+00:00`
-  - https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 
 ## Phân tích
 
@@ -48,12 +43,6 @@
 - 🔵 **How to Make an Invisible Drone** — IEEE Spectrum AI — `2026-07-16T16:09:21+00:00`
   - https://spectrum.ieee.org/invisible-spinning-drone
   - There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even l
-- 🔵 **The Download: OpenAI unveils GPT-Red and heat pumps rise in the US** — MIT Tech Review — `2026-07-16T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring
-- 🔵 **Digital Surveillance Reshapes Fishery Enforcement in Indonesia** — IEEE Spectrum AI — `2026-07-16T12:00:01+00:00`
-  - https://spectrum.ieee.org/fishery-satellite-surveillance
-  - In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the c
 
 ## Tin tức
 
@@ -168,12 +157,6 @@
 - 🔵 **Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8** — TechCrunch AI — `2026-07-16T14:26:29+00:00`
   - https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/
   - The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.
-- 🔵 **Claude can now use your 1Password credentials for you** — The Verge AI — `2026-07-16T13:00:00+00:00`
-  - https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration
-  - 1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing onlin
-- 🔵 **Google ordered to open Android and Search to rivals in Europe** — The Verge AI — `2026-07-16T12:06:51+00:00`
-  - https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma
-  - Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
