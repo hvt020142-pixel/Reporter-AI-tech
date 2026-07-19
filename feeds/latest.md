@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-19T17:12:05.987586+00:00 (UTC) — cửa sổ 72h — 35 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-19T19:22:10.149120+00:00 (UTC) — cửa sổ 72h — 30 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -34,6 +34,9 @@
 
 ## Tin tức
 
+- 🔵 **I hate that I don’t hate this song made with Suno** — The Verge AI — `2026-07-19T17:35:54+00:00`
+  - https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music
+  - I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]
 - 🔵 **‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’** — TechCrunch AI — `2026-07-19T14:52:08+00:00`
   - https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/
   - "Everybody knows the Greeks are inside."
@@ -103,24 +106,6 @@
 - 🔵 **Fear of humanoid robots spurs human workers to strike at Hyundai auto factory** — Ars Technica AI — `2026-07-16T20:09:48+00:00`
   - https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/
   - Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.
-- 🔵 **Linus Torvalds to critics of AI coding in Linux: "Fork it. Or just walk away."** — Ars Technica AI — `2026-07-16T19:18:23+00:00`
-  - https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/
-  - Creator says he will "very loudly ignore" those arguing for a ban on AI tools.
-- 🔵 **The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs** — VentureBeat AI — `2026-07-16T19:16:48+00:00`
-  - https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs
-  - Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a
-- 🔵 **The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials** — VentureBeat AI — `2026-07-16T19:02:38+00:00`
-  - https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials
-  - Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents stil
-- 🔵 **Google Vids now lets you star in your own AI videos** — TechCrunch AI — `2026-07-16T18:32:54+00:00`
-  - https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/
-  - Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.
-- 🔵 **Roblox launches an AI-powered game-creation feature in its mobile app** — TechCrunch AI — `2026-07-16T18:22:06+00:00`
-  - https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/
-  - Roblox's new "Build" feature lets users generate basic games using a single text prompt.
-- 🔵 **New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state** — The Verge AI — `2026-07-16T17:58:37+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies
-  - New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using "AI to analyze every single rule, regulation, [and] po
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
