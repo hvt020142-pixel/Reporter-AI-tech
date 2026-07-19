@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-19T15:10:58.423610+00:00 (UTC) — cửa sổ 72h — 46 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-19T17:12:05.987586+00:00 (UTC) — cửa sổ 72h — 35 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,15 +14,6 @@
 - 🟢 **A scorecard for the AI age** — OpenAI — `2026-07-17T10:00:00+00:00`
   - https://openai.com/index/a-scorecard-for-the-ai-age
   - Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
-- 🟢 **Why teens deserve access to safe AI** — OpenAI — `2026-07-16T16:00:00+00:00`
-  - https://openai.com/index/why-teens-deserve-access-safe-ai
-  - Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.
-- 🟢 **Connect more of your apps to Search** — Google (Keyword AI) — `2026-07-16T16:00:00+00:00`
-  - https://blog.google/products-and-platforms/products/search/connected-apps/
-  - You’ll be able to securely link and interact with your go-to services directly in AI Mode.
-- 🟢 **Create, edit and star in videos with two Google Vids updates** — Google (Keyword AI) — `2026-07-16T16:00:00+00:00`
-  - https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/
-  - Gemini Omni and personal avatars in Google Vids make video creation easier than ever.
 
 ## Mô hình mở
 
@@ -40,9 +31,6 @@
 - 🔵 **The risk of weather data sabotage is rising** — MIT Tech Review — `2026-07-17T08:57:32+00:00`
   - https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/
   - Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit
-- 🔵 **How to Make an Invisible Drone** — IEEE Spectrum AI — `2026-07-16T16:09:21+00:00`
-  - https://spectrum.ieee.org/invisible-spinning-drone
-  - There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even l
 
 ## Tin tức
 
@@ -133,27 +121,6 @@
 - 🔵 **New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state** — The Verge AI — `2026-07-16T17:58:37+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies
   - New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using "AI to analyze every single rule, regulation, [and] po
-- 🔵 **The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix** — VentureBeat AI — `2026-07-16T17:06:08+00:00`
-  - https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix
-  - Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define th
-- 🔵 **The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway** — VentureBeat AI — `2026-07-16T16:40:48+00:00`
-  - https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway
-  - Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated ev
-- 🔵 **Google’s AI Mode now lets you link and interact with select apps** — TechCrunch AI — `2026-07-16T16:00:00+00:00`
-  - https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/
-  - With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.
-- 🔵 **Google is renaming NotebookLM to Gemini Notebook** — The Verge AI — `2026-07-16T16:00:00+00:00`
-  - https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm
-  - Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind 
-- 🔵 **Energy IPOs surge as investors hunt for ways to play AI boom** — Ars Technica AI — `2026-07-16T15:48:21+00:00`
-  - https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/
-  - Companies coming to market are raising money at fastest pace this century.
-- 🔵 **Yes, you can now order DoorDash from the command line** — TechCrunch AI — `2026-07-16T15:38:55+00:00`
-  - https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/
-  - DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.
-- 🔵 **Why is OpenAI selling a ChatGPT basketball?** — TechCrunch AI — `2026-07-16T15:31:09+00:00`
-  - https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/
-  - You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
