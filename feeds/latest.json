@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T21:03:53.762219+00:00",
+  "generated_at": "2026-07-19T23:06:58.711148+00:00",
   "lookback_hours": 72,
-  "item_count": 28,
+  "item_count": 29,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 14,
+      "items_kept": 15,
       "items_total": 19
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-19T21:16:07+00:00",
+      "published_ts": 1784495767.0,
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem."
+    },
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",

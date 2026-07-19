@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-19T21:03:53.762219+00:00 (UTC) — cửa sổ 72h — 28 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-19T23:06:58.711148+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -34,6 +34,9 @@
 
 ## Tin tức
 
+- 🔵 **What to watch for after Jensen Huang’s Japan visit** — TechCrunch AI — `2026-07-19T21:16:07+00:00`
+  - https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/
+  - Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.
 - 🔵 **Can an Apple lawsuit derail OpenAI’s hardware plans?** — TechCrunch AI — `2026-07-19T19:24:45+00:00`
   - https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
   - On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.
