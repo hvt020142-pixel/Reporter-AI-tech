@@ -1,21 +1,27 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-20T14:30:45.012032+00:00 (UTC) — cửa sổ 72h — 180 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-20T18:15:39.799530+00:00 (UTC) — cửa sổ 72h — 180 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI** — NVIDIA — `2026-07-20T15:00:53+00:00`
+  - https://blogs.nvidia.com/blog/siggraph-news-2026/
+  - From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.
 - 🟢 **Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin** — NVIDIA — `2026-07-20T10:59:23+00:00`
   - https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/
   - Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA 
-- 🟢 **NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI** — NVIDIA — `2026-07-17T15:00:14+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/
-  - Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.
+
+## Mô hình & LLM
+
+- 🟢 **Safety and alignment in an era of long-horizon models** — OpenAI — `2026-07-20T10:00:00+00:00`
+  - https://openai.com/index/safety-alignment-long-horizon-models
+  - OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.
 
 ## Mô hình mở
 
-- 🟢 **Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers** — Hugging Face — `2026-07-17T15:57:54+00:00`
-  - https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
+- 🟢 **Introducing Cosmos 3 Edge** — Hugging Face — `2026-07-20T15:58:51+00:00`
+  - https://huggingface.co/blog/nvidia/cosmos3edge
 
 ## Nghiên cứu
 
@@ -478,6 +484,9 @@
 
 ## Phân tích
 
+- 🔵 **China’s AI models have Trump’s AI world at war with itself** — MIT Tech Review — `2026-07-20T18:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, 
 - 🔵 **The Download: AI hiring biases, and weather data sabotage** — MIT Tech Review — `2026-07-20T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th
@@ -487,6 +496,12 @@
 
 ## Tin tức
 
+- 🔵 **Adobe’s ‘natural look’ camera app embraces generative AI** — The Verge AI — `2026-07-20T16:00:00+00:00`
+  - https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update
+  - Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a "more natural (SLR-like) look" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own F
+- 🔵 **YouTube clarifies policies around AI slop and upsetting videos** — TechCrunch AI — `2026-07-20T15:23:06+00:00`
+  - https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/
+  - YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.
 - 🔵 **Beyond grep: The case for a context-rich AI coding harness** — Ars Technica AI — `2026-07-20T11:20:10+00:00`
   - https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/
   - Augment Code's Vinay Perneti talks models, harnesses, and context.
@@ -528,7 +543,7 @@
   - From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.
 - 🔵 **Databricks hits $188B valuation, extending its run as AI’s favorite second act** — TechCrunch AI — `2026-07-17T22:12:56+00:00`
   - https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/
-  - Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.
+  - Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.
 - 🔵 **The Zoom hack that says, ‘Don’t record me’** — TechCrunch AI — `2026-07-17T21:20:47+00:00`
   - https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/
   - If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?
@@ -544,18 +559,6 @@
 - 🔵 **TikTok is testing an AI likeness detection tool** — The Verge AI — `2026-07-17T19:34:30+00:00`
   - https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool
   - TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with "some" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been 
-- 🔵 **How Apple’s big lawsuit could disrupt OpenAI’s IPO plans** — TechCrunch AI — `2026-07-17T17:45:46+00:00`
-  - https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/
-  - Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c
-- 🔵 **Apple’s plot to crush OpenAI** — The Verge AI — `2026-07-17T17:41:32+00:00`
-  - https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast
-  - Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#
-- 🔵 **San Francisco orders Apple, Google to remove nudify apps from app stores** — Ars Technica AI — `2026-07-17T16:10:05+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/
-  - Official estimates Google and Apple likely made millions in nudify app fees.
-- 🔵 **Patreon stops asking AI bots not to scrape — and starts blocking them** — TechCrunch AI — `2026-07-17T15:21:17+00:00`
-  - https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/
-  - Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
