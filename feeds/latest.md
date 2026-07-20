@@ -1,19 +1,16 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-20T07:24:36.031607+00:00 (UTC) — cửa sổ 72h — 181 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-20T11:10:47.371053+00:00 (UTC) — cửa sổ 72h — 181 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin** — NVIDIA — `2026-07-20T10:59:23+00:00`
+  - https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/
+  - Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA 
 - 🟢 **NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI** — NVIDIA — `2026-07-17T15:00:14+00:00`
   - https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/
   - Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.
-
-## Mô hình & LLM
-
-- 🟢 **A scorecard for the AI age** — OpenAI — `2026-07-17T10:00:00+00:00`
-  - https://openai.com/index/a-scorecard-for-the-ai-age
-  - Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.
 
 ## Mô hình mở
 
@@ -481,18 +478,18 @@
 
 ## Phân tích
 
+- 🔵 **AI is more likely than humans to form biases when hiring** — MIT Tech Review — `2026-07-20T08:39:01+00:00`
+  - https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
+  - The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi
 - 🔵 **The Download: perimenopause misinformation and China’s latest AI leap** — MIT Tech Review — `2026-07-17T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do
-- 🔵 **There’s a lot of hype around perimenopause. Don’t buy it.** — MIT Tech Review — `2026-07-17T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/
-  - Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasing
-- 🔵 **The risk of weather data sabotage is rising** — MIT Tech Review — `2026-07-17T08:57:32+00:00`
-  - https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/
-  - Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit
 
 ## Tin tức
 
+- 🔵 **China delivers a one-two punch to America’s AI dominance** — The Verge AI — `2026-07-20T10:16:33+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen
+  - China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight,
 - 🔵 **What to watch for after Jensen Huang’s Japan visit** — TechCrunch AI — `2026-07-19T21:16:07+00:00`
   - https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/
   - Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.

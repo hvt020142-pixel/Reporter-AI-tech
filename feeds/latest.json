@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T07:24:36.031607+00:00",
+  "generated_at": "2026-07-20T11:10:47.371053+00:00",
   "lookback_hours": 72,
   "item_count": 181,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 1039
     },
     {
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 18
     },
     {
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 5,
+      "items_kept": 6,
       "items_total": 10
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 10
     },
     {
@@ -96,6 +96,36 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+      "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-20T10:59:23+00:00",
+      "published_ts": 1784545163.0,
+      "summary": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA "
+    },
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T10:16:33+00:00",
+      "published_ts": 1784542593.0,
+      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight,"
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T08:39:01+00:00",
+      "published_ts": 1784536741.0,
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi"
+    },
     {
       "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
       "url": "https://arxiv.org/abs/2607.15280",
@@ -1875,36 +1905,6 @@
       "published_iso": "2026-07-17T12:00:00+00:00",
       "published_ts": 1784289600.0,
       "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals."
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-17T10:00:00+00:00",
-      "published_ts": 1784282400.0,
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
-    },
-    {
-      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-17T09:00:00+00:00",
-      "published_ts": 1784278800.0,
-      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasing"
-    },
-    {
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-17T08:57:32+00:00",
-      "published_ts": 1784278652.0,
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit"
     }
   ]
 }
