@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-20T11:10:47.371053+00:00 (UTC) — cửa sổ 72h — 181 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-20T14:30:45.012032+00:00 (UTC) — cửa sổ 72h — 180 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -478,15 +478,18 @@
 
 ## Phân tích
 
+- 🔵 **The Download: AI hiring biases, and weather data sabotage** — MIT Tech Review — `2026-07-20T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th
 - 🔵 **AI is more likely than humans to form biases when hiring** — MIT Tech Review — `2026-07-20T08:39:01+00:00`
   - https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
   - The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi
-- 🔵 **The Download: perimenopause misinformation and China’s latest AI leap** — MIT Tech Review — `2026-07-17T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do
 
 ## Tin tức
 
+- 🔵 **Beyond grep: The case for a context-rich AI coding harness** — Ars Technica AI — `2026-07-20T11:20:10+00:00`
+  - https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/
+  - Augment Code's Vinay Perneti talks models, harnesses, and context.
 - 🔵 **China delivers a one-two punch to America’s AI dominance** — The Verge AI — `2026-07-20T10:16:33+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen
   - China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight,
@@ -495,7 +498,7 @@
   - Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.
 - 🔵 **Can an Apple lawsuit derail OpenAI’s hardware plans?** — TechCrunch AI — `2026-07-19T19:24:45+00:00`
   - https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
-  - On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.
+  - On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.
 - 🔵 **I hate that I don’t hate this song made with Suno** — The Verge AI — `2026-07-19T17:35:54+00:00`
   - https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music
   - I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]
@@ -504,7 +507,7 @@
   - "Everybody knows the Greeks are inside."
 - 🔵 **Nonprofit Current AI is racing to build the World Wide Web of AI, free for all** — TechCrunch AI — `2026-07-19T14:00:00+00:00`
   - https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/
-  - Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.
+  - Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.
 - 🔵 **Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’** — The Verge AI — `2026-07-18T20:54:42+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
   - Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect
@@ -553,12 +556,6 @@
 - 🔵 **Patreon stops asking AI bots not to scrape — and starts blocking them** — TechCrunch AI — `2026-07-17T15:21:17+00:00`
   - https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/
   - Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.
-- 🔵 **Apple’s lawsuit couldn’t come at a worse time for OpenAI** — TechCrunch AI — `2026-07-17T14:00:00+00:00`
-  - https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/
-  - Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c
-- 🔵 **Why the first GPU financiers are turning to inference chips in a $400 million deal** — TechCrunch AI — `2026-07-17T12:00:00+00:00`
-  - https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/
-  - A $400 million chip-backed loan points to the next wave of AI infrastructure deals.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
