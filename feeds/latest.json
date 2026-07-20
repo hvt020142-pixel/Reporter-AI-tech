@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T18:15:39.799530+00:00",
+  "generated_at": "2026-07-20T21:20:17.774578+00:00",
   "lookback_hours": 72,
-  "item_count": 180,
+  "item_count": 181,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,8 +60,8 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 12,
-      "items_total": 19
+      "items_kept": 14,
+      "items_total": 20
     },
     {
       "source": "VentureBeat AI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 20
     },
     {
@@ -97,6 +97,46 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "SpaceX in your index fund, explained",
+      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T21:00:00+00:00",
+      "published_ts": 1784581200.0,
+      "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100"
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T20:50:40+00:00",
+      "published_ts": 1784580640.0,
+      "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b"
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T19:37:39+00:00",
+      "published_ts": 1784576259.0,
+      "summary": "X says the rebuilt version of its Android app is now available globally."
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T19:33:25+00:00",
+      "published_ts": 1784576005.0,
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business."
+    },
+    {
       "title": "China’s AI models have Trump’s AI world at war with itself",
       "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
       "source": "MIT Tech Review",
@@ -104,7 +144,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-20T18:00:00+00:00",
       "published_ts": 1784570400.0,
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, "
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa"
     },
     {
       "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
@@ -125,6 +165,16 @@
       "published_iso": "2026-07-20T15:58:51+00:00",
       "published_ts": 1784563131.0,
       "summary": ""
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T15:45:00+00:00",
+      "published_ts": 1784562300.0,
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
     },
     {
       "title": "YouTube clarifies policies around AI slop and upsetting videos",
@@ -1855,46 +1905,6 @@
       "published_iso": "2026-07-17T21:20:47+00:00",
       "published_ts": 1784323247.0,
       "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-17T20:19:49+00:00",
-      "published_ts": 1784319589.0,
-      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California."
-    },
-    {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-17T20:09:27+00:00",
-      "published_ts": 1784318967.0,
-      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
-    },
-    {
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-17T19:50:18+00:00",
-      "published_ts": 1784317818.0,
-      "summary": "The FireSat program can spot wildfires that other satellites miss."
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-17T19:34:30+00:00",
-      "published_ts": 1784316870.0,
-      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been "
     }
   ]
 }

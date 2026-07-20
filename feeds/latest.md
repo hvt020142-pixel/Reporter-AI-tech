@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-20T18:15:39.799530+00:00 (UTC) — cửa sổ 72h — 180 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-20T21:20:17.774578+00:00 (UTC) — cửa sổ 72h — 181 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -486,7 +486,7 @@
 
 - 🔵 **China’s AI models have Trump’s AI world at war with itself** — MIT Tech Review — `2026-07-20T18:00:00+00:00`
   - https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, 
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa
 - 🔵 **The Download: AI hiring biases, and weather data sabotage** — MIT Tech Review — `2026-07-20T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th
@@ -496,9 +496,24 @@
 
 ## Tin tức
 
+- 🔵 **SpaceX in your index fund, explained** — The Verge AI — `2026-07-20T21:00:00+00:00`
+  - https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained
+  - Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100
+- 🔵 **AI’s most important protocol is getting a little bit easier to use** — TechCrunch AI — `2026-07-20T20:50:40+00:00`
+  - https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/
+  - The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b
+- 🔵 **X relaunches a rebuilt Android app after year-long effort** — TechCrunch AI — `2026-07-20T19:37:39+00:00`
+  - https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/
+  - X says the rebuilt version of its Android app is now available globally.
+- 🔵 **OpenAI is scared of open-weight models. Should the US be?** — TechCrunch AI — `2026-07-20T19:33:25+00:00`
+  - https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/
+  - Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.
 - 🔵 **Adobe’s ‘natural look’ camera app embraces generative AI** — The Verge AI — `2026-07-20T16:00:00+00:00`
   - https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update
   - Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a "more natural (SLR-like) look" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own F
+- 🔵 **Adobe camera app’s new feature will critique your photos using AI** — TechCrunch AI — `2026-07-20T15:45:00+00:00`
+  - https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/
+  - Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.
 - 🔵 **YouTube clarifies policies around AI slop and upsetting videos** — TechCrunch AI — `2026-07-20T15:23:06+00:00`
   - https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/
   - YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.
@@ -547,18 +562,6 @@
 - 🔵 **The Zoom hack that says, ‘Don’t record me’** — TechCrunch AI — `2026-07-17T21:20:47+00:00`
   - https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/
   - If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?
-- 🔵 **Agility Robotics plants its flag in Tesla’s backyard** — TechCrunch AI — `2026-07-17T20:19:49+00:00`
-  - https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/
-  - Agility is opening a new training center for its Digit robots in Fremont, California.
-- 🔵 **AI-driven memory crunch jolts India’s smartphone market** — TechCrunch AI — `2026-07-17T20:09:27+00:00`
-  - https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/
-  - India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.
-- 🔵 **Google-backed satellites for wildfire detection launch as smoke chokes US, Canada** — Ars Technica AI — `2026-07-17T19:50:18+00:00`
-  - https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/
-  - The FireSat program can spot wildfires that other satellites miss.
-- 🔵 **TikTok is testing an AI likeness detection tool** — The Verge AI — `2026-07-17T19:34:30+00:00`
-  - https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool
-  - TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with "some" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been 
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
