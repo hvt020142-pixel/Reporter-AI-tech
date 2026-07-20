@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T21:20:17.774578+00:00",
+  "generated_at": "2026-07-20T23:11:56.383393+00:00",
   "lookback_hours": 72,
-  "item_count": 181,
+  "item_count": 182,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 14,
+      "items_kept": 13,
       "items_total": 20
     },
     {
@@ -72,13 +72,13 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 20
     },
     {
@@ -97,6 +97,46 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "Trump’s latest AI czar has already resigned",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T22:21:04+00:00",
+      "published_ts": 1784586064.0,
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T22:19:12+00:00",
+      "published_ts": 1784585952.0,
+      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on "
+    },
+    {
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T21:55:52+00:00",
+      "published_ts": 1784584552.0,
+      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early."
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-20T21:21:15+00:00",
+      "published_ts": 1784582475.0,
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
+    },
+    {
       "title": "SpaceX in your index fund, explained",
       "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
       "source": "The Verge AI",
@@ -114,7 +154,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-20T20:50:40+00:00",
       "published_ts": 1784580640.0,
-      "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b"
+      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work."
     },
     {
       "title": "X relaunches a rebuilt Android app after year-long effort",
@@ -1875,36 +1915,6 @@
       "published_iso": "2026-07-18T04:47:25+00:00",
       "published_ts": 1784350045.0,
       "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-17T22:55:09+00:00",
-      "published_ts": 1784328909.0,
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-17T22:12:56+00:00",
-      "published_ts": 1784326376.0,
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding."
-    },
-    {
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-17T21:20:47+00:00",
-      "published_ts": 1784323247.0,
-      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-20T21:20:17.774578+00:00 (UTC) — cửa sổ 72h — 181 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-20T23:11:56.383393+00:00 (UTC) — cửa sổ 72h — 182 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -496,12 +496,24 @@
 
 ## Tin tức
 
+- 🔵 **Trump’s latest AI czar has already resigned** — TechCrunch AI — `2026-07-20T22:21:04+00:00`
+  - https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/
+  - The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.
+- 🔵 **Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over** — The Verge AI — `2026-07-20T22:19:12+00:00`
+  - https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright
+  - Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on 
+- 🔵 **Firefighting drones in the works as wildfires plague US nearly year-round** — Ars Technica AI — `2026-07-20T21:55:52+00:00`
+  - https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/
+  - California and XPRIZE competition tests whether drones can stop wildfires early.
+- 🔵 **Google is working on a new AI chip designed to make Gemini more efficient** — TechCrunch AI — `2026-07-20T21:21:15+00:00`
+  - https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/
+  - Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.
 - 🔵 **SpaceX in your index fund, explained** — The Verge AI — `2026-07-20T21:00:00+00:00`
   - https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained
   - Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100
 - 🔵 **AI’s most important protocol is getting a little bit easier to use** — TechCrunch AI — `2026-07-20T20:50:40+00:00`
   - https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/
-  - The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b
+  - Under the new system, the protocol will take a looser, "stateless" approach to session IDs on the server side, similar to how most ordinary websites already work.
 - 🔵 **X relaunches a rebuilt Android app after year-long effort** — TechCrunch AI — `2026-07-20T19:37:39+00:00`
   - https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/
   - X says the rebuilt version of its Android app is now available globally.
@@ -553,15 +565,6 @@
 - 🔵 **Neil Rimer thinks the AI money is coming back out** — TechCrunch AI — `2026-07-18T04:47:25+00:00`
   - https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/
   - Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.
-- 🔵 **Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs** — TechCrunch AI — `2026-07-17T22:55:09+00:00`
-  - https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/
-  - From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.
-- 🔵 **Databricks hits $188B valuation, extending its run as AI’s favorite second act** — TechCrunch AI — `2026-07-17T22:12:56+00:00`
-  - https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/
-  - Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.
-- 🔵 **The Zoom hack that says, ‘Don’t record me’** — TechCrunch AI — `2026-07-17T21:20:47+00:00`
-  - https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/
-  - If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
