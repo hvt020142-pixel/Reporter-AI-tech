@@ -1,13 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-21T19:47:33.725365+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-21T21:30:45.493662+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
 - 🟢 **NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide** — NVIDIA — `2026-07-21T15:36:43+00:00`
   - https://blogs.nvidia.com/blog/vera-rubin/
-  - NVIDIA Vera Rubin is here, and it&#8217;s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350-plus factory sites in 30 countries, Vera Rubin has the largest, most mature rack-
+  - NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supp
 - 🟢 **Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories** — NVIDIA — `2026-07-21T15:00:20+00:00`
   - https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/
   - AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier i
@@ -26,16 +26,22 @@
 - 🟢 **Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber** — Google DeepMind — `2026-07-21T15:16:30+00:00`
   - https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/
   - We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
+- 🟢 **OpenAI and Hugging Face partner to address security incident during model evaluation** — OpenAI — `2026-07-21T07:00:00+00:00`
+  - https://openai.com/index/hugging-face-model-evaluation-security-incident
+  - OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
+- 🟢 **David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC** — OpenAI — `2026-07-21T00:00:00+00:00`
+  - https://openai.com/index/david-velez-robin-vince-join-openai-boards
+  - David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.
 - 🟢 **Safety and alignment in an era of long-horizon models** — OpenAI — `2026-07-20T10:00:00+00:00`
   - https://openai.com/index/safety-alignment-long-horizon-models
   - OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.
 
 ## Mô hình mở
 
+- 🟢 **The State of Simulation for Physical AI: An Overview** — Hugging Face — `2026-07-21T20:00:27+00:00`
+  - https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
 - 🟢 **Grabette: an open system to record robot-manipulation data** — Hugging Face — `2026-07-21T00:00:00+00:00`
   - https://huggingface.co/blog/grabette
-- 🟢 **Introducing Cosmos 3 Edge** — Hugging Face — `2026-07-20T15:58:51+00:00`
-  - https://huggingface.co/blog/nvidia/cosmos3edge
 
 ## Nghiên cứu
 
@@ -524,7 +530,7 @@
 
 - 🔵 **Why AI Needs a “Genie Coefficient”** — IEEE Spectrum AI — `2026-07-21T17:41:11+00:00`
   - https://spectrum.ieee.org/ai-agent-benchmark
-  - Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and an
+  - Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and ano
 - 🔵 **The Download: Chinese AI divides the White House, and a record copyright payout** — MIT Tech Review — `2026-07-21T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly 
@@ -546,6 +552,9 @@
 
 ## Tin tức
 
+- 🔵 **OpenAI says Hugging Face was breached by its own pre-release models** — TechCrunch AI — `2026-07-21T20:56:55+00:00`
+  - https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/
+  - OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.
 - 🔵 **Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents** — TechCrunch AI — `2026-07-21T19:43:41+00:00`
   - https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/
   - Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.

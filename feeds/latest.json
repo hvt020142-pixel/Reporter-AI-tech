@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-21T19:47:33.725365+00:00",
+  "generated_at": "2026-07-21T21:30:45.493662+00:00",
   "lookback_hours": 72,
-  "item_count": 209,
+  "item_count": 212,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 2,
-      "items_total": 1041
+      "items_kept": 4,
+      "items_total": 1043
     },
     {
       "source": "Google DeepMind",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 19,
+      "items_kept": 20,
       "items_total": 20
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T20:56:55+00:00",
+      "published_ts": 1784667415.0,
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
+    },
+    {
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-21T20:00:27+00:00",
+      "published_ts": 1784664027.0,
+      "summary": ""
+    },
     {
       "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
       "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
@@ -144,7 +164,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-21T17:41:11+00:00",
       "published_ts": 1784655671.0,
-      "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and an"
+      "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and ano"
     },
     {
       "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
@@ -214,7 +234,7 @@
       "tier": "primary",
       "published_iso": "2026-07-21T15:36:43+00:00",
       "published_ts": 1784648203.0,
-      "summary": "NVIDIA Vera Rubin is here, and it&#8217;s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350-plus factory sites in 30 countries, Vera Rubin has the largest, most mature rack-"
+      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supp"
     },
     {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -315,6 +335,16 @@
       "published_iso": "2026-07-21T10:00:00+00:00",
       "published_ts": 1784628000.0,
       "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites."
+    },
+    {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-21T07:00:00+00:00",
+      "published_ts": 1784617200.0,
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
     },
     {
       "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
@@ -1927,6 +1957,16 @@
       "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
     },
     {
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-21T00:00:00+00:00",
+      "published_ts": 1784592000.0,
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
+    },
+    {
       "title": "Grabette: an open system to record robot-manipulation data",
       "url": "https://huggingface.co/blog/grabette",
       "source": "Hugging Face",
@@ -2035,16 +2075,6 @@
       "published_iso": "2026-07-20T16:00:00+00:00",
       "published_ts": 1784563200.0,
       "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own F"
-    },
-    {
-      "title": "Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-20T15:58:51+00:00",
-      "published_ts": 1784563131.0,
-      "summary": ""
     },
     {
       "title": "Adobe camera app’s new feature will critique your photos using AI",
