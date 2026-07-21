@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-21T06:38:40.425997+00:00 (UTC) — cửa sổ 72h — 190 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-21T10:32:20.534814+00:00 (UTC) — cửa sổ 72h — 192 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,6 +20,8 @@
 
 ## Mô hình mở
 
+- 🟢 **Grabette: an open system to record robot-manipulation data** — Hugging Face — `2026-07-21T00:00:00+00:00`
+  - https://huggingface.co/blog/grabette
 - 🟢 **Introducing Cosmos 3 Edge** — Hugging Face — `2026-07-20T15:58:51+00:00`
   - https://huggingface.co/blog/nvidia/cosmos3edge
 
@@ -520,6 +522,9 @@
 
 ## Tin tức
 
+- 🔵 **Gritt exits stealth with $34 million for robots to build solar plants—then, everything else** — TechCrunch AI — `2026-07-21T10:00:00+00:00`
+  - https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/
+  - Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.
 - 🔵 **Anthropic’s landmark $1.5B copyright settlement is approved** — TechCrunch AI — `2026-07-21T00:12:24+00:00`
   - https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
   - The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.

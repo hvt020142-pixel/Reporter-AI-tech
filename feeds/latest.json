@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T06:38:40.425997+00:00",
+  "generated_at": "2026-07-21T10:32:20.534814+00:00",
   "lookback_hours": 72,
-  "item_count": 190,
+  "item_count": 192,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,8 +30,8 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 1,
-      "items_total": 829
+      "items_kept": 2,
+      "items_total": 830
     },
     {
       "source": "arXiv cs.AI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 13,
+      "items_kept": 14,
       "items_total": 20
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T10:00:00+00:00",
+      "published_ts": 1784628000.0,
+      "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites."
+    },
     {
       "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
       "url": "https://arxiv.org/abs/2607.16195",
@@ -1705,6 +1715,16 @@
       "published_iso": "2026-07-21T00:12:24+00:00",
       "published_ts": 1784592744.0,
       "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-21T00:00:00+00:00",
+      "published_ts": 1784592000.0,
+      "summary": ""
     },
     {
       "title": "Trump’s latest AI czar has already resigned",
