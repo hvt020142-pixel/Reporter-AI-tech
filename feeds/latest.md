@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-20T23:11:56.383393+00:00 (UTC) — cửa sổ 72h — 182 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-21T03:39:09.654964+00:00 (UTC) — cửa sổ 72h — 183 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -51,7 +51,7 @@
   - arXiv:2607.15442v1 Announce Type: new Abstract: Internet memes intertwine visual cues, textual content, and cultural context, making them particularly challenging to interpret in scenarios where humor, sarcasm, and harmful intent coexist. These complexities highlight the need for explainable meme un
 - 🟢 **From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems** — arXiv cs.AI — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15459
-  - arXiv:2607.15459v1 Announce Type: new Abstract: A trained deep reinforcement learning policy is a black box, and we ask whether it can be made explainable by rewriting it as an executable logic program that reproduces its behaviour and that a person can read, a logic engine can run, and an optimizer
+  - arXiv:2607.15459v2 Announce Type: new Abstract: A trained deep reinforcement learning policy is a black box, and we ask whether it can be made explainable by rewriting it as an executable logic program that reproduces its behaviour and that a person can read, a logic engine can run, and an optimizer
 - 🟢 **A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms** — arXiv cs.AI — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15480
   - arXiv:2607.15480v1 Announce Type: new Abstract: As artificial intelligence (AI) systems increasingly impact society, ensuring their ethical and trustworthy deployment has become a global priority. While a myriad of high-level ethical guidelines have emerged, criticism persists that these frameworks 
@@ -132,7 +132,7 @@
   - arXiv:2607.15414v1 Announce Type: cross Abstract: Large Language Models (LLMs) have emerged as powerful tools for processing the heterogeneous information environments of modern financial markets. This paper presents a systematic, comparative evaluation of five prominent LLMs: GPT-4 Turbo, Claude 3 
 - 🟢 **Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation** — arXiv cs.AI — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15434
-  - arXiv:2607.15434v1 Announce Type: cross Abstract: Multi-agent systems routinely place one AI agent in authority over another. When a subordinate refuses a task, the manager chooses the outcome: it can renegotiate, report the failure honestly, coerce the subordinate, or lie about the result. No bench
+  - arXiv:2607.15434v2 Announce Type: cross Abstract: Multi-agent systems routinely place one AI agent in authority over another. When a subordinate refuses a task, the manager chooses the outcome: it can renegotiate, report the failure honestly, coerce the subordinate, or lie about the result. No bench
 - 🟢 **Design-Based Supervised Learning with Noisy Human Labels** — arXiv cs.AI — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15455
   - arXiv:2607.15455v1 Announce Type: cross Abstract: Researchers increasingly use automated classifiers to label unstructured data for statistical analysis. Existing rectification methods can correct errors in these automated labels using a probability-sampled audit set, but they usually treat the audi
@@ -153,7 +153,7 @@
   - arXiv:2607.15544v1 Announce Type: new Abstract: Generation of clear and accessible public health narratives is critical for communicating complex epidemiological projections to policymakers and the general public at large. Such narratives require more than simply reporting numbers: projections must 
 - 🟢 **SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents** — arXiv cs.CL — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15557
-  - arXiv:2607.15557v1 Announce Type: new Abstract: Agent skills, SKILL.md files that package reusable procedural knowledge for an LLM agent, are a popular mechanism for extending agent capabilities. Public repositories now host them in large and growing numbers, yet these artifacts are fragmented, redu
+  - arXiv:2607.15557v2 Announce Type: new Abstract: Agent skills, $\texttt{SKILL.md}$ files that package reusable procedural knowledge for an LLM agent, are a popular mechanism for extending agent capabilities. Public repositories now host them in large and growing numbers, yet these artifacts are fragm
 - 🟢 **Process Reward Informed Tree Rollout for Effective Multi-Turn RL** — arXiv cs.CL — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15610
   - arXiv:2607.15610v1 Announce Type: new Abstract: Reinforcement learning (RL) has become a key approach for training LLM agents, yet popular methods such as GRPO/RLOO rely on multiple independently sampled complete trajectories for advantage estimation. In long-horizon agentic tasks, such a uniform ro
@@ -189,10 +189,10 @@
   - arXiv:2607.15870v1 Announce Type: new Abstract: Human label variation in natural language inference is increasingly treated as signal rather than noise, but how much of it formal semantic structure explains has not been measured directly. We measure it on the 3,113 SNLI and MNLI items of ChaosNLI, u
 - 🟢 **DECODEM: Data Extraction from Corporate Organizational Documents via Enhanced Methods** — arXiv cs.CL — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15879
-  - arXiv:2607.15879v1 Announce Type: new Abstract: Much empirical legal research depends on translating unstructured text into structured variables. In corporate governance research as elsewhere, this translation has traditionally relied on human coding of documents such as charters and bylaws, a proce
+  - arXiv:2607.15879v2 Announce Type: new Abstract: Much empirical legal research depends on translating unstructured text into structured variables. In corporate governance research as elsewhere, this translation has traditionally relied on human coding of documents such as charters and bylaws, a proce
 - 🟢 **Induction in Both Directions: A Mechanistic Analysis of In-Context Learning in Masked Diffusion Language Models** — arXiv cs.CL — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15893
-  - arXiv:2607.15893v1 Announce Type: new Abstract: While the internal mechanisms of autoregressive (AR) transformers have been studied extensively, much less is known about diffusion language models (DLMs), an emerging alternative that generates text by iterative denoising. In this work, we study how D
+  - arXiv:2607.15893v2 Announce Type: new Abstract: While the internal mechanisms of autoregressive (AR) transformers have been studied extensively, much less is known about diffusion language models (DLMs), an emerging alternative that generates text by iterative denoising. In this work, we study how D
 - 🟢 **From Plausible to Actionable: A Position on LLM Self-Explanations** — arXiv cs.CL — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15957
   - arXiv:2607.15957v1 Announce Type: new Abstract: Large Language Models (LLMs) can generate natural language explanations that rationalize their own decisions, a phenomenon commonly referred to as self-explanations.Such explanations have emerged as a promising direction for explainable artificial inte
@@ -204,7 +204,7 @@
   - arXiv:2607.16021v1 Announce Type: new Abstract: Dialogue state tracking (DST) is one of the core components in task-oriented dialogue systems. At each turn in a conversation, DST estimates the user belief or dialogue state, which is used as input for downstream modules to predict system actions and 
 - 🟢 **Loop the Loopies!** — arXiv cs.CL — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.16051
-  - arXiv:2607.16051v1 Announce Type: new Abstract: We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers
+  - arXiv:2607.16051v2 Announce Type: new Abstract: We present the Loopie series, consisting of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6B-parameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an N times inc
 - 🟢 **Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning** — arXiv cs.CL — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.16057
   - arXiv:2607.16057v1 Announce Type: new Abstract: Large language models (LLMs) are improving rapidly as reflected in benchmark scores, yet these AI benchmarks largely test capabilities such as factual recall, narrow question answering, mathematical problem-solving, and coding and agentic tool-use. Wha
@@ -381,7 +381,7 @@
   - arXiv:2607.15374v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) ground whole objects well from free-form language queries, but they struggle when the query names a part rather than the object. We trace this to a missing object-part hierarchy, since parts are localized in the
 - 🟢 **Unsupervised Keypoints for Real-Time Fall Detection: Comparative Analysis Under Real-world Conditions with Predictive Bandwidth Reduction** — arXiv cs.CV — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15400
-  - arXiv:2607.15400v1 Announce Type: new Abstract: Falls among older adults are a major safety challenge, but continuous monitoring is difficult to sustain. Video captures fall-related posture and motion, yet deployment is limited by privacy, computation, and bandwidth. Supervised pose estimation is an
+  - arXiv:2607.15400v2 Announce Type: new Abstract: Falls among older adults are a major safety challenge, but continuous monitoring is difficult to sustain. Video captures fall-related posture and motion, yet deployment is limited by privacy, computation, and bandwidth. Supervised pose estimation is an
 - 🟢 **GS-RealBlur: A Flexible Data Acquisition Framework for Real-World Image Deblurring** — arXiv cs.CV — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15401
   - arXiv:2607.15401v1 Announce Type: new Abstract: High-quality, large-scale paired data is essential for training learning-based image deblurring models. However, synthetic blurry images generally lack realism, while real-world captured images require complex and inflexible camera systems. In this wor
@@ -432,7 +432,7 @@
   - arXiv:2607.15615v1 Announce Type: new Abstract: Vision-language models trained with contrastive objectives have shown promise in medical image analysis. However, conventional global image-text alignment is ill-suited for mammography, where diagnostically relevant lesions are spatially localized and 
 - 🟢 **StructGen: Disambiguating Multi-Reference Image Generation via Structured Context Modeling** — arXiv cs.CV — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15619
-  - arXiv:2607.15619v1 Announce Type: new Abstract: Multi-reference image generation aims to synthesize images by integrating attributes from multiple reference images under textual instructions. As the number of references increases, the task necessitates complex semantic comprehension, such as correct
+  - arXiv:2607.15619v2 Announce Type: new Abstract: Multi-reference image generation aims to synthesize images by integrating attributes from multiple reference images under textual instructions. As the number of references increases, the task necessitates complex semantic comprehension, such as correct
 - 🟢 **BCG-Former: Toward Pareto-Efficient Hyperspectral Image Classification via Band-Contextual Gating** — arXiv cs.CV — `2026-07-20T04:00:00+00:00`
   - https://arxiv.org/abs/2607.15639
   - arXiv:2607.15639v1 Announce Type: new Abstract: Hyperspectral image (HSI) classification systems are increasingly deployed on platforms with strict computational budgets, such as UAVs and small spaceborne sensors. In these settings, accuracy alone is not enough; the model must also run within tight 
@@ -496,6 +496,9 @@
 
 ## Tin tức
 
+- 🔵 **Anthropic’s landmark $1.5B copyright settlement is approved** — TechCrunch AI — `2026-07-21T00:12:24+00:00`
+  - https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
+  - The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.
 - 🔵 **Trump’s latest AI czar has already resigned** — TechCrunch AI — `2026-07-20T22:21:04+00:00`
   - https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/
   - The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T23:11:56.383393+00:00",
+  "generated_at": "2026-07-21T03:39:09.654964+00:00",
   "lookback_hours": 72,
-  "item_count": 182,
+  "item_count": 183,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 13,
+      "items_kept": 14,
       "items_total": 20
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T00:12:24+00:00",
+      "published_ts": 1784592744.0,
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
+    },
     {
       "title": "Trump’s latest AI czar has already resigned",
       "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
@@ -384,7 +394,7 @@
       "tier": "primary",
       "published_iso": "2026-07-20T04:00:00+00:00",
       "published_ts": 1784520000.0,
-      "summary": "arXiv:2607.15459v1 Announce Type: new Abstract: A trained deep reinforcement learning policy is a black box, and we ask whether it can be made explainable by rewriting it as an executable logic program that reproduces its behaviour and that a person can read, a logic engine can run, and an optimizer"
+      "summary": "arXiv:2607.15459v2 Announce Type: new Abstract: A trained deep reinforcement learning policy is a black box, and we ask whether it can be made explainable by rewriting it as an executable logic program that reproduces its behaviour and that a person can read, a logic engine can run, and an optimizer"
     },
     {
       "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
@@ -654,7 +664,7 @@
       "tier": "primary",
       "published_iso": "2026-07-20T04:00:00+00:00",
       "published_ts": 1784520000.0,
-      "summary": "arXiv:2607.15434v1 Announce Type: cross Abstract: Multi-agent systems routinely place one AI agent in authority over another. When a subordinate refuses a task, the manager chooses the outcome: it can renegotiate, report the failure honestly, coerce the subordinate, or lie about the result. No bench"
+      "summary": "arXiv:2607.15434v2 Announce Type: cross Abstract: Multi-agent systems routinely place one AI agent in authority over another. When a subordinate refuses a task, the manager chooses the outcome: it can renegotiate, report the failure honestly, coerce the subordinate, or lie about the result. No bench"
     },
     {
       "title": "Design-Based Supervised Learning with Noisy Human Labels",
@@ -724,7 +734,7 @@
       "tier": "primary",
       "published_iso": "2026-07-20T04:00:00+00:00",
       "published_ts": 1784520000.0,
-      "summary": "arXiv:2607.15557v1 Announce Type: new Abstract: Agent skills, SKILL.md files that package reusable procedural knowledge for an LLM agent, are a popular mechanism for extending agent capabilities. Public repositories now host them in large and growing numbers, yet these artifacts are fragmented, redu"
+      "summary": "arXiv:2607.15557v2 Announce Type: new Abstract: Agent skills, $\\texttt{SKILL.md}$ files that package reusable procedural knowledge for an LLM agent, are a popular mechanism for extending agent capabilities. Public repositories now host them in large and growing numbers, yet these artifacts are fragm"
     },
     {
       "title": "Process Reward Informed Tree Rollout for Effective Multi-Turn RL",
@@ -844,7 +854,7 @@
       "tier": "primary",
       "published_iso": "2026-07-20T04:00:00+00:00",
       "published_ts": 1784520000.0,
-      "summary": "arXiv:2607.15879v1 Announce Type: new Abstract: Much empirical legal research depends on translating unstructured text into structured variables. In corporate governance research as elsewhere, this translation has traditionally relied on human coding of documents such as charters and bylaws, a proce"
+      "summary": "arXiv:2607.15879v2 Announce Type: new Abstract: Much empirical legal research depends on translating unstructured text into structured variables. In corporate governance research as elsewhere, this translation has traditionally relied on human coding of documents such as charters and bylaws, a proce"
     },
     {
       "title": "Induction in Both Directions: A Mechanistic Analysis of In-Context Learning in Masked Diffusion Language Models",
@@ -854,7 +864,7 @@
       "tier": "primary",
       "published_iso": "2026-07-20T04:00:00+00:00",
       "published_ts": 1784520000.0,
-      "summary": "arXiv:2607.15893v1 Announce Type: new Abstract: While the internal mechanisms of autoregressive (AR) transformers have been studied extensively, much less is known about diffusion language models (DLMs), an emerging alternative that generates text by iterative denoising. In this work, we study how D"
+      "summary": "arXiv:2607.15893v2 Announce Type: new Abstract: While the internal mechanisms of autoregressive (AR) transformers have been studied extensively, much less is known about diffusion language models (DLMs), an emerging alternative that generates text by iterative denoising. In this work, we study how D"
     },
     {
       "title": "From Plausible to Actionable: A Position on LLM Self-Explanations",
@@ -894,7 +904,7 @@
       "tier": "primary",
       "published_iso": "2026-07-20T04:00:00+00:00",
       "published_ts": 1784520000.0,
-      "summary": "arXiv:2607.16051v1 Announce Type: new Abstract: We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers"
+      "summary": "arXiv:2607.16051v2 Announce Type: new Abstract: We present the Loopie series, consisting of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6B-parameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an N times inc"
     },
     {
       "title": "Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning",
@@ -1484,7 +1494,7 @@
       "tier": "primary",
       "published_iso": "2026-07-20T04:00:00+00:00",
       "published_ts": 1784520000.0,
-      "summary": "arXiv:2607.15400v1 Announce Type: new Abstract: Falls among older adults are a major safety challenge, but continuous monitoring is difficult to sustain. Video captures fall-related posture and motion, yet deployment is limited by privacy, computation, and bandwidth. Supervised pose estimation is an"
+      "summary": "arXiv:2607.15400v2 Announce Type: new Abstract: Falls among older adults are a major safety challenge, but continuous monitoring is difficult to sustain. Video captures fall-related posture and motion, yet deployment is limited by privacy, computation, and bandwidth. Supervised pose estimation is an"
     },
     {
       "title": "GS-RealBlur: A Flexible Data Acquisition Framework for Real-World Image Deblurring",
@@ -1654,7 +1664,7 @@
       "tier": "primary",
       "published_iso": "2026-07-20T04:00:00+00:00",
       "published_ts": 1784520000.0,
-      "summary": "arXiv:2607.15619v1 Announce Type: new Abstract: Multi-reference image generation aims to synthesize images by integrating attributes from multiple reference images under textual instructions. As the number of references increases, the task necessitates complex semantic comprehension, such as correct"
+      "summary": "arXiv:2607.15619v2 Announce Type: new Abstract: Multi-reference image generation aims to synthesize images by integrating attributes from multiple reference images under textual instructions. As the number of references increases, the task necessitates complex semantic comprehension, such as correct"
     },
     {
       "title": "BCG-Former: Toward Pareto-Efficient Hyperspectral Image Classification via Band-Contextual Gating",
