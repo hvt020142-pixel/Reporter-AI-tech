@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T10:32:20.534814+00:00",
+  "generated_at": "2026-07-21T14:17:55.463119+00:00",
   "lookback_hours": 72,
-  "item_count": 192,
+  "item_count": 195,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 14,
+      "items_kept": 15,
       "items_total": 20
     },
     {
@@ -78,33 +78,83 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 3,
+      "items_kept": 5,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 0,
+      "items_kept": 1,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
     {
-      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T13:27:42+00:00",
+      "published_ts": 1784640462.0,
+      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June"
+    },
+    {
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T12:10:00+00:00",
+      "published_ts": 1784635800.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly "
+    },
+    {
+      "title": "China’s Low-Priced Z.ai Model Is Exposing Costly Coder Habits",
+      "url": "https://spectrum.ieee.org/ai-coding-assistant-china-anthropic",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T12:00:01+00:00",
+      "published_ts": 1784635201.0,
+      "summary": "Zain Hasan , an AI engineer at Together AI , has taught himself to use AI coding assistants while still keeping an eye on cost. He directs difficult problems to a frontier model, meaning one near the current state of the art in reasoning and capability, such as Anthropic’s Fable . But if the task th"
+    },
+    {
+      "title": "America needs to stop getting shocked by Chinese AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T11:08:56+00:00",
+      "published_ts": 1784632136.0,
+      "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races "
+    },
+    {
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T10:37:34+00:00",
+      "published_ts": 1784630254.0,
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI "
+    },
+    {
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
       "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
       "tier": "reputable",
       "published_iso": "2026-07-21T10:00:00+00:00",
       "published_ts": 1784628000.0,
-      "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites."
+      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites."
     },
     {
       "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
@@ -1995,26 +2045,6 @@
       "published_iso": "2026-07-18T18:51:07+00:00",
       "published_ts": 1784400667.0,
       "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
-    },
-    {
-      "title": "The apps, gadgets, and tools every reader needs",
-      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-18T12:00:00+00:00",
-      "published_ts": 1784376000.0,
-      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of V"
-    },
-    {
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-18T11:18:25+00:00",
-      "published_ts": 1784373505.0,
-      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions."
     }
   ]
 }

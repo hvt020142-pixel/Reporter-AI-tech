@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-21T10:32:20.534814+00:00 (UTC) — cửa sổ 72h — 192 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-21T14:17:55.463119+00:00 (UTC) — cửa sổ 72h — 195 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -510,6 +510,15 @@
 
 ## Phân tích
 
+- 🔵 **The Download: Chinese AI divides the White House, and a record copyright payout** — MIT Tech Review — `2026-07-21T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly 
+- 🔵 **China’s Low-Priced Z.ai Model Is Exposing Costly Coder Habits** — IEEE Spectrum AI — `2026-07-21T12:00:01+00:00`
+  - https://spectrum.ieee.org/ai-coding-assistant-china-anthropic
+  - Zain Hasan , an AI engineer at Together AI , has taught himself to use AI coding assistants while still keeping an eye on cost. He directs difficult problems to a frontier model, meaning one near the current state of the art in reasoning and capability, such as Anthropic’s Fable . But if the task th
+- 🔵 **Advancing next-gen AI with materials science innovation** — MIT Tech Review — `2026-07-21T10:37:34+00:00`
+  - https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/
+  - The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI 
 - 🔵 **China’s AI models have Trump’s AI world at war with itself** — MIT Tech Review — `2026-07-20T18:00:00+00:00`
   - https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa
@@ -522,9 +531,15 @@
 
 ## Tin tức
 
-- 🔵 **Gritt exits stealth with $34 million for robots to build solar plants—then, everything else** — TechCrunch AI — `2026-07-21T10:00:00+00:00`
+- 🔵 **Music streamer Deezer says more than 50% of daily uploads are AI-generated** — TechCrunch AI — `2026-07-21T13:27:42+00:00`
+  - https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/
+  - Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June
+- 🔵 **America needs to stop getting shocked by Chinese AI** — The Verge AI — `2026-07-21T11:08:56+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment
+  - Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races 
+- 🔵 **Gritt exits stealth with $32 million for robots to build solar plants — then, everything else** — TechCrunch AI — `2026-07-21T10:00:00+00:00`
   - https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/
-  - Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.
+  - Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.
 - 🔵 **Anthropic’s landmark $1.5B copyright settlement is approved** — TechCrunch AI — `2026-07-21T00:12:24+00:00`
   - https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
   - The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.
@@ -588,12 +603,6 @@
 - 🔵 **Kimi: Threat or menace?** — TechCrunch AI — `2026-07-18T18:51:07+00:00`
   - https://techcrunch.com/2026/07/18/kimi-threat-or-menace/
   - Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about "full AI communism."
-- 🔵 **The apps, gadgets, and tools every reader needs** — The Verge AI — `2026-07-18T12:00:00+00:00`
-  - https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer
-  - Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of V
-- 🔵 **Will AI fix prior authorization—or make it worse?** — Ars Technica AI — `2026-07-18T11:18:25+00:00`
-  - https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/
-  - The government is piloting a program that uses AI for insurance-coverage decisions.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
