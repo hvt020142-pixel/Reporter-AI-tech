@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-21T17:40:59.656333+00:00 (UTC) — cửa sổ 72h — 206 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-21T19:47:33.725365+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -522,10 +522,13 @@
 
 ## Phân tích
 
+- 🔵 **Why AI Needs a “Genie Coefficient”** — IEEE Spectrum AI — `2026-07-21T17:41:11+00:00`
+  - https://spectrum.ieee.org/ai-agent-benchmark
+  - Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and an
 - 🔵 **The Download: Chinese AI divides the White House, and a record copyright payout** — MIT Tech Review — `2026-07-21T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly 
-- 🔵 **China’s Low-Priced Z.ai Model Is Exposing Costly Coder Habits** — IEEE Spectrum AI — `2026-07-21T12:00:01+00:00`
+- 🔵 **Chinese AI Model Uses Less Muscle for Coding Tasks** — IEEE Spectrum AI — `2026-07-21T12:00:01+00:00`
   - https://spectrum.ieee.org/ai-coding-assistant-china-anthropic
   - Zain Hasan , an AI engineer at Together AI , has taught himself to use AI coding assistants while still keeping an eye on cost. He directs difficult problems to a frontier model, meaning one near the current state of the art in reasoning and capability, such as Anthropic’s Fable . But if the task th
 - 🔵 **Advancing next-gen AI with materials science innovation** — MIT Tech Review — `2026-07-21T10:37:34+00:00`
@@ -543,7 +546,19 @@
 
 ## Tin tức
 
-- 🔵 **Judge approves Anthropic’s $1.5 billion copyright settlement with authors** — Ars Technica AI — `2026-07-21T17:33:14+00:00`
+- 🔵 **Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents** — TechCrunch AI — `2026-07-21T19:43:41+00:00`
+  - https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/
+  - Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.
+- 🔵 **AI and the rise of the universal entertainment app** — TechCrunch AI — `2026-07-21T19:39:30+00:00`
+  - https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/
+  - Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become
+- 🔵 **Substack adds an AI detector to help spot blogs written by no one** — The Verge AI — `2026-07-21T19:22:28+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool
+  - Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post publis
+- 🔵 **Data centers expected to use 4x more electricity by 2035** — TechCrunch AI — `2026-07-21T18:06:38+00:00`
+  - https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/
+  - New data centers built through 2033 could consume as much electricity as India uses today.
+- 🔵 **Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out** — Ars Technica AI — `2026-07-21T17:33:14+00:00`
   - https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/
   - Anthropic blocks authors from opting out of $1.5B settlement at last minute.
 - 🔵 **Google releases three new Gemini models — but no 3.5 Pro** — TechCrunch AI — `2026-07-21T17:11:50+00:00`
@@ -630,12 +645,6 @@
 - 🔵 **Nonprofit Current AI is racing to build the World Wide Web of AI, free for all** — TechCrunch AI — `2026-07-19T14:00:00+00:00`
   - https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/
   - Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.
-- 🔵 **Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’** — The Verge AI — `2026-07-18T20:54:42+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation
-  - Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect
-- 🔵 **Kimi: Threat or menace?** — TechCrunch AI — `2026-07-18T18:51:07+00:00`
-  - https://techcrunch.com/2026/07/18/kimi-threat-or-menace/
-  - Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about "full AI communism."
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

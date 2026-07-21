@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T17:40:59.656333+00:00",
+  "generated_at": "2026-07-21T19:47:33.725365+00:00",
   "lookback_hours": 72,
-  "item_count": 206,
+  "item_count": 209,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 17,
+      "items_kept": 19,
       "items_total": 20
     },
     {
@@ -90,14 +90,64 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
     {
-      "title": "Judge approves Anthropic’s $1.5 billion copyright settlement with authors",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T19:43:41+00:00",
+      "published_ts": 1784663021.0,
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
+    },
+    {
+      "title": "AI and the rise of the universal entertainment app",
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T19:39:30+00:00",
+      "published_ts": 1784662770.0,
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become"
+    },
+    {
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T19:22:28+00:00",
+      "published_ts": 1784661748.0,
+      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post publis"
+    },
+    {
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T18:06:38+00:00",
+      "published_ts": 1784657198.0,
+      "summary": "New data centers built through 2033 could consume as much electricity as India uses today."
+    },
+    {
+      "title": "Why AI Needs a “Genie Coefficient”",
+      "url": "https://spectrum.ieee.org/ai-agent-benchmark",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-21T17:41:11+00:00",
+      "published_ts": 1784655671.0,
+      "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and an"
+    },
+    {
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
       "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
       "source": "Ars Technica AI",
       "category": "Tin tức",
@@ -227,7 +277,7 @@
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly "
     },
     {
-      "title": "China’s Low-Priced Z.ai Model Is Exposing Costly Coder Habits",
+      "title": "Chinese AI Model Uses Less Muscle for Coding Tasks",
       "url": "https://spectrum.ieee.org/ai-coding-assistant-china-anthropic",
       "source": "IEEE Spectrum AI",
       "category": "Phân tích",
@@ -2135,26 +2185,6 @@
       "published_iso": "2026-07-19T14:00:00+00:00",
       "published_ts": 1784469600.0,
       "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more."
-    },
-    {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-18T20:54:42+00:00",
-      "published_ts": 1784408082.0,
-      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect"
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-18T18:51:07+00:00",
-      "published_ts": 1784400667.0,
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
     }
   ]
 }
