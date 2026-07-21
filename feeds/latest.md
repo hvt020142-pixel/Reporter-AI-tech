@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-21T21:30:45.493662+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-21T23:09:06.578931+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems** — NVIDIA — `2026-07-21T22:35:45+00:00`
+  - https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
+  - The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In f
 - 🟢 **NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide** — NVIDIA — `2026-07-21T15:36:43+00:00`
   - https://blogs.nvidia.com/blog/vera-rubin/
   - NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supp
@@ -552,6 +555,12 @@
 
 ## Tin tức
 
+- 🔵 **Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over** — The Verge AI — `2026-07-21T22:06:43+00:00`
+  - https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance
+  - On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features charact
+- 🔵 **OpenAI says it accidentally hacked Hugging Face with a new AI system** — The Verge AI — `2026-07-21T21:48:54+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai
+  - OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and "an even more capable pre-release model" discovered vulnerabilities within their sandboxed testing environment, allowing them to g
 - 🔵 **OpenAI says Hugging Face was breached by its own pre-release models** — TechCrunch AI — `2026-07-21T20:56:55+00:00`
   - https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/
   - OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.
@@ -636,18 +645,12 @@
 - 🔵 **Beyond grep: The case for a context-rich AI coding harness** — Ars Technica AI — `2026-07-20T11:20:10+00:00`
   - https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/
   - Augment Code's Vinay Perneti talks models, harnesses, and context.
-- 🔵 **China delivers a one-two punch to America’s AI dominance** — The Verge AI — `2026-07-20T10:16:33+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen
-  - China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight,
 - 🔵 **What to watch for after Jensen Huang’s Japan visit** — TechCrunch AI — `2026-07-19T21:16:07+00:00`
   - https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/
   - Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.
 - 🔵 **Can an Apple lawsuit derail OpenAI’s hardware plans?** — TechCrunch AI — `2026-07-19T19:24:45+00:00`
   - https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
   - On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.
-- 🔵 **I hate that I don’t hate this song made with Suno** — The Verge AI — `2026-07-19T17:35:54+00:00`
-  - https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music
-  - I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]
 - 🔵 **‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’** — TechCrunch AI — `2026-07-19T14:52:08+00:00`
   - https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/
   - "Everybody knows the Greeks are inside."
