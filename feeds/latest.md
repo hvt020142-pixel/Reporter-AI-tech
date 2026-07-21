@@ -1,10 +1,16 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-21T14:17:55.463119+00:00 (UTC) — cửa sổ 72h — 195 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-21T17:40:59.656333+00:00 (UTC) — cửa sổ 72h — 206 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide** — NVIDIA — `2026-07-21T15:36:43+00:00`
+  - https://blogs.nvidia.com/blog/vera-rubin/
+  - NVIDIA Vera Rubin is here, and it&#8217;s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350-plus factory sites in 30 countries, Vera Rubin has the largest, most mature rack-
+- 🟢 **Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories** — NVIDIA — `2026-07-21T15:00:20+00:00`
+  - https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/
+  - AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier i
 - 🟢 **At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI** — NVIDIA — `2026-07-20T15:00:53+00:00`
   - https://blogs.nvidia.com/blog/siggraph-news-2026/
   - From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.
@@ -14,6 +20,12 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Introducing the ChatGPT for small business program** — OpenAI — `2026-07-21T17:00:00+00:00`
+  - https://openai.com/index/introducing-chatgpt-small-business-program
+  - OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.
+- 🟢 **Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber** — Google DeepMind — `2026-07-21T15:16:30+00:00`
+  - https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/
+  - We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
 - 🟢 **Safety and alignment in an era of long-horizon models** — OpenAI — `2026-07-20T10:00:00+00:00`
   - https://openai.com/index/safety-alignment-long-horizon-models
   - OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.
@@ -531,9 +543,30 @@
 
 ## Tin tức
 
+- 🔵 **Judge approves Anthropic’s $1.5 billion copyright settlement with authors** — Ars Technica AI — `2026-07-21T17:33:14+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/
+  - Anthropic blocks authors from opting out of $1.5B settlement at last minute.
+- 🔵 **Google releases three new Gemini models — but no 3.5 Pro** — TechCrunch AI — `2026-07-21T17:11:50+00:00`
+  - https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/
+  - Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.
+- 🔵 **Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4** — Ars Technica AI — `2026-07-21T16:58:25+00:00`
+  - https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/
+  - There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.
+- 🔵 **Anthropic’s $1.5 billion book piracy settlement approved by judge** — The Verge AI — `2026-07-21T16:53:37+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved
+  - A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart&#237;nez-Olgu&#237;n writes that the settlement will provi
+- 🔵 **US threatens sanctions against Chinese AI models over IP theft** — TechCrunch AI — `2026-07-21T15:37:05+00:00`
+  - https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/
+  - Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.
+- 🔵 **Google launches a cheaper alternative to large AI security models like Mythos** — The Verge AI — `2026-07-21T15:00:00+00:00`
+  - https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model
+  - Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a "cost-efficient and highly capable alternative" to larger, more expensive AI systems, such a
 - 🔵 **Music streamer Deezer says more than 50% of daily uploads are AI-generated** — TechCrunch AI — `2026-07-21T13:27:42+00:00`
   - https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/
-  - Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June
+  - Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.
+- 🔵 **Halliday’s latest smart glasses feature a much-improved display** — The Verge AI — `2026-07-21T13:00:00+00:00`
+  - https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables
+  - I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, espec
 - 🔵 **America needs to stop getting shocked by Chinese AI** — The Verge AI — `2026-07-21T11:08:56+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment
   - Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races 
