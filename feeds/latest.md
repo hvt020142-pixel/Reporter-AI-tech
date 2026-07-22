@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-22T06:40:29.157983+00:00 (UTC) — cửa sổ 72h — 213 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-22T10:32:58.809249+00:00 (UTC) — cửa sổ 72h — 214 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -531,6 +531,9 @@
 
 ## Phân tích
 
+- 🔵 **Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own** — MIT Tech Review — `2026-07-22T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/
+  - When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a st
 - 🔵 **Why AI Needs a “Genie Coefficient”** — IEEE Spectrum AI — `2026-07-21T17:41:11+00:00`
   - https://spectrum.ieee.org/ai-agent-benchmark
   - Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and ano
@@ -555,6 +558,15 @@
 
 ## Tin tức
 
+- 🔵 **Utility companies are promising to spare us from AI’s energy bill** — The Verge AI — `2026-07-22T10:12:13+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump
+  - In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's 
+- 🔵 **Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era** — TechCrunch AI — `2026-07-22T10:00:00+00:00`
+  - https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/
+  - Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.
+- 🔵 **Synthesia’s AI training platform is moving beyond videos into live coaching** — TechCrunch AI — `2026-07-22T08:00:00+00:00`
+  - https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/
+  - Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.
 - 🔵 **The Anthropic-Physical Intelligence rumor roiling AI Twitter** — TechCrunch AI — `2026-07-22T03:20:57+00:00`
   - https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/
   - Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.
@@ -639,9 +651,6 @@
 - 🔵 **OpenAI is scared of open-weight models. Should the US be?** — TechCrunch AI — `2026-07-20T19:33:25+00:00`
   - https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/
   - Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.
-- 🔵 **Adobe’s ‘natural look’ camera app embraces generative AI** — The Verge AI — `2026-07-20T16:00:00+00:00`
-  - https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update
-  - Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a "more natural (SLR-like) look" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own F
 - 🔵 **Adobe camera app’s new feature will critique your photos using AI** — TechCrunch AI — `2026-07-20T15:45:00+00:00`
   - https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/
   - Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.
@@ -651,12 +660,6 @@
 - 🔵 **Beyond grep: The case for a context-rich AI coding harness** — Ars Technica AI — `2026-07-20T11:20:10+00:00`
   - https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/
   - Augment Code's Vinay Perneti talks models, harnesses, and context.
-- 🔵 **What to watch for after Jensen Huang’s Japan visit** — TechCrunch AI — `2026-07-19T21:16:07+00:00`
-  - https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/
-  - Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.
-- 🔵 **Can an Apple lawsuit derail OpenAI’s hardware plans?** — TechCrunch AI — `2026-07-19T19:24:45+00:00`
-  - https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/
-  - On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
