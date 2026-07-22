@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-22T10:32:58.809249+00:00",
+  "generated_at": "2026-07-22T14:19:36.328879+00:00",
   "lookback_hours": 72,
-  "item_count": 214,
+  "item_count": 221,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 4,
-      "items_total": 1043
+      "items_kept": 6,
+      "items_total": 1045
     },
     {
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/rss.xml",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 100
     },
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 0,
+      "items_kept": 1,
       "items_total": 20
     },
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 5,
+      "items_kept": 6,
       "items_total": 18
     },
     {
@@ -78,13 +78,13 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 10
     },
     {
@@ -97,7 +97,97 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "Utility companies are promising to spare us from AI’s energy bill",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "Google DeepMind",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-22T13:38:54+00:00",
+      "published_ts": 1784727534.0,
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
+    },
+    {
+      "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
+      "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T13:35:17+00:00",
+      "published_ts": 1784727317.0,
+      "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens."
+    },
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T13:20:35+00:00",
+      "published_ts": 1784726435.0,
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+    },
+    {
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-22T13:00:11+00:00",
+      "published_ts": 1784725211.0,
+      "summary": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on s"
+    },
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-22T13:00:00+00:00",
+      "published_ts": 1784725200.0,
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+    },
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "Google (Keyword AI)",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-22T13:00:00+00:00",
+      "published_ts": 1784725200.0,
+      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon."
+    },
+    {
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T13:00:00+00:00",
+      "published_ts": 1784725200.0,
+      "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners."
+    },
+    {
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T12:10:00+00:00",
+      "published_ts": 1784722200.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear"
+    },
+    {
+      "title": "Meta made its own AI detection system. It should have just used Google’s",
+      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T11:00:00+00:00",
+      "published_ts": 1784718000.0,
+      "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images "
+    },
+    {
+      "title": "Utility companies promise to spare us from AI’s energy bill",
       "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
       "source": "The Verge AI",
       "category": "Tin tức",
@@ -135,6 +225,16 @@
       "published_iso": "2026-07-22T08:00:00+00:00",
       "published_ts": 1784707200.0,
       "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness."
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-22T05:30:00+00:00",
+      "published_ts": 1784698200.0,
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
     },
     {
       "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
@@ -2107,16 +2207,6 @@
       "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
     },
     {
-      "title": "SpaceX in your index fund, explained",
-      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-20T21:00:00+00:00",
-      "published_ts": 1784581200.0,
-      "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100"
-    },
-    {
       "title": "AI’s most important protocol is getting a little bit easier to use",
       "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
       "source": "TechCrunch AI",
@@ -2155,26 +2245,6 @@
       "published_iso": "2026-07-20T18:00:00+00:00",
       "published_ts": 1784570400.0,
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa"
-    },
-    {
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-20T15:45:00+00:00",
-      "published_ts": 1784562300.0,
-      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
-    },
-    {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-20T15:23:06+00:00",
-      "published_ts": 1784560986.0,
-      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue."
     },
     {
       "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",

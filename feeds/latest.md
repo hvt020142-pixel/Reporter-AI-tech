@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-22T10:32:58.809249+00:00 (UTC) — cửa sổ 72h — 214 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-22T14:19:36.328879+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework** — NVIDIA — `2026-07-22T13:00:11+00:00`
+  - https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/
+  - Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on s
 - 🟢 **Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems** — NVIDIA — `2026-07-21T22:35:45+00:00`
   - https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
   - The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In f
@@ -23,6 +26,18 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission** — Google DeepMind — `2026-07-22T13:38:54+00:00`
+  - https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/
+  - Google commits $40M in AI tokens and credits for the Genesis Mission
+- 🟢 **Building AI infrastructure with the Effingham County community** — OpenAI — `2026-07-22T13:00:00+00:00`
+  - https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
+  - OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.
+- 🟢 **3 Google updates from Galaxy Unpacked 2026** — Google (Keyword AI) — `2026-07-22T13:00:00+00:00`
+  - https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/
+  - We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.
+- 🟢 **Introducing OpenAI Presence** — OpenAI — `2026-07-22T05:30:00+00:00`
+  - https://openai.com/index/introducing-openai-presence
+  - Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.
 - 🟢 **Introducing the ChatGPT for small business program** — OpenAI — `2026-07-21T17:00:00+00:00`
   - https://openai.com/index/introducing-chatgpt-small-business-program
   - OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.
@@ -531,6 +546,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: NASA’s new space telescope and OpenAI’s autonomous hacker** — MIT Tech Review — `2026-07-22T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear
 - 🔵 **Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own** — MIT Tech Review — `2026-07-22T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/
   - When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a st
@@ -558,7 +576,19 @@
 
 ## Tin tức
 
-- 🔵 **Utility companies are promising to spare us from AI’s energy bill** — The Verge AI — `2026-07-22T10:12:13+00:00`
+- 🔵 **Unlimited AI tokens aren't unlimited after all as US Army burns through supply** — Ars Technica AI — `2026-07-22T13:35:17+00:00`
+  - https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/
+  - Troops received an email informing them that they were rapidly depleting their AI tokens.
+- 🔵 **The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari** — TechCrunch AI — `2026-07-22T13:20:35+00:00`
+  - https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/
+  - We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
+- 🔵 **Passionfroot raises $15M to expand its B2B creator marketplace to the US** — TechCrunch AI — `2026-07-22T13:00:00+00:00`
+  - https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/
+  - Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.
+- 🔵 **Meta made its own AI detection system. It should have just used Google’s** — The Verge AI — `2026-07-22T11:00:00+00:00`
+  - https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid
+  - IIn March, Meta's Oversight Board called on the company to "meet its public commitments and employ its own tools" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images 
+- 🔵 **Utility companies promise to spare us from AI’s energy bill** — The Verge AI — `2026-07-22T10:12:13+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump
   - In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's 
 - 🔵 **Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era** — TechCrunch AI — `2026-07-22T10:00:00+00:00`
@@ -639,9 +669,6 @@
 - 🔵 **Google is working on a new AI chip designed to make Gemini more efficient** — TechCrunch AI — `2026-07-20T21:21:15+00:00`
   - https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/
   - Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.
-- 🔵 **SpaceX in your index fund, explained** — The Verge AI — `2026-07-20T21:00:00+00:00`
-  - https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained
-  - Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100
 - 🔵 **AI’s most important protocol is getting a little bit easier to use** — TechCrunch AI — `2026-07-20T20:50:40+00:00`
   - https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/
   - Under the new system, the protocol will take a looser, "stateless" approach to session IDs on the server side, similar to how most ordinary websites already work.
@@ -651,12 +678,6 @@
 - 🔵 **OpenAI is scared of open-weight models. Should the US be?** — TechCrunch AI — `2026-07-20T19:33:25+00:00`
   - https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/
   - Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.
-- 🔵 **Adobe camera app’s new feature will critique your photos using AI** — TechCrunch AI — `2026-07-20T15:45:00+00:00`
-  - https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/
-  - Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.
-- 🔵 **YouTube clarifies policies around AI slop and upsetting videos** — TechCrunch AI — `2026-07-20T15:23:06+00:00`
-  - https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/
-  - YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.
 - 🔵 **Beyond grep: The case for a context-rich AI coding harness** — Ars Technica AI — `2026-07-20T11:20:10+00:00`
   - https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/
   - Augment Code's Vinay Perneti talks models, harnesses, and context.
