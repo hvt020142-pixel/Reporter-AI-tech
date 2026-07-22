@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T21:19:27.976599+00:00",
+  "generated_at": "2026-07-22T23:14:04.668540+00:00",
   "lookback_hours": 72,
   "item_count": 226,
   "sources_ok": [
@@ -97,6 +97,16 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T22:01:52+00:00",
+      "published_ts": 1784757712.0,
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits."
+    },
+    {
       "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
       "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
       "source": "TechCrunch AI",
@@ -104,7 +114,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-22T20:49:03+00:00",
       "published_ts": 1784753343.0,
-      "summary": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3."
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models."
     },
     {
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
@@ -2115,16 +2125,6 @@
       "published_iso": "2026-07-21T17:33:14+00:00",
       "published_ts": 1784655194.0,
       "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute."
-    },
-    {
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T17:11:50+00:00",
-      "published_ts": 1784653910.0,
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy."
     },
     {
       "title": "Introducing the ChatGPT for small business program",

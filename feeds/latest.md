@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-22T21:19:27.976599+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-22T23:14:04.668540+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -585,9 +585,12 @@
 
 ## Tin tức
 
+- 🔵 **Google justifies its massive AI spending with a booming cloud business** — TechCrunch AI — `2026-07-22T22:01:52+00:00`
+  - https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/
+  - Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.
 - 🔵 **Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable** — TechCrunch AI — `2026-07-22T20:49:03+00:00`
   - https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/
-  - Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.
+  - The episode has also intensified a broader debate in Washington over the influx of Chinese open models.
 - 🔵 **How OpenAI’s human mistake led to the AI-powered hack on Hugging Face** — TechCrunch AI — `2026-07-22T19:11:46+00:00`
   - https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/
   - OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.
@@ -675,9 +678,6 @@
 - 🔵 **Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out** — Ars Technica AI — `2026-07-21T17:33:14+00:00`
   - https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/
   - Anthropic blocks authors from opting out of $1.5B settlement at last minute.
-- 🔵 **Google releases three new Gemini models — but no 3.5 Pro** — TechCrunch AI — `2026-07-21T17:11:50+00:00`
-  - https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/
-  - Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.
 - 🔵 **Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4** — Ars Technica AI — `2026-07-21T16:58:25+00:00`
   - https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/
   - There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.
