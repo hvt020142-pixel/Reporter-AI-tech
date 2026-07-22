@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T19:40:02.451023+00:00",
+  "generated_at": "2026-07-22T21:19:27.976599+00:00",
   "lookback_hours": 72,
-  "item_count": 225,
+  "item_count": 226,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 7,
-      "items_total": 1046
+      "items_kept": 8,
+      "items_total": 1047
     },
     {
       "source": "Google DeepMind",
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T20:49:03+00:00",
+      "published_ts": 1784753343.0,
+      "summary": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3."
+    },
     {
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
       "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
@@ -265,6 +275,16 @@
       "published_iso": "2026-07-22T13:00:00+00:00",
       "published_ts": 1784725200.0,
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+    },
+    {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-22T13:00:00+00:00",
+      "published_ts": 1784725200.0,
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
     },
     {
       "title": "3 Google updates from Galaxy Unpacked 2026",
@@ -2135,16 +2155,6 @@
       "published_iso": "2026-07-21T16:53:37+00:00",
       "published_ts": 1784652817.0,
       "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart&#237;nez-Olgu&#237;n writes that the settlement will provi"
-    },
-    {
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T15:37:05+00:00",
-      "published_ts": 1784648225.0,
-      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances."
     },
     {
       "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",

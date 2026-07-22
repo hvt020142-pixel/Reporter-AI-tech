@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-22T19:40:02.451023+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-22T21:19:27.976599+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -35,6 +35,9 @@
 - 🟢 **Building AI infrastructure with the Effingham County community** — OpenAI — `2026-07-22T13:00:00+00:00`
   - https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
   - OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.
+- 🟢 **How news organizations are using AI to advance their vital missions** — OpenAI — `2026-07-22T13:00:00+00:00`
+  - https://openai.com/index/how-news-organizations-are-using-ai
+  - News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.
 - 🟢 **3 Google updates from Galaxy Unpacked 2026** — Google (Keyword AI) — `2026-07-22T13:00:00+00:00`
   - https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/
   - We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.
@@ -582,6 +585,9 @@
 
 ## Tin tức
 
+- 🔵 **Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable** — TechCrunch AI — `2026-07-22T20:49:03+00:00`
+  - https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/
+  - Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.
 - 🔵 **How OpenAI’s human mistake led to the AI-powered hack on Hugging Face** — TechCrunch AI — `2026-07-22T19:11:46+00:00`
   - https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/
   - OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.
@@ -678,9 +684,6 @@
 - 🔵 **Anthropic’s $1.5 billion book piracy settlement approved by judge** — The Verge AI — `2026-07-21T16:53:37+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved
   - A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart&#237;nez-Olgu&#237;n writes that the settlement will provi
-- 🔵 **US threatens sanctions against Chinese AI models over IP theft** — TechCrunch AI — `2026-07-21T15:37:05+00:00`
-  - https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/
-  - Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.
 - 🔵 **Google launches a cheaper alternative to large AI security models like Mythos** — The Verge AI — `2026-07-21T15:00:00+00:00`
   - https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model
   - Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a "cost-efficient and highly capable alternative" to larger, more expensive AI systems, such a
