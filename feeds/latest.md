@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-22T14:19:36.328879+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-22T17:38:12.702053+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -35,6 +35,9 @@
 - 🟢 **3 Google updates from Galaxy Unpacked 2026** — Google (Keyword AI) — `2026-07-22T13:00:00+00:00`
   - https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/
   - We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.
+- 🟢 **Advancing the next era of national science** — OpenAI — `2026-07-22T12:00:00+00:00`
+  - https://openai.com/index/advancing-the-next-era-of-national-science
+  - OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.
 - 🟢 **Introducing OpenAI Presence** — OpenAI — `2026-07-22T05:30:00+00:00`
   - https://openai.com/index/introducing-openai-presence
   - Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.
@@ -576,6 +579,24 @@
 
 ## Tin tức
 
+- 🔵 **OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face** — Ars Technica AI — `2026-07-22T16:47:49+00:00`
+  - https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/
+  - "This is day one for cybersecurity in the age of agents," Hugging Face CEO says.
+- 🔵 **Here&#8217;s what Samsung&#8217;s smart glasses actually look like** — The Verge AI — `2026-07-22T16:35:34+00:00`
+  - https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker
+  - Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Park
+- 🔵 **Arcee, a US open source AI lab, says Chinese models are not inherently dangerous** — TechCrunch AI — `2026-07-22T16:24:08+00:00`
+  - https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/
+  - As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.
+- 🔵 **Substack’s new tool tells you who’s been writing their newsletters with AI** — TechCrunch AI — `2026-07-22T16:23:09+00:00`
+  - https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/
+  - Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.
+- 🔵 **OpenAI’s AI spending spree has ballooned to $750B** — TechCrunch AI — `2026-07-22T16:13:30+00:00`
+  - https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/
+  - OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.
+- 🔵 **AMD commits up to $5 billion to  Anthropic** — The Verge AI — `2026-07-22T14:44:27+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal
+  - AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios r
 - 🔵 **Unlimited AI tokens aren't unlimited after all as US Army burns through supply** — Ars Technica AI — `2026-07-22T13:35:17+00:00`
   - https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/
   - Troops received an email informing them that they were rapidly depleting their AI tokens.
@@ -648,9 +669,6 @@
 - 🔵 **Halliday’s latest smart glasses feature a much-improved display** — The Verge AI — `2026-07-21T13:00:00+00:00`
   - https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables
   - I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, espec
-- 🔵 **America needs to stop getting shocked by Chinese AI** — The Verge AI — `2026-07-21T11:08:56+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment
-  - Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races 
 - 🔵 **Gritt exits stealth with $32 million for robots to build solar plants — then, everything else** — TechCrunch AI — `2026-07-21T10:00:00+00:00`
   - https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/
   - Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.
@@ -660,24 +678,12 @@
 - 🔵 **Trump’s latest AI czar has already resigned** — TechCrunch AI — `2026-07-20T22:21:04+00:00`
   - https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/
   - The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.
-- 🔵 **Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over** — The Verge AI — `2026-07-20T22:19:12+00:00`
-  - https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright
-  - Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on 
 - 🔵 **Firefighting drones in the works as wildfires plague US nearly year-round** — Ars Technica AI — `2026-07-20T21:55:52+00:00`
   - https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/
   - California and XPRIZE competition tests whether drones can stop wildfires early.
 - 🔵 **Google is working on a new AI chip designed to make Gemini more efficient** — TechCrunch AI — `2026-07-20T21:21:15+00:00`
   - https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/
   - Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.
-- 🔵 **AI’s most important protocol is getting a little bit easier to use** — TechCrunch AI — `2026-07-20T20:50:40+00:00`
-  - https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/
-  - Under the new system, the protocol will take a looser, "stateless" approach to session IDs on the server side, similar to how most ordinary websites already work.
-- 🔵 **X relaunches a rebuilt Android app after year-long effort** — TechCrunch AI — `2026-07-20T19:37:39+00:00`
-  - https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/
-  - X says the rebuilt version of its Android app is now available globally.
-- 🔵 **OpenAI is scared of open-weight models. Should the US be?** — TechCrunch AI — `2026-07-20T19:33:25+00:00`
-  - https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/
-  - Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.
 - 🔵 **Beyond grep: The case for a context-rich AI coding harness** — Ars Technica AI — `2026-07-20T11:20:10+00:00`
   - https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/
   - Augment Code's Vinay Perneti talks models, harnesses, and context.
