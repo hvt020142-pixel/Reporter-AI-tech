@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-22T17:38:12.702053+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-22T19:40:02.451023+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -17,6 +17,9 @@
 - 🟢 **Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories** — NVIDIA — `2026-07-21T15:00:20+00:00`
   - https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/
   - AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier i
+- 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-07-21T13:00:47+00:00`
+  - https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/
+  - NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.
 - 🟢 **At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI** — NVIDIA — `2026-07-20T15:00:53+00:00`
   - https://blogs.nvidia.com/blog/siggraph-news-2026/
   - From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.
@@ -579,6 +582,21 @@
 
 ## Tin tức
 
+- 🔵 **How OpenAI’s human mistake led to the AI-powered hack on Hugging Face** — TechCrunch AI — `2026-07-22T19:11:46+00:00`
+  - https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/
+  - OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.
+- 🔵 **Travis Kalanick’s robotics company raises $1.7B, led by a16z** — TechCrunch AI — `2026-07-22T18:50:44+00:00`
+  - https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/
+  - Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
+- 🔵 **Hyundai claims humanoid robot plan is not part of talks with striking workers** — Ars Technica AI — `2026-07-22T18:18:12+00:00`
+  - https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/
+  - Union previously warned automaker that any robot deployment must be negotiated.
+- 🔵 **Yope raises $12.3M to build a private social network without algorithms or ads** — TechCrunch AI — `2026-07-22T18:13:58+00:00`
+  - https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/
+  - Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha
+- 🔵 **Monday.com lays off hundreds to focus on AI** — TechCrunch AI — `2026-07-22T17:54:14+00:00`
+  - https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/
+  - The company said it is reducing its headcount by 20%, or about 630 staff, to "support a leaner, more focused operating model" as it focuses on its AI Work Platform.
 - 🔵 **OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face** — Ars Technica AI — `2026-07-22T16:47:49+00:00`
   - https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/
   - "This is day one for cybersecurity in the age of agents," Hugging Face CEO says.
@@ -597,6 +615,9 @@
 - 🔵 **AMD commits up to $5 billion to  Anthropic** — The Verge AI — `2026-07-22T14:44:27+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal
   - AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios r
+- 🔵 **Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently** — TechCrunch AI — `2026-07-22T14:00:00+00:00`
+  - https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/
+  - Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the interne
 - 🔵 **Unlimited AI tokens aren't unlimited after all as US Army burns through supply** — Ars Technica AI — `2026-07-22T13:35:17+00:00`
   - https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/
   - Troops received an email informing them that they were rapidly depleting their AI tokens.
@@ -663,27 +684,12 @@
 - 🔵 **Google launches a cheaper alternative to large AI security models like Mythos** — The Verge AI — `2026-07-21T15:00:00+00:00`
   - https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model
   - Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a "cost-efficient and highly capable alternative" to larger, more expensive AI systems, such a
-- 🔵 **Music streamer Deezer says more than 50% of daily uploads are AI-generated** — TechCrunch AI — `2026-07-21T13:27:42+00:00`
-  - https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/
-  - Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.
 - 🔵 **Halliday’s latest smart glasses feature a much-improved display** — The Verge AI — `2026-07-21T13:00:00+00:00`
   - https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables
   - I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, espec
-- 🔵 **Gritt exits stealth with $32 million for robots to build solar plants — then, everything else** — TechCrunch AI — `2026-07-21T10:00:00+00:00`
-  - https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/
-  - Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.
-- 🔵 **Anthropic’s landmark $1.5B copyright settlement is approved** — TechCrunch AI — `2026-07-21T00:12:24+00:00`
-  - https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/
-  - The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.
-- 🔵 **Trump’s latest AI czar has already resigned** — TechCrunch AI — `2026-07-20T22:21:04+00:00`
-  - https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/
-  - The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.
 - 🔵 **Firefighting drones in the works as wildfires plague US nearly year-round** — Ars Technica AI — `2026-07-20T21:55:52+00:00`
   - https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/
   - California and XPRIZE competition tests whether drones can stop wildfires early.
-- 🔵 **Google is working on a new AI chip designed to make Gemini more efficient** — TechCrunch AI — `2026-07-20T21:21:15+00:00`
-  - https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/
-  - Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.
 - 🔵 **Beyond grep: The case for a context-rich AI coding harness** — Ars Technica AI — `2026-07-20T11:20:10+00:00`
   - https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/
   - Augment Code's Vinay Perneti talks models, harnesses, and context.

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T17:38:12.702053+00:00",
+  "generated_at": "2026-07-22T19:40:02.451023+00:00",
   "lookback_hours": 72,
-  "item_count": 223,
+  "item_count": 225,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 18
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 20
     },
     {
@@ -96,6 +96,56 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T19:11:46+00:00",
+      "published_ts": 1784747506.0,
+      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible."
+    },
+    {
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T18:50:44+00:00",
+      "published_ts": 1784746244.0,
+      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world."
+    },
+    {
+      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+      "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T18:18:12+00:00",
+      "published_ts": 1784744292.0,
+      "summary": "Union previously warned automaker that any robot deployment must be negotiated."
+    },
+    {
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T18:13:58+00:00",
+      "published_ts": 1784744038.0,
+      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha"
+    },
+    {
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T17:54:14+00:00",
+      "published_ts": 1784742854.0,
+      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform."
+    },
     {
       "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
       "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
@@ -155,6 +205,16 @@
       "published_iso": "2026-07-22T14:44:27+00:00",
       "published_ts": 1784731467.0,
       "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios r"
+    },
+    {
+      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+      "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T14:00:00+00:00",
+      "published_ts": 1784728800.0,
+      "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the interne"
     },
     {
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
@@ -2127,14 +2187,14 @@
       "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such a"
     },
     {
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T13:27:42+00:00",
-      "published_ts": 1784640462.0,
-      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June."
+      "title": "NVIDIA and Partners Build in America, for America",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-21T13:00:47+00:00",
+      "published_ts": 1784638847.0,
+      "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership."
     },
     {
       "title": "Halliday’s latest smart glasses feature a much-improved display",
@@ -2177,16 +2237,6 @@
       "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI "
     },
     {
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T10:00:00+00:00",
-      "published_ts": 1784628000.0,
-      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites."
-    },
-    {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "source": "OpenAI",
@@ -2195,16 +2245,6 @@
       "published_iso": "2026-07-21T07:00:00+00:00",
       "published_ts": 1784617200.0,
       "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
-    },
-    {
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T00:12:24+00:00",
-      "published_ts": 1784592744.0,
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
     },
     {
       "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
@@ -2227,16 +2267,6 @@
       "summary": ""
     },
     {
-      "title": "Trump’s latest AI czar has already resigned",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-20T22:21:04+00:00",
-      "published_ts": 1784586064.0,
-      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
-    },
-    {
       "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
       "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
       "source": "Ars Technica AI",
@@ -2245,16 +2275,6 @@
       "published_iso": "2026-07-20T21:55:52+00:00",
       "published_ts": 1784584552.0,
       "summary": "California and XPRIZE competition tests whether drones can stop wildfires early."
-    },
-    {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-20T21:21:15+00:00",
-      "published_ts": 1784582475.0,
-      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
     },
     {
       "title": "China’s AI models have Trump’s AI world at war with itself",
