@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-23T14:27:08.194070+00:00 (UTC) — cửa sổ 72h — 229 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-23T17:43:07.825896+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -26,12 +26,12 @@
 - 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-07-21T13:00:47+00:00`
   - https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/
   - NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.
-- 🟢 **At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI** — NVIDIA — `2026-07-20T15:00:53+00:00`
-  - https://blogs.nvidia.com/blog/siggraph-news-2026/
-  - From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.
 
 ## Mô hình & LLM
 
+- 🟢 **Launching Health in ChatGPT** — OpenAI — `2026-07-23T00:00:00+00:00`
+  - https://openai.com/index/health-in-chatgpt
+  - Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.
 - 🟢 **Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission** — Google DeepMind — `2026-07-22T13:38:54+00:00`
   - https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/
   - Google commits $40M in AI tokens and credits for the Genesis Mission
@@ -560,6 +560,9 @@
 
 ## Phân tích
 
+- 🔵 **Supercooled kidneys have been transplanted into pigs in a “landmark achievement”** — MIT Tech Review — `2026-07-23T16:58:28+00:00`
+  - https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/
+  - When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#823
 - 🔵 **NASA Puts Google’s Gemma Large Language Model in Orbit** — IEEE Spectrum AI — `2026-07-23T13:00:01+00:00`
   - https://spectrum.ieee.org/nasa-ai-satellite-image-analysis
   - The viability of orbital data centers hosting the largest and most capable large language models (LLMs) remains hotly contested. But enormous deployments that require thousands of GPUs aren’t the only way LLMs might prove useful in space. NASA’s Jet Propulsion Laboratory recently sent Google’s Gemma
@@ -596,6 +599,39 @@
 
 ## Tin tức
 
+- 🔵 **Runway launches AI model router as generative media gets crowded** — TechCrunch AI — `2026-07-23T17:07:35+00:00`
+  - https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/
+  - Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of
+- 🔵 **OpenAI makes ChatGPT Health available to all U.S. users** — TechCrunch AI — `2026-07-23T17:00:00+00:00`
+  - https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/
+  - Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.
+- 🔵 **OpenAI is making big claims as it rolls out ChatGPT Health to everyone** — The Verge AI — `2026-07-23T17:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims
+  - OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models "are now capable of 
+- 🔵 **Meta launched a new AI optimism ad set to a song about human extinction** — TechCrunch AI — `2026-07-23T16:28:50+00:00`
+  - https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/
+  - David Bowie's song "Five Years," which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.
+- 🔵 **Google just had its first negative cash flow quarter due to massive AI spending** — Ars Technica AI — `2026-07-23T16:04:19+00:00`
+  - https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/
+  - Google continues to report big quarterly revenue, but its AI spending has skyrocketed.
+- 🔵 **Nvidia is sending GPUs to the moon** — TechCrunch AI — `2026-07-23T15:00:00+00:00`
+  - https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/
+  - If there's a place in the universe without GPUs, Nvidia is sending them there.
+- 🔵 **AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors** — TechCrunch AI — `2026-07-23T15:00:00+00:00`
+  - https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/
+  - Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.
+- 🔵 **Google’s Gemini nears billion-user milestone** — TechCrunch AI — `2026-07-23T14:52:44+00:00`
+  - https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/
+  - Gemini had over 750 million monthly users in February.
+- 🔵 **AI arms race in line for a reckoning after OpenAI hacking incident** — Ars Technica AI — `2026-07-23T14:45:05+00:00`
+  - https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/
+  - Aggressive training techniques sharpens threat of bad behavior by leading models.
+- 🔵 **Lawmakers prepare bill requiring AI ‘kill switch’** — The Verge AI — `2026-07-23T14:13:35+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal
+  - Lawmakers are preparing to introduce an "AI Kill Switch Act" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the 
+- 🔵 **Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era** — The Verge AI — `2026-07-23T14:00:00+00:00`
+  - https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive
+  - Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a 
 - 🔵 **The right-wing boomers protesting data centers have a lot in common with the left** — The Verge AI — `2026-07-23T12:00:00+00:00`
   - https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans
   - On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a on
@@ -656,51 +692,24 @@
 - 🔵 **The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari** — TechCrunch AI — `2026-07-22T13:20:35+00:00`
   - https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/
   - We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
-- 🔵 **Passionfroot raises $15M to expand its B2B creator marketplace to the US** — TechCrunch AI — `2026-07-22T13:00:00+00:00`
-  - https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/
-  - Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.
 - 🔵 **Meta made its own AI detection system. It should have just used Google’s** — The Verge AI — `2026-07-22T11:00:00+00:00`
   - https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid
   - IIn March, Meta's Oversight Board called on the company to "meet its public commitments and employ its own tools" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images 
 - 🔵 **Utility companies promise to spare us from AI’s energy bill** — The Verge AI — `2026-07-22T10:12:13+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump
   - In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's 
-- 🔵 **Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era** — TechCrunch AI — `2026-07-22T10:00:00+00:00`
-  - https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/
-  - Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.
-- 🔵 **Synthesia’s AI training platform is moving beyond videos into live coaching** — TechCrunch AI — `2026-07-22T08:00:00+00:00`
-  - https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/
-  - Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.
-- 🔵 **The Anthropic-Physical Intelligence rumor roiling AI Twitter** — TechCrunch AI — `2026-07-22T03:20:57+00:00`
-  - https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/
-  - Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.
-- 🔵 **Meta is testing an AI bedtime story app for people with no imagination** — TechCrunch AI — `2026-07-21T23:55:10+00:00`
-  - https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/
-  - At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.
 - 🔵 **Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over** — The Verge AI — `2026-07-21T22:06:43+00:00`
   - https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance
   - On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features charact
 - 🔵 **OpenAI says it accidentally hacked Hugging Face with a new AI system** — The Verge AI — `2026-07-21T21:48:54+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai
   - OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and "an even more capable pre-release model" discovered vulnerabilities within their sandboxed testing environment, allowing them to g
-- 🔵 **OpenAI says Hugging Face was breached by its pre-release models** — TechCrunch AI — `2026-07-21T20:56:55+00:00`
-  - https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/
-  - OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.
-- 🔵 **Substack adds an AI detector to help spot blogs written by no one** — The Verge AI — `2026-07-21T19:22:28+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool
-  - Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post publis
 - 🔵 **Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out** — Ars Technica AI — `2026-07-21T17:33:14+00:00`
   - https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/
   - Anthropic blocks authors from opting out of $1.5B settlement at last minute.
 - 🔵 **Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4** — Ars Technica AI — `2026-07-21T16:58:25+00:00`
   - https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/
   - There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.
-- 🔵 **Anthropic’s $1.5 billion book piracy settlement approved by judge** — The Verge AI — `2026-07-21T16:53:37+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved
-  - A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart&#237;nez-Olgu&#237;n writes that the settlement will provi
-- 🔵 **Google launches a cheaper alternative to large AI security models like Mythos** — The Verge AI — `2026-07-21T15:00:00+00:00`
-  - https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model
-  - Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a "cost-efficient and highly capable alternative" to larger, more expensive AI systems, such a
 - 🔵 **Firefighting drones in the works as wildfires plague US nearly year-round** — Ars Technica AI — `2026-07-20T21:55:52+00:00`
   - https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/
   - California and XPRIZE competition tests whether drones can stop wildfires early.
