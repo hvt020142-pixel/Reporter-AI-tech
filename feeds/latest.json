@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T10:33:36.997772+00:00",
+  "generated_at": "2026-07-23T14:27:08.194070+00:00",
   "lookback_hours": 72,
-  "item_count": 228,
+  "item_count": 229,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,24 +78,84 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 7,
+      "items_kept": 6,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 7,
+      "items_kept": 8,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-23T13:00:16+00:00",
+      "published_ts": 1784811616.0,
+      "summary": "Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends "
+    },
+    {
+      "title": "NASA Puts Google’s Gemma Large Language Model in Orbit",
+      "url": "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-23T13:00:01+00:00",
+      "published_ts": 1784811601.0,
+      "summary": "The viability of orbital data centers hosting the largest and most capable large language models (LLMs) remains hotly contested. But enormous deployments that require thousands of GPUs aren’t the only way LLMs might prove useful in space. NASA’s Jet Propulsion Laboratory recently sent Google’s Gemma"
+    },
+    {
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-23T12:10:00+00:00",
+      "published_ts": 1784808600.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity fro"
+    },
+    {
+      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+      "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-23T12:00:00+00:00",
+      "published_ts": 1784808000.0,
+      "summary": "On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a on"
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-23T12:00:00+00:00",
+      "published_ts": 1784808000.0,
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro"
+    },
+    {
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-23T11:00:00+00:00",
+      "published_ts": 1784804400.0,
+      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch."
+    },
     {
       "title": "The power line that could reshape New York’s grid is hitting snags",
       "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
@@ -2127,16 +2187,6 @@
       "summary": ""
     },
     {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T19:43:41+00:00",
-      "published_ts": 1784663021.0,
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
-    },
-    {
       "title": "Substack adds an AI detector to help spot blogs written by no one",
       "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
       "source": "The Verge AI",
@@ -2247,16 +2297,6 @@
       "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership."
     },
     {
-      "title": "Halliday’s latest smart glasses feature a much-improved display",
-      "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T13:00:00+00:00",
-      "published_ts": 1784638800.0,
-      "summary": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, espec"
-    },
-    {
       "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
       "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
       "source": "MIT Tech Review",
@@ -2345,36 +2385,6 @@
       "published_iso": "2026-07-20T15:00:53+00:00",
       "published_ts": 1784559653.0,
       "summary": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics."
-    },
-    {
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-20T12:10:00+00:00",
-      "published_ts": 1784549400.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th"
-    },
-    {
-      "title": "Beyond grep: The case for a context-rich AI coding harness",
-      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-20T11:20:10+00:00",
-      "published_ts": 1784546410.0,
-      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context."
-    },
-    {
-      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
-      "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-07-20T10:59:23+00:00",
-      "published_ts": 1784545163.0,
-      "summary": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA "
     }
   ]
 }

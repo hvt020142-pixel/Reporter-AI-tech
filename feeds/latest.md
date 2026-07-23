@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-23T10:33:36.997772+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-23T14:27:08.194070+00:00 (UTC) — cửa sổ 72h — 229 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud** — NVIDIA — `2026-07-23T13:00:16+00:00`
+  - https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/
+  - Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends 
 - 🟢 **NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School** — NVIDIA — `2026-07-23T02:00:46+00:00`
   - https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/
   - NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate u
@@ -26,9 +29,6 @@
 - 🟢 **At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI** — NVIDIA — `2026-07-20T15:00:53+00:00`
   - https://blogs.nvidia.com/blog/siggraph-news-2026/
   - From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.
-- 🟢 **Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin** — NVIDIA — `2026-07-20T10:59:23+00:00`
-  - https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/
-  - Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA 
 
 ## Mô hình & LLM
 
@@ -560,6 +560,15 @@
 
 ## Phân tích
 
+- 🔵 **NASA Puts Google’s Gemma Large Language Model in Orbit** — IEEE Spectrum AI — `2026-07-23T13:00:01+00:00`
+  - https://spectrum.ieee.org/nasa-ai-satellite-image-analysis
+  - The viability of orbital data centers hosting the largest and most capable large language models (LLMs) remains hotly contested. But enormous deployments that require thousands of GPUs aren’t the only way LLMs might prove useful in space. NASA’s Jet Propulsion Laboratory recently sent Google’s Gemma
+- 🔵 **The Download: energy transmission and US threats against Chinese AI** — MIT Tech Review — `2026-07-23T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity fro
+- 🔵 **How AI helps scientists design the next generation of medicines** — MIT Tech Review — `2026-07-23T12:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/
+  - Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro
 - 🔵 **The power line that could reshape New York’s grid is hitting snags** — MIT Tech Review — `2026-07-23T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/
   - On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Huds
@@ -584,12 +593,15 @@
 - 🔵 **China’s AI models have Trump’s AI world at war with itself** — MIT Tech Review — `2026-07-20T18:00:00+00:00`
   - https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa
-- 🔵 **The Download: AI hiring biases, and weather data sabotage** — MIT Tech Review — `2026-07-20T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th
 
 ## Tin tức
 
+- 🔵 **The right-wing boomers protesting data centers have a lot in common with the left** — The Verge AI — `2026-07-23T12:00:00+00:00`
+  - https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans
+  - On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a on
+- 🔵 **Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good** — TechCrunch AI — `2026-07-23T11:00:00+00:00`
+  - https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/
+  - "I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch.
 - 🔵 **ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push** — TechCrunch AI — `2026-07-23T06:09:13+00:00`
   - https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/
   - ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.
@@ -674,9 +686,6 @@
 - 🔵 **OpenAI says Hugging Face was breached by its pre-release models** — TechCrunch AI — `2026-07-21T20:56:55+00:00`
   - https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/
   - OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.
-- 🔵 **Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents** — TechCrunch AI — `2026-07-21T19:43:41+00:00`
-  - https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/
-  - Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.
 - 🔵 **Substack adds an AI detector to help spot blogs written by no one** — The Verge AI — `2026-07-21T19:22:28+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool
   - Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post publis
@@ -692,15 +701,9 @@
 - 🔵 **Google launches a cheaper alternative to large AI security models like Mythos** — The Verge AI — `2026-07-21T15:00:00+00:00`
   - https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model
   - Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a "cost-efficient and highly capable alternative" to larger, more expensive AI systems, such a
-- 🔵 **Halliday’s latest smart glasses feature a much-improved display** — The Verge AI — `2026-07-21T13:00:00+00:00`
-  - https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables
-  - I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, espec
 - 🔵 **Firefighting drones in the works as wildfires plague US nearly year-round** — Ars Technica AI — `2026-07-20T21:55:52+00:00`
   - https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/
   - California and XPRIZE competition tests whether drones can stop wildfires early.
-- 🔵 **Beyond grep: The case for a context-rich AI coding harness** — Ars Technica AI — `2026-07-20T11:20:10+00:00`
-  - https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/
-  - Augment Code's Vinay Perneti talks models, harnesses, and context.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
