@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-23T06:38:11.864447+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-23T10:33:36.997772+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -65,12 +65,11 @@
 - 🟢 **David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC** — OpenAI — `2026-07-21T00:00:00+00:00`
   - https://openai.com/index/david-velez-robin-vince-join-openai-boards
   - David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.
-- 🟢 **Safety and alignment in an era of long-horizon models** — OpenAI — `2026-07-20T10:00:00+00:00`
-  - https://openai.com/index/safety-alignment-long-horizon-models
-  - OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.
 
 ## Mô hình mở
 
+- 🟢 **Bringing Nunchaku 4-bit Diffusion Inference to Diffusers** — Hugging Face — `2026-07-23T00:00:00+00:00`
+  - https://huggingface.co/blog/nunchaku-diffusers
 - 🟢 **The State of Simulation for Physical AI: An Overview** — Hugging Face — `2026-07-21T20:00:27+00:00`
   - https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
 - 🟢 **Grabette: an open system to record robot-manipulation data** — Hugging Face — `2026-07-21T00:00:00+00:00`
@@ -561,6 +560,9 @@
 
 ## Phân tích
 
+- 🔵 **The power line that could reshape New York’s grid is hitting snags** — MIT Tech Review — `2026-07-23T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/
+  - On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Huds
 - 🔵 **The Download: NASA’s new space telescope and OpenAI’s autonomous hacker** — MIT Tech Review — `2026-07-22T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear
@@ -585,9 +587,6 @@
 - 🔵 **The Download: AI hiring biases, and weather data sabotage** — MIT Tech Review — `2026-07-20T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th
-- 🔵 **AI is more likely than humans to form biases when hiring** — MIT Tech Review — `2026-07-20T08:39:01+00:00`
-  - https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/
-  - The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi
 
 ## Tin tức
 
