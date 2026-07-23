@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-23T17:43:07.825896+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-23T19:41:39.311160+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -593,16 +593,25 @@
 - 🔵 **Advancing next-gen AI with materials science innovation** — MIT Tech Review — `2026-07-21T10:37:34+00:00`
   - https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/
   - The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI 
-- 🔵 **China’s AI models have Trump’s AI world at war with itself** — MIT Tech Review — `2026-07-20T18:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa
 
 ## Tin tức
 
+- 🔵 **Anthropic updates Claude voice mode with more capable models** — TechCrunch AI — `2026-07-23T19:00:00+00:00`
+  - https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/
+  - Claude's new voice model will let you reschedule your meeting or draft an email
+- 🔵 **Claude’s voice mode is now available for Opus and Sonnet** — The Verge AI — `2026-07-23T19:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
+  - Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it wa
+- 🔵 **AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing** — TechCrunch AI — `2026-07-23T18:38:34+00:00`
+  - https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/
+  - AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.
+- 🔵 **Patreon is laying off 20 percent of workers** — The Verge AI — `2026-07-23T18:20:30+00:00`
+  - https://www.theverge.com/tech/970211/patreon-layoffs-ai
+  - Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes "because we believe AI replaces humans," but says AI has "fundamentally transformed the tech in
 - 🔵 **Runway launches AI model router as generative media gets crowded** — TechCrunch AI — `2026-07-23T17:07:35+00:00`
   - https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/
-  - Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of
-- 🔵 **OpenAI makes ChatGPT Health available to all U.S. users** — TechCrunch AI — `2026-07-23T17:00:00+00:00`
+  - The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.
+- 🔵 **OpenAI makes ChatGPT Health available to all US users** — TechCrunch AI — `2026-07-23T17:00:00+00:00`
   - https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/
   - Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.
 - 🔵 **OpenAI is making big claims as it rolls out ChatGPT Health to everyone** — The Verge AI — `2026-07-23T17:00:00+00:00`
@@ -683,27 +692,15 @@
 - 🔵 **AMD commits up to $5 billion to  Anthropic** — The Verge AI — `2026-07-22T14:44:27+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal
   - AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios r
-- 🔵 **Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently** — TechCrunch AI — `2026-07-22T14:00:00+00:00`
-  - https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/
-  - Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the interne
 - 🔵 **Unlimited AI tokens aren't unlimited after all as US Army burns through supply** — Ars Technica AI — `2026-07-22T13:35:17+00:00`
   - https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/
   - Troops received an email informing them that they were rapidly depleting their AI tokens.
-- 🔵 **The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari** — TechCrunch AI — `2026-07-22T13:20:35+00:00`
-  - https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/
-  - We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
 - 🔵 **Meta made its own AI detection system. It should have just used Google’s** — The Verge AI — `2026-07-22T11:00:00+00:00`
   - https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid
   - IIn March, Meta's Oversight Board called on the company to "meet its public commitments and employ its own tools" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images 
 - 🔵 **Utility companies promise to spare us from AI’s energy bill** — The Verge AI — `2026-07-22T10:12:13+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump
   - In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's 
-- 🔵 **Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over** — The Verge AI — `2026-07-21T22:06:43+00:00`
-  - https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance
-  - On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features charact
-- 🔵 **OpenAI says it accidentally hacked Hugging Face with a new AI system** — The Verge AI — `2026-07-21T21:48:54+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai
-  - OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and "an even more capable pre-release model" discovered vulnerabilities within their sandboxed testing environment, allowing them to g
 - 🔵 **Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out** — Ars Technica AI — `2026-07-21T17:33:14+00:00`
   - https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/
   - Anthropic blocks authors from opting out of $1.5B settlement at last minute.

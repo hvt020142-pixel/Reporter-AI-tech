@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T17:43:07.825896+00:00",
+  "generated_at": "2026-07-23T19:41:39.311160+00:00",
   "lookback_hours": 72,
-  "item_count": 232,
+  "item_count": 231,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 9,
+      "items_kept": 8,
       "items_total": 10
     },
     {
@@ -97,6 +97,46 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-23T19:00:00+00:00",
+      "published_ts": 1784833200.0,
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email"
+    },
+    {
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-23T19:00:00+00:00",
+      "published_ts": 1784833200.0,
+      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it wa"
+    },
+    {
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-23T18:38:34+00:00",
+      "published_ts": 1784831914.0,
+      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch."
+    },
+    {
+      "title": "Patreon is laying off 20 percent of workers",
+      "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-23T18:20:30+00:00",
+      "published_ts": 1784830830.0,
+      "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech in"
+    },
+    {
       "title": "Runway launches AI model router as generative media gets crowded",
       "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
       "source": "TechCrunch AI",
@@ -104,10 +144,10 @@
       "tier": "reputable",
       "published_iso": "2026-07-23T17:07:35+00:00",
       "published_ts": 1784826455.0,
-      "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of"
+      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
     },
     {
-      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
       "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
@@ -2067,16 +2107,6 @@
       "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios r"
     },
     {
-      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-      "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-22T14:00:00+00:00",
-      "published_ts": 1784728800.0,
-      "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the interne"
-    },
-    {
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
       "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
       "source": "Google DeepMind",
@@ -2095,16 +2125,6 @@
       "published_iso": "2026-07-22T13:35:17+00:00",
       "published_ts": 1784727317.0,
       "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens."
-    },
-    {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-22T13:20:35+00:00",
-      "published_ts": 1784726435.0,
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
     },
     {
       "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
@@ -2225,26 +2245,6 @@
       "published_iso": "2026-07-21T22:35:45+00:00",
       "published_ts": 1784673345.0,
       "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In f"
-    },
-    {
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T22:06:43+00:00",
-      "published_ts": 1784671603.0,
-      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features charact"
-    },
-    {
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T21:48:54+00:00",
-      "published_ts": 1784670534.0,
-      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to g"
     },
     {
       "title": "The State of Simulation for Physical AI: An Overview",
@@ -2405,16 +2405,6 @@
       "published_iso": "2026-07-20T21:55:52+00:00",
       "published_ts": 1784584552.0,
       "summary": "California and XPRIZE competition tests whether drones can stop wildfires early."
-    },
-    {
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-20T18:00:00+00:00",
-      "published_ts": 1784570400.0,
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa"
     }
   ]
 }
