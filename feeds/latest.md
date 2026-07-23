@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-23T21:18:50.014037+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-23T23:09:17.530131+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -596,6 +596,9 @@
 
 ## Tin tức
 
+- 🔵 **Alexa Plus is getting an AI update to handle more complicated instructions** — The Verge AI — `2026-07-23T21:15:06+00:00`
+  - https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices
+  - Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automati
 - 🔵 **AMD takes on Nvidia with its Helios AI rack-scale system** — TechCrunch AI — `2026-07-23T20:33:02+00:00`
   - https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/
   - AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
@@ -701,18 +704,12 @@
 - 🔵 **Meta made its own AI detection system. It should have just used Google’s** — The Verge AI — `2026-07-22T11:00:00+00:00`
   - https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid
   - IIn March, Meta's Oversight Board called on the company to "meet its public commitments and employ its own tools" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images 
-- 🔵 **Utility companies promise to spare us from AI’s energy bill** — The Verge AI — `2026-07-22T10:12:13+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump
-  - In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's 
 - 🔵 **Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out** — Ars Technica AI — `2026-07-21T17:33:14+00:00`
   - https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/
   - Anthropic blocks authors from opting out of $1.5B settlement at last minute.
 - 🔵 **Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4** — Ars Technica AI — `2026-07-21T16:58:25+00:00`
   - https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/
   - There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.
-- 🔵 **Firefighting drones in the works as wildfires plague US nearly year-round** — Ars Technica AI — `2026-07-20T21:55:52+00:00`
-  - https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/
-  - California and XPRIZE competition tests whether drones can stop wildfires early.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
