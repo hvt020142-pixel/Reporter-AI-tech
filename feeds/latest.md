@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-23T19:41:39.311160+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-23T21:18:50.014037+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -596,9 +596,15 @@
 
 ## Tin tức
 
+- 🔵 **AMD takes on Nvidia with its Helios AI rack-scale system** — TechCrunch AI — `2026-07-23T20:33:02+00:00`
+  - https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/
+  - AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
+- 🔵 **AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems** — Ars Technica AI — `2026-07-23T19:08:01+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/
+  - Bill would let Homeland Security chief decide when an AI should be shut down.
 - 🔵 **Anthropic updates Claude voice mode with more capable models** — TechCrunch AI — `2026-07-23T19:00:00+00:00`
   - https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/
-  - Claude's new voice model will let you reschedule your meeting or draft an email
+  - Claude's new voice model will let you reschedule your meeting or draft an email.
 - 🔵 **Claude’s voice mode is now available for Opus and Sonnet** — The Verge AI — `2026-07-23T19:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
   - Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it wa
@@ -686,9 +692,6 @@
 - 🔵 **Substack’s new tool tells you who’s been writing their newsletters with AI** — TechCrunch AI — `2026-07-22T16:23:09+00:00`
   - https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/
   - Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.
-- 🔵 **OpenAI’s AI spending spree has ballooned to $750B** — TechCrunch AI — `2026-07-22T16:13:30+00:00`
-  - https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/
-  - OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.
 - 🔵 **AMD commits up to $5 billion to  Anthropic** — The Verge AI — `2026-07-22T14:44:27+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal
   - AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios r
