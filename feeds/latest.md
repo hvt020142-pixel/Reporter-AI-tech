@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-22T23:14:04.668540+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-23T03:39:03.866677+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School** — NVIDIA — `2026-07-23T02:00:46+00:00`
+  - https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/
+  - NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate u
 - 🟢 **NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework** — NVIDIA — `2026-07-22T13:00:11+00:00`
   - https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/
   - Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on s
@@ -47,6 +50,9 @@
 - 🟢 **Introducing OpenAI Presence** — OpenAI — `2026-07-22T05:30:00+00:00`
   - https://openai.com/index/introducing-openai-presence
   - Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.
+- 🟢 **NTT DATA Group cuts incident analysis to 30 minutes with Codex** — OpenAI — `2026-07-22T00:00:00+00:00`
+  - https://openai.com/index/ntt-data
+  - NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.
 - 🟢 **Introducing the ChatGPT for small business program** — OpenAI — `2026-07-21T17:00:00+00:00`
   - https://openai.com/index/introducing-chatgpt-small-business-program
   - OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.
@@ -395,7 +401,7 @@
   - arXiv:2607.18330v1 Announce Type: new Abstract: The deployment of reliable lithium-ion battery management systems is crucial for accelerating electrification, yet the joint prognosis of State of Health (SOH) and Remaining Useful Life (RUL) remains severely hindered by task heteroscedasticity. Conven
 - 🟢 **ChemHyperMag: Physics-informed magnetic hypergraph learning improves molecular ADMET prediction** — arXiv cs.LG — `2026-07-22T04:00:00+00:00`
   - https://arxiv.org/abs/2607.18332
-  - arXiv:2607.18332v1 Announce Type: new Abstract: Accurate prediction of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) is important for drug discovery. Most predictors use undirected molecular graphs and pairwise edges. This choice misses asymmetric interactions, nonreversible 
+  - arXiv:2607.18332v2 Announce Type: new Abstract: Accurate prediction of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) is important for drug discovery. Most predictors use undirected molecular graphs and pairwise edges. This choice misses asymmetric interactions, nonreversible 
 - 🟢 **Federated Lightweight Fine-Tuning** — arXiv cs.LG — `2026-07-22T04:00:00+00:00`
   - https://arxiv.org/abs/2607.18343
   - arXiv:2607.18343v1 Announce Type: new Abstract: Federated fine-tuning is bottlenecked by communication: FedAvg and pseudo-gradient schemes transmit a payload that scales with the model, and gradient compression shrinks it by only a constant factor. We take a different lever. Mapping networks generat
@@ -482,7 +488,7 @@
   - arXiv:2607.18664v1 Announce Type: new Abstract: Video generation models achieve high visual quality but often struggle to generate physics-aware videos. Unlike rigid-body motion, which can be described by explicit trajectories or formulas, complex deformation dynamics remain challenging to synthesiz
 - 🟢 **MissingBench-Verified: Probing Vision-Language Models' Inability to Detect Missing Object Parts** — arXiv cs.CV — `2026-07-22T04:00:00+00:00`
   - https://arxiv.org/abs/2607.18673
-  - arXiv:2607.18673v1 Announce Type: new Abstract: Vision Language Models (VLMs) are well known for hallucinating non-existent objects in images. Objects with missing parts present a unique challenge for VLMs, stemming from both real-world knowledge bias and the scarcity of such images in training data
+  - arXiv:2607.18673v2 Announce Type: new Abstract: Vision Language Models (VLMs) are well known for hallucinating non-existent objects in images. Objects with missing parts present a unique challenge for VLMs, stemming from both real-world knowledge bias and the scarcity of such images in training data
 - 🟢 **Cross-Dataset Generalization in Breast MRI Tumor Classification via Class-Wise Dataset Mixing** — arXiv cs.CV — `2026-07-22T04:00:00+00:00`
   - https://arxiv.org/abs/2607.18678
   - arXiv:2607.18678v1 Announce Type: new Abstract: Breast MRI is highly sensitive for detecting breast tumors, but exams contain many slices and require substantial reading time. Deep learning models often perform well on internal splits but can fail across institutions because of domain shift and data
@@ -585,6 +591,9 @@
 
 ## Tin tức
 
+- 🔵 **After shocking quarter, IBM insists that AI isn’t killing the mainframe** — TechCrunch AI — `2026-07-22T23:47:54+00:00`
+  - https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/
+  - After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.
 - 🔵 **Google justifies its massive AI spending with a booming cloud business** — TechCrunch AI — `2026-07-22T22:01:52+00:00`
   - https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/
   - Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.
@@ -672,9 +681,6 @@
 - 🔵 **Substack adds an AI detector to help spot blogs written by no one** — The Verge AI — `2026-07-21T19:22:28+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool
   - Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post publis
-- 🔵 **Data centers expected to use 4x more electricity by 2035** — TechCrunch AI — `2026-07-21T18:06:38+00:00`
-  - https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/
-  - New data centers built through 2033 could consume as much electricity as India uses today.
 - 🔵 **Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out** — Ars Technica AI — `2026-07-21T17:33:14+00:00`
   - https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/
   - Anthropic blocks authors from opting out of $1.5B settlement at last minute.

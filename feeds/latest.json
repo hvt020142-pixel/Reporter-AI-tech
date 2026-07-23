@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T23:14:04.668540+00:00",
+  "generated_at": "2026-07-23T03:39:03.866677+00:00",
   "lookback_hours": 72,
-  "item_count": 226,
+  "item_count": 228,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 8,
-      "items_total": 1047
+      "items_kept": 9,
+      "items_total": 1048
     },
     {
       "source": "Google DeepMind",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 7,
+      "items_kept": 8,
       "items_total": 18
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-23T02:00:46+00:00",
+      "published_ts": 1784772046.0,
+      "summary": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate u"
+    },
+    {
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-22T23:47:54+00:00",
+      "published_ts": 1784764074.0,
+      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily."
+    },
     {
       "title": "Google justifies its massive AI spending with a booming cloud business",
       "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
@@ -1474,7 +1494,7 @@
       "tier": "primary",
       "published_iso": "2026-07-22T04:00:00+00:00",
       "published_ts": 1784692800.0,
-      "summary": "arXiv:2607.18332v1 Announce Type: new Abstract: Accurate prediction of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) is important for drug discovery. Most predictors use undirected molecular graphs and pairwise edges. This choice misses asymmetric interactions, nonreversible "
+      "summary": "arXiv:2607.18332v2 Announce Type: new Abstract: Accurate prediction of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) is important for drug discovery. Most predictors use undirected molecular graphs and pairwise edges. This choice misses asymmetric interactions, nonreversible "
     },
     {
       "title": "Federated Lightweight Fine-Tuning",
@@ -1764,7 +1784,7 @@
       "tier": "primary",
       "published_iso": "2026-07-22T04:00:00+00:00",
       "published_ts": 1784692800.0,
-      "summary": "arXiv:2607.18673v1 Announce Type: new Abstract: Vision Language Models (VLMs) are well known for hallucinating non-existent objects in images. Objects with missing parts present a unique challenge for VLMs, stemming from both real-world knowledge bias and the scarcity of such images in training data"
+      "summary": "arXiv:2607.18673v2 Announce Type: new Abstract: Vision Language Models (VLMs) are well known for hallucinating non-existent objects in images. Objects with missing parts present a unique challenge for VLMs, stemming from both real-world knowledge bias and the scarcity of such images in training data"
     },
     {
       "title": "Cross-Dataset Generalization in Breast MRI Tumor Classification via Class-Wise Dataset Mixing",
@@ -2007,6 +2027,16 @@
       "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor."
     },
     {
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-22T00:00:00+00:00",
+      "published_ts": 1784678400.0,
+      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
+    },
+    {
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
       "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
       "source": "TechCrunch AI",
@@ -2095,16 +2125,6 @@
       "published_iso": "2026-07-21T19:22:28+00:00",
       "published_ts": 1784661748.0,
       "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post publis"
-    },
-    {
-      "title": "Data centers expected to use 4x more electricity by 2035",
-      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T18:06:38+00:00",
-      "published_ts": 1784657198.0,
-      "summary": "New data centers built through 2033 could consume as much electricity as India uses today."
     },
     {
       "title": "Why AI Needs a “Genie Coefficient”",
