@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T23:09:17.530131+00:00",
+  "generated_at": "2026-07-24T03:38:19.919329+00:00",
   "lookback_hours": 72,
-  "item_count": 231,
+  "item_count": 229,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 9,
+      "items_kept": 8,
       "items_total": 1050
     },
     {
@@ -30,14 +30,14 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 831
     },
     {
       "source": "arXiv cs.AI",
       "url": "https://rss.arxiv.org/rss/cs.AI",
       "items_kept": 40,
-      "items_total": 322
+      "items_total": 240
     },
     {
       "source": "arXiv cs.CL",
@@ -55,7 +55,7 @@
       "source": "arXiv cs.CV",
       "url": "https://rss.arxiv.org/rss/cs.CV",
       "items_kept": 40,
-      "items_total": 150
+      "items_total": 149
     },
     {
       "source": "TechCrunch AI",
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-24T01:00:00+00:00",
+      "published_ts": 1784854800.0,
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
+    },
     {
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
       "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
@@ -367,404 +377,404 @@
       "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally."
     },
     {
-      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-      "url": "https://arxiv.org/abs/2607.18239",
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "url": "https://arxiv.org/abs/2607.19349",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18239v1 Announce Type: new Abstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin, a benchmark that po"
+      "summary": "arXiv:2607.19349v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep understanding of real-world se"
     },
     {
-      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-      "url": "https://arxiv.org/abs/2607.18240",
+      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "url": "https://arxiv.org/abs/2607.19350",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18240v1 Announce Type: new Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent. "
+      "summary": "arXiv:2607.19350v1 Announce Type: new Abstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme data imbalance (0.13% fraud rate) and evolving adversarial evasion tactics. This paper proposes Fraud"
     },
     {
-      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-      "url": "https://arxiv.org/abs/2607.18241",
+      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "url": "https://arxiv.org/abs/2607.19351",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18241v1 Announce Type: new Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequent"
+      "summary": "arXiv:2607.19351v1 Announce Type: new Abstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions through inter-agent communication to propagate harmful behaviors. Unlike static threats, these attacks ar"
     },
     {
-      "title": "AI Tool Discovery at Scale: All You Need is DNS",
-      "url": "https://arxiv.org/abs/2607.18242",
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "url": "https://arxiv.org/abs/2607.19353",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18242v1 Announce Type: new Abstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overlay, we propose ToolDN"
+      "summary": "arXiv:2607.19353v1 Announce Type: new Abstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution for GPU-accelerated lar"
     },
     {
-      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-      "url": "https://arxiv.org/abs/2607.18243",
+      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+      "url": "https://arxiv.org/abs/2607.19354",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18243v1 Announce Type: new Abstract: Agentic AI is crossing trust boundaries faster than current risk models can represent. Existing approaches provide one of two partial views. They either describe failure mechanisms without producing a transferable residual-risk estimate, or they produc"
+      "summary": "arXiv:2607.19354v1 Announce Type: new Abstract: Spreadsheet applications are used by hundreds of millions worldwide, yet writing formulas remains a significant barrier. Existing approaches rely on static supervised data, which quickly saturates on limited annotations. In this paper, we introduce FOR"
     },
     {
-      "title": "SAAG: Structured Agent Assessment and Grounding",
-      "url": "https://arxiv.org/abs/2607.18245",
+      "title": "Information Discernment in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.19355",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18245v1 Announce Type: new Abstract: Exact-match evaluation of agent-calling obscures qualitatively different failure modes: a model may select the right function yet hallucinate argument values, or satisfy a schema while choosing a agent for the wrong reason. Existing benchmarks collapse"
+      "summary": "arXiv:2607.19355v1 Announce Type: new Abstract: LLMs are increasingly used with external knowledge sources like the internet. Do they weigh information appropriately -- updating more for reliable sources (source discernment) and more when claims bring priors closer to the truth (truth discernment)? "
     },
     {
-      "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
-      "url": "https://arxiv.org/abs/2607.18246",
+      "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2607.19356",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18246v1 Announce Type: new Abstract: We present Phionyx, a deterministic AI runtime architecture derived from the broader Echoism interaction framework that introduces a governance-first approach to AI engineering: treating large language model (LLM) outputs as noisy sensor measurements r"
+      "summary": "arXiv:2607.19356v1 Announce Type: new Abstract: Tool-using LLM agents increasingly execute high-impact actions, making runtime safety monitoring essential. We present NEXUS (Neural EXecution Utility and Safety), a structured-plan safety monitor that applies a formal intervention policy to select amo"
     },
     {
-      "title": "Integro-differential equations in angular stabilization of drone motion by distributed feedback control",
-      "url": "https://arxiv.org/abs/2607.18251",
+      "title": "Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
+      "url": "https://arxiv.org/abs/2607.19357",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18251v1 Announce Type: new Abstract: In this paper, we propose angular stabilization of drone motion using distributed feedback control in the form of an integral operator. It should be stressed that the memory of this integral operator could be unbounded. It is intuitively clear that lar"
+      "summary": "arXiv:2607.19357v1 Announce Type: new Abstract: Recent advances in recommender systems (RS) have shown substantial performance gains through generative modelling. In practice, recommendation often involves constructing slates -- ordered lists of items -- that must satisfy multiple objectives beyond "
     },
     {
-      "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
-      "url": "https://arxiv.org/abs/2607.18252",
+      "title": "LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning",
+      "url": "https://arxiv.org/abs/2607.19358",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18252v1 Announce Type: new Abstract: Machine learning methods have shown that data-driven policies can accelerate mixed-integer linear programming (MILP) solvers, but many such approaches remain difficult to inspect, adapt, and deploy because the learned policy is represented as an extern"
+      "summary": "arXiv:2607.19358v1 Announce Type: new Abstract: Recent advances in long chain-of-thought reasoning models such as DeepSeek-R1 have led to increasingly longer inference context lengths under the test-time scaling paradigm. However, the O(n^2) computational complexity of standard self-attention causes"
     },
     {
-      "title": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing for Dynamic Workloads",
-      "url": "https://arxiv.org/abs/2607.18253",
+      "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
+      "url": "https://arxiv.org/abs/2607.19359",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18253v1 Announce Type: new Abstract: Modern language query routers improve inference efficiency by assigning each query to a model that balances response quality and monetary cost. However, current query routers are largely latency-agnostic and do not consider the generation latency exper"
+      "summary": "arXiv:2607.19359v1 Announce Type: new Abstract: Long-term memory is essential for LLM agents that interact across sessions, yet current memory benchmarks primarily evaluate single-hop recall, leaving multi-hop association largely unmeasured. We make three contributions. First, we introduce MemHop, a"
     },
     {
-      "title": "Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR",
-      "url": "https://arxiv.org/abs/2607.18254",
+      "title": "Lifted Representation Hypothesis in Language Models",
+      "url": "https://arxiv.org/abs/2607.19360",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18254v1 Announce Type: new Abstract: Multi-Level Intermediate Representation (MLIR) underlies modern ML compiler infrastructure (TensorFlow, JAX/StableHLO, PyTorch Inductor, IREE), yet appears only in trace amounts in code-LM pretraining corpora. MLIR is also extensible by design: new dia"
+      "summary": "arXiv:2607.19360v1 Announce Type: new Abstract: Large language models (LLMs) often answer queries by mapping individual observations to more general rule-like structures. However, it remains unclear how these structures are stored, selected, and revised. To study this process, we propose thelifted r"
     },
     {
-      "title": "Semantic Cooperative Games for Contribution Attribution in LLM-Based Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2607.18255",
+      "title": "GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods",
+      "url": "https://arxiv.org/abs/2607.19362",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18255v1 Announce Type: new Abstract: Contribution attribution has become a central problem in LLM-based multi-agent systems, where final outputs are produced through multiple agents, message exchanges, and ordered workflow dependencies. Existing attribution methods often rely on counterfa"
+      "summary": "arXiv:2607.19362v1 Announce Type: new Abstract: Graph RAG mitigates hallucinations and stale knowledge in LLMs, particularly for multi-hop question answering. However, existing approaches remain highly fragmented and incompatible. The structural heterogeneity of graph formats across different framew"
     },
     {
-      "title": "PEARL: Solver-in-the-Loop Interactive Optimization Modeling from Natural Language",
-      "url": "https://arxiv.org/abs/2607.18256",
+      "title": "AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally",
+      "url": "https://arxiv.org/abs/2607.19363",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18256v1 Announce Type: new Abstract: Optimization modeling is the process of translating real-world decision problems, often described in natural language, into formal mathematical formulations and executable solver code. While recent advances in large language models have shown promise i"
+      "summary": "arXiv:2607.19363v1 Announce Type: new Abstract: Rotary Position Embedding (RoPE) is widely adopted in Transformers to encode positional information, yet standard implementations enforce a uniform frequency schedule and scaling across all attention heads. Using simplified retrieval tasks and length g"
     },
     {
-      "title": "S2T-RLHF: Hierarchical Credit Assignment for Stable Preference-Based RLHF",
-      "url": "https://arxiv.org/abs/2607.18258",
+      "title": "Statistically Grounded Sparse-Feature Interventions for Activation-Space Control in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.19364",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18258v1 Announce Type: new Abstract: Reinforcement learning from human feedback (RLHF) with preference-based reward models often exhibits unstable training dynamics. A key contributing factor is that standard RLHF relies on a single sequence-level scalar reward, which is propagated to tok"
+      "summary": "arXiv:2607.19364v1 Announce Type: new Abstract: Activation steering offers a lightweight alternative to fine-tuning for behavioral control of large language models, but SAE-based steering methods often rely on learned steering objectives or single-criterion feature selection. We introduce a transpar"
     },
     {
-      "title": "Probabilistic Concept-Aware Steering for Trustworthy LLM Inference",
-      "url": "https://arxiv.org/abs/2607.18259",
+      "title": "Logic-Guided Data Extraction with Answer Set Programming and Large Language Models",
+      "url": "https://arxiv.org/abs/2607.19365",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18259v1 Announce Type: new Abstract: Steering vectors (SVs), an inference-time intervention technique for large language models (LLMs), guide the generation process by adding a concept-specific direction vector to intermediate activations during inference. However, existing SV methods fre"
+      "summary": "arXiv:2607.19365v1 Announce Type: new Abstract: When Large Language Models (LLMs) are used for semantic data extraction from unstructured text, producing candidate relational facts from natural language, they may remain unreliable for tasks requiring complex combinatorial reasoning and global consis"
     },
     {
-      "title": "FindStatBench: Evaluating Large Language Models on Combinatorial Code Synthesis",
-      "url": "https://arxiv.org/abs/2607.18260",
+      "title": "Geometry-Guided Constraint Learning for LLM Safety Classification",
+      "url": "https://arxiv.org/abs/2607.19366",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18260v1 Announce Type: new Abstract: We introduce FindStatBench, an execution benchmark for evaluating large language models on combinatorial code synthesis. Built from FindStat, it contains 2,329 tasks across 24 collections and 5.52M hidden instances, covering statistic synthesis, which "
+      "summary": "arXiv:2607.19366v1 Announce Type: new Abstract: Safety as Polytope (SaP) learns linear half-space constraints in LLM hidden space but requires per-category tuning of the constraint count K. We show that sparse autoencoder (SAE) feature extraction resolves this: K=2 becomes optimal for 12/14 categori"
     },
     {
-      "title": "When JSON Is Not Enough: Semantic Reliability of Schema-Constrained LLM Ordering Agents",
-      "url": "https://arxiv.org/abs/2607.18261",
+      "title": "Rethinking Uncertainty Evaluation in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.19367",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18261v1 Announce Type: new Abstract: LLM agents are increasingly used as transaction compilers: a user states an intent in natural language, and the model emits a structured object that an API can execute. JSON Schema and provider-level structured-output modes are useful because they remo"
+      "summary": "arXiv:2607.19367v1 Announce Type: new Abstract: Calibration is the primary criterion for evaluating LLM confidence, but it is insufficient: it admits trivially incoherent estimators, depends on the evaluation distribution, and does not test the extent to which the estimation can be interpreted as a "
     },
     {
-      "title": "ProbSPARQL: Querying Knowledge Graphs with Multi-dimensional, Uncertain Numeric Data",
-      "url": "https://arxiv.org/abs/2607.18262",
+      "title": "Spectral-LSH: Sub-Quadratic Prompt Compression via Krylov-Projected Locality-Sensitive Hashing",
+      "url": "https://arxiv.org/abs/2607.19368",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18262v1 Announce Type: new Abstract: The SFB 1574 Circular Factory is building a shared knowledge graph infrastructure for integrating data about returned products. A central challenge is that circular-factory data include numeric measurements that (i) originate from sensors or are derive"
+      "summary": "arXiv:2607.19368v1 Announce Type: new Abstract: Long-prompt inference remains expensive because prefill attention scales quadratically with sequence length. We propose Spectral-LSH, a training-free prompt compression method that operates before the prompt enters the language model. Spectral-LSH appr"
     },
     {
-      "title": "Position: AI/ML Deepfake Research is Misaligned with AI-Generated Non-Consensual Intimate Imagery (AIG-NCII)",
-      "url": "https://arxiv.org/abs/2607.18263",
+      "title": "Beyond Tracking or Shortcut: Composition-Bounded Predictive States in Poker Autoregressive Models",
+      "url": "https://arxiv.org/abs/2607.19369",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18263v1 Announce Type: new Abstract: AI-generated non-consensual intimate imagery (AIG-NCII) is not adequately addressed in AI/ML literature regarding AI-generated media, commonly referred to as \"deepfakes\". While research on deepfakes currently focuses on its epistemic harms -- or harms "
+      "summary": "arXiv:2607.19369v1 Announce Type: new Abstract: Hidden-state probes often recover latent labels in imperfect-information sequence models, but this alone does not establish that a model maintains a posterior belief distribution over hidden states. This paper studies this ambiguity in a no-range Limit"
     },
     {
-      "title": "MUX: Continuous Reasoning via Multiplexed Tokens",
-      "url": "https://arxiv.org/abs/2607.18264",
+      "title": "Mitigating Scaffolding Collapse in Socratic Tutors via Representation Alignment",
+      "url": "https://arxiv.org/abs/2607.19371",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18264v1 Announce Type: new Abstract: Language models solve complex problems by articulating intermediate reasoning steps in natural language. While effective, this process is computationally bottlenecked: each reasoning step conveys only a single subword, and many are spent expressing a t"
+      "summary": "arXiv:2607.19371v1 Announce Type: new Abstract: Large language model (LLM)-based Socratic tutors increasingly guide students through multi-turn questioning, but they can suffer from scaffolding collapse: under sustained student pressure, a tutor gradually abandons guided inquiry and reveals solution"
     },
     {
-      "title": "State Compression in Two-Agent LLM Relays: A Closed-World Study of Constraint Preservation",
-      "url": "https://arxiv.org/abs/2607.18265",
+      "title": "Euclean: Automated Geometry Problem Formalization with Unified Verification in Lean",
+      "url": "https://arxiv.org/abs/2607.19374",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18265v1 Announce Type: new Abstract: Long-running Large Language Model (LLM)-based agents often accumulate large intermediate traces containing audits, eliminations, and numeric calculations. In practice, this state is compressed before handing it to a downstream decision step, creating a"
+      "summary": "arXiv:2607.19374v1 Announce Type: new Abstract: Recent formal reasoning systems have reached IMO-level performance, yet they leave a fragmented landscape: algebra and number theory are handled in Lean, while geometry still relies on domain-specific languages with limited formal guarantees. This spli"
     },
     {
-      "title": "Structured Synthetic Reasoning Data for Arithmetic Fine-Tuning of Small Language Models",
-      "url": "https://arxiv.org/abs/2607.18266",
+      "title": "CrackedPDFs: A Controlled Benchmark for Hidden Prompt Injection in PDFs",
+      "url": "https://arxiv.org/abs/2607.19396",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18266v1 Announce Type: new Abstract: Small language models are attractive for local deployment, but they often struggle with multi-step arithmetic reasoning. We study whether structured synthetic reasoning data can improve this behaviour under consumer-hardware constraints. Starting from "
+      "summary": "arXiv:2607.19396v1 Announce Type: new Abstract: Document-based LLM systems often flatten a PDF before guardrails inspect it. That step can discard evidence that an instruction was never visible to the user. We introduce CrackedPDFs, a controlled benchmark for hidden prompt injection in PDFs. The ben"
     },
     {
-      "title": "Fence: Specialized SLM Guardrails for LLM Applications",
-      "url": "https://arxiv.org/abs/2607.18268",
+      "title": "HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions",
+      "url": "https://arxiv.org/abs/2607.19398",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18268v1 Announce Type: new Abstract: Real-world applications that use closed-source large language models (LLMs) need advanced safety measures that go beyond the basic content filters. Content moderation filters such as toxicity and bias have relatively standard definitions where as appli"
+      "summary": "arXiv:2607.19398v1 Announce Type: new Abstract: Multi-entity compositional questions pose significant challenges to existing retrieval-augmented language models. Conventional methods fall into a dilemma: standard RAG lacks dynamic reasoning, traditional Graph-RAG is limited by structural sparsity, a"
     },
     {
-      "title": "Wisdom of LLM Crowds: Aggregation and Contamination in Language Model Ensembles",
-      "url": "https://arxiv.org/abs/2607.18269",
+      "title": "ITPEval: Benchmarking Formal Translation Across Interactive Theorem Provers",
+      "url": "https://arxiv.org/abs/2607.19407",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18269v1 Announce Type: new Abstract: The wisdom of crowds -- the finding that aggregating judgments across individuals often outperforms the best individual -- has been extensively studied with human forecasters. Whether the same phenomenon emerges when the ``crowd'' consists of large lan"
+      "summary": "arXiv:2607.19407v1 Announce Type: new Abstract: Formal theorem proving has emerged as a frontier challenge for machine learning, yet the ecosystem is fragmented: proofs remain siloed across incompatible systems, limiting both training data for learning-based provers and the portability of verified r"
     },
     {
-      "title": "Trajectory-Aware Clinical Risk Prediction via Severity-Grounded Knowledge Graphs and Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2607.18270",
+      "title": "FORCE-Bench: A Benchmark, Dataset, and Evaluation Harness for Agentic AI in Enterprise Finance",
+      "url": "https://arxiv.org/abs/2607.19409",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18270v1 Announce Type: new Abstract: While Electronic Health Records (EHRs) offer a wealth of clinical data, effectively augmenting a patient's records with heterogeneous external knowledge to predict the patient's clinical risk remains a significant challenge. Existing methods fail to ca"
+      "summary": "arXiv:2607.19409v1 Announce Type: new Abstract: Recent advances in large language models have accelerated deployment of agentic systems in operational finance. Existing benchmarks emphasize measuring general capabilities, instruction following, or safety, but few directly address the operational fin"
     },
     {
-      "title": "Using LLMs for Explainable, Data-Driven Insight Generation from Time Series",
-      "url": "https://arxiv.org/abs/2607.18271",
+      "title": "The Chronos Vulnerability: A Taxonomy of Temporal Persistence and Memory-Based Deception in Agentic AI",
+      "url": "https://arxiv.org/abs/2607.19433",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18271v1 Announce Type: new Abstract: Time series forecasts are widely used in decision-critical domains, where they are rarely consumed without accompanying explanations. Producing such explanations is usually a manual and costly process, and attempts to automate it using large language m"
+      "summary": "arXiv:2607.19433v1 Announce Type: new Abstract: The transition from stateless generative models in artificial intelligence to stateful, autonomous agents represents an architectural evolution that, while providing the capabilities of long-term planning and the automation of enterprise workflows, als"
     },
     {
-      "title": "Deep Reinforcement Learning to Master the Asymmetric Strategy of Baghchal",
-      "url": "https://arxiv.org/abs/2607.18296",
+      "title": "Sophisticated Policies from Epistemic Priors",
+      "url": "https://arxiv.org/abs/2607.19518",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18296v1 Announce Type: new Abstract: Baghchal is a two-player asymmetric board game with Nepali origins where four tigers are to capture goats and twenty goats desire to keep tigers in immobility. Although Baghchal has a complex structure which is strategic, has perfect information struct"
+      "summary": "arXiv:2607.19518v1 Announce Type: new Abstract: Sophisticated Inference is a variant of active inference often associated with recursive belief modeling and tree search. We argue that its central computational role is simpler: within a planning horizon, it makes active inference closed-loop by allow"
     },
     {
-      "title": "Operational Hallucination and Safety Drift in AI Agents",
-      "url": "https://arxiv.org/abs/2607.18366",
+      "title": "Knowledge-Centric Self-Improvement",
+      "url": "https://arxiv.org/abs/2607.19592",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18366v1 Announce Type: new Abstract: Large language models (LLMs) serving as planners in tool-using autonomous agents introduce dynamic reliability risks in multi-turn execution. While single-turn safety mechanisms are relatively mature, extended interactions reveal structural vulnerabili"
+      "summary": "arXiv:2607.19592v1 Announce Type: new Abstract: Self-improving AI systems typically treat the agent as the object that improves, by optimizing prompts, workflows, harnesses, or even the agent's own code. This agent-centric view can make improvements expensive to maintain and difficult to transfer, b"
     },
     {
-      "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
-      "url": "https://arxiv.org/abs/2607.18367",
+      "title": "Edge Intelligence in Civil Aviation: Paradigms, Techniques, and Applications",
+      "url": "https://arxiv.org/abs/2607.19676",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18367v1 Announce Type: new Abstract: Unlike conventional video game development, which relies on labor-intensive pipelines for asset production, animation, physics, and programming, video world models generate interactive environments from user inputs instantly. It enable us to create cus"
+      "summary": "arXiv:2607.19676v1 Announce Type: new Abstract: Civil aviation is safety critical and its operations, from flight decks and towers to ramps and maintenance, generate massive, heterogeneous data at the network edge. Yet cloud centric deployment of large Artificial Intelligence (AI) models often produ"
     },
     {
-      "title": "Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability",
-      "url": "https://arxiv.org/abs/2607.18368",
+      "title": "Symbol and Footprint Database for Electronic Components by Agentic Recognition and Generation",
+      "url": "https://arxiv.org/abs/2607.19767",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18368v1 Announce Type: new Abstract: Partially observable reinforcement learning requires deciding what to retain, retrieve, and forget over time. We introduce a neuro-symbolic meta-policy that learns which symbolic memory heuristic to apply at each decision point while keeping execution "
+      "summary": "arXiv:2607.19767v1 Announce Type: new Abstract: A rich and recognizable component library is the cornerstone of printed circuit board (PCB) design and generation. Traditionally, engineers manually create symbols and footprints and design PCB schematics, which is time-consuming and error-prone. Lever"
     },
     {
-      "title": "MAGE: Human-Like Macro Placement via Agentic Multimodal Reasoning",
-      "url": "https://arxiv.org/abs/2607.18536",
+      "title": "Silent Failures in Multimodal Agentic Search:A Diagnostic Taxonomy and Cross-Judge Evaluation",
+      "url": "https://arxiv.org/abs/2607.19793",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18536v1 Announce Type: new Abstract: Macro placement still requires substantial manual refinement in industrial physical design flows. We present MAGE (Macro Placement Agentic Engine), a multimodal multi-agent framework for macro placement refinement. MAGE decomposes the macro placement t"
+      "summary": "arXiv:2607.19793v1 Announce Type: new Abstract: Multimodal agentic search systems increasingly rely on external tools to answer knowledge-intensive visual questions. However, existing evaluations mainly focus on final-answer accuracy and may miss failures in the search trajectory. In this work, we s"
     },
     {
-      "title": "Engineering Trustworthy Agentic AI for Critical Systems",
-      "url": "https://arxiv.org/abs/2607.18548",
+      "title": "Rewarding Better Thinking for LLM Preference Alignment",
+      "url": "https://arxiv.org/abs/2607.19824",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18548v1 Announce Type: new Abstract: Agentic artificial intelligence systems, capable of autonomous perception, planning, tool use, and multi-step action, are increasingly proposed for critical engineering domains where decisions carry physical, operational, or economic consequences. This"
+      "summary": "arXiv:2607.19824v1 Announce Type: new Abstract: LLM preference alignment aims to optimize models toward human preferences across diverse user instructions. Reinforcement learning has become a major post-training approach for this goal, but existing proxy rewards are often outcome-level, mainly evalu"
     },
     {
-      "title": "Attacking Graph Foundation Models Through Their Shared Representation",
-      "url": "https://arxiv.org/abs/2607.18567",
+      "title": "Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents",
+      "url": "https://arxiv.org/abs/2607.19837",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18567v1 Announce Type: new Abstract: A graph foundation model generalizes across graph domains by mapping every input into one shared representation before any task reasoning. We call this map the alignment layer, the component that separates a graph foundation model from a graph neural n"
+      "summary": "arXiv:2607.19837v1 Announce Type: new Abstract: Traditional pentesting uses reconnaissance at each step to uncover unseen weaknesses, build stronger attacks, and advance the objective; we argue that AI agents require the same treatment. We formalize agent reconnaissance by modeling the process and i"
     },
     {
-      "title": "When Does Machine Learning Beat Value Sorting? A Three-Dataset Diagnostic of Exposure-Weighted Shipment Prioritization",
-      "url": "https://arxiv.org/abs/2607.18573",
+      "title": "DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations",
+      "url": "https://arxiv.org/abs/2607.19865",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18573v1 Announce Type: new Abstract: Delay-risk models are usually judged by predictive accuracy. What matters in practice is narrower: with capacity to review only a few shipments, which ones should a manager check first? We evaluate whether machine learning clears a demanding no-model b"
+      "summary": "arXiv:2607.19865v1 Announce Type: new Abstract: As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a dete"
     },
     {
-      "title": "SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring",
-      "url": "https://arxiv.org/abs/2607.18665",
+      "title": "JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety",
+      "url": "https://arxiv.org/abs/2607.19913",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18665v1 Announce Type: new Abstract: Large language models (LLMs) increasingly support science, but they can also convert hazardous scientific knowledge into actionable misuse guidance. Existing benchmarks often rely on templated queries disconnected from real-world hazards, and employ LL"
+      "summary": "arXiv:2607.19913v1 Announce Type: new Abstract: Agent safety is moving from content moderation toward preventing operational failures before tool-using agents act. We propose Janus, a foresight-oriented framework for long-horizon agent safety that trains guards to anticipate delayed risks from parti"
     },
     {
-      "title": "Semantic Primes as Explanans for Emotion in Large Language Models",
-      "url": "https://arxiv.org/abs/2607.18691",
+      "title": "Long-Term Sequential Decision Making under Risk",
+      "url": "https://arxiv.org/abs/2607.19914",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18691v1 Announce Type: new Abstract: Progresses have been made on understanding emotion mechanisms of large language models (LLMs). However, how to explain emotion in LLMs, or even what constitutes good explanations, are less clear. Emotion representations, components, circuits are widely"
+      "summary": "arXiv:2607.19914v1 Announce Type: new Abstract: We study finite-horizon MDP planning under \\emph{root-based} (resolute) risk objectives that apply a rank-dependent functional to the distribution of total returns. Such objectives are non-linear in the return distribution and generally break Bellman o"
     },
     {
-      "title": "Do AI-Native Biotechs Need Departments? Benchmarking Company World Models for AI-Driven Drug Development",
-      "url": "https://arxiv.org/abs/2607.18696",
+      "title": "MOF-Sleuth: Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing",
+      "url": "https://arxiv.org/abs/2607.19935",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18696v1 Announce Type: new Abstract: AI-native biotechnology companies are often designed by copying human biotech org charts into agent roles. We argue for a different abstraction: a Company World Model, defined as a persistent asset-to-value state representation with transition models, "
+      "summary": "arXiv:2607.19935v1 Announce Type: new Abstract: Large metal-organic framework (MOF) databases support simulation, screening, and machine learning through crystallographic information files (CIFs). Subtle chemical and structural errors in these inputs can compromise downstream results and hinder manu"
     },
     {
-      "title": "DWM: Separating World Effects from Actions in Latent World Models",
-      "url": "https://arxiv.org/abs/2607.18715",
+      "title": "SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data",
+      "url": "https://arxiv.org/abs/2607.19949",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18715v1 Announce Type: new Abstract: Latent world models underpin much of modern model-based control, yet current action-conditioned formulations supervise the next-latent transition with a single, undifferentiated target, forcing a monolithic learning signal to absorb every source of sta"
+      "summary": "arXiv:2607.19949v2 Announce Type: new Abstract: Smartphone personal assistants reason over longitudinal personal data, yet evaluating them requires context-rich evaluation data whose correct answers are known, and real device traces are too privacy-sensitive to share. To address this challenge, we p"
     },
     {
-      "title": "One Rewrite to Fix Them All? Type-Aware Repair Allocation for Text-to-Image Prompt Optimization",
-      "url": "https://arxiv.org/abs/2607.18724",
+      "title": "EvoThink: Evolving Thinking in Large Reasoning Models via Self-Pruning and Aha-Moment Preference Optimization",
+      "url": "https://arxiv.org/abs/2607.19962",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18724v1 Announce Type: new Abstract: Text-to-image (T2I) generators often fail to follow their prompts faithfully, producing wrong counts, swapped attributes, ambiguous relations, and illegible text. Prompt optimization repairs such failures by rewriting the user prompt, requiring no gene"
+      "summary": "arXiv:2607.19962v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) often suffer from overthinking due to redundant verification steps. Existing approaches for mitigating overthinking, such as fast-slow thinking switching and reasoning trajectory compression, fail to make a fine-grained di"
     },
     {
-      "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
-      "url": "https://arxiv.org/abs/2607.18754",
+      "title": "The Giant Hippocampus: From Structural Monoculture to a System of Systems",
+      "url": "https://arxiv.org/abs/2607.19973",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18754v1 Announce Type: new Abstract: LLM agent failures are difficult to debug because the step where an error surfaces is often not the one that caused it. Existing observability tools replay execution traces but provide little support for identifying the root cause or translating diagno"
+      "summary": "arXiv:2607.19973v1 Announce Type: new Abstract: AI researchers describe state-of-the-art models as one thing repeated at scale: the Transformer, wired identically for text, pixels, or speech. Neuroscientists describe the cortex as a mosaic - dense Layer 4 in visual cortex for spatial encoding, thick"
     },
     {
       "title": "Stateful Guardrails for Multi-Turn LLM Systems: A Conversational Risk Accumulation Framework",
@@ -874,7 +884,7 @@
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.19747v1 Announce Type: new Abstract: As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggr"
+      "summary": "arXiv:2607.19747v2 Announce Type: new Abstract: As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggr"
     },
     {
       "title": "Learning the Arabic Dialect Continuum as a Continuous Space: A Regression Approach to Speaker Origin Prediction",
@@ -1084,7 +1094,7 @@
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.20121v1 Announce Type: new Abstract: LLM-based agents leverage third-party skills to extend their capabilities in open-world scenarios. However, third-party skills can introduce extra security vulnerabilities, as seemingly harmless skills can contain latent safety risks that only emerge d"
+      "summary": "arXiv:2607.20121v2 Announce Type: new Abstract: LLM-based agents leverage third-party skills to extend their capabilities in open-world scenarios. However, third-party skills can introduce extra security vulnerabilities, as seemingly harmless skills can contain latent safety risks that only emerge d"
     },
     {
       "title": "Back to Back with a Copy: A Computational Analysis of AI-Generated Visual Contemporary Art Pastiches",
@@ -1264,7 +1274,7 @@
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.19388v1 Announce Type: new Abstract: This work extends our one-dimensional single-sweep neural-operator studies to two dimensions. We consider one-group transport with isotropic scattering. As in the one-dimensional work, we use Fourier neural operators (FNOs) to approximate the high-fide"
+      "summary": "arXiv:2607.19388v2 Announce Type: new Abstract: This work extends our one-dimensional single-sweep neural-operator studies to two dimensions. We consider one-group transport with isotropic scattering. As in the one-dimensional work, we use Fourier neural operators (FNOs) to approximate the high-fide"
     },
     {
       "title": "The Orthogonalized Read Is a Removable Training Scaffold for Recurrent Memory",
@@ -1274,7 +1284,7 @@
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.19390v1 Announce Type: new Abstract: A recent report finds that orthogonalizing the mLSTM memory matrix at read time (five Newton-Schulz iterations, trained through) substantially improves noisy associative recall. The effect replicates, but it is not a memory improvement. Training on thi"
+      "summary": "arXiv:2607.19390v2 Announce Type: new Abstract: A recent report finds that orthogonalizing the mLSTM memory matrix at read time (five Newton-Schulz iterations, trained through) substantially improves noisy associative recall. The effect replicates, but it is not a memory improvement. Training on thi"
     },
     {
       "title": "LAARA: Layer-Aware Adaptive Rank Allocation for Parameter-Efficient Fine-Tuning",
@@ -1544,7 +1554,7 @@
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.19526v1 Announce Type: new Abstract: \"Stop Chasing the C-index when Evaluating Survival Analysis Models\" (ICML 2026, Spotlight) argued normatively, on synthetic data, that evaluating survival models by discrimination alone, i.e. the concordance index, produces systematically misleading mo"
+      "summary": "arXiv:2607.19526v2 Announce Type: new Abstract: Recent work has argued normatively, on synthetic data, that evaluating survival models by discrimination alone (concordance index) yields systematically misleading model comparisons, because the metric ignores calibration and time-dependent accuracy. W"
     },
     {
       "title": "Trustworthy Privacy-Preserving Multimodal Federated Learning for Personalised Breast Cancer Prediction",
@@ -1567,404 +1577,404 @@
       "summary": "arXiv:2607.19548v1 Announce Type: new Abstract: Understanding animal behavior at an algorithmic level -- what animals attend to, how they form internal models and plans, and how this maps to action -- remains a central challenge in neuroscience and ethology. Data-driven generative models offer a pat"
     },
     {
-      "title": "Hazard or Anomaly? Evaluating VLMs for Understanding Dangers and Discrepancies",
-      "url": "https://arxiv.org/abs/2607.18325",
+      "title": "Detect Early, Escalate Rarely: Anytime Detection of AI-Generated Video from the Compressed Bitstream",
+      "url": "https://arxiv.org/abs/2607.19476",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18325v1 Announce Type: new Abstract: Modern safety-critical systems increasingly rely on human-robot interaction to reduce disaster risk and support decision-making during emergencies. Vision-Language Models (VLMs) are promising for these settings because they can interpret complex scenes"
+      "summary": "arXiv:2607.19476v1 Announce Type: new Abstract: Detectors for AI-generated video are evaluated offline. A clip is decoded to pixels and scored once, increasingly by a large vision-language model. Detection, however, is deployed online. We recast the task as streaming perception and score the motion "
     },
     {
-      "title": "From Pixel to Prognosis: Convolutional and GLCM Feature Fusion for Automated Four-Class Cataract Severity Classification",
-      "url": "https://arxiv.org/abs/2607.18349",
+      "title": "Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction",
+      "url": "https://arxiv.org/abs/2607.19517",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18349v1 Announce Type: new Abstract: Objective: To develop a low-cost automated cataract severity classification system operating on standard consumer-grade colour photographs of the eye, without specialised ophthalmic hardware. Methods: A hybrid framework was designed that fuses deep fea"
+      "summary": "arXiv:2607.19517v1 Announce Type: new Abstract: Recovering scene-consistent 4D crowd motion from monocular video in large-scale scenes remains challenging due to severe depth ambiguity and complex scene geometry. Existing monocular crowd reconstruction methods typically rely on single-plane assumpti"
     },
     {
-      "title": "Surprise Forcing: What to Remember, When to Skip in Long Video Generation",
-      "url": "https://arxiv.org/abs/2607.18436",
+      "title": "D3VL: Understanding Driving Scenes from 3D Time Series Data and Video with Language Models",
+      "url": "https://arxiv.org/abs/2607.19528",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18436v1 Announce Type: new Abstract: Streaming autoregressive diffusion makes minute-scale video synthesis practical, but its bounded context and fixed denoising schedule allocate resources uniformly across a highly non-stationary sequence. A rolling key-value cache forgets distant visual"
+      "summary": "arXiv:2607.19528v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have triggered the development of end-to-end MLLMs for autonomous driving. However, the main emphasis to date has been for MLLMs using 2D images and videos. In contrast, this paper considers M"
     },
     {
-      "title": "ECoNGS: Efficient Compressive Neural Gaussian Splats for Volume Visualization",
-      "url": "https://arxiv.org/abs/2607.18466",
+      "title": "Synthetic and Derived Training Images for Campus Waste Detection: A Multi-Seed Evaluation with YOLOv8n",
+      "url": "https://arxiv.org/abs/2607.19535",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18466v1 Announce Type: new Abstract: Recent advances in differentiable Gaussian splatting have highlighted the potential of primitive-based approaches as alternative scene representations for interactive, high-quality, volume visualization (VolVis) of large datasets. However, the explicit"
+      "summary": "arXiv:2607.19535v2 Announce Type: new Abstract: Incorrect disposal can contaminate campus recycling streams, and a bin-mounted camera could provide feedback as an item is discarded. We evaluated whether synthetic and derived images improve a YOLOv8n detector for this view. The real dataset contained"
     },
     {
-      "title": "Style over Substance: A Shortcut Audit of Emotion-Description Preference Evaluation",
-      "url": "https://arxiv.org/abs/2607.18508",
+      "title": "ChronoStitch: Training-Free Composition of Visual KV Memories for Long-Horizon Temporal Reasoning",
+      "url": "https://arxiv.org/abs/2607.19547",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18508v1 Announce Type: new Abstract: Preference over model-generated emotion descriptions is emerging as a standard evaluation metric for multimodal emotion understanding, exemplified by the MER2026 MER-Prefer track on EmoPrefer. Such benchmarks assume that predicting the preferred descri"
+      "summary": "arXiv:2607.19547v1 Announce Type: new Abstract: Long-video question answering requires a model to preserve visual evidence over time without repeatedly reprocessing the same video. A practical approach is to store the vision-language model's internal key-value (KV) cache for each video chunk and ret"
     },
     {
-      "title": "DuSPiT: Dual-Branch Sub-Patch Pixel Diffusion Transformer",
-      "url": "https://arxiv.org/abs/2607.18510",
+      "title": "VQ-Transplant: Efficient VQ-Module Integration for Pre-trained Visual Tokenizers",
+      "url": "https://arxiv.org/abs/2607.19575",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18510v1 Announce Type: new Abstract: Diffusion Transformers achieve strong image generation performance, but most operate in compressed latent spaces. Pixel-space diffusion avoids this information loss, yet existing approaches map each raw image patch to a single token, forcing one repres"
+      "summary": "arXiv:2607.19575v1 Announce Type: new Abstract: Vector Quantization (VQ) underpins modern discrete visual tokenization. However, training quantization modules for state-of-the-art VQ-based models requires significant computational resources which, in practice, all but prevents the development of nov"
     },
     {
-      "title": "AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation",
-      "url": "https://arxiv.org/abs/2607.18539",
+      "title": "EGRNet: A Lightweight Semantic Segmentation Network with Edge-Gated Refinement and Adversarial Sensing",
+      "url": "https://arxiv.org/abs/2607.19617",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18539v1 Announce Type: new Abstract: Novel view rendering of large and complex reconstructed scenes is becoming increasingly photorealistic. However, most reconstructions remain static and lack the ambient motion that makes environments immersive. We present AniGS, a method for scene-leve"
+      "summary": "arXiv:2607.19617v1 Announce Type: new Abstract: As autonomous systems and smart cities continue to evolve, the demand for efficient and robust scene understanding becomes increasingly critical. Semantic segmentation plays a key role in enabling autonomous vehicles to comprehend complex urban environ"
     },
     {
-      "title": "Recti-Q: Feature-Space Rectification for Out-of-Distribution-Robust Quantized Perception in Edge Robotics",
-      "url": "https://arxiv.org/abs/2607.18540",
+      "title": "Pathologist Attention-Aligned Report Generation for Prostate Histopathology",
+      "url": "https://arxiv.org/abs/2607.19624",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18540v1 Announce Type: new Abstract: Robotic perception pipelines increasingly rely on large vision backbones deployed on SWaP-constrained edge platforms, making post-training quantization (PTQ) attractive for real-time inference. However, while PTQ often preserves clean in-distribution a"
+      "summary": "arXiv:2607.19624v1 Announce Type: new Abstract: The allocation of visual attention by pathologists during cancer diagnosis is a highly selective process that critically shapes the information extracted from whole-slide images (WSIs). Human attention helps medical imaging tasks such as classification"
     },
     {
-      "title": "Physics Closure Matters for Machine Olfaction: A Maxwell--Stefan Graph Solver for Identifiable Dynamic Gas Unmixing",
-      "url": "https://arxiv.org/abs/2607.18544",
+      "title": "Domain Shift in Echocardiography: Interpretable Quantification and Prediction of Cross-Dataset Left Ventricular Segmentation",
+      "url": "https://arxiv.org/abs/2607.19643",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18544v1 Announce Type: new Abstract: Machine olfaction for gas unmixing is an underconstrained inverse problem in which gas compositions must be inferred from low-dimensional, delayed, and entangled sensor responses produced by interacting chemical transport, surface adsorption, and senso"
+      "summary": "arXiv:2607.19643v1 Announce Type: new Abstract: Cross-dataset generalisation remains a major barrier to clinical deployment of echocardiographic left ventricular segmentation, yet the sources of this shift are rarely disentangled. We examined whether transfer degradation could be estimated before de"
     },
     {
-      "title": "Text-conditioned Segmentation for Tomato Phenotyping via Procedural Synthetic Data",
-      "url": "https://arxiv.org/abs/2607.18576",
+      "title": "A Unified Variational Framework for Deep Weakly Supervised Image Segmentation",
+      "url": "https://arxiv.org/abs/2607.19669",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18576v1 Announce Type: new Abstract: Vision-based automation is an excellent candidate for reducing manual labor in greenhouse crop production and phenotyping. However, progress is constrained by the lack of annotated training data. Recent advances in vision-based foundational models have"
+      "summary": "arXiv:2607.19669v1 Announce Type: new Abstract: We propose a unified variational framework for image segmentation under sparse pixel-level supervision. Our method is based on a simplex-constrained Potts model with a smooth perimeter regularizer, yielding a convex, smooth energy functional that can b"
     },
     {
-      "title": "Attention Without Grounding: Causal Evaluation of Visual Explanations in Medical VLMs",
-      "url": "https://arxiv.org/abs/2607.18577",
+      "title": "PhenSPINE: A Standardized Benchmark for Spine Pathology Diagnosis",
+      "url": "https://arxiv.org/abs/2607.19696",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18577v1 Announce Type: new Abstract: Attention and saliency heatmaps are widely used to explain medical Vision-Language Model (VLM) outputs on chest X-rays, yet whether they truly highlight the image evidence driving predictions has not been causally tested. We audit faithfulness via over"
+      "summary": "arXiv:2607.19696v1 Announce Type: new Abstract: The accurate diagnosis of spinal pathologies depends heavily on radiological interpretation, yet automated systems are hindered by the lack of diverse, high-quality benchmarks. In this study, we present PhenSPINE, a Magnetic Resonance Imaging dataset c"
     },
     {
-      "title": "Norm or Direction? Decoding Vision Mambas for High-Resolution Vision",
-      "url": "https://arxiv.org/abs/2607.18625",
+      "title": "SafeGen: Goal-Conditioned Video Diffusion of Safety-Critical Scenarios for VLM-Based Autonomous Driving",
+      "url": "https://arxiv.org/abs/2607.19701",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18625v1 Announce Type: new Abstract: Vision Mamba models replace quadratic self-attention with linear complexity selective state space models (SSMs), emerging as efficient visual backbones. However, MambaOut demonstrates that a Gated CNN block can match or exceed VMamba on image classific"
+      "summary": "arXiv:2607.19701v1 Announce Type: new Abstract: VLMs are increasingly deployed in AD systems, creating an urgent need for rigorous safety evaluation under rare yet safety-critical scenarios. Among these, interactions with vulnerable road users represent a major source of real-world failures. However"
     },
     {
-      "title": "Seeing Before Generating: Object Perception Enhances Single-View 3D Reconstruction",
-      "url": "https://arxiv.org/abs/2607.18630",
+      "title": "Point-Selection Fine-Tuning Framework for Robust Point Cloud Classification",
+      "url": "https://arxiv.org/abs/2607.19711",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18630v1 Announce Type: new Abstract: The relationship between object perception and reconstruction is well established in human vision, yet remains underexplored in computer vision. In this paper, we demonstrate that learnt object perception can significantly enhance 3D reconstruction. Fo"
+      "summary": "arXiv:2607.19711v1 Announce Type: new Abstract: Noisy and corrupted points can substantially degrade point cloud recognition performance, especially under challenging corruption settings. In particular, full fine-tuning of 3D pre-trained models may amplify the influence of outliers and overwrite rob"
     },
     {
-      "title": "Deep Learning Estimation of Sex, Age, Height, and Weight from CT-derived Digitally Reconstructed Radiographs",
-      "url": "https://arxiv.org/abs/2607.18638",
+      "title": "A Unified Tokenization Framework for Pain Recognition using Heterogeneous 3D Modalities",
+      "url": "https://arxiv.org/abs/2607.19716",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18638v1 Announce Type: new Abstract: Purpose: To develop and validate a deep learning ensemble for estimating adult sex, age, height, and weight from coronal digitally reconstructed radiographs (DRRs) generated from diagnostic CT. Materials and Methods: This retrospective study included 1"
+      "summary": "arXiv:2607.19716v1 Announce Type: new Abstract: Pain is a complex and pervasive phenomenon affecting a large percentage of the population, and accurate assessment is essential for effective clinical management and intervention. Computational pain recognition systems enable continuous monitoring, sup"
     },
     {
-      "title": "Fluid-SDF: Ultra-Lightweight and Editable Implicit Shape Representation via Differentiable Primitives",
-      "url": "https://arxiv.org/abs/2607.18646",
+      "title": "ReFace: Reorganizing Facial Spatiotemporal Representations for Improved Pain Assessment",
+      "url": "https://arxiv.org/abs/2607.19722",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18646v1 Announce Type: new Abstract: Implicit Neural Representations (INRs) have become the standard for continuous 2D shape modeling, but they suffer from black-box uneditability, vulnerability to noise, and high parameter counts that severely hinder deployment on edge devices. We introd"
+      "summary": "arXiv:2607.19722v1 Announce Type: new Abstract: Automatic pain assessment from facial video remains challenging due to the spatial heterogeneity of pain-related facial cues. This study proposes ReFace, a spatial reorganization pipeline that divides facial input into four spatial quadrants before tok"
     },
     {
-      "title": "DeforM: Reasoning-Guided Physics-Aware Video Generation via Spatial-Temporal Masking",
-      "url": "https://arxiv.org/abs/2607.18664",
+      "title": "An Exploratory Analysis of Pain Localization via Explainable Computational Modeling",
+      "url": "https://arxiv.org/abs/2607.19726",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18664v1 Announce Type: new Abstract: Video generation models achieve high visual quality but often struggle to generate physics-aware videos. Unlike rigid-body motion, which can be described by explicit trajectories or formulas, complex deformation dynamics remain challenging to synthesiz"
+      "summary": "arXiv:2607.19726v1 Announce Type: new Abstract: Automatic pain localization, which involves identifying the anatomical origin of pain from peripheral physiological signals without patient self-report, is a clinically critical but largely unaddressed problem, particularly for non-verbal patients. Thi"
     },
     {
-      "title": "MissingBench-Verified: Probing Vision-Language Models' Inability to Detect Missing Object Parts",
-      "url": "https://arxiv.org/abs/2607.18673",
+      "title": "Efficient Tracking and Understanding Object Transformations",
+      "url": "https://arxiv.org/abs/2607.19743",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18673v2 Announce Type: new Abstract: Vision Language Models (VLMs) are well known for hallucinating non-existent objects in images. Objects with missing parts present a unique challenge for VLMs, stemming from both real-world knowledge bias and the scarcity of such images in training data"
+      "summary": "arXiv:2607.19743v1 Announce Type: new Abstract: Tracking objects through state transformations is essential for understanding real-world dynamics. However, existing methods are computationally expensive. TubeletGraph recently showed impressive capabilities, but its inference cost (~$4.4$ seconds per"
     },
     {
-      "title": "Cross-Dataset Generalization in Breast MRI Tumor Classification via Class-Wise Dataset Mixing",
-      "url": "https://arxiv.org/abs/2607.18678",
+      "title": "Extending a Large View Synthesis Model for Multi-view Panoptic Segmentation",
+      "url": "https://arxiv.org/abs/2607.19765",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18678v1 Announce Type: new Abstract: Breast MRI is highly sensitive for detecting breast tumors, but exams contain many slices and require substantial reading time. Deep learning models often perform well on internal splits but can fail across institutions because of domain shift and data"
+      "summary": "arXiv:2607.19765v1 Announce Type: new Abstract: Large view synthesis models synthesize novel views through cross-view attention without explicit 3D representations, and recent studies have shown that they learn accurate spatial correspondence from RGB supervision alone. We observe that this correspo"
     },
     {
-      "title": "Dual-Edged Homogeneous-Modality Similarity: Towards Visible-Infrared Modality-Incomplete Person Re-Identification with Modality Adaptive Matching",
-      "url": "https://arxiv.org/abs/2607.18688",
+      "title": "Global Building Area Estimation Products: How Accurate Are They?",
+      "url": "https://arxiv.org/abs/2607.19766",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18688v1 Announce Type: new Abstract: Visible-Infrared Person Re-Identification (VI-ReID) operates under a closed-world assumption, where queries and galleries are from heterogeneous modalities. However, in open-world scenarios, both sets are likely to contain homogeneous and heterogeneous"
+      "summary": "arXiv:2607.19766v1 Announce Type: new Abstract: Geo-spatial rasters of building footprint area are useful for a variety of tasks, such as monitoring urbanization, improving energy efficiency, and tracking greenhouse gas emissions. There are now multiple global building raster datasets, however there"
     },
     {
-      "title": "Attributes Should Come from Images, Not Class Names: Distribution-Conditioned Attribute Selection for Vision-Language Models",
-      "url": "https://arxiv.org/abs/2607.18695",
+      "title": "DRGBT-1K: A Large-scale High-quality Benchmark for Dynamic RGBT Tracking",
+      "url": "https://arxiv.org/abs/2607.19772",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18695v1 Announce Type: new Abstract: A popular route to interpretable zero-shot classification asks a large language model (LLM) to describe each class name and prompts CLIP with the resulting descriptors. We show that these descriptors carry little visual evidence of their own: removing "
+      "summary": "arXiv:2607.19772v1 Announce Type: new Abstract: Dynamic RGBT (DRGBT) tracking aims to continuously localize a target when the available sensing modalities and observation platforms vary over time. Compared with conventional RGBT tracking with fixed RGBT inputs and a fixed observation platform, DRGBT"
     },
     {
-      "title": "Decoupled Pipeline with Proposal Reranking and Score Fusion for Positive-Unlabeled Marine Species Detection",
-      "url": "https://arxiv.org/abs/2607.18700",
+      "title": "Look Before You Edit: Attention-Guided Camera Placement and Multi-View Alignment for 3D Gaussian Splatting Editing",
+      "url": "https://arxiv.org/abs/2607.19777",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18700v1 Announce Type: new Abstract: The FathomNetCLEF 2026 competition combines underwater object detection and fine-grained marine species classification under a positive-unlabeled evaluation setting. The provided training labels are sparse, while the hidden test set is out-of-distribut"
+      "summary": "arXiv:2607.19777v1 Announce Type: new Abstract: Text-driven 3D scene editing with 3D Gaussian Splatting (3DGS) typically applies a 2D diffusion editor to views rendered from fixed training cameras, limiting both the spatial coverage of edits and the user's freedom to target specific objects in compl"
     },
     {
-      "title": "Generative World Renderer at the Speed of Play",
-      "url": "https://arxiv.org/abs/2607.18703",
+      "title": "Frequency-Hierarchical Active k-Space Sampling for Diagnostic MRI",
+      "url": "https://arxiv.org/abs/2607.19779",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18703v1 Announce Type: new Abstract: Generative world renderer AlayaRenderer receives structured world states exported from physics engines and synthesizes RGB frames. Unlike models that generate frames from text/control-hints prompts, AlayaRenderer preserves scene structure without alter"
+      "summary": "arXiv:2607.19779v1 Announce Type: new Abstract: Active sampling for accelerated MRI must distribute a tight sampling budget across spatial frequencies that carry very different kinds of information. Low frequencies hold most of the anatomical context; high frequencies carry the fine details that dri"
     },
     {
-      "title": "Continual Video-MLLM Adaptation over Evolving Domains",
-      "url": "https://arxiv.org/abs/2607.18716",
+      "title": "WASABI: Whole-graph Assignment-based Stabilizer for lAne topology By Inter-frame tracking",
+      "url": "https://arxiv.org/abs/2607.19781",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18716v1 Announce Type: new Abstract: Video multimodal large language models have shown strong capability in video understanding, yet their adaptation to sequentially evolving domains remains underexplored. In real-world deployments, video data often arrives continuously from heterogeneous"
+      "summary": "arXiv:2607.19781v1 Announce Type: new Abstract: Autonomous driving requires understanding the road as a graph of drivable lanes and their connectivity, beyond the ego lane alone, to follow routes through intersections and reason about cross- and merging-traffic. Recent perception models infer such l"
     },
     {
-      "title": "SkyEV: RGB-Event UAV detection and tracking dataset and baseline",
-      "url": "https://arxiv.org/abs/2607.18747",
+      "title": "Physics-Aware Complex-Valued State Space Model with Scattering-Prior Feature Modulation for PolSAR Image Classification",
+      "url": "https://arxiv.org/abs/2607.19787",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18747v1 Announce Type: new Abstract: Detecting UAVs in air spaces has become increasingly important due to UAVs widespread availability and easy usage. However, due to their small size, they are typically difficult to detect at a sufficient range. For the training of optimized detection a"
+      "summary": "arXiv:2607.19787v1 Announce Type: new Abstract: Polarimetric synthetic aperture radar (PolSAR) image classification is a representative task for physics-aware GeoAI, where land-cover semantics are closely coupled with electromagnetic scattering mechanisms. Many existing complex-valued networks can p"
     },
     {
-      "title": "Weakly Supervised Pathology-Informed Representation Learning for PET-Based Content Retrieval of Intra-Tumour Heterogeneity",
-      "url": "https://arxiv.org/abs/2607.18762",
+      "title": "Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning",
+      "url": "https://arxiv.org/abs/2607.19790",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18762v1 Announce Type: new Abstract: We propose a weakly supervised 18FFDG PET representation-learning framework for content based medical image retrieval, using H&E derived information during training while preserving PET-only inference. The proposed method was designed to use H&E derive"
+      "summary": "arXiv:2607.19790v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, a"
     },
     {
-      "title": "Posterior Samplings are Missing Modalities Generators for Medical Image Translation",
-      "url": "https://arxiv.org/abs/2607.18763",
+      "title": "Lean-SAM2: Target-Anchored Memory and Encoder Acceleration for SAM2",
+      "url": "https://arxiv.org/abs/2607.19811",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18763v1 Announce Type: new Abstract: Magnetic resonance imaging comes in various modality contrasts that provide complementary anatomical and pathological information. Complete multimodal acquisitions are often unavailable due to time and protocol constraints. This leads to real-world dat"
+      "summary": "arXiv:2607.19811v1 Announce Type: new Abstract: The Segment Anything Model 2 (SAM2) has advanced temporal promptable segmentation, yet its deployment remains hindered by heavy memory cross-attention overhead and redundant full-frame visual feature extraction. While recent methods explore efficiency "
     },
     {
-      "title": "Bounding Boxes to Improve Small Language Model Performance on Vision-Based Grading Tasks",
-      "url": "https://arxiv.org/abs/2607.18767",
+      "title": "MoAKE: Toward Unified All-in-One Action Quality Assessment via Mixture of Action Knowledge Experts",
+      "url": "https://arxiv.org/abs/2607.19826",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18767v1 Announce Type: new Abstract: The deployment of Small Language Models (SLMs) in educational settings offers significant advantages in terms of privacy, cost, and scalability. However, SLMs often struggle with complex vision-based tasks, such as grading handwritten student exams, du"
+      "summary": "arXiv:2607.19826v1 Announce Type: new Abstract: Action Quality Assessment (AQA) aims to objectively evaluate performance quality from action videos. Most existing methods follow a ``one-by-one'' paradigm, training a separate model for each action type. This setting limits real-world deployment, as i"
     },
     {
-      "title": "Cross-Modal UAV Object Tracking: State-Aware Representation Learning and A Unified Benchmark",
-      "url": "https://arxiv.org/abs/2607.18768",
+      "title": "Memory-Augmented Multimodal Large Language Models for Small Object Understanding in Streaming Aerial Videos",
+      "url": "https://arxiv.org/abs/2607.19857",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18768v1 Announce Type: new Abstract: Unmanned Aerial Vehicle (UAV) object tracking has emerged as a popular research field with broad practical applications. Modern UAVs are increasingly equipped with both visible light and thermal infrared sensors. However, due to constraints in communic"
+      "summary": "arXiv:2607.19857v1 Announce Type: new Abstract: Language-guided aerial perception aims to understand user-specified tiny targets in complex unmanned aerial vehicle (UAV) scenes. In real UAV deployment, the UAV must respond while it flies, so such perception runs in an online streaming manner, where "
     },
     {
-      "title": "Privileged Lesion-Context Relational Distillation for Mask-Free Skin Lesion Classification",
-      "url": "https://arxiv.org/abs/2607.18773",
+      "title": "Robust Activation Map Rectification for Weakly Supervised Volumetric Segmentation: Temporal Coherence as a Free Lunch",
+      "url": "https://arxiv.org/abs/2607.19877",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18773v1 Announce Type: new Abstract: Accurate skin lesion classification can benefit from lesion segmentation masks, but requiring masks or an auxiliary segmentation model during inference reduces clinical practicality and increases computational complexity. This work introduces Privilege"
+      "summary": "arXiv:2607.19877v1 Announce Type: new Abstract: Weakly supervised segmentation relies heavily on class activation maps (CAMs) to initially localize target regions. However, CAMs are often noisy and prone to catastrophic failures. Existing remedies typically introduce additional training stages or pr"
     },
     {
-      "title": "CGMap: A Geospatially Aware Deep Learning Framework for Crop Gap Mapping Using UAV",
-      "url": "https://arxiv.org/abs/2607.18779",
+      "title": "Current Injection Spiking Neural Network for Infrared and Visible Image Fusion",
+      "url": "https://arxiv.org/abs/2607.19879",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18779v1 Announce Type: new Abstract: In India, crop germination is primarily monitored by visual inspection and manual counting, which are prone to errors, despite their crucial role in determining eventual yield potential. This paper highlights a deep learning based pipeline which uses o"
+      "summary": "arXiv:2607.19879v1 Announce Type: new Abstract: Infrared and visible image fusion (IVIF) integrates the complementary information of two modalities into a single image with richer scene content. While existing methods are largely built on artificial neural networks (ANNs), which densely compute over"
     },
     {
-      "title": "Image Editing Models are Numerical Solvers",
-      "url": "https://arxiv.org/abs/2607.18787",
+      "title": "MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation",
+      "url": "https://arxiv.org/abs/2607.19886",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18787v1 Announce Type: new Abstract: We investigate whether a pretrained generative image-editing model can provide a common interface for numerical simulation. Physical inputs and solutions are rendered as images, while scalar quantities such as material properties, diffusivity, and load"
+      "summary": "arXiv:2607.19886v1 Announce Type: new Abstract: Thermal-to-visible face translation presents fundamental challenges including geometric discontinuities, semantic attribute mismatches, and identity degradation. We propose MTVDiff, a novel multimodal latent diffusion framework that synergistically int"
     },
     {
-      "title": "Moving Alphabet: A Controlled Study of Training Data for Text-to-Video Generation",
-      "url": "https://arxiv.org/abs/2607.18789",
+      "title": "LAVIFT: Latent-Action-Guided Vision Fine-Tuning for Surgical Interaction Recognition",
+      "url": "https://arxiv.org/abs/2607.19889",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18789v1 Announce Type: new Abstract: Text-to-video generation has advanced significantly over the past five years through scaling of model size, data, and compute. Unlike model architecture, training data is often underexplored. Real-world data curation is complex and non-trivial, involvi"
+      "summary": "arXiv:2607.19889v1 Announce Type: new Abstract: Understanding instrument-tissue interactions is essential for context-aware surgical AI and autonomous robotic surgery. Pretrained vision-language models (VLMs) and vision encoders offer an alternative to conventional interaction classifiers by transfe"
     },
     {
-      "title": "STS-NET: Spatio-Temporal Stress Network for Self-Supervised Crop Stress Detection using Satellite Image Time Series",
-      "url": "https://arxiv.org/abs/2607.18791",
+      "title": "OSVE: One Step Video Editing with One Step Diffusion Models",
+      "url": "https://arxiv.org/abs/2607.19895",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18791v1 Announce Type: new Abstract: Early and accurate detection of crop stress is essential to improve agricultural productivity and ensure global food security. However, collecting a large labeled crop stress dataset is a challenging task. To address this challenge, we introduce a nove"
+      "summary": "arXiv:2607.19895v1 Announce Type: new Abstract: Text-guided video editing with diffusion models is impractically slow, hindered by costly multi-step sampling and inversion. We present OSVE, the first framework to successfully adapt one-step Text-to-Image (T2I) models for high-quality video editing, "
     },
     {
-      "title": "UVFaceFusion: Fast Multi-view Topologically Consistent Face Reconstruction in the Wild via UV-space Neural Fusion",
-      "url": "https://arxiv.org/abs/2607.18798",
+      "title": "StrokeSeg2: Stroke Lesion Segmentation in Clinical Research Workflows",
+      "url": "https://arxiv.org/abs/2607.19901",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18798v1 Announce Type: new Abstract: Reconstructing high-fidelity facial geometry with an assigned topology is essential for digital avatar creation and animation, yet existing automated methods often trade off geometric fidelity and in-the-wild generalization. We present UVFaceFusion, a "
+      "summary": "arXiv:2607.19901v1 Announce Type: new Abstract: Deep learning frameworks like nnU-Net achieve state-of-theart brain lesion segmentation performance but remain difficult to deploy in clinical research environments due to, among other reasons, software dependencies and computational requirements. We i"
     },
     {
-      "title": "ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting",
-      "url": "https://arxiv.org/abs/2607.18801",
+      "title": "MV-Bench: Benchmarking Multimodal Large Language Models for Coordinated Multi-View Interface Construction",
+      "url": "https://arxiv.org/abs/2607.19910",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18801v1 Announce Type: new Abstract: Recent advancements in 3D Gaussian Splatting (3DGS) have enabled language-guided scene understanding. However, existing Referring 3D Gaussian Splatting (R3DGS) methods are fundamentally restricted to single-target queries. To reflect the ambiguity of r"
+      "summary": "arXiv:2607.19910v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) are increasingly expected to automate visualization development by generating code directly from visual designs. However, existing evaluations mainly focus on single-chart generation and overlook coordinated mul"
     },
     {
-      "title": "In-Context Learning for Wound Classification with Small Multimodal Language Models",
-      "url": "https://arxiv.org/abs/2607.18819",
+      "title": "LoRFT: Benchmarking Long-Range Vehicle Trajectory Reconstruction from Fixed Highway Cameras",
+      "url": "https://arxiv.org/abs/2607.19911",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18819v1 Announce Type: new Abstract: Wound image classification is often treated as a task-specific supervised learning problem, requiring substantial amounts of manually labelled data and retraining when the label space or deployment setting changes. This study evaluated whether small mu"
+      "summary": "arXiv:2607.19911v1 Announce Type: new Abstract: Long-range vehicle trajectories provide important spatio-temporal evidence for traffic safety analysis, autonomous driving evaluation, and data-driven traffic management, yet continuously recovering them from fixed highway cameras remains difficult. As"
     },
     {
-      "title": "Open-Vocabulary Gaze Object Prediction: Benchmark and Method",
-      "url": "https://arxiv.org/abs/2607.18827",
+      "title": "WearWow: Native 2K Multi-Garment Virtual Try-On via Adaptive Token Packing and Preference Alignment",
+      "url": "https://arxiv.org/abs/2607.19923",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18827v1 Announce Type: new Abstract: Gaze Object Prediction (GOP) aims to localize and recognize the objects humans attend to, a task crucial for understanding human-centric interactions. However, existing methods are typically trained under a closed-vocabulary paradigm with a fixed label"
+      "summary": "arXiv:2607.19923v1 Announce Type: new Abstract: Synthesizing native 2K multi-garment virtual try-on is a formidable frontier in digital fashion, critically bottlenecked by two fundamental limitations: the O(N^2) memory explosion induced by 2k conditions, and the spectral bias of diffusion models tha"
     },
     {
-      "title": "OPD-IAD: From Language Judgment to Industrial Anomaly Detection via On-Policy Self-Distillation",
-      "url": "https://arxiv.org/abs/2607.18850",
+      "title": "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection",
+      "url": "https://arxiv.org/abs/2607.19942",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18850v1 Announce Type: new Abstract: Large vision-language models (LVLMs) have recently shown strong potential for industrial anomaly detection (IAD) by providing image-level anomaly judgments and interpretable defect reasoning. However, current LVLM-based IAD methods still struggle to pr"
+      "summary": "arXiv:2607.19942v1 Announce Type: new Abstract: This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint cont"
     },
     {
-      "title": "Think Sparse, Predict Dense: Continuous Thought Machines for Image Super-Resolution",
-      "url": "https://arxiv.org/abs/2607.18856",
+      "title": "SIINR: Structurally Informed Implicit Neural Representations for super-resolution with uncertainty quantification of clinical quality diffusion MRI datasets",
+      "url": "https://arxiv.org/abs/2607.19943",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18856v1 Announce Type: new Abstract: Continuous Thought Machines introduce an internal temporal dimension in which neuron-level histories and synchronization-derived representations evolve over a sequence of thought ticks. Extending this mechanism to dense visual prediction is non-trivial"
+      "summary": "arXiv:2607.19943v1 Announce Type: new Abstract: Diffusion Magnetic Resonance Imaging (dMRI) is a powerful tool for probing brain microstructure, but clinical acquisitions are often limited by low out-of-plane resolution, resulting in degraded structural information and reduced utility for advanced a"
     },
     {
-      "title": "Reliability-Aware 3D Geometric Injection for Universal Person Re-identification",
-      "url": "https://arxiv.org/abs/2607.18863",
+      "title": "ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program",
+      "url": "https://arxiv.org/abs/2607.19947",
       "source": "arXiv cs.CV",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-23T04:00:00+00:00",
       "published_ts": 1784779200.0,
-      "summary": "arXiv:2607.18863v1 Announce Type: new Abstract: Universal person re-identification (ReID) aims to retrieve pedestrian identities across diverse real-world scenarios, including severe occlusions, clothing changes, and cross-modality shifts, within a unified model. However, existing 2D representations"
+      "summary": "arXiv:2607.19947v1 Announce Type: new Abstract: Electronic Theater Programs (ETPs) serve as critical promotional media in the performing arts, comprising a multi-page collection of heterogeneous visual assets such as theatrical posters, performance details, and character portraits. However, existing"
     },
     {
       "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
@@ -2105,16 +2115,6 @@
       "published_iso": "2026-07-22T16:24:08+00:00",
       "published_ts": 1784737448.0,
       "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
-    },
-    {
-      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-22T16:23:09+00:00",
-      "published_ts": 1784737389.0,
-      "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content."
     },
     {
       "title": "AMD commits up to $5 billion to  Anthropic",
@@ -2385,26 +2385,6 @@
       "published_iso": "2026-07-21T07:00:00+00:00",
       "published_ts": 1784617200.0,
       "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
-    },
-    {
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-21T00:00:00+00:00",
-      "published_ts": 1784592000.0,
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
-    },
-    {
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-21T00:00:00+00:00",
-      "published_ts": 1784592000.0,
-      "summary": ""
     }
   ]
 }
