@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-24T06:36:41.038767+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-24T10:27:16.664773+00:00 (UTC) — cửa sổ 72h — 229 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -62,9 +62,6 @@
 - 🟢 **Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber** — Google DeepMind — `2026-07-21T15:16:30+00:00`
   - https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/
   - We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
-- 🟢 **OpenAI and Hugging Face partner to address security incident during model evaluation** — OpenAI — `2026-07-21T07:00:00+00:00`
-  - https://openai.com/index/hugging-face-model-evaluation-security-incident
-  - OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.
 
 ## Mô hình mở
 
