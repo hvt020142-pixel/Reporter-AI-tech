@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:17:55.763059+00:00",
+  "generated_at": "2026-07-24T23:13:53.928904+00:00",
   "lookback_hours": 72,
   "item_count": 222,
   "sources_ok": [
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 5,
+      "items_kept": 4,
       "items_total": 18
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 9,
+      "items_kept": 10,
       "items_total": 20
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-24T22:25:58+00:00",
+      "published_ts": 1784931958.0,
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+    },
+    {
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-24T21:25:15+00:00",
+      "published_ts": 1784928315.0,
+      "summary": "\"Here’s a more natural, flowing version of that section...\""
+    },
     {
       "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
       "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
@@ -124,7 +144,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-24T18:07:32+00:00",
       "published_ts": 1784916452.0,
-      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistant"
+      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them."
     },
     {
       "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
@@ -2167,16 +2187,6 @@
       "summary": ""
     },
     {
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-22T23:47:54+00:00",
-      "published_ts": 1784764074.0,
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily."
-    },
-    {
       "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
       "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
       "source": "Ars Technica AI",
@@ -2305,16 +2315,6 @@
       "published_iso": "2026-07-22T00:00:00+00:00",
       "published_ts": 1784678400.0,
       "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
-    },
-    {
-      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-      "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-07-21T22:35:45+00:00",
-      "published_ts": 1784673345.0,
-      "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In f"
     }
   ]
 }

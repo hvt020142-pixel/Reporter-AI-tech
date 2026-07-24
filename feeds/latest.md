@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-24T21:17:55.763059+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-24T23:13:53.928904+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -17,9 +17,6 @@
 - 🟢 **NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework** — NVIDIA — `2026-07-22T13:00:11+00:00`
   - https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/
   - Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on s
-- 🟢 **Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems** — NVIDIA — `2026-07-21T22:35:45+00:00`
-  - https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
-  - The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In f
 
 ## Mô hình & LLM
 
@@ -568,6 +565,12 @@
 
 ## Tin tức
 
+- 🔵 **Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M** — TechCrunch AI — `2026-07-24T22:25:58+00:00`
+  - https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/
+  - The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.
+- 🔵 **Canadian legislator reads out apparent LLM response in floor speech** — Ars Technica AI — `2026-07-24T21:25:15+00:00`
+  - https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/
+  - "Here’s a more natural, flowing version of that section..."
 - 🔵 **Anthropic's Opus 5 is about token efficiency, not a capability leap** — Ars Technica AI — `2026-07-24T21:05:51+00:00`
   - https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/
   - Models are improving quickly, but the cheaper options are often good enough.
@@ -576,7 +579,7 @@
   - Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily 
 - 🔵 **Why Cognition bought Poke: AI personality is becoming a competitive advantage** — TechCrunch AI — `2026-07-24T18:07:32+00:00`
   - https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/
-  - AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistant
+  - The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.
 - 🔵 **Team uses AlphaFold AI to redesign gene-editing proteins to make them safer** — Ars Technica AI — `2026-07-24T17:31:26+00:00`
   - https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/
   - Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.
@@ -673,9 +676,6 @@
 - 🔵 **ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push** — TechCrunch AI — `2026-07-23T06:09:13+00:00`
   - https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/
   - ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.
-- 🔵 **After shocking quarter, IBM insists that AI isn’t killing the mainframe** — TechCrunch AI — `2026-07-22T23:47:54+00:00`
-  - https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/
-  - After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.
 - 🔵 **Hyundai claims humanoid robot plan is not part of talks with striking workers** — Ars Technica AI — `2026-07-22T18:18:12+00:00`
   - https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/
   - Union previously warned automaker that any robot deployment must be negotiated.
