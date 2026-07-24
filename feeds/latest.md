@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-24T15:41:36.205416+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-24T17:47:16.153189+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -47,9 +47,6 @@
 - 🟢 **NTT DATA Group cuts incident analysis to 30 minutes with Codex** — OpenAI — `2026-07-22T00:00:00+00:00`
   - https://openai.com/index/ntt-data
   - NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.
-- 🟢 **Introducing the ChatGPT for small business program** — OpenAI — `2026-07-21T17:00:00+00:00`
-  - https://openai.com/index/introducing-chatgpt-small-business-program
-  - OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.
 
 ## Mô hình mở
 
@@ -543,6 +540,9 @@
 
 ## Phân tích
 
+- 🔵 **The quest to keep organs alive outside the body** — MIT Tech Review — `2026-07-24T17:03:55+00:00`
+  - https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/
+  - This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca
 - 🔵 **The Download: an organ transplant breakthrough, and homegrown Chinese chips** — MIT Tech Review — `2026-07-24T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as
@@ -567,12 +567,27 @@
 - 🔵 **Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own** — MIT Tech Review — `2026-07-22T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/
   - When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a st
-- 🔵 **Why AI Needs a “Genie Coefficient”** — IEEE Spectrum AI — `2026-07-21T17:41:11+00:00`
-  - https://spectrum.ieee.org/ai-agent-benchmark
-  - Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and ano
 
 ## Tin tức
 
+- 🔵 **Team uses AlphaFold AI to redesign gene-editing proteins to make them safer** — Ars Technica AI — `2026-07-24T17:31:26+00:00`
+  - https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/
+  - Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.
+- 🔵 **You can’t ignore Google Zero anymore** — The Verge AI — `2026-07-24T17:29:48+00:00`
+  - https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast
+  - The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [
+- 🔵 **Anthropic launches Opus 5** — TechCrunch AI — `2026-07-24T17:00:00+00:00`
+  - https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/
+  - Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases
+- 🔵 **Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities** — The Verge AI — `2026-07-24T17:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release
+  - Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 "comes close to the capabilities of Claude 
+- 🔵 **Meta is making its AI chatbot more like an assistant** — The Verge AI — `2026-07-24T17:00:00+00:00`
+  - https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update
+  - Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as i
+- 🔵 **As US weighs response to Chinese AI, industry urges against broad open-weight restrictions** — TechCrunch AI — `2026-07-24T15:51:49+00:00`
+  - https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/
+  - AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.
 - 🔵 **Bluesky’s AI assistant Attie expands into an open social research tool** — TechCrunch AI — `2026-07-24T15:13:57+00:00`
   - https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/
   - Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.
@@ -582,6 +597,9 @@
 - 🔵 **The tech-broification of American science has officially begun** — The Verge AI — `2026-07-24T14:43:55+00:00`
   - https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants
   - The Trump administration unveiled the first "Genesis Mission" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as "comparable in urgency and ambition to the Manhattan Project." At roughly the same time, Trump's science 
+- 🔵 **‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street** — TechCrunch AI — `2026-07-24T14:00:00+00:00`
+  - https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/
+  - Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to 
 - 🔵 **AI firms want more data centers; Trump's EPA may give neighbors less say** — Ars Technica AI — `2026-07-24T13:49:38+00:00`
   - https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/
   - Rule would allow states to decide how much—if any—public input there can be.
@@ -645,9 +663,6 @@
 - 🔵 **Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era** — The Verge AI — `2026-07-23T14:00:00+00:00`
   - https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive
   - Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a 
-- 🔵 **The right-wing boomers protesting data centers have a lot in common with the left** — The Verge AI — `2026-07-23T12:00:00+00:00`
-  - https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans
-  - On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a on
 - 🔵 **Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good** — TechCrunch AI — `2026-07-23T11:00:00+00:00`
   - https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/
   - "I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch.
@@ -660,36 +675,15 @@
 - 🔵 **Google justifies its massive AI spending with a booming cloud business** — TechCrunch AI — `2026-07-22T22:01:52+00:00`
   - https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/
   - Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.
-- 🔵 **Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable** — TechCrunch AI — `2026-07-22T20:49:03+00:00`
-  - https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/
-  - The episode has also intensified a broader debate in Washington over the influx of Chinese open models.
-- 🔵 **How OpenAI’s human mistake led to the AI-powered hack on Hugging Face** — TechCrunch AI — `2026-07-22T19:11:46+00:00`
-  - https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/
-  - OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.
-- 🔵 **Travis Kalanick’s robotics company raises $1.7B, led by a16z** — TechCrunch AI — `2026-07-22T18:50:44+00:00`
-  - https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/
-  - Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
 - 🔵 **Hyundai claims humanoid robot plan is not part of talks with striking workers** — Ars Technica AI — `2026-07-22T18:18:12+00:00`
   - https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/
   - Union previously warned automaker that any robot deployment must be negotiated.
 - 🔵 **OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face** — Ars Technica AI — `2026-07-22T16:47:49+00:00`
   - https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/
   - "This is day one for cybersecurity in the age of agents," Hugging Face CEO says.
-- 🔵 **Here&#8217;s what Samsung&#8217;s smart glasses actually look like** — The Verge AI — `2026-07-22T16:35:34+00:00`
-  - https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker
-  - Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Park
-- 🔵 **AMD commits up to $5 billion to  Anthropic** — The Verge AI — `2026-07-22T14:44:27+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal
-  - AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios r
 - 🔵 **Unlimited AI tokens aren't unlimited after all as US Army burns through supply** — Ars Technica AI — `2026-07-22T13:35:17+00:00`
   - https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/
   - Troops received an email informing them that they were rapidly depleting their AI tokens.
-- 🔵 **Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out** — Ars Technica AI — `2026-07-21T17:33:14+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/
-  - Anthropic blocks authors from opting out of $1.5B settlement at last minute.
-- 🔵 **Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4** — Ars Technica AI — `2026-07-21T16:58:25+00:00`
-  - https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/
-  - There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
