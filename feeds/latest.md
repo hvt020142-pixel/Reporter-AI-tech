@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-24T14:07:32.789751+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-24T15:41:36.205416+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,12 +20,6 @@
 - 🟢 **Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems** — NVIDIA — `2026-07-21T22:35:45+00:00`
   - https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
   - The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In f
-- 🟢 **NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide** — NVIDIA — `2026-07-21T15:36:43+00:00`
-  - https://blogs.nvidia.com/blog/vera-rubin/
-  - NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supp
-- 🟢 **Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories** — NVIDIA — `2026-07-21T15:00:20+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/
-  - AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier i
 
 ## Mô hình & LLM
 
@@ -56,9 +50,6 @@
 - 🟢 **Introducing the ChatGPT for small business program** — OpenAI — `2026-07-21T17:00:00+00:00`
   - https://openai.com/index/introducing-chatgpt-small-business-program
   - OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.
-- 🟢 **Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber** — Google DeepMind — `2026-07-21T15:16:30+00:00`
-  - https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/
-  - We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
 
 ## Mô hình mở
 
@@ -582,6 +573,15 @@
 
 ## Tin tức
 
+- 🔵 **Bluesky’s AI assistant Attie expands into an open social research tool** — TechCrunch AI — `2026-07-24T15:13:57+00:00`
+  - https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/
+  - Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.
+- 🔵 **Midjourney acquired the astrology app Co-Star** — TechCrunch AI — `2026-07-24T15:09:55+00:00`
+  - https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/
+  - The AI lab Midjourney continues to expand its purview beyond image and video generation.
+- 🔵 **The tech-broification of American science has officially begun** — The Verge AI — `2026-07-24T14:43:55+00:00`
+  - https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants
+  - The Trump administration unveiled the first "Genesis Mission" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as "comparable in urgency and ambition to the Manhattan Project." At roughly the same time, Trump's science 
 - 🔵 **AI firms want more data centers; Trump's EPA may give neighbors less say** — Ars Technica AI — `2026-07-24T13:49:38+00:00`
   - https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/
   - Rule would allow states to decide how much—if any—public input there can be.
@@ -672,12 +672,6 @@
 - 🔵 **Hyundai claims humanoid robot plan is not part of talks with striking workers** — Ars Technica AI — `2026-07-22T18:18:12+00:00`
   - https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/
   - Union previously warned automaker that any robot deployment must be negotiated.
-- 🔵 **Yope raises $12.3M to build a private social network without algorithms or ads** — TechCrunch AI — `2026-07-22T18:13:58+00:00`
-  - https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/
-  - Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha
-- 🔵 **Monday.com lays off hundreds to focus on AI** — TechCrunch AI — `2026-07-22T17:54:14+00:00`
-  - https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/
-  - The company said it is reducing its headcount by 20%, or about 630 staff, to "support a leaner, more focused operating model" as it focuses on its AI Work Platform.
 - 🔵 **OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face** — Ars Technica AI — `2026-07-22T16:47:49+00:00`
   - https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/
   - "This is day one for cybersecurity in the age of agents," Hugging Face CEO says.
@@ -690,9 +684,6 @@
 - 🔵 **Unlimited AI tokens aren't unlimited after all as US Army burns through supply** — Ars Technica AI — `2026-07-22T13:35:17+00:00`
   - https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/
   - Troops received an email informing them that they were rapidly depleting their AI tokens.
-- 🔵 **Meta made its own AI detection system. It should have just used Google’s** — The Verge AI — `2026-07-22T11:00:00+00:00`
-  - https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid
-  - IIn March, Meta's Oversight Board called on the company to "meet its public commitments and employ its own tools" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images 
 - 🔵 **Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out** — Ars Technica AI — `2026-07-21T17:33:14+00:00`
   - https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/
   - Anthropic blocks authors from opting out of $1.5B settlement at last minute.
