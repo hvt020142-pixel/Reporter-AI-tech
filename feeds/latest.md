@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-24T19:43:17.052758+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-24T21:17:55.763059+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -52,8 +52,6 @@
 
 - 🟢 **Bringing Nunchaku 4-bit Diffusion Inference to Diffusers** — Hugging Face — `2026-07-23T00:00:00+00:00`
   - https://huggingface.co/blog/nunchaku-diffusers
-- 🟢 **The State of Simulation for Physical AI: An Overview** — Hugging Face — `2026-07-21T20:00:27+00:00`
-  - https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
 
 ## Nghiên cứu
 
@@ -570,6 +568,9 @@
 
 ## Tin tức
 
+- 🔵 **Anthropic's Opus 5 is about token efficiency, not a capability leap** — Ars Technica AI — `2026-07-24T21:05:51+00:00`
+  - https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/
+  - Models are improving quickly, but the cheaper options are often good enough.
 - 🔵 **Midjourney bought the astrology app Co-Star** — The Verge AI — `2026-07-24T19:06:58+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition
   - Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily 

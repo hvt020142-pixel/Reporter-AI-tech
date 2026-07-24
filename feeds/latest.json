@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T19:43:17.052758+00:00",
+  "generated_at": "2026-07-24T21:17:55.763059+00:00",
   "lookback_hours": 72,
   "item_count": 222,
   "sources_ok": [
@@ -30,7 +30,7 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 831
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 8,
+      "items_kept": 9,
       "items_total": 20
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-24T21:05:51+00:00",
+      "published_ts": 1784927151.0,
+      "summary": "Models are improving quickly, but the cheaper options are often good enough."
+    },
     {
       "title": "Midjourney bought the astrology app Co-Star",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
@@ -2305,16 +2315,6 @@
       "published_iso": "2026-07-21T22:35:45+00:00",
       "published_ts": 1784673345.0,
       "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In f"
-    },
-    {
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-21T20:00:27+00:00",
-      "published_ts": 1784664027.0,
-      "summary": ""
     }
   ]
 }
