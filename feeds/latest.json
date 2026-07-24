@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T10:27:16.664773+00:00",
+  "generated_at": "2026-07-24T14:07:32.789751+00:00",
   "lookback_hours": 72,
-  "item_count": 229,
+  "item_count": 227,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 8,
+      "items_kept": 7,
       "items_total": 18
     },
     {
@@ -78,24 +78,54 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 8,
+      "items_kept": 9,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 8,
+      "items_kept": 7,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-24T13:49:38+00:00",
+      "published_ts": 1784900978.0,
+      "summary": "Rule would allow states to decide how much—if any—public input there can be."
+    },
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-24T13:36:42+00:00",
+      "published_ts": 1784900202.0,
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
+    },
+    {
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-24T12:10:00+00:00",
+      "published_ts": 1784895000.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as"
+    },
     {
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
       "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
@@ -2117,16 +2147,6 @@
       "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Park"
     },
     {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-22T16:24:08+00:00",
-      "published_ts": 1784737448.0,
-      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
-    },
-    {
       "title": "AMD commits up to $5 billion to  Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
       "source": "The Verge AI",
@@ -2345,46 +2365,6 @@
       "published_iso": "2026-07-21T15:00:20+00:00",
       "published_ts": 1784646020.0,
       "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier i"
-    },
-    {
-      "title": "NVIDIA and Partners Build in America, for America",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-07-21T13:00:47+00:00",
-      "published_ts": 1784638847.0,
-      "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership."
-    },
-    {
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T12:10:00+00:00",
-      "published_ts": 1784635800.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly "
-    },
-    {
-      "title": "Chinese AI Model Uses Less Muscle for Coding Tasks",
-      "url": "https://spectrum.ieee.org/ai-coding-assistant-china-anthropic",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T12:00:01+00:00",
-      "published_ts": 1784635201.0,
-      "summary": "Zain Hasan , an AI engineer at Together AI , has taught himself to use AI coding assistants while still keeping an eye on cost. He directs difficult problems to a frontier model, meaning one near the current state of the art in reasoning and capability, such as Anthropic’s Fable . But if the task th"
-    },
-    {
-      "title": "Advancing next-gen AI with materials science innovation",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-21T10:37:34+00:00",
-      "published_ts": 1784630254.0,
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI "
     }
   ]
 }

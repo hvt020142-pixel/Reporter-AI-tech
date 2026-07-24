@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-24T10:27:16.664773+00:00 (UTC) — cửa sổ 72h — 229 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-24T14:07:32.789751+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -26,9 +26,6 @@
 - 🟢 **Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories** — NVIDIA — `2026-07-21T15:00:20+00:00`
   - https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/
   - AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier i
-- 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-07-21T13:00:47+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/
-  - NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.
 
 ## Mô hình & LLM
 
@@ -555,6 +552,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: an organ transplant breakthrough, and homegrown Chinese chips** — MIT Tech Review — `2026-07-24T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as
 - 🔵 **Supercooled kidneys have been transplanted into pigs in a “landmark achievement”** — MIT Tech Review — `2026-07-23T16:58:28+00:00`
   - https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/
   - When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#823
@@ -579,18 +579,15 @@
 - 🔵 **Why AI Needs a “Genie Coefficient”** — IEEE Spectrum AI — `2026-07-21T17:41:11+00:00`
   - https://spectrum.ieee.org/ai-agent-benchmark
   - Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and ano
-- 🔵 **The Download: Chinese AI divides the White House, and a record copyright payout** — MIT Tech Review — `2026-07-21T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly 
-- 🔵 **Chinese AI Model Uses Less Muscle for Coding Tasks** — IEEE Spectrum AI — `2026-07-21T12:00:01+00:00`
-  - https://spectrum.ieee.org/ai-coding-assistant-china-anthropic
-  - Zain Hasan , an AI engineer at Together AI , has taught himself to use AI coding assistants while still keeping an eye on cost. He directs difficult problems to a frontier model, meaning one near the current state of the art in reasoning and capability, such as Anthropic’s Fable . But if the task th
-- 🔵 **Advancing next-gen AI with materials science innovation** — MIT Tech Review — `2026-07-21T10:37:34+00:00`
-  - https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/
-  - The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI 
 
 ## Tin tức
 
+- 🔵 **AI firms want more data centers; Trump's EPA may give neighbors less say** — Ars Technica AI — `2026-07-24T13:49:38+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/
+  - Rule would allow states to decide how much—if any—public input there can be.
+- 🔵 **OpenAI’s new voice mode makes it to the ChatGPT desktop app** — TechCrunch AI — `2026-07-24T13:36:42+00:00`
+  - https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/
+  - ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.
 - 🔵 **How AI guardrails are impeding the work of offensive cybersecurity researchers** — TechCrunch AI — `2026-07-24T01:00:00+00:00`
   - https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/
   - We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.
@@ -687,9 +684,6 @@
 - 🔵 **Here&#8217;s what Samsung&#8217;s smart glasses actually look like** — The Verge AI — `2026-07-22T16:35:34+00:00`
   - https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker
   - Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Park
-- 🔵 **Arcee, a US open source AI lab, says Chinese models are not inherently dangerous** — TechCrunch AI — `2026-07-22T16:24:08+00:00`
-  - https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/
-  - As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.
 - 🔵 **AMD commits up to $5 billion to  Anthropic** — The Verge AI — `2026-07-22T14:44:27+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal
   - AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios r
