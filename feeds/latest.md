@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-24T17:47:16.153189+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-24T19:43:17.052758+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -570,6 +570,12 @@
 
 ## Tin tức
 
+- 🔵 **Midjourney bought the astrology app Co-Star** — The Verge AI — `2026-07-24T19:06:58+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition
+  - Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily 
+- 🔵 **Why Cognition bought Poke: AI personality is becoming a competitive advantage** — TechCrunch AI — `2026-07-24T18:07:32+00:00`
+  - https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/
+  - AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistant
 - 🔵 **Team uses AlphaFold AI to redesign gene-editing proteins to make them safer** — Ars Technica AI — `2026-07-24T17:31:26+00:00`
   - https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/
   - Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.
@@ -578,7 +584,7 @@
   - The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [
 - 🔵 **Anthropic launches Opus 5** — TechCrunch AI — `2026-07-24T17:00:00+00:00`
   - https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/
-  - Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases
+  - Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.
 - 🔵 **Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities** — The Verge AI — `2026-07-24T17:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release
   - Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 "comes close to the capabilities of Claude 
@@ -660,9 +666,6 @@
 - 🔵 **Lawmakers prepare bill requiring AI ‘kill switch’** — The Verge AI — `2026-07-23T14:13:35+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal
   - Lawmakers are preparing to introduce an "AI Kill Switch Act" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the 
-- 🔵 **Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era** — The Verge AI — `2026-07-23T14:00:00+00:00`
-  - https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive
-  - Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a 
 - 🔵 **Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good** — TechCrunch AI — `2026-07-23T11:00:00+00:00`
   - https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/
   - "I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch.
@@ -672,9 +675,6 @@
 - 🔵 **After shocking quarter, IBM insists that AI isn’t killing the mainframe** — TechCrunch AI — `2026-07-22T23:47:54+00:00`
   - https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/
   - After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.
-- 🔵 **Google justifies its massive AI spending with a booming cloud business** — TechCrunch AI — `2026-07-22T22:01:52+00:00`
-  - https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/
-  - Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.
 - 🔵 **Hyundai claims humanoid robot plan is not part of talks with striking workers** — Ars Technica AI — `2026-07-22T18:18:12+00:00`
   - https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/
   - Union previously warned automaker that any robot deployment must be negotiated.

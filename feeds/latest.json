@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:47:16.153189+00:00",
+  "generated_at": "2026-07-24T19:43:17.052758+00:00",
   "lookback_hours": 72,
   "item_count": 222,
   "sources_ok": [
@@ -97,6 +97,26 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "Midjourney bought the astrology app Co-Star",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-24T19:06:58+00:00",
+      "published_ts": 1784920018.0,
+      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily "
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-24T18:07:32+00:00",
+      "published_ts": 1784916452.0,
+      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistant"
+    },
+    {
       "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
       "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
       "source": "Ars Technica AI",
@@ -134,7 +154,7 @@
       "tier": "reputable",
       "published_iso": "2026-07-24T17:00:00+00:00",
       "published_ts": 1784912400.0,
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases"
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
     },
     {
       "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
@@ -2037,16 +2057,6 @@
       "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the "
     },
     {
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-23T14:00:00+00:00",
-      "published_ts": 1784815200.0,
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a "
-    },
-    {
       "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
       "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
       "source": "NVIDIA",
@@ -2155,16 +2165,6 @@
       "published_iso": "2026-07-22T23:47:54+00:00",
       "published_ts": 1784764074.0,
       "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily."
-    },
-    {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-22T22:01:52+00:00",
-      "published_ts": 1784757712.0,
-      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits."
     },
     {
       "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
