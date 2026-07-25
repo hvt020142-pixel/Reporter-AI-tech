@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-25T17:11:55.532567+00:00 (UTC) — cửa sổ 72h — 90 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-25T19:31:24.862003+00:00 (UTC) — cửa sổ 72h — 89 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -286,9 +286,6 @@
 - 🔵 **Lawmakers prepare bill requiring AI ‘kill switch’** — The Verge AI — `2026-07-23T14:13:35+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal
   - Lawmakers are preparing to introduce an "AI Kill Switch Act" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the 
-- 🔵 **Hyundai claims humanoid robot plan is not part of talks with striking workers** — Ars Technica AI — `2026-07-22T18:18:12+00:00`
-  - https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/
-  - Union previously warned automaker that any robot deployment must be negotiated.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
