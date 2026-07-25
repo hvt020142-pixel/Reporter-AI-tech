@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T15:16:42.222730+00:00",
+  "generated_at": "2026-07-25T17:11:55.532567+00:00",
   "lookback_hours": 72,
-  "item_count": 91,
+  "item_count": 90,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 9,
+      "items_kept": 8,
       "items_total": 20
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-25T16:00:00+00:00",
+      "published_ts": 1784995200.0,
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
+    },
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-25T13:05:00+00:00",
+      "published_ts": 1784984700.0,
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
+    },
     {
       "title": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
       "url": "https://arxiv.org/abs/2607.20425",
@@ -867,16 +887,6 @@
       "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
     },
     {
-      "title": "Google’s Gemini nears billion-user milestone",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-23T14:52:44+00:00",
-      "published_ts": 1784818364.0,
-      "summary": "Gemini had over 750 million monthly users in February."
-    },
-    {
       "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
       "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
       "source": "Ars Technica AI",
@@ -937,16 +947,6 @@
       "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro"
     },
     {
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-23T11:00:00+00:00",
-      "published_ts": 1784804400.0,
-      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch."
-    },
-    {
       "title": "The power line that could reshape New York’s grid is hitting snags",
       "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
       "source": "MIT Tech Review",
@@ -995,16 +995,6 @@
       "published_iso": "2026-07-22T18:18:12+00:00",
       "published_ts": 1784744292.0,
       "summary": "Union previously warned automaker that any robot deployment must be negotiated."
-    },
-    {
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-22T16:47:49+00:00",
-      "published_ts": 1784738869.0,
-      "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says."
     }
   ]
 }
