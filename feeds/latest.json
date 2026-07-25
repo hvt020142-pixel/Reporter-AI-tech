@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T09:58:23.522021+00:00",
+  "generated_at": "2026-07-25T11:30:23.849859+00:00",
   "lookback_hours": 72,
-  "item_count": 99,
+  "item_count": 98,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -14,12 +14,6 @@
       "url": "https://deepmind.google/blog/rss.xml",
       "items_kept": 1,
       "items_total": 100
-    },
-    {
-      "source": "Google (Keyword AI)",
-      "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 1,
-      "items_total": 20
     },
     {
       "source": "NVIDIA",
@@ -94,7 +88,13 @@
       "items_total": 30
     }
   ],
-  "sources_failed": [],
+  "sources_failed": [
+    {
+      "source": "Google (Keyword AI)",
+      "url": "https://blog.google/technology/ai/rss/",
+      "error": "HTTPError: HTTP Error 500: Internal Server Error"
+    }
+  ],
   "items": [
     {
       "title": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
@@ -1055,16 +1055,6 @@
       "published_iso": "2026-07-22T13:00:00+00:00",
       "published_ts": 1784725200.0,
       "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
-    },
-    {
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "source": "Google (Keyword AI)",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-22T13:00:00+00:00",
-      "published_ts": 1784725200.0,
-      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon."
     },
     {
       "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",

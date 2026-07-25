@@ -1,6 +1,8 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-25T09:58:23.522021+00:00 (UTC) — cửa sổ 72h — 99 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-25T11:30:23.849859+00:00 (UTC) — cửa sổ 72h — 98 mục — nguồn sơ cấp/uy tín.*
+
+> ⚠️ 1 nguồn lỗi lần này (bỏ qua): Google (Keyword AI)
 
 
 ## Hạ tầng & phần cứng
@@ -32,9 +34,6 @@
 - 🟢 **How news organizations are using AI to advance their vital missions** — OpenAI — `2026-07-22T13:00:00+00:00`
   - https://openai.com/index/how-news-organizations-are-using-ai
   - News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.
-- 🟢 **3 Google updates from Galaxy Unpacked 2026** — Google (Keyword AI) — `2026-07-22T13:00:00+00:00`
-  - https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/
-  - We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.
 - 🟢 **Advancing the next era of national science** — OpenAI — `2026-07-22T12:00:00+00:00`
   - https://openai.com/index/advancing-the-next-era-of-national-science
   - OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.
