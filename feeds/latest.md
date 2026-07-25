@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-24T23:13:53.928904+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-25T03:33:40.380924+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -41,9 +41,6 @@
 - 🟢 **Introducing OpenAI Presence** — OpenAI — `2026-07-22T05:30:00+00:00`
   - https://openai.com/index/introducing-openai-presence
   - Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.
-- 🟢 **NTT DATA Group cuts incident analysis to 30 minutes with Codex** — OpenAI — `2026-07-22T00:00:00+00:00`
-  - https://openai.com/index/ntt-data
-  - NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.
 
 ## Mô hình mở
 
@@ -565,8 +562,11 @@
 
 ## Tin tức
 
-- 🔵 **Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M** — TechCrunch AI — `2026-07-24T22:25:58+00:00`
-  - https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/
+- 🔵 **I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else** — TechCrunch AI — `2026-07-25T00:23:11+00:00`
+  - https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
+  - OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
+- 🔵 **Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M** — TechCrunch AI — `2026-07-24T22:25:58+00:00`
+  - https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/
   - The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.
 - 🔵 **Canadian legislator reads out apparent LLM response in floor speech** — Ars Technica AI — `2026-07-24T21:25:15+00:00`
   - https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/
@@ -673,9 +673,6 @@
 - 🔵 **Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good** — TechCrunch AI — `2026-07-23T11:00:00+00:00`
   - https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/
   - "I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch.
-- 🔵 **ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push** — TechCrunch AI — `2026-07-23T06:09:13+00:00`
-  - https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/
-  - ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.
 - 🔵 **Hyundai claims humanoid robot plan is not part of talks with striking workers** — Ars Technica AI — `2026-07-22T18:18:12+00:00`
   - https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/
   - Union previously warned automaker that any robot deployment must be negotiated.
