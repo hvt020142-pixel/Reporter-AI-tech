@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-25T13:58:11.838247+00:00 (UTC) — cửa sổ 72h — 91 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-25T15:16:42.222730+00:00 (UTC) — cửa sổ 72h — 91 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -175,9 +175,6 @@
 
 ## Tin tức
 
-- 🔵 **One fallen power line exposed a growing AI data center problem. Here’s how to fix it.** — TechCrunch AI — `2026-07-25T13:05:00+00:00`
-  - https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
-  - A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
 - 🔵 **I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else** — TechCrunch AI — `2026-07-25T00:23:11+00:00`
   - https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
   - OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
@@ -286,6 +283,9 @@
 - 🔵 **Lawmakers prepare bill requiring AI ‘kill switch’** — The Verge AI — `2026-07-23T14:13:35+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal
   - Lawmakers are preparing to introduce an "AI Kill Switch Act" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the 
+- 🔵 **Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good** — TechCrunch AI — `2026-07-23T11:00:00+00:00`
+  - https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/
+  - "I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch.
 - 🔵 **Hyundai claims humanoid robot plan is not part of talks with striking workers** — Ars Technica AI — `2026-07-22T18:18:12+00:00`
   - https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/
   - Union previously warned automaker that any robot deployment must be negotiated.

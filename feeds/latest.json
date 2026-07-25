@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T13:58:11.838247+00:00",
+  "generated_at": "2026-07-25T15:16:42.222730+00:00",
   "lookback_hours": 72,
   "item_count": 91,
   "sources_ok": [
@@ -96,16 +96,6 @@
   ],
   "sources_failed": [],
   "items": [
-    {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-25T13:05:00+00:00",
-      "published_ts": 1784984700.0,
-      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
-    },
     {
       "title": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
       "url": "https://arxiv.org/abs/2607.20425",
@@ -945,6 +935,16 @@
       "published_iso": "2026-07-23T12:00:00+00:00",
       "published_ts": 1784808000.0,
       "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro"
+    },
+    {
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-23T11:00:00+00:00",
+      "published_ts": 1784804400.0,
+      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch."
     },
     {
       "title": "The power line that could reshape New York’s grid is hitting snags",
