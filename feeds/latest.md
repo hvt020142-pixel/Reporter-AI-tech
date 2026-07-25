@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-25T06:26:53.409805+00:00 (UTC) — cửa sổ 72h — 100 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-25T09:58:23.522021+00:00 (UTC) — cửa sổ 72h — 99 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -193,9 +193,6 @@
 - 🔵 **The Download: NASA’s new space telescope and OpenAI’s autonomous hacker** — MIT Tech Review — `2026-07-22T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear
-- 🔵 **Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own** — MIT Tech Review — `2026-07-22T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/
-  - When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a st
 
 ## Tin tức
 
