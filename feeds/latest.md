@@ -1,8 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-25T11:30:23.849859+00:00 (UTC) — cửa sổ 72h — 98 mục — nguồn sơ cấp/uy tín.*
-
-> ⚠️ 1 nguồn lỗi lần này (bỏ qua): Google (Keyword AI)
+*Cập nhật: 2026-07-25T13:58:11.838247+00:00 (UTC) — cửa sổ 72h — 91 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -16,27 +14,12 @@
 - 🟢 **NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School** — NVIDIA — `2026-07-23T02:00:46+00:00`
   - https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/
   - NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate u
-- 🟢 **NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework** — NVIDIA — `2026-07-22T13:00:11+00:00`
-  - https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/
-  - Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on s
 
 ## Mô hình & LLM
 
 - 🟢 **Launching Health in ChatGPT** — OpenAI — `2026-07-23T00:00:00+00:00`
   - https://openai.com/index/health-in-chatgpt
   - Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.
-- 🟢 **Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission** — Google DeepMind — `2026-07-22T13:38:54+00:00`
-  - https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/
-  - Google commits $40M in AI tokens and credits for the Genesis Mission
-- 🟢 **Building AI infrastructure with the Effingham County community** — OpenAI — `2026-07-22T13:00:00+00:00`
-  - https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
-  - OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.
-- 🟢 **How news organizations are using AI to advance their vital missions** — OpenAI — `2026-07-22T13:00:00+00:00`
-  - https://openai.com/index/how-news-organizations-are-using-ai
-  - News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.
-- 🟢 **Advancing the next era of national science** — OpenAI — `2026-07-22T12:00:00+00:00`
-  - https://openai.com/index/advancing-the-next-era-of-national-science
-  - OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.
 
 ## Mô hình mở
 
@@ -189,12 +172,12 @@
 - 🔵 **The power line that could reshape New York’s grid is hitting snags** — MIT Tech Review — `2026-07-23T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/
   - On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Huds
-- 🔵 **The Download: NASA’s new space telescope and OpenAI’s autonomous hacker** — MIT Tech Review — `2026-07-22T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear
 
 ## Tin tức
 
+- 🔵 **One fallen power line exposed a growing AI data center problem. Here’s how to fix it.** — TechCrunch AI — `2026-07-25T13:05:00+00:00`
+  - https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
+  - A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
 - 🔵 **I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else** — TechCrunch AI — `2026-07-25T00:23:11+00:00`
   - https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
   - OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
@@ -303,18 +286,12 @@
 - 🔵 **Lawmakers prepare bill requiring AI ‘kill switch’** — The Verge AI — `2026-07-23T14:13:35+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal
   - Lawmakers are preparing to introduce an "AI Kill Switch Act" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the 
-- 🔵 **Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good** — TechCrunch AI — `2026-07-23T11:00:00+00:00`
-  - https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/
-  - "I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch.
 - 🔵 **Hyundai claims humanoid robot plan is not part of talks with striking workers** — Ars Technica AI — `2026-07-22T18:18:12+00:00`
   - https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/
   - Union previously warned automaker that any robot deployment must be negotiated.
 - 🔵 **OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face** — Ars Technica AI — `2026-07-22T16:47:49+00:00`
   - https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/
   - "This is day one for cybersecurity in the age of agents," Hugging Face CEO says.
-- 🔵 **Unlimited AI tokens aren't unlimited after all as US Army burns through supply** — Ars Technica AI — `2026-07-22T13:35:17+00:00`
-  - https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/
-  - Troops received an email informing them that they were rapidly depleting their AI tokens.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
