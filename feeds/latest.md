@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-26T15:17:01.568069+00:00 (UTC) — cửa sổ 72h — 39 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-26T17:12:53.704500+00:00 (UTC) — cửa sổ 72h — 34 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,12 +20,12 @@
 - 🔵 **The Download: an organ transplant breakthrough, and homegrown Chinese chips** — MIT Tech Review — `2026-07-24T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as
-- 🔵 **Supercooled kidneys have been transplanted into pigs in a “landmark achievement”** — MIT Tech Review — `2026-07-23T16:58:28+00:00`
-  - https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/
-  - When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#823
 
 ## Tin tức
 
+- 🔵 **Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack** — TechCrunch AI — `2026-07-26T16:33:13+00:00`
+  - https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
+  - "The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
 - 🔵 **Monday.com is the latest tech company to blame AI for layoffs — here are 20 others** — TechCrunch AI — `2026-07-26T01:30:00+00:00`
   - https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
   - A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
@@ -113,21 +113,6 @@
 - 🔵 **Patreon is laying off 20 percent of workers** — The Verge AI — `2026-07-23T18:20:30+00:00`
   - https://www.theverge.com/tech/970211/patreon-layoffs-ai
   - Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes "because we believe AI replaces humans," but says AI has "fundamentally transformed the tech in
-- 🔵 **Runway launches AI model router as generative media gets crowded** — TechCrunch AI — `2026-07-23T17:07:35+00:00`
-  - https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/
-  - The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.
-- 🔵 **OpenAI makes ChatGPT Health available to all US users** — TechCrunch AI — `2026-07-23T17:00:00+00:00`
-  - https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/
-  - Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.
-- 🔵 **OpenAI is making big claims as it rolls out ChatGPT Health to everyone** — The Verge AI — `2026-07-23T17:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims
-  - OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models "are now capable of 
-- 🔵 **Meta launched a new AI optimism ad set to a song about human extinction** — TechCrunch AI — `2026-07-23T16:28:50+00:00`
-  - https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/
-  - David Bowie's song "Five Years," which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.
-- 🔵 **Google just had its first negative cash flow quarter due to massive AI spending** — Ars Technica AI — `2026-07-23T16:04:19+00:00`
-  - https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/
-  - Google continues to report big quarterly revenue, but its AI spending has skyrocketed.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
