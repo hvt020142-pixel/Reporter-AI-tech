@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-26T11:34:46.933284+00:00 (UTC) — cửa sổ 72h — 45 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-26T13:51:18.485408+00:00 (UTC) — cửa sổ 72h — 42 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -8,12 +8,12 @@
 - 🟢 **At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners** — NVIDIA — `2026-07-24T04:34:27+00:00`
   - https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/
   - At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, thi
-- 🟢 **GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud** — NVIDIA — `2026-07-23T13:00:16+00:00`
-  - https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/
-  - Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends 
 
 ## Phân tích
 
+- 🔵 **Optical Tech Would Update a Robot’s AI on the Fly** — IEEE Spectrum AI — `2026-07-26T13:00:01+00:00`
+  - https://spectrum.ieee.org/ai-in-robotics
+  - Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code. Wh
 - 🔵 **The quest to keep organs alive outside the body** — MIT Tech Review — `2026-07-24T17:03:55+00:00`
   - https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/
   - This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca
@@ -23,15 +23,6 @@
 - 🔵 **Supercooled kidneys have been transplanted into pigs in a “landmark achievement”** — MIT Tech Review — `2026-07-23T16:58:28+00:00`
   - https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/
   - When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#823
-- 🔵 **NASA Puts Google’s Gemma Large Language Model in Orbit** — IEEE Spectrum AI — `2026-07-23T13:00:01+00:00`
-  - https://spectrum.ieee.org/nasa-ai-satellite-image-analysis
-  - The viability of orbital data centers hosting the largest and most capable large language models (LLMs) remains hotly contested. But enormous deployments that require thousands of GPUs aren’t the only way LLMs might prove useful in space. NASA’s Jet Propulsion Laboratory recently sent Google’s Gemma
-- 🔵 **The Download: energy transmission and US threats against Chinese AI** — MIT Tech Review — `2026-07-23T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity fro
-- 🔵 **How AI helps scientists design the next generation of medicines** — MIT Tech Review — `2026-07-23T12:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/
-  - Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro
 
 ## Tin tức
 
