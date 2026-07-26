@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-26T17:12:53.704500+00:00 (UTC) — cửa sổ 72h — 34 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-26T19:31:54.318408+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -98,21 +98,6 @@
 - 🔵 **AMD takes on Nvidia with its Helios AI rack-scale system** — TechCrunch AI — `2026-07-23T20:33:02+00:00`
   - https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/
   - AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
-- 🔵 **AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems** — Ars Technica AI — `2026-07-23T19:08:01+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/
-  - Bill would let Homeland Security chief decide when an AI should be shut down.
-- 🔵 **Anthropic updates Claude voice mode with more capable models** — TechCrunch AI — `2026-07-23T19:00:00+00:00`
-  - https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/
-  - Claude's new voice model will let you reschedule your meeting or draft an email.
-- 🔵 **Claude’s voice mode is now available for Opus and Sonnet** — The Verge AI — `2026-07-23T19:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai
-  - Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it wa
-- 🔵 **AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing** — TechCrunch AI — `2026-07-23T18:38:34+00:00`
-  - https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/
-  - AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.
-- 🔵 **Patreon is laying off 20 percent of workers** — The Verge AI — `2026-07-23T18:20:30+00:00`
-  - https://www.theverge.com/tech/970211/patreon-layoffs-ai
-  - Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes "because we believe AI replaces humans," but says AI has "fundamentally transformed the tech in
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
