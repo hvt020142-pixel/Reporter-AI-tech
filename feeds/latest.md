@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-26T06:46:12.197433+00:00 (UTC) — cửa sổ 72h — 46 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-26T10:09:58.092882+00:00 (UTC) — cửa sổ 72h — 45 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -32,9 +32,6 @@
 - 🔵 **How AI helps scientists design the next generation of medicines** — MIT Tech Review — `2026-07-23T12:00:00+00:00`
   - https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/
   - Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro
-- 🔵 **The power line that could reshape New York’s grid is hitting snags** — MIT Tech Review — `2026-07-23T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/
-  - On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Huds
 
 ## Tin tức
 
