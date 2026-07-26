@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:31:54.318408+00:00",
+  "generated_at": "2026-07-26T21:09:22.600797+00:00",
   "lookback_hours": 72,
   "item_count": 29,
   "sources_ok": [
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-26T19:40:57+00:00",
+      "published_ts": 1785094857.0,
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+    },
     {
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
       "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
@@ -375,16 +385,6 @@
       "published_iso": "2026-07-23T21:15:06+00:00",
       "published_ts": 1784841306.0,
       "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automati"
-    },
-    {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-23T20:33:02+00:00",
-      "published_ts": 1784838782.0,
-      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
     }
   ]
 }

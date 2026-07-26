@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-26T19:31:54.318408+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-26T21:09:22.600797+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,6 +23,9 @@
 
 ## Tin tức
 
+- 🔵 **Making sense of the panic over Chinese AI** — TechCrunch AI — `2026-07-26T19:40:57+00:00`
+  - https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/
+  - On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
 - 🔵 **Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack** — TechCrunch AI — `2026-07-26T16:33:13+00:00`
   - https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
   - "The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
@@ -95,9 +98,6 @@
 - 🔵 **Alexa Plus is getting an AI update to handle more complicated instructions** — The Verge AI — `2026-07-23T21:15:06+00:00`
   - https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices
   - Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automati
-- 🔵 **AMD takes on Nvidia with its Helios AI rack-scale system** — TechCrunch AI — `2026-07-23T20:33:02+00:00`
-  - https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/
-  - AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
