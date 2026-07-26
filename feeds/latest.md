@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-25T23:07:49.080367+00:00 (UTC) — cửa sổ 72h — 89 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-26T03:50:47.414903+00:00 (UTC) — cửa sổ 72h — 86 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -11,20 +11,6 @@
 - 🟢 **GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud** — NVIDIA — `2026-07-23T13:00:16+00:00`
   - https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/
   - Lock in and load up the cloud. GFN Thursday brings fresh updates and new adventures, all ready to play without waiting for downloads. Set sail in Path of Exile: Curse of the Allflame and charge in Battlefield 6 Season 4 both launching major content for members this week. Then revisit Capcom legends 
-- 🟢 **NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School** — NVIDIA — `2026-07-23T02:00:46+00:00`
-  - https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/
-  - NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate u
-
-## Mô hình & LLM
-
-- 🟢 **Launching Health in ChatGPT** — OpenAI — `2026-07-23T00:00:00+00:00`
-  - https://openai.com/index/health-in-chatgpt
-  - Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.
-
-## Mô hình mở
-
-- 🟢 **Bringing Nunchaku 4-bit Diffusion Inference to Diffusers** — Hugging Face — `2026-07-23T00:00:00+00:00`
-  - https://huggingface.co/blog/nunchaku-diffusers
 
 ## Nghiên cứu
 
@@ -175,6 +161,9 @@
 
 ## Tin tức
 
+- 🔵 **Monday.com is the latest tech company to blame AI for layoffs — here are 20 others** — TechCrunch AI — `2026-07-26T01:30:00+00:00`
+  - https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
+  - A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
 - 🔵 **Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech** — TechCrunch AI — `2026-07-25T16:00:00+00:00`
   - https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/
   - At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.
@@ -277,9 +266,6 @@
 - 🔵 **Nvidia is sending GPUs to the moon** — TechCrunch AI — `2026-07-23T15:00:00+00:00`
   - https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/
   - If there's a place in the universe without GPUs, Nvidia is sending them there.
-- 🔵 **AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors** — TechCrunch AI — `2026-07-23T15:00:00+00:00`
-  - https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/
-  - Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.
 - 🔵 **AI arms race in line for a reckoning after OpenAI hacking incident** — Ars Technica AI — `2026-07-23T14:45:05+00:00`
   - https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/
   - Aggressive training techniques sharpens threat of bad behavior by leading models.
