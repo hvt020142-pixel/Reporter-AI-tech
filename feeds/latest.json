@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T21:09:22.600797+00:00",
+  "generated_at": "2026-07-26T23:09:11.761081+00:00",
   "lookback_hours": 72,
-  "item_count": 29,
+  "item_count": 28,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 6,
+      "items_kept": 5,
       "items_total": 10
     },
     {
@@ -375,16 +375,6 @@
       "published_iso": "2026-07-24T01:00:00+00:00",
       "published_ts": 1784854800.0,
       "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
-    },
-    {
-      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-23T21:15:06+00:00",
-      "published_ts": 1784841306.0,
-      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automati"
     }
   ]
 }
