@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-26T13:51:18.485408+00:00 (UTC) — cửa sổ 72h — 42 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-26T15:17:01.568069+00:00 (UTC) — cửa sổ 72h — 39 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -128,15 +128,6 @@
 - 🔵 **Google just had its first negative cash flow quarter due to massive AI spending** — Ars Technica AI — `2026-07-23T16:04:19+00:00`
   - https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/
   - Google continues to report big quarterly revenue, but its AI spending has skyrocketed.
-- 🔵 **Nvidia is sending GPUs to the moon** — TechCrunch AI — `2026-07-23T15:00:00+00:00`
-  - https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/
-  - If there's a place in the universe without GPUs, Nvidia is sending them there.
-- 🔵 **AI arms race in line for a reckoning after OpenAI hacking incident** — Ars Technica AI — `2026-07-23T14:45:05+00:00`
-  - https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/
-  - Aggressive training techniques sharpens threat of bad behavior by leading models.
-- 🔵 **Lawmakers prepare bill requiring AI ‘kill switch’** — The Verge AI — `2026-07-23T14:13:35+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal
-  - Lawmakers are preparing to introduce an "AI Kill Switch Act" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the 
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
