@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-26T23:09:11.761081+00:00 (UTC) — cửa sổ 72h — 28 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-27T03:58:02.071845+00:00 (UTC) — cửa sổ 72h — 29 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs** — NVIDIA — `2026-07-27T00:45:42+00:00`
+  - https://blogs.nvidia.com/blog/vera-cpu-eda/
+  - The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) ap
 - 🟢 **At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners** — NVIDIA — `2026-07-24T04:34:27+00:00`
   - https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/
   - At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, thi
@@ -23,6 +26,9 @@
 
 ## Tin tức
 
+- 🔵 **Are brain waves the next unlock for physical AI?** — TechCrunch AI — `2026-07-27T00:19:14+00:00`
+  - https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
+  - Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
 - 🔵 **Making sense of the panic over Chinese AI** — TechCrunch AI — `2026-07-26T19:40:57+00:00`
   - https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/
   - On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
@@ -92,9 +98,6 @@
 - 🔵 **OpenAI’s new voice mode makes it to the ChatGPT desktop app** — TechCrunch AI — `2026-07-24T13:36:42+00:00`
   - https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/
   - ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.
-- 🔵 **How AI guardrails are impeding the work of offensive cybersecurity researchers** — TechCrunch AI — `2026-07-24T01:00:00+00:00`
-  - https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/
-  - We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

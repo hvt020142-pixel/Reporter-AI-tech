@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T23:09:11.761081+00:00",
+  "generated_at": "2026-07-27T03:58:02.071845+00:00",
   "lookback_hours": 72,
-  "item_count": 28,
+  "item_count": 29,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 18
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-27T00:45:42+00:00",
+      "published_ts": 1785113142.0,
+      "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) ap"
+    },
+    {
+      "title": "Are brain waves the next unlock for physical AI?",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-27T00:19:14+00:00",
+      "published_ts": 1785111554.0,
+      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings."
+    },
     {
       "title": "Making sense of the panic over Chinese AI",
       "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
@@ -365,16 +385,6 @@
       "published_iso": "2026-07-24T04:34:27+00:00",
       "published_ts": 1784867667.0,
       "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, thi"
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-24T01:00:00+00:00",
-      "published_ts": 1784854800.0,
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
     }
   ]
 }
