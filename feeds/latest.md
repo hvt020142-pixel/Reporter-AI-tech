@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-27T21:21:11.621818+00:00 (UTC) — cửa sổ 72h — 190 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-27T23:17:32.552310+00:00 (UTC) — cửa sổ 72h — 189 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -514,9 +514,12 @@
 
 ## Tin tức
 
+- 🔵 **Microsoft unveils AI security tools it says outperform competing platforms** — Ars Technica AI — `2026-07-27T21:56:14+00:00`
+  - https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/
+  - Microsoft says tools cost less than competing ones and outperform them, too.
 - 🔵 **Satya Nadella says companies that trust one AI for everything may not survive** — TechCrunch AI — `2026-07-27T21:17:11+00:00`
   - https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
-  - Businesses that rely wholly on the major AI labs ultimately won't survive, Microsoft CEO Satya Nadella predicts.
+  - Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.
 - 🔵 **PSA: Your Claude shared chats and Artifacts may have ended up on Google** — TechCrunch AI — `2026-07-27T20:19:42+00:00`
   - https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/
   - The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.
@@ -583,12 +586,6 @@
 - 🔵 **I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else** — TechCrunch AI — `2026-07-25T00:23:11+00:00`
   - https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
   - OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
-- 🔵 **Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M** — TechCrunch AI — `2026-07-24T22:25:58+00:00`
-  - https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/
-  - The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.
-- 🔵 **Canadian legislator reads out apparent LLM response in floor speech** — Ars Technica AI — `2026-07-24T21:25:15+00:00`
-  - https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/
-  - "Here’s a more natural, flowing version of that section..."
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
