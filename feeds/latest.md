@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-27T11:35:44.090262+00:00 (UTC) — cửa sổ 72h — 185 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-27T15:09:31.100761+00:00 (UTC) — cửa sổ 72h — 188 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -487,18 +487,39 @@
 
 ## Phân tích
 
+- 🔵 **How lasers could help provide fuel for nuclear reactors** — MIT Tech Review — `2026-07-27T14:24:42+00:00`
+  - https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/
+  - Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old ma
+- 🔵 **The Download: lasers for nuclear fuel, and organ preservation advances** — MIT Tech Review — `2026-07-27T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tic
+- 🔵 **The path to artificial superintelligence** — MIT Tech Review — `2026-07-27T12:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/
+  - Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not
+- 🔵 **Closing the data loop in AI-driven drug discovery** — MIT Tech Review — `2026-07-27T11:40:16+00:00`
+  - https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/
+  - Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug
+- 🔵 **Building the enterprise environment for agentic AI** — MIT Tech Review — `2026-07-27T11:32:58+00:00`
+  - https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/
+  - For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, p
 - 🔵 **Optical Tech Would Update a Robot’s AI on the Fly** — IEEE Spectrum AI — `2026-07-26T13:00:01+00:00`
   - https://spectrum.ieee.org/ai-in-robotics
   - Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code. Wh
 - 🔵 **The quest to keep organs alive outside the body** — MIT Tech Review — `2026-07-24T17:03:55+00:00`
   - https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/
   - This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca
-- 🔵 **The Download: an organ transplant breakthrough, and homegrown Chinese chips** — MIT Tech Review — `2026-07-24T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as
 
 ## Tin tức
 
+- 🔵 **Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research** — TechCrunch AI — `2026-07-27T15:01:50+00:00`
+  - https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/
+  - After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.
+- 🔵 **Enigma raises $70M to make controlling a robot as easy as adjusting the volume** — TechCrunch AI — `2026-07-27T13:00:00+00:00`
+  - https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/
+  - The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
+- 🔵 **Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic** — The Verge AI — `2026-07-27T12:06:22+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity
+  - Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct respo
 - 🔵 **Artist sues AI meme generator for selling deeply personal comic as ad template** — Ars Technica AI — `2026-07-27T10:50:37+00:00`
   - https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/
   - Meme generator may have screwed up by using templates in outputs, expert says.
@@ -562,18 +583,6 @@
 - 🔵 **Midjourney acquired the astrology app Co-Star** — TechCrunch AI — `2026-07-24T15:09:55+00:00`
   - https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/
   - The AI lab Midjourney continues to expand its purview beyond image and video generation.
-- 🔵 **The tech-broification of American science has officially begun** — The Verge AI — `2026-07-24T14:43:55+00:00`
-  - https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants
-  - The Trump administration unveiled the first "Genesis Mission" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as "comparable in urgency and ambition to the Manhattan Project." At roughly the same time, Trump's science 
-- 🔵 **‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street** — TechCrunch AI — `2026-07-24T14:00:00+00:00`
-  - https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/
-  - Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to 
-- 🔵 **AI firms want more data centers; Trump's EPA may give neighbors less say** — Ars Technica AI — `2026-07-24T13:49:38+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/
-  - Rule would allow states to decide how much—if any—public input there can be.
-- 🔵 **OpenAI’s new voice mode makes it to the ChatGPT desktop app** — TechCrunch AI — `2026-07-24T13:36:42+00:00`
-  - https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/
-  - ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
