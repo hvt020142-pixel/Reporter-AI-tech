@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-27T17:52:58.808244+00:00 (UTC) — cửa sổ 72h — 186 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-27T19:50:02.901492+00:00 (UTC) — cửa sổ 72h — 188 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -487,6 +487,12 @@
 
 ## Phân tích
 
+- 🔵 **OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.** — MIT Tech Review — `2026-07-27T18:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company
+- 🔵 **Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare** — IEEE Spectrum AI — `2026-07-27T17:54:07+00:00`
+  - https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/
+  - An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures. What Attendees will Learn Why mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-a
 - 🔵 **How lasers could help provide fuel for nuclear reactors** — MIT Tech Review — `2026-07-27T14:24:42+00:00`
   - https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/
   - Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old ma
@@ -508,6 +514,12 @@
 
 ## Tin tức
 
+- 🔵 **Verizon touts $1B dark fiber deal for Google data centers as first of many** — Ars Technica AI — `2026-07-27T18:48:41+00:00`
+  - https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/
+  - Telecom expects AI revenue from dark fiber deals and retrofitted data centers.
+- 🔵 **Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system** — TechCrunch AI — `2026-07-27T18:32:11+00:00`
+  - https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/
+  - Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.
 - 🔵 **OpenAI’s Hugging Face breach has reignited the debate over alignment and control** — TechCrunch AI — `2026-07-27T17:28:42+00:00`
   - https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/
   - OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.
@@ -571,12 +583,6 @@
 - 🔵 **Anthropic's Opus 5 is about token efficiency, not a capability leap** — Ars Technica AI — `2026-07-24T21:05:51+00:00`
   - https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/
   - Models are improving quickly, but the cheaper options are often good enough.
-- 🔵 **Midjourney bought the astrology app Co-Star** — The Verge AI — `2026-07-24T19:06:58+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition
-  - Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily 
-- 🔵 **Why Cognition bought Poke: AI personality is becoming a competitive advantage** — TechCrunch AI — `2026-07-24T18:07:32+00:00`
-  - https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/
-  - The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
