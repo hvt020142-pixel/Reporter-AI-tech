@@ -1,13 +1,27 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-27T07:46:23.129635+00:00 (UTC) — cửa sổ 72h — 181 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-27T11:35:44.090262+00:00 (UTC) — cửa sổ 72h — 185 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security** — NVIDIA — `2026-07-27T09:00:07+00:00`
+  - https://blogs.nvidia.com/blog/open-secure-ai-alliance/
+  - Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three benefi
 - 🟢 **NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs** — NVIDIA — `2026-07-27T00:45:42+00:00`
   - https://blogs.nvidia.com/blog/vera-cpu-eda/
   - The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) ap
+
+## Mô hình & LLM
+
+- 🟢 **How AI is expanding what people do at work** — OpenAI — `2026-07-27T03:30:00+00:00`
+  - https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
+  - New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.
+
+## Mô hình mở
+
+- 🟢 **NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics** — Hugging Face — `2026-07-27T09:32:20+00:00`
+  - https://huggingface.co/blog/nvidia/cosmos-h-dreams
 
 ## Nghiên cứu
 
@@ -485,6 +499,9 @@
 
 ## Tin tức
 
+- 🔵 **Artist sues AI meme generator for selling deeply personal comic as ad template** — Ars Technica AI — `2026-07-27T10:50:37+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/
+  - Meme generator may have screwed up by using templates in outputs, expert says.
 - 🔵 **Are brain waves the next unlock for physical AI?** — TechCrunch AI — `2026-07-27T00:19:14+00:00`
   - https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
   - Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.

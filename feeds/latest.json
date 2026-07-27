@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-27T07:46:23.129635+00:00",
+  "generated_at": "2026-07-27T11:35:44.090262+00:00",
   "lookback_hours": 72,
-  "item_count": 181,
+  "item_count": 185,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 0,
-      "items_total": 1050
+      "items_kept": 1,
+      "items_total": 1051
     },
     {
       "source": "Google DeepMind",
@@ -24,13 +24,13 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 18
     },
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 0,
+      "items_kept": 1,
       "items_total": 831
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 20
     },
     {
@@ -96,6 +96,36 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-27T10:50:37+00:00",
+      "published_ts": 1785149437.0,
+      "summary": "Meme generator may have screwed up by using templates in outputs, expert says."
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-27T09:32:20+00:00",
+      "published_ts": 1785144740.0,
+      "summary": ""
+    },
+    {
+      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-27T09:00:07+00:00",
+      "published_ts": 1785142807.0,
+      "summary": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three benefi"
+    },
     {
       "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
       "url": "https://arxiv.org/abs/2607.21596",
@@ -1625,6 +1655,16 @@
       "published_iso": "2026-07-27T04:00:00+00:00",
       "published_ts": 1785124800.0,
       "summary": "arXiv:2607.22255v1 Announce Type: new Abstract: The segmentation of multiple degradations has been a challenging problem in the field of image segmentation. Existing level set approaches commonly adopt a length regularization term to constrain the geometric shape of the segmentation contour. However"
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-27T03:30:00+00:00",
+      "published_ts": 1785123000.0,
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
     },
     {
       "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
