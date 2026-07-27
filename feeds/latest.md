@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-27T19:50:02.901492+00:00 (UTC) — cửa sổ 72h — 188 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-27T21:21:11.621818+00:00 (UTC) — cửa sổ 72h — 190 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -514,6 +514,15 @@
 
 ## Tin tức
 
+- 🔵 **Satya Nadella says companies that trust one AI for everything may not survive** — TechCrunch AI — `2026-07-27T21:17:11+00:00`
+  - https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
+  - Businesses that rely wholly on the major AI labs ultimately won't survive, Microsoft CEO Satya Nadella predicts.
+- 🔵 **PSA: Your Claude shared chats and Artifacts may have ended up on Google** — TechCrunch AI — `2026-07-27T20:19:42+00:00`
+  - https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/
+  - The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.
+- 🔵 **“Google and Reddit do not own the Internet," web scraper says after court win** — Ars Technica AI — `2026-07-27T20:12:42+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/
+  - Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.
 - 🔵 **Verizon touts $1B dark fiber deal for Google data centers as first of many** — Ars Technica AI — `2026-07-27T18:48:41+00:00`
   - https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/
   - Telecom expects AI revenue from dark fiber deals and retrofitted data centers.
@@ -580,9 +589,6 @@
 - 🔵 **Canadian legislator reads out apparent LLM response in floor speech** — Ars Technica AI — `2026-07-24T21:25:15+00:00`
   - https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/
   - "Here’s a more natural, flowing version of that section..."
-- 🔵 **Anthropic's Opus 5 is about token efficiency, not a capability leap** — Ars Technica AI — `2026-07-24T21:05:51+00:00`
-  - https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/
-  - Models are improving quickly, but the cheaper options are often good enough.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
