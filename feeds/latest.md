@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-27T15:09:31.100761+00:00 (UTC) — cửa sổ 72h — 188 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-27T17:52:58.808244+00:00 (UTC) — cửa sổ 72h — 186 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -505,16 +505,34 @@
 - 🔵 **Optical Tech Would Update a Robot’s AI on the Fly** — IEEE Spectrum AI — `2026-07-26T13:00:01+00:00`
   - https://spectrum.ieee.org/ai-in-robotics
   - Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code. Wh
-- 🔵 **The quest to keep organs alive outside the body** — MIT Tech Review — `2026-07-24T17:03:55+00:00`
-  - https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/
-  - This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca
 
 ## Tin tức
 
+- 🔵 **OpenAI’s Hugging Face breach has reignited the debate over alignment and control** — TechCrunch AI — `2026-07-27T17:28:42+00:00`
+  - https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/
+  - OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.
+- 🔵 **ChatGPT starts blocking direct requests to copy an author's style** — Ars Technica AI — `2026-07-27T16:58:46+00:00`
+  - https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/
+  - New behavior capturing a writer's "broad qualities" could have legal implications.
+- 🔵 **Why China is giving away its best AI models** — The Verge AI — `2026-07-27T16:51:50+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies
+  - Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry betw
+- 🔵 **Threads users can now chat with Meta AI in their DMs** — TechCrunch AI — `2026-07-27T16:45:24+00:00`
+  - https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/
+  - Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.
+- 🔵 **Google’s AI search is rapidly becoming the default, new data shows** — TechCrunch AI — `2026-07-27T15:57:12+00:00`
+  - https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/
+  - Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.
+- 🔵 **Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026** — TechCrunch AI — `2026-07-27T15:30:00+00:00`
+  - https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/
+  - At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.
+- 🔵 **This $9 key physically locks your most addictive apps** — TechCrunch AI — `2026-07-27T15:25:37+00:00`
+  - https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/
+  - This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.
 - 🔵 **Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research** — TechCrunch AI — `2026-07-27T15:01:50+00:00`
   - https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/
   - After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.
-- 🔵 **Enigma raises $70M to make controlling a robot as easy as adjusting the volume** — TechCrunch AI — `2026-07-27T13:00:00+00:00`
+- 🔵 **Enigma raises $71M to make controlling a robot as easy as adjusting the volume** — TechCrunch AI — `2026-07-27T13:00:00+00:00`
   - https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/
   - The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
 - 🔵 **Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic** — The Verge AI — `2026-07-27T12:06:22+00:00`
@@ -525,7 +543,7 @@
   - Meme generator may have screwed up by using templates in outputs, expert says.
 - 🔵 **Are brain waves the next unlock for physical AI?** — TechCrunch AI — `2026-07-27T00:19:14+00:00`
   - https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
-  - Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
+  - Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.
 - 🔵 **Making sense of the panic over Chinese AI** — TechCrunch AI — `2026-07-26T19:40:57+00:00`
   - https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/
   - On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
@@ -538,7 +556,7 @@
 - 🔵 **Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech** — TechCrunch AI — `2026-07-25T16:00:00+00:00`
   - https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/
   - At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.
-- 🔵 **One fallen power line exposed a growing AI data center problem. Here’s how to fix it.** — TechCrunch AI — `2026-07-25T13:05:00+00:00`
+- 🔵 **One fallen power line exposed a growing AI data center problem — here’s how to fix it** — TechCrunch AI — `2026-07-25T13:05:00+00:00`
   - https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
   - A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
 - 🔵 **I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else** — TechCrunch AI — `2026-07-25T00:23:11+00:00`
@@ -559,30 +577,6 @@
 - 🔵 **Why Cognition bought Poke: AI personality is becoming a competitive advantage** — TechCrunch AI — `2026-07-24T18:07:32+00:00`
   - https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/
   - The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.
-- 🔵 **Team uses AlphaFold AI to redesign gene-editing proteins to make them safer** — Ars Technica AI — `2026-07-24T17:31:26+00:00`
-  - https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/
-  - Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.
-- 🔵 **You can’t ignore Google Zero anymore** — The Verge AI — `2026-07-24T17:29:48+00:00`
-  - https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast
-  - The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [
-- 🔵 **Anthropic launches Opus 5** — TechCrunch AI — `2026-07-24T17:00:00+00:00`
-  - https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/
-  - Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.
-- 🔵 **Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities** — The Verge AI — `2026-07-24T17:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release
-  - Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 "comes close to the capabilities of Claude 
-- 🔵 **Meta is making its AI chatbot more like an assistant** — The Verge AI — `2026-07-24T17:00:00+00:00`
-  - https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update
-  - Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as i
-- 🔵 **As US weighs response to Chinese AI, industry urges against broad open-weight restrictions** — TechCrunch AI — `2026-07-24T15:51:49+00:00`
-  - https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/
-  - AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.
-- 🔵 **Bluesky’s AI assistant Attie expands into an open social research tool** — TechCrunch AI — `2026-07-24T15:13:57+00:00`
-  - https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/
-  - Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.
-- 🔵 **Midjourney acquired the astrology app Co-Star** — TechCrunch AI — `2026-07-24T15:09:55+00:00`
-  - https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/
-  - The AI lab Midjourney continues to expand its purview beyond image and video generation.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
