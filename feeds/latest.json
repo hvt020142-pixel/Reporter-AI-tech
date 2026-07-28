@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T21:19:19.237268+00:00",
+  "generated_at": "2026-07-28T23:13:18.552600+00:00",
   "lookback_hours": 72,
-  "item_count": 215,
+  "item_count": 216,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 20
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T21:36:39+00:00",
+      "published_ts": 1785274599.0,
+      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch."
+    },
+    {
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T21:29:34+00:00",
+      "published_ts": 1785274174.0,
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
+    },
     {
       "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
       "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
@@ -2225,16 +2245,6 @@
       "published_iso": "2026-07-26T19:40:57+00:00",
       "published_ts": 1785094857.0,
       "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
-    },
-    {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-26T16:33:13+00:00",
-      "published_ts": 1785083593.0,
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
     },
     {
       "title": "Optical Tech Would Update a Robot’s AI on the Fly",

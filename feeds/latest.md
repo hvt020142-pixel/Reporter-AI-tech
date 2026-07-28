@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-28T21:19:19.237268+00:00 (UTC) — cửa sổ 72h — 215 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-28T23:13:18.552600+00:00 (UTC) — cửa sổ 72h — 216 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -562,6 +562,12 @@
 
 ## Tin tức
 
+- 🔵 **We now have a better understanding how OpenAI hacked into Hugging Face** — Ars Technica AI — `2026-07-28T21:36:39+00:00`
+  - https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/
+  - 10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.
+- 🔵 **Bot-detection startup Spur nabs $200M from Insight** — TechCrunch AI — `2026-07-28T21:29:34+00:00`
+  - https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/
+  - Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.
 - 🔵 **MCP startup Runlayer accuses Rippling of stealing its product idea** — TechCrunch AI — `2026-07-28T20:45:12+00:00`
   - https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/
   - Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.
@@ -658,9 +664,6 @@
 - 🔵 **Making sense of the panic over Chinese AI** — TechCrunch AI — `2026-07-26T19:40:57+00:00`
   - https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/
   - On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
-- 🔵 **Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack** — TechCrunch AI — `2026-07-26T16:33:13+00:00`
-  - https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
-  - "The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
