@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-28T10:43:46.912863+00:00 (UTC) — cửa sổ 72h — 198 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-28T14:31:24.746864+00:00 (UTC) — cửa sổ 72h — 205 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,6 +14,12 @@
 
 ## Mô hình & LLM
 
+- 🟢 **5 ways AI Mode in Search helps you enjoy the real world** — Google (Keyword AI) — `2026-07-28T13:00:00+00:00`
+  - https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/
+  - It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…
+- 🟢 **5 ways to host the ultimate dinner party with Google Search** — Google (Keyword AI) — `2026-07-28T13:00:00+00:00`
+  - https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/
+  - These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.
 - 🟢 **How AI is expanding what people do at work** — OpenAI — `2026-07-27T03:30:00+00:00`
   - https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
   - New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.
@@ -508,6 +514,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: OpenAI’s predictable hack, and an AI stock sell-off** — MIT Tech Review — `2026-07-28T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account
 - 🔵 **Samsung’s chip workers are jumping ship to rival SK Hynix** — MIT Tech Review — `2026-07-28T09:18:57+00:00`
   - https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/
   - Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w
@@ -538,6 +547,21 @@
 
 ## Tin tức
 
+- 🔵 **Fish Audio raises $50M seed to build AI voice models for creators and enterprises** — TechCrunch AI — `2026-07-28T14:00:00+00:00`
+  - https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
+  - Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.
+- 🔵 **Recursive Superintelligence signs $410 compute deal with Amazon** — TechCrunch AI — `2026-07-28T13:19:17+00:00`
+  - https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/
+  - Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.
+- 🔵 **Perplexity’s Personal Computer turns Windows PCs into AI agents** — The Verge AI — `2026-07-28T12:30:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents
+  - Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a "general-purpose digital worker" 
+- 🔵 **Smart rings are looking like my kind of AI gadget** — The Verge AI — `2026-07-28T12:00:00+00:00`
+  - https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index
+  - Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots o
+- 🔵 **Hugging Face is being used to easily undress women and children** — The Verge AI — `2026-07-28T09:07:14+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children
+  - Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by
 - 🔵 **Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing** — TechCrunch AI — `2026-07-28T04:30:00+00:00`
   - https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/
   - Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.
@@ -610,9 +634,6 @@
 - 🔵 **Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech** — TechCrunch AI — `2026-07-25T16:00:00+00:00`
   - https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/
   - At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.
-- 🔵 **One fallen power line exposed a growing AI data center problem — here’s how to fix it** — TechCrunch AI — `2026-07-25T13:05:00+00:00`
-  - https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
-  - A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

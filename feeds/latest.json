@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T10:43:46.912863+00:00",
+  "generated_at": "2026-07-28T14:31:24.746864+00:00",
   "lookback_hours": 72,
-  "item_count": 198,
+  "item_count": 205,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -18,7 +18,7 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 0,
+      "items_kept": 2,
       "items_total": 20
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 18,
+      "items_kept": 19,
       "items_total": 20
     },
     {
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 2,
+      "items_kept": 5,
       "items_total": 10
     },
     {
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 7,
+      "items_kept": 8,
       "items_total": 10
     },
     {
@@ -97,6 +97,76 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T14:00:00+00:00",
+      "published_ts": 1785247200.0,
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million."
+    },
+    {
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T13:19:17+00:00",
+      "published_ts": 1785244757.0,
+      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date."
+    },
+    {
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google (Keyword AI)",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-28T13:00:00+00:00",
+      "published_ts": 1785243600.0,
+      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…"
+    },
+    {
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google (Keyword AI)",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-28T13:00:00+00:00",
+      "published_ts": 1785243600.0,
+      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
+    },
+    {
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T12:30:00+00:00",
+      "published_ts": 1785241800.0,
+      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" "
+    },
+    {
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T12:10:00+00:00",
+      "published_ts": 1785240600.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account"
+    },
+    {
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T12:00:00+00:00",
+      "published_ts": 1785240000.0,
+      "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots o"
+    },
+    {
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
       "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
       "source": "MIT Tech Review",
@@ -105,6 +175,16 @@
       "published_iso": "2026-07-28T09:18:57+00:00",
       "published_ts": 1785230337.0,
       "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w"
+    },
+    {
+      "title": "Hugging Face is being used to easily undress women and children",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T09:07:14+00:00",
+      "published_ts": 1785229634.0,
+      "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by"
     },
     {
       "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
@@ -2065,16 +2145,6 @@
       "published_iso": "2026-07-25T16:00:00+00:00",
       "published_ts": 1784995200.0,
       "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
-    },
-    {
-      "title": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-25T13:05:00+00:00",
-      "published_ts": 1784984700.0,
-      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
     }
   ]
 }
