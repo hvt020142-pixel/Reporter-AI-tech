@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-28T06:37:29.222233+00:00 (UTC) — cửa sổ 72h — 197 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-28T10:43:46.912863+00:00 (UTC) — cửa sổ 72h — 198 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -508,6 +508,9 @@
 
 ## Phân tích
 
+- 🔵 **Samsung’s chip workers are jumping ship to rival SK Hynix** — MIT Tech Review — `2026-07-28T09:18:57+00:00`
+  - https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/
+  - Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w
 - 🔵 **OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.** — MIT Tech Review — `2026-07-27T18:00:00+00:00`
   - https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company
