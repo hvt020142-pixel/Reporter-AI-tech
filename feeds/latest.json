@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T19:49:06.272013+00:00",
+  "generated_at": "2026-07-28T21:19:19.237268+00:00",
   "lookback_hours": 72,
-  "item_count": 212,
+  "item_count": 215,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -30,8 +30,8 @@
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 3,
-      "items_total": 832
+      "items_kept": 4,
+      "items_total": 833
     },
     {
       "source": "arXiv cs.AI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 19,
+      "items_kept": 20,
       "items_total": 20
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 5,
+      "items_kept": 6,
       "items_total": 20
     },
     {
@@ -96,6 +96,36 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T20:45:12+00:00",
+      "published_ts": 1785271512.0,
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself."
+    },
+    {
+      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T20:20:20+00:00",
+      "published_ts": 1785270020.0,
+      "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected."
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T20:17:08+00:00",
+      "published_ts": 1785269828.0,
+      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\""
+    },
     {
       "title": "AI leaders sign statement asking the government to do something about automated AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
@@ -2177,6 +2207,16 @@
       "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings."
     },
     {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-27T00:00:00+00:00",
+      "published_ts": 1785110400.0,
+      "summary": ""
+    },
+    {
       "title": "Making sense of the panic over Chinese AI",
       "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
       "source": "TechCrunch AI",
@@ -2205,16 +2245,6 @@
       "published_iso": "2026-07-26T13:00:01+00:00",
       "published_ts": 1785070801.0,
       "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code. Wh"
-    },
-    {
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-26T01:30:00+00:00",
-      "published_ts": 1785029400.0,
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
     }
   ]
 }

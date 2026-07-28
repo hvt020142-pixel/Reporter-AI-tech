@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-28T19:49:06.272013+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-28T21:19:19.237268+00:00 (UTC) — cửa sổ 72h — 215 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -41,6 +41,8 @@
   - https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 - 🟢 **NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics** — Hugging Face — `2026-07-27T09:32:20+00:00`
   - https://huggingface.co/blog/nvidia/cosmos-h-dreams
+- 🟢 **Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident** — Hugging Face — `2026-07-27T00:00:00+00:00`
+  - https://huggingface.co/blog/agent-intrusion-technical-timeline
 
 ## Nghiên cứu
 
@@ -560,6 +562,15 @@
 
 ## Tin tức
 
+- 🔵 **MCP startup Runlayer accuses Rippling of stealing its product idea** — TechCrunch AI — `2026-07-28T20:45:12+00:00`
+  - https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/
+  - Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.
+- 🔵 **Despite AI hype, Google's data shows workers aren't automating themselves away** — Ars Technica AI — `2026-07-28T20:20:20+00:00`
+  - https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/
+  - Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.
+- 🔵 **Sam Altman is ready to decelerate** — TechCrunch AI — `2026-07-28T20:17:08+00:00`
+  - https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/
+  - His change of position comes after "the first security incident that I have felt very viscerally."
 - 🔵 **AI leaders sign statement asking the government to do something about automated AI** — The Verge AI — `2026-07-28T19:46:43+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta
   - Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance e
@@ -650,9 +661,6 @@
 - 🔵 **Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack** — TechCrunch AI — `2026-07-26T16:33:13+00:00`
   - https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
   - "The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
-- 🔵 **Monday.com is the latest tech company to blame AI for layoffs — here are 20 others** — TechCrunch AI — `2026-07-26T01:30:00+00:00`
-  - https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
-  - A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
