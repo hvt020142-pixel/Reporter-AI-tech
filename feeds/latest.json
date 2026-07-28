@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:17:32.552310+00:00",
+  "generated_at": "2026-07-28T03:30:24.574098+00:00",
   "lookback_hours": 72,
   "item_count": 189,
   "sources_ok": [
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T00:13:33+00:00",
+      "published_ts": 1785197613.0,
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
+    },
     {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
@@ -707,14 +717,14 @@
       "summary": "arXiv:2607.22014v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) are emerging as core reasoning modules for embodied agents, yet it remains unclear how well general-purpose models can solve long-horizon embodied tasks from a single high-level instruction. We introduce Mission"
     },
     {
-      "title": "Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Mode",
+      "title": "Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Model",
       "url": "https://arxiv.org/abs/2607.22083",
       "source": "arXiv cs.AI",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-27T04:00:00+00:00",
       "published_ts": 1785124800.0,
-      "summary": "arXiv:2607.22083v1 Announce Type: new Abstract: We present Nanbeige4.2-3B, a compact general agentic model with 3B non-embedding parameters. It delivers strong performance across code-agent, office-agent, and complex tool-use tasks while maintaining highly competitive reasoning capabilities in mathe"
+      "summary": "arXiv:2607.22083v2 Announce Type: new Abstract: We present Nanbeige4.2-3B, a compact general agentic model with 3B non-embedding parameters. It delivers strong performance across code-agent, office-agent, and complex tool-use tasks while maintaining highly competitive reasoning capabilities in mathe"
     },
     {
       "title": "Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models",
@@ -824,7 +834,7 @@
       "tier": "primary",
       "published_iso": "2026-07-27T04:00:00+00:00",
       "published_ts": 1785124800.0,
-      "summary": "arXiv:2607.21799v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly perform commercial tasks that involve retrieving external content such as images and, where appropriate, reproducing that content. LLM agents should comply with the law, including copyright law. Presently,"
+      "summary": "arXiv:2607.21799v2 Announce Type: new Abstract: Large language model (LLM) agents increasingly perform commercial tasks that involve retrieving external content, such as images, and, where appropriate, reproducing that content. LLM agents should comply with the law, including copyright law. Presentl"
     },
     {
       "title": "Data Quality over Capacity: Internalizing Documents into LoRA Adapters for Closed-Book QA",
@@ -1554,7 +1564,7 @@
       "tier": "primary",
       "published_iso": "2026-07-27T04:00:00+00:00",
       "published_ts": 1785124800.0,
-      "summary": "arXiv:2607.21848v1 Announce Type: new Abstract: Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and immersive content creation. These applications require l"
+      "summary": "arXiv:2607.21848v2 Announce Type: new Abstract: Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and immersive content creation. These applications require l"
     },
     {
       "title": "SCALE: Self-Supervised Constraint-Aware Layout GEneration for Local P&R DRV Fixing at Advanced Nodes",
@@ -1774,7 +1784,7 @@
       "tier": "primary",
       "published_iso": "2026-07-27T04:00:00+00:00",
       "published_ts": 1785124800.0,
-      "summary": "arXiv:2607.22135v1 Announce Type: new Abstract: Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmenta"
+      "summary": "arXiv:2607.22135v2 Announce Type: new Abstract: Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmenta"
     },
     {
       "title": "CARDIAG: A Dense Segment Classification Benchmark of Deep Learning Architectures for Coronary Angiography",
@@ -1975,16 +1985,6 @@
       "published_iso": "2026-07-25T13:05:00+00:00",
       "published_ts": 1784984700.0,
       "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
-    },
-    {
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-25T00:23:11+00:00",
-      "published_ts": 1784938991.0,
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
     }
   ]
 }

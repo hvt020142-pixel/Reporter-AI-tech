@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-27T23:17:32.552310+00:00 (UTC) — cửa sổ 72h — 189 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-28T03:30:24.574098+00:00 (UTC) — cửa sổ 72h — 189 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -130,9 +130,9 @@
 - 🟢 **Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents** — arXiv cs.AI — `2026-07-27T04:00:00+00:00`
   - https://arxiv.org/abs/2607.22014
   - arXiv:2607.22014v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) are emerging as core reasoning modules for embodied agents, yet it remains unclear how well general-purpose models can solve long-horizon embodied tasks from a single high-level instruction. We introduce Mission
-- 🟢 **Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Mode** — arXiv cs.AI — `2026-07-27T04:00:00+00:00`
+- 🟢 **Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Model** — arXiv cs.AI — `2026-07-27T04:00:00+00:00`
   - https://arxiv.org/abs/2607.22083
-  - arXiv:2607.22083v1 Announce Type: new Abstract: We present Nanbeige4.2-3B, a compact general agentic model with 3B non-embedding parameters. It delivers strong performance across code-agent, office-agent, and complex tool-use tasks while maintaining highly competitive reasoning capabilities in mathe
+  - arXiv:2607.22083v2 Announce Type: new Abstract: We present Nanbeige4.2-3B, a compact general agentic model with 3B non-embedding parameters. It delivers strong performance across code-agent, office-agent, and complex tool-use tasks while maintaining highly competitive reasoning capabilities in mathe
 - 🟢 **Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models** — arXiv cs.AI — `2026-07-27T04:00:00+00:00`
   - https://arxiv.org/abs/2607.22098
   - arXiv:2607.22098v1 Announce Type: new Abstract: Large reasoning models (LRMs) generate long reasoning traces before producing final answers. While these traces may contain useful signals for hallucination detection, harnessing them is non-trivial because long trajectories often include noisy steps t
@@ -165,7 +165,7 @@
   - arXiv:2607.21780v1 Announce Type: new Abstract: Document packets, multiple documents concatenated into a single file, are common in government and administrative workflows, yet splitting them into their constituent documents is difficult, especially for low-resource languages. We introduce Khondo (B
 - 🟢 **Agentic Evaluation of Copyright Law Compliance** — arXiv cs.CL — `2026-07-27T04:00:00+00:00`
   - https://arxiv.org/abs/2607.21799
-  - arXiv:2607.21799v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly perform commercial tasks that involve retrieving external content such as images and, where appropriate, reproducing that content. LLM agents should comply with the law, including copyright law. Presently,
+  - arXiv:2607.21799v2 Announce Type: new Abstract: Large language model (LLM) agents increasingly perform commercial tasks that involve retrieving external content, such as images, and, where appropriate, reproducing that content. LLM agents should comply with the law, including copyright law. Presentl
 - 🟢 **Data Quality over Capacity: Internalizing Documents into LoRA Adapters for Closed-Book QA** — arXiv cs.CL — `2026-07-27T04:00:00+00:00`
   - https://arxiv.org/abs/2607.21861
   - arXiv:2607.21861v1 Announce Type: new Abstract: We study baking documents directly into the weights of a 4-bit Gemma-4-e4b model via LoRA, so a system can answer questions about a corpus closed-book: no retrieval and no context-window budget. Across roughly 100 training runs from single documents to
@@ -384,7 +384,7 @@
   - arXiv:2607.21840v1 Announce Type: new Abstract: Learning high-fidelity point-cloud features in the 3D space poses significant challenges, including permutation invariance, lack of local context, difficulty in fine-grained surface reconstruction, and high computational cost. In this article, we propo
 - 🟢 **Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering** — arXiv cs.CV — `2026-07-27T04:00:00+00:00`
   - https://arxiv.org/abs/2607.21848
-  - arXiv:2607.21848v1 Announce Type: new Abstract: Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and immersive content creation. These applications require l
+  - arXiv:2607.21848v2 Announce Type: new Abstract: Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and immersive content creation. These applications require l
 - 🟢 **SCALE: Self-Supervised Constraint-Aware Layout GEneration for Local P&R DRV Fixing at Advanced Nodes** — arXiv cs.CV — `2026-07-27T04:00:00+00:00`
   - https://arxiv.org/abs/2607.21850
   - arXiv:2607.21850v1 Announce Type: new Abstract: As semiconductor manufacturing advances toward sub-2nm nodes, local place-and-route (P&R) design-rule violation (DRV) fixing is increasingly limited by complex rule interactions, dense multi-layer routing geometries, and foundry-specific constraints. W
@@ -450,7 +450,7 @@
   - arXiv:2607.22129v1 Announce Type: new Abstract: Accurate tree-level forest monitoring using laser scanning data requires reliable tree delineation, consistent tree correspondence across multitemporal point clouds, and accurate estimation of tree attributes and their change. Reconstructing tree growt
 - 🟢 **GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels** — arXiv cs.CV — `2026-07-27T04:00:00+00:00`
   - https://arxiv.org/abs/2607.22135
-  - arXiv:2607.22135v1 Announce Type: new Abstract: Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmenta
+  - arXiv:2607.22135v2 Announce Type: new Abstract: Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmenta
 - 🟢 **CARDIAG: A Dense Segment Classification Benchmark of Deep Learning Architectures for Coronary Angiography** — arXiv cs.CV — `2026-07-27T04:00:00+00:00`
   - https://arxiv.org/abs/2607.22139
   - arXiv:2607.22139v1 Announce Type: new Abstract: Accurate pixel-level classification of coronary angiograms is critical for cardiovascular disease assessment, yet the field lacks standardized evaluation protocols. In this work we demonstrate a new benchmark for the assessment of deep learning models 
@@ -514,6 +514,9 @@
 
 ## Tin tức
 
+- 🔵 **Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI** — TechCrunch AI — `2026-07-28T00:13:33+00:00`
+  - https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
+  - Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.
 - 🔵 **Microsoft unveils AI security tools it says outperform competing platforms** — Ars Technica AI — `2026-07-27T21:56:14+00:00`
   - https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/
   - Microsoft says tools cost less than competing ones and outperform them, too.
@@ -583,9 +586,6 @@
 - 🔵 **One fallen power line exposed a growing AI data center problem — here’s how to fix it** — TechCrunch AI — `2026-07-25T13:05:00+00:00`
   - https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
   - A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
-- 🔵 **I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else** — TechCrunch AI — `2026-07-25T00:23:11+00:00`
-  - https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
-  - OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
