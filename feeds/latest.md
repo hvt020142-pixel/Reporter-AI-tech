@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-28T17:43:53.724408+00:00 (UTC) — cửa sổ 72h — 210 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-28T19:49:06.272013+00:00 (UTC) — cửa sổ 72h — 212 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -560,6 +560,12 @@
 
 ## Tin tức
 
+- 🔵 **AI leaders sign statement asking the government to do something about automated AI** — The Verge AI — `2026-07-28T19:46:43+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta
+  - Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance e
+- 🔵 **AI’s finally expensive enough to make Wall Street nervous** — The Verge AI — `2026-07-28T19:33:03+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex
+  - It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company h
 - 🔵 **Data centers may face temporary power cuts to prevent blackouts on largest US grid** — TechCrunch AI — `2026-07-28T15:42:26+00:00`
   - https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/
   - The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.
