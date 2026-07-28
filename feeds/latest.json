@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T14:31:24.746864+00:00",
+  "generated_at": "2026-07-28T17:43:53.724408+00:00",
   "lookback_hours": 72,
-  "item_count": 205,
+  "item_count": 210,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 1,
-      "items_total": 1051
+      "items_kept": 2,
+      "items_total": 1052
     },
     {
       "source": "Google DeepMind",
@@ -18,20 +18,20 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 20
     },
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 18
     },
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 1,
-      "items_total": 831
+      "items_kept": 3,
+      "items_total": 832
     },
     {
       "source": "arXiv cs.AI",
@@ -97,24 +97,84 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-28T17:00:00+00:00",
+      "published_ts": 1785258000.0,
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+    },
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-28T16:27:42+00:00",
+      "published_ts": 1785256062.0,
+      "summary": ""
+    },
+    {
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google (Keyword AI)",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-28T16:00:00+00:00",
+      "published_ts": 1785254400.0,
+      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
+    },
+    {
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-28T15:42:26+00:00",
+      "published_ts": 1785253346.0,
+      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power."
+    },
+    {
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-07-28T15:01:45+00:00",
+      "published_ts": 1785250905.0,
+      "summary": ""
+    },
+    {
+      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-07-28T15:00:19+00:00",
+      "published_ts": 1785250819.0,
+      "summary": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how t"
+    },
+    {
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
       "tier": "reputable",
       "published_iso": "2026-07-28T14:00:00+00:00",
       "published_ts": 1785247200.0,
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million."
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million."
     },
     {
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
       "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
       "tier": "reputable",
       "published_iso": "2026-07-28T13:19:17+00:00",
       "published_ts": 1785244757.0,
-      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date."
+      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process."
     },
     {
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
@@ -2135,16 +2195,6 @@
       "published_iso": "2026-07-26T01:30:00+00:00",
       "published_ts": 1785029400.0,
       "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
-    },
-    {
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-25T16:00:00+00:00",
-      "published_ts": 1784995200.0,
-      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
     }
   ]
 }

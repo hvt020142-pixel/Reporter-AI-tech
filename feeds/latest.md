@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-28T14:31:24.746864+00:00 (UTC) — cửa sổ 72h — 205 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-28T17:43:53.724408+00:00 (UTC) — cửa sổ 72h — 210 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson** — NVIDIA — `2026-07-28T15:00:19+00:00`
+  - https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/
+  - As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how t
 - 🟢 **Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security** — NVIDIA — `2026-07-27T09:00:07+00:00`
   - https://blogs.nvidia.com/blog/open-secure-ai-alliance/
   - Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three benefi
@@ -14,6 +17,12 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Scientific computing in the age of agentic AI** — OpenAI — `2026-07-28T17:00:00+00:00`
+  - https://openai.com/index/scientific-computing-agentic-ai
+  - A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.
+- 🟢 **Gemini API Managed Agents: 3.6 Flash, hooks, and more** — Google (Keyword AI) — `2026-07-28T16:00:00+00:00`
+  - https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/
+  - We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.
 - 🟢 **5 ways AI Mode in Search helps you enjoy the real world** — Google (Keyword AI) — `2026-07-28T13:00:00+00:00`
   - https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/
   - It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…
@@ -26,6 +35,10 @@
 
 ## Mô hình mở
 
+- 🟢 **The OlmoEarth Platform: Geospatial inference at planetary scale** — Hugging Face — `2026-07-28T16:27:42+00:00`
+  - https://huggingface.co/blog/allenai/olmoearth-infrastructure
+- 🟢 **LFM2.5-Encoders for Fast Long-Context Inference on CPU** — Hugging Face — `2026-07-28T15:01:45+00:00`
+  - https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 - 🟢 **NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics** — Hugging Face — `2026-07-27T09:32:20+00:00`
   - https://huggingface.co/blog/nvidia/cosmos-h-dreams
 
@@ -547,12 +560,15 @@
 
 ## Tin tức
 
-- 🔵 **Fish Audio raises $50M seed to build AI voice models for creators and enterprises** — TechCrunch AI — `2026-07-28T14:00:00+00:00`
+- 🔵 **Data centers may face temporary power cuts to prevent blackouts on largest US grid** — TechCrunch AI — `2026-07-28T15:42:26+00:00`
+  - https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/
+  - The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.
+- 🔵 **Fish Audio raises $52M seed to build AI voice models for creators and enterprises** — TechCrunch AI — `2026-07-28T14:00:00+00:00`
   - https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
-  - Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.
-- 🔵 **Recursive Superintelligence signs $410 compute deal with Amazon** — TechCrunch AI — `2026-07-28T13:19:17+00:00`
+  - Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.
+- 🔵 **Recursive Superintelligence signs $410M compute deal with Amazon** — TechCrunch AI — `2026-07-28T13:19:17+00:00`
   - https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/
-  - Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.
+  - Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.
 - 🔵 **Perplexity’s Personal Computer turns Windows PCs into AI agents** — The Verge AI — `2026-07-28T12:30:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents
   - Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a "general-purpose digital worker" 
@@ -631,9 +647,6 @@
 - 🔵 **Monday.com is the latest tech company to blame AI for layoffs — here are 20 others** — TechCrunch AI — `2026-07-26T01:30:00+00:00`
   - https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
   - A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
-- 🔵 **Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech** — TechCrunch AI — `2026-07-25T16:00:00+00:00`
-  - https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/
-  - At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
