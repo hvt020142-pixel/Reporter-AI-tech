@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-29T19:39:09.796475+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-29T21:10:02.960701+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -22,6 +22,9 @@
 - 🟢 **Accelerating scientific discovery with ChatGPT for Academic Researchers** — OpenAI — `2026-07-29T10:00:00+00:00`
   - https://openai.com/index/chatgpt-for-academic-researchers
   - OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
+- 🟢 **How GPT-5.6 fuses frontier intelligence with frontier efficiency** — OpenAI — `2026-07-29T00:00:00+00:00`
+  - https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
+  - GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.
 - 🟢 **Scientific computing in the age of agentic AI** — OpenAI — `2026-07-28T17:00:00+00:00`
   - https://openai.com/index/scientific-computing-agentic-ai
   - A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.
@@ -576,6 +579,18 @@
 
 ## Tin tức
 
+- 🔵 **Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI** — TechCrunch AI — `2026-07-29T21:07:48+00:00`
+  - https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/
+  - Weng previously served as the VP of AI Safety Research at OpenAI.
+- 🔵 **xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law** — The Verge AI — `2026-07-29T21:06:52+00:00`
+  - https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit
+  - xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets "nudification" apps, claiming that the statute's punitive provisions leave the company with "no practical choice but to restrict Grok Imagine's image-editing features in various ways." The law, t
+- 🔵 **Who wins and who loses after US bans foreign robots?** — Ars Technica AI — `2026-07-29T20:03:42+00:00`
+  - https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/
+  - Government ban on foreign-made robots may hinder instead of help US robotics.
+- 🔵 **The Hugging Face AI break-in, as told through an increasingly committed bear metaphor** — TechCrunch AI — `2026-07-29T19:44:49+00:00`
+  - https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/
+  - Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)
 - 🔵 **Claude Opus 5 became downright ruthless when tasked with running a vending machine** — TechCrunch AI — `2026-07-29T18:45:27+00:00`
   - https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/
   - Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.
@@ -684,18 +699,9 @@
 - 🔵 **ChatGPT starts blocking direct requests to copy an author's style** — Ars Technica AI — `2026-07-27T16:58:46+00:00`
   - https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/
   - New behavior capturing a writer's "broad qualities" could have legal implications.
-- 🔵 **Why China is giving away its best AI models** — The Verge AI — `2026-07-27T16:51:50+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies
-  - Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry betw
 - 🔵 **Threads users can now chat with Meta AI in their DMs** — TechCrunch AI — `2026-07-27T16:45:24+00:00`
   - https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/
   - Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.
-- 🔵 **Google’s AI search is rapidly becoming the default, new data shows** — TechCrunch AI — `2026-07-27T15:57:12+00:00`
-  - https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/
-  - Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.
-- 🔵 **Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026** — TechCrunch AI — `2026-07-27T15:30:00+00:00`
-  - https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/
-  - At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.
 - 🔵 **Artist sues AI meme generator for selling deeply personal comic as ad template** — Ars Technica AI — `2026-07-27T10:50:37+00:00`
   - https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/
   - Meme generator may have screwed up by using templates in outputs, expert says.
