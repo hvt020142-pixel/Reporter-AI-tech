@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-29T10:47:22.792707+00:00 (UTC) — cửa sổ 72h — 217 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-29T14:29:00.890708+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -529,6 +529,15 @@
 
 ## Phân tích
 
+- 🔵 **Siobahn Day Grady Wants Everyone to Be AI Literate** — IEEE Spectrum AI — `2026-07-29T14:00:02+00:00`
+  - https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu
+  - Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and 
+- 🔵 **The Download: a chip talent battle, and deflating AI hype** — MIT Tech Review — `2026-07-29T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s be
+- 🔵 **AI Hyper-Scaling Digital Inequality** — IEEE Spectrum AI — `2026-07-29T11:00:04+00:00`
+  - https://spectrum.ieee.org/ai-digital-divide
+  - Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, healthcare, finance, and public administration. Industry 
 - 🔵 **The AI Hype Index: Unsexy AI** — MIT Tech Review — `2026-07-29T08:42:57+00:00`
   - https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
   - It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,
@@ -559,12 +568,27 @@
 - 🔵 **Building the enterprise environment for agentic AI** — MIT Tech Review — `2026-07-27T11:32:58+00:00`
   - https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/
   - For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, p
-- 🔵 **Optical Tech Would Update a Robot’s AI on the Fly** — IEEE Spectrum AI — `2026-07-26T13:00:01+00:00`
-  - https://spectrum.ieee.org/ai-in-robotics
-  - Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code. Wh
 
 ## Tin tức
 
+- 🔵 **What happens when you put AI to work deciphering lost languages?** — Ars Technica AI — `2026-07-29T13:23:31+00:00`
+  - https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/
+  - AI is fantastic at spotting patterns, but human insight is the key.
+- 🔵 **Artists are lawyering up against AI slop, and some are even winning** — The Verge AI — `2026-07-29T12:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic
+  - When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes t
+- 🔵 **OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face** — The Verge AI — `2026-07-29T11:54:29+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face
+  - The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversi
+- 🔵 **Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation** — Ars Technica AI — `2026-07-29T11:00:39+00:00`
+  - https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/
+  - Deciding what's real on the Internet won't be easy in the future.
+- 🔵 **As AI content floods the internet, Pangram raises $9M to detect it** — TechCrunch AI — `2026-07-29T11:00:00+00:00`
+  - https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/
+  - Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.
+- 🔵 **We’re running out of reasons to ignore AI safety** — The Verge AI — `2026-07-29T11:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning
+  - Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Ad
 - 🔵 **Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents** — TechCrunch AI — `2026-07-29T00:09:05+00:00`
   - https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/
   - The deal is Cyera's third acquisition this year.
@@ -664,9 +688,6 @@
 - 🔵 **Artist sues AI meme generator for selling deeply personal comic as ad template** — Ars Technica AI — `2026-07-27T10:50:37+00:00`
   - https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/
   - Meme generator may have screwed up by using templates in outputs, expert says.
-- 🔵 **Are brain waves the next unlock for physical AI?** — TechCrunch AI — `2026-07-27T00:19:14+00:00`
-  - https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
-  - Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
