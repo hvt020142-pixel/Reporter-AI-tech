@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-29T21:10:02.960701+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-29T23:10:55.206074+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -19,6 +19,9 @@
 
 - 🟢 **We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control** — Google DeepMind — `2026-07-29T16:02:10+00:00`
   - https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/
+- 🟢 **How enabling two settings tripled our scores on the ARC-AGI-3 benchmark** — OpenAI — `2026-07-29T15:00:00+00:00`
+  - https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
+  - How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.
 - 🟢 **Accelerating scientific discovery with ChatGPT for Academic Researchers** — OpenAI — `2026-07-29T10:00:00+00:00`
   - https://openai.com/index/chatgpt-for-academic-researchers
   - OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
@@ -579,6 +582,27 @@
 
 ## Tin tức
 
+- 🔵 **Mark Zuckerberg predicts that billions of people will have personal AI agents in five years** — TechCrunch AI — `2026-07-29T23:00:11+00:00`
+  - https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/
+  - As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.
+- 🔵 **Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag** — TechCrunch AI — `2026-07-29T22:46:03+00:00`
+  - https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/
+  - When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.
+- 🔵 **Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents** — TechCrunch AI — `2026-07-29T22:23:12+00:00`
+  - https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
+  - On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.
+- 🔵 **Microsoft confirms Copilot ‘super app’ coming this year** — The Verge AI — `2026-07-29T22:17:38+00:00`
+  - https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed
+  - Microsoft is working on an AI "super app" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span "both consumer and commercial experiences" when it launches this year. "Copilot is evolving rapidly from 
+- 🔵 **Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission** — Ars Technica AI — `2026-07-29T22:07:06+00:00`
+  - https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/
+  - HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.
+- 🔵 **Mark Zuckerberg is planning a big push into personal AI agents** — The Verge AI — `2026-07-29T21:48:07+00:00`
+  - https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents
+  - Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do
+- 🔵 **Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026** — TechCrunch AI — `2026-07-29T21:16:39+00:00`
+  - https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/
+  - At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
 - 🔵 **Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI** — TechCrunch AI — `2026-07-29T21:07:48+00:00`
   - https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/
   - Weng previously served as the VP of AI Safety Research at OpenAI.
@@ -663,12 +687,6 @@
 - 🔵 **Perplexity’s Personal Computer turns Windows PCs into AI agents** — The Verge AI — `2026-07-28T12:30:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents
   - Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a "general-purpose digital worker" 
-- 🔵 **Smart rings are looking like my kind of AI gadget** — The Verge AI — `2026-07-28T12:00:00+00:00`
-  - https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index
-  - Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots o
-- 🔵 **Hugging Face is being used to easily undress women and children** — The Verge AI — `2026-07-28T09:07:14+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children
-  - Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by
 - 🔵 **Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing** — TechCrunch AI — `2026-07-28T04:30:00+00:00`
   - https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/
   - Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.
@@ -681,27 +699,15 @@
 - 🔵 **Satya Nadella says companies that trust one AI for everything may not survive** — TechCrunch AI — `2026-07-27T21:17:11+00:00`
   - https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
   - Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.
-- 🔵 **PSA: Your Claude shared chats and Artifacts may have ended up on Google** — TechCrunch AI — `2026-07-27T20:19:42+00:00`
-  - https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/
-  - The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.
 - 🔵 **“Google and Reddit do not own the Internet," web scraper says after court win** — Ars Technica AI — `2026-07-27T20:12:42+00:00`
   - https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/
   - Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.
 - 🔵 **Verizon touts $1B dark fiber deal for Google data centers as first of many** — Ars Technica AI — `2026-07-27T18:48:41+00:00`
   - https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/
   - Telecom expects AI revenue from dark fiber deals and retrofitted data centers.
-- 🔵 **Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system** — TechCrunch AI — `2026-07-27T18:32:11+00:00`
-  - https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/
-  - Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.
-- 🔵 **OpenAI’s Hugging Face breach has reignited the debate over alignment and control** — TechCrunch AI — `2026-07-27T17:28:42+00:00`
-  - https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/
-  - OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.
 - 🔵 **ChatGPT starts blocking direct requests to copy an author's style** — Ars Technica AI — `2026-07-27T16:58:46+00:00`
   - https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/
   - New behavior capturing a writer's "broad qualities" could have legal implications.
-- 🔵 **Threads users can now chat with Meta AI in their DMs** — TechCrunch AI — `2026-07-27T16:45:24+00:00`
-  - https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/
-  - Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.
 - 🔵 **Artist sues AI meme generator for selling deeply personal comic as ad template** — Ars Technica AI — `2026-07-27T10:50:37+00:00`
   - https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/
   - Meme generator may have screwed up by using templates in outputs, expert says.
