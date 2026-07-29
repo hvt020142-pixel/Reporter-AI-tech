@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-29T14:29:00.890708+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-29T17:33:27.849735+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -17,6 +17,11 @@
 
 ## Mô hình & LLM
 
+- 🟢 **We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control** — Google DeepMind — `2026-07-29T16:02:10+00:00`
+  - https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/
+- 🟢 **Accelerating scientific discovery with ChatGPT for Academic Researchers** — OpenAI — `2026-07-29T10:00:00+00:00`
+  - https://openai.com/index/chatgpt-for-academic-researchers
+  - OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
 - 🟢 **Scientific computing in the age of agentic AI** — OpenAI — `2026-07-28T17:00:00+00:00`
   - https://openai.com/index/scientific-computing-agentic-ai
   - A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.
@@ -535,9 +540,9 @@
 - 🔵 **The Download: a chip talent battle, and deflating AI hype** — MIT Tech Review — `2026-07-29T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s be
-- 🔵 **AI Hyper-Scaling Digital Inequality** — IEEE Spectrum AI — `2026-07-29T11:00:04+00:00`
+- 🔵 **AI Is Hyper-Scaling Digital Inequality** — IEEE Spectrum AI — `2026-07-29T11:00:04+00:00`
   - https://spectrum.ieee.org/ai-digital-divide
-  - Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, healthcare, finance, and public administration. Industry 
+  - Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry
 - 🔵 **The AI Hype Index: Unsexy AI** — MIT Tech Review — `2026-07-29T08:42:57+00:00`
   - https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
   - It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,
@@ -571,6 +576,15 @@
 
 ## Tin tức
 
+- 🔵 **Anthropic is finding bugs faster than Microsoft can fix them** — Ars Technica AI — `2026-07-29T15:52:48+00:00`
+  - https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/
+  - Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.
+- 🔵 **Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners** — TechCrunch AI — `2026-07-29T15:35:09+00:00`
+  - https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/
+  - AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.
+- 🔵 **Encore AI raises $30M to build AI agents that learn from customer calls** — TechCrunch AI — `2026-07-29T14:41:06+00:00`
+  - https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/
+  - The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.
 - 🔵 **What happens when you put AI to work deciphering lost languages?** — Ars Technica AI — `2026-07-29T13:23:31+00:00`
   - https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/
   - AI is fantastic at spotting patterns, but human insight is the key.
@@ -580,7 +594,7 @@
 - 🔵 **OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face** — The Verge AI — `2026-07-29T11:54:29+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face
   - The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversi
-- 🔵 **Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation** — Ars Technica AI — `2026-07-29T11:00:39+00:00`
+- 🔵 **Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation** — Ars Technica AI — `2026-07-29T11:00:39+00:00`
   - https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/
   - Deciding what's real on the Internet won't be easy in the future.
 - 🔵 **As AI content floods the internet, Pangram raises $9M to detect it** — TechCrunch AI — `2026-07-29T11:00:00+00:00`
@@ -676,12 +690,6 @@
 - 🔵 **This $9 key physically locks your most addictive apps** — TechCrunch AI — `2026-07-27T15:25:37+00:00`
   - https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/
   - This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.
-- 🔵 **Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research** — TechCrunch AI — `2026-07-27T15:01:50+00:00`
-  - https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/
-  - After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.
-- 🔵 **Enigma raises $71M to make controlling a robot as easy as adjusting the volume** — TechCrunch AI — `2026-07-27T13:00:00+00:00`
-  - https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/
-  - The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
 - 🔵 **Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic** — The Verge AI — `2026-07-27T12:06:22+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity
   - Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct respo
