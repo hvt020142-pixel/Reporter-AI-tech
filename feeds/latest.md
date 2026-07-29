@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-29T17:33:27.849735+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-29T19:39:09.796475+00:00 (UTC) — cửa sổ 72h — 228 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -534,6 +534,9 @@
 
 ## Phân tích
 
+- 🔵 **How an overlooked geothermal plant got a second chance** — MIT Tech Review — `2026-07-29T17:58:44+00:00`
+  - https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/
+  - In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again
 - 🔵 **Siobahn Day Grady Wants Everyone to Be AI Literate** — IEEE Spectrum AI — `2026-07-29T14:00:02+00:00`
   - https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu
   - Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and 
@@ -570,12 +573,18 @@
 - 🔵 **Closing the data loop in AI-driven drug discovery** — MIT Tech Review — `2026-07-27T11:40:16+00:00`
   - https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/
   - Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug
-- 🔵 **Building the enterprise environment for agentic AI** — MIT Tech Review — `2026-07-27T11:32:58+00:00`
-  - https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/
-  - For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, p
 
 ## Tin tức
 
+- 🔵 **Claude Opus 5 became downright ruthless when tasked with running a vending machine** — TechCrunch AI — `2026-07-29T18:45:27+00:00`
+  - https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/
+  - Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.
+- 🔵 **OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots** — The Verge AI — `2026-07-29T18:15:02+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview
+  - In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a "family of devices" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be la
+- 🔵 **Elon Musk’s xAI is trying to sue its way out of a Grok reckoning** — Ars Technica AI — `2026-07-29T17:58:24+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/
+  - Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.
 - 🔵 **Anthropic is finding bugs faster than Microsoft can fix them** — Ars Technica AI — `2026-07-29T15:52:48+00:00`
   - https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/
   - Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.
@@ -687,12 +696,6 @@
 - 🔵 **Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026** — TechCrunch AI — `2026-07-27T15:30:00+00:00`
   - https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/
   - At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.
-- 🔵 **This $9 key physically locks your most addictive apps** — TechCrunch AI — `2026-07-27T15:25:37+00:00`
-  - https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/
-  - This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.
-- 🔵 **Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic** — The Verge AI — `2026-07-27T12:06:22+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity
-  - Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct respo
 - 🔵 **Artist sues AI meme generator for selling deeply personal comic as ad template** — Ars Technica AI — `2026-07-27T10:50:37+00:00`
   - https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/
   - Meme generator may have screwed up by using templates in outputs, expert says.

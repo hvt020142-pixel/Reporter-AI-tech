@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T17:33:27.849735+00:00",
+  "generated_at": "2026-07-29T19:39:09.796475+00:00",
   "lookback_hours": 72,
-  "item_count": 227,
+  "item_count": 228,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 10,
+      "items_kept": 11,
       "items_total": 20
     },
     {
@@ -96,6 +96,46 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-29T18:45:27+00:00",
+      "published_ts": 1785350727.0,
+      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
+    },
+    {
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-29T18:15:02+00:00",
+      "published_ts": 1785348902.0,
+      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be la"
+    },
+    {
+      "title": "How an overlooked geothermal plant got a second chance",
+      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-29T17:58:44+00:00",
+      "published_ts": 1785347924.0,
+      "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again"
+    },
+    {
+      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-29T17:58:24+00:00",
+      "published_ts": 1785347904.0,
+      "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional."
+    },
     {
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
@@ -2237,16 +2277,6 @@
       "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy."
     },
     {
-      "title": "This $9 key physically locks your most addictive apps",
-      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-27T15:25:37+00:00",
-      "published_ts": 1785165937.0,
-      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
-    },
-    {
       "title": "How lasers could help provide fuel for nuclear reactors",
       "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
       "source": "MIT Tech Review",
@@ -2267,16 +2297,6 @@
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tic"
     },
     {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-27T12:06:22+00:00",
-      "published_ts": 1785153982.0,
-      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct respo"
-    },
-    {
       "title": "The path to artificial superintelligence",
       "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
       "source": "MIT Tech Review",
@@ -2295,16 +2315,6 @@
       "published_iso": "2026-07-27T11:40:16+00:00",
       "published_ts": 1785152416.0,
       "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug"
-    },
-    {
-      "title": "Building the enterprise environment for agentic AI",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-27T11:32:58+00:00",
-      "published_ts": 1785151978.0,
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, p"
     },
     {
       "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
