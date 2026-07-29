@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-29T06:42:12.251566+00:00 (UTC) — cửa sổ 72h — 216 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-29T10:47:22.792707+00:00 (UTC) — cửa sổ 72h — 217 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -529,6 +529,9 @@
 
 ## Phân tích
 
+- 🔵 **The AI Hype Index: Unsexy AI** — MIT Tech Review — `2026-07-29T08:42:57+00:00`
+  - https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
+  - It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,
 - 🔵 **The Download: OpenAI’s predictable hack, and an AI stock sell-off** — MIT Tech Review — `2026-07-28T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account
