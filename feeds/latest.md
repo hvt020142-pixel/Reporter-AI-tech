@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-30T06:38:10.759164+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-30T10:32:53.841162+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -8,9 +8,6 @@
 - 🟢 **Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson** — NVIDIA — `2026-07-28T15:00:19+00:00`
   - https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/
   - As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how t
-- 🟢 **Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security** — NVIDIA — `2026-07-27T09:00:07+00:00`
-  - https://blogs.nvidia.com/blog/open-secure-ai-alliance/
-  - Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three benefi
 
 ## Mô hình & LLM
 
@@ -44,8 +41,6 @@
   - https://huggingface.co/blog/allenai/olmoearth-infrastructure
 - 🟢 **LFM2.5-Encoders for Fast Long-Context Inference on CPU** — Hugging Face — `2026-07-28T15:01:45+00:00`
   - https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
-- 🟢 **NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics** — Hugging Face — `2026-07-27T09:32:20+00:00`
-  - https://huggingface.co/blog/nvidia/cosmos-h-dreams
 
 ## Nghiên cứu
 
