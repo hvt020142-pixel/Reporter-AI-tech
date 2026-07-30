@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-30T17:44:44.338465+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-30T19:47:22.772471+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -561,27 +561,39 @@
 - 🔵 **Samsung’s chip workers are jumping ship to rival SK Hynix** — MIT Tech Review — `2026-07-28T09:18:57+00:00`
   - https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/
   - Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w
-- 🔵 **OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.** — MIT Tech Review — `2026-07-27T18:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company
-- 🔵 **Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare** — IEEE Spectrum AI — `2026-07-27T17:54:07+00:00`
-  - https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/
-  - An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures. What Attendees will Learn Why mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-a
 
 ## Tin tức
 
+- 🔵 **Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag** — TechCrunch AI — `2026-07-30T19:44:16+00:00`
+  - https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/
+  - Friend, the AI wearable, can now talk to its users — for an enhanced price.
+- 🔵 **Chrome may get faster updates with no restart required** — Ars Technica AI — `2026-07-30T19:26:56+00:00`
+  - https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/
+  - The last two versions of Chrome have included more patches than the previous 23 combined.
+- 🔵 **Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI** — TechCrunch AI — `2026-07-30T18:57:58+00:00`
+  - https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/
+  - As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.
+- 🔵 **LinkedIn actually adds a ‘seems like AI slop’ button** — The Verge AI — `2026-07-30T18:43:26+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button
+  - A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that "Seems like AI [&#8230;]
+- 🔵 **LinkedIn adds a button to report AI-generated ‘slop’** — TechCrunch AI — `2026-07-30T18:05:21+00:00`
+  - https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/
+  - LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.
+- 🔵 **Google reveals Gemini Robotics 2.0, promising improved dexterity and safety** — Ars Technica AI — `2026-07-30T17:58:02+00:00`
+  - https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/
+  - Gemini Robotics 2 includes three models, but only one is publicly available right now.
 - 🔵 **Google DeepMind’s new AI model can control a robot’s entire body** — The Verge AI — `2026-07-30T17:18:45+00:00`
   - https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body
   - Google DeepMind says the latest version of its Gemini Robotics AI model can "control entire humanoid robots." While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports "whole-body motions" ranging from its feet to fingertips, according to an announ
 - 🔵 **Friend re-launches its AI pendant with a speaker that talks to you, for twice the price** — The Verge AI — `2026-07-30T16:33:32+00:00`
   - https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price
-  - Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This morning, Frie
-- 🔵 **Okta buys AI security startup Permiso; source says for about $200M** — TechCrunch AI — `2026-07-30T16:09:42+00:00`
+  - Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This mo
+- 🔵 **Okta buys AI security startup Permiso — source says for about $200M** — TechCrunch AI — `2026-07-30T16:09:42+00:00`
   - https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/
   - The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.
 - 🔵 **Meta says AI is making it easier to build new apps — and more are coming** — TechCrunch AI — `2026-07-30T15:41:16+00:00`
   - https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/
-  - Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.
+  - Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.
 - 🔵 **Nscale buys Anyscale as it seeks to own more of the AI compute stack** — TechCrunch AI — `2026-07-30T15:19:15+00:00`
   - https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/
   - British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.
@@ -666,36 +678,21 @@
 - 🔵 **Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation** — Ars Technica AI — `2026-07-29T11:00:39+00:00`
   - https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/
   - Deciding what's real on the Internet won't be easy in the future.
-- 🔵 **As AI content floods the internet, Pangram raises $9M to detect it** — TechCrunch AI — `2026-07-29T11:00:00+00:00`
-  - https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/
-  - Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.
 - 🔵 **We’re running out of reasons to ignore AI safety** — The Verge AI — `2026-07-29T11:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning
   - Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Ad
-- 🔵 **Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents** — TechCrunch AI — `2026-07-29T00:09:05+00:00`
-  - https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/
-  - The deal is Cyera's third acquisition this year.
 - 🔵 **We now have a better understanding how OpenAI hacked into Hugging Face** — Ars Technica AI — `2026-07-28T21:36:39+00:00`
   - https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/
   - 10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.
-- 🔵 **Bot-detection startup Spur nabs $200M from Insight** — TechCrunch AI — `2026-07-28T21:29:34+00:00`
-  - https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/
-  - Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.
 - 🔵 **Despite AI hype, Google's data shows workers aren't automating themselves away** — Ars Technica AI — `2026-07-28T20:20:20+00:00`
   - https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/
   - Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.
-- 🔵 **AI leaders sign a statement asking the government to do something about automated AI** — The Verge AI — `2026-07-28T19:46:43+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta
-  - Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance e
 - 🔵 **Microsoft unveils AI security tools it says outperform competing platforms** — Ars Technica AI — `2026-07-27T21:56:14+00:00`
   - https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/
   - Microsoft says tools cost less than competing ones and outperform them, too.
 - 🔵 **“Google and Reddit do not own the Internet," web scraper says after court win** — Ars Technica AI — `2026-07-27T20:12:42+00:00`
   - https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/
   - Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.
-- 🔵 **Verizon touts $1B dark fiber deal for Google data centers as first of many** — Ars Technica AI — `2026-07-27T18:48:41+00:00`
-  - https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/
-  - Telecom expects AI revenue from dark fiber deals and retrofitted data centers.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
