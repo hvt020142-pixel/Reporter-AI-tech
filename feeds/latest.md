@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-29T23:10:55.206074+00:00 (UTC) — cửa sổ 72h — 232 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-30T03:22:18.282935+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -11,9 +11,6 @@
 - 🟢 **Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security** — NVIDIA — `2026-07-27T09:00:07+00:00`
   - https://blogs.nvidia.com/blog/open-secure-ai-alliance/
   - Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three benefi
-- 🟢 **NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs** — NVIDIA — `2026-07-27T00:45:42+00:00`
-  - https://blogs.nvidia.com/blog/vera-cpu-eda/
-  - The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) ap
 
 ## Mô hình & LLM
 
@@ -52,14 +49,12 @@
   - https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 - 🟢 **NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics** — Hugging Face — `2026-07-27T09:32:20+00:00`
   - https://huggingface.co/blog/nvidia/cosmos-h-dreams
-- 🟢 **Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident** — Hugging Face — `2026-07-27T00:00:00+00:00`
-  - https://huggingface.co/blog/agent-intrusion-technical-timeline
 
 ## Nghiên cứu
 
 - 🟢 **Do Models Fake Alignment Without Clear Consequences?** — arXiv cs.AI — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.24758
-  - arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment a
+  - arXiv:2607.24758v2 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment a
 - 🟢 **Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents** — arXiv cs.AI — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.24759
   - arXiv:2607.24759v1 Announce Type: new Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely ex
@@ -173,7 +168,7 @@
   - arXiv:2607.25076v1 Announce Type: new Abstract: Every major wave of platform software follows the same arc: an initial period of experimentation with competing frameworks and ad-hoc implementations, followed by the articulation of a small set of stable abstractions with well-defined semantics, and f
 - 🟢 **PLATO: Pointer Learner for Agent and Task Openness** — arXiv cs.AI — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25082
-  - arXiv:2607.25082v1 Announce Type: new Abstract: Open agent systems (OASYS) are increasingly prevalent in real-world domains where the sets of agents and tasks change unpredictably over time. Such openness, including agent openness (AO) and task openness (TO), poses a fundamental challenge to multi-a
+  - arXiv:2607.25082v2 Announce Type: new Abstract: Open agent systems (OASYS) are increasingly prevalent in real-world domains where the sets of agents and tasks change unpredictably over time. Such openness, including agent openness (AO) and task openness (TO), poses a fundamental challenge to multi-a
 - 🟢 **Matryoshka Agent: Unfolding Sub-Agents for Long-Horizon Machine Learning Engineering** — arXiv cs.AI — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25090
   - arXiv:2607.25090v1 Announce Type: new Abstract: Machine learning engineering (MLE) tasks require long-horizon decision making over iterative solution debugging and refinement, under expensive and feedback-driven environment interactions. Developing and training a monolithic agent for such tasks is f
@@ -197,7 +192,7 @@
   - arXiv:2607.25069v1 Announce Type: new Abstract: Automated verification of numerical claims is a challenging problem, as it requires both language understanding and quantitative reasoning. This paper describes our system for CLEF 2026 CheckThat! Task 2, which focuses on ranking reasoning traces gener
 - 🟢 **Evaluating Communicative Belief Updates in Large Language Models via Implicature Recognition and Cancellation** — arXiv cs.CL — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25094
-  - arXiv:2607.25094v1 Announce Type: new Abstract: Human language is driven by unspoken beliefs and belief updates, making these critical to model for successful communication between large language models (LLMs) and their users. In this paper, we evaluate the ability of LLMs to recognize unspoken beli
+  - arXiv:2607.25094v2 Announce Type: new Abstract: Human language is driven by unspoken beliefs and belief updates, making these critical to model for successful communication between large language models (LLMs) and their users. In this paper, we evaluate the ability of LLMs to recognize unspoken beli
 - 🟢 **Deep Label-Wise Attentive Temporal Convolutional Networks Improve Medical Coding** — arXiv cs.CL — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25129
   - arXiv:2607.25129v1 Announce Type: new Abstract: Medical coding is the task of assigning a set of diagnosis and procedure codes for a hospitalization using recorded notes. It requires aggregating information from different parts of the text and focus to different sections for each individual code, ma
@@ -233,10 +228,10 @@
   - arXiv:2607.25308v1 Announce Type: new Abstract: Training large language models (LLMs) to act in long-horizon games is a promising step toward generalist decision-making, yet reinforcement learning with verifiable rewards (RLVR) relies on sparse final rewards that reveal little about which decisions 
 - 🟢 **Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors** — arXiv cs.CL — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25335
-  - arXiv:2607.25335v1 Announce Type: new Abstract: Prompt compression shortens LLM input to reduce inference cost, yet existing methods score token importance through LM forward passes. It remains questionable whether such nuanced, costly token selection is necessary. Compression requires identifying i
+  - arXiv:2607.25335v2 Announce Type: new Abstract: Prompt compression shortens LLM input to reduce inference cost, yet existing methods score token importance through LM forward passes. It remains questionable whether such nuanced, costly token selection is necessary. Compression requires identifying i
 - 🟢 **Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control** — arXiv cs.CL — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25337
-  - arXiv:2607.25337v1 Announce Type: new Abstract: Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style 
+  - arXiv:2607.25337v2 Announce Type: new Abstract: Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style 
 - 🟢 **Inspect India Evals: An Open Benchmarking Framework for Evaluating Large Language Models in the Indian Linguistic and Cultural Context** — arXiv cs.CL — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25375
   - arXiv:2607.25375v1 Announce Type: new Abstract: India is a vast nation of over 1.4 billion people, varied by hundreds of diverse and locally specific traditions and cultures and 22 officially recognized languages. Large language models (LLMs) are now being deployed on a massive scale throughout the 
@@ -275,7 +270,7 @@
   - arXiv:2607.25814v1 Announce Type: new Abstract: The emergence of the recent outstanding capabilities of Arabic Language Models has opened doors for exposing their vulnerabilities. One of the major security risks associated with such Natural Language Processing models is adversarial attacks. These at
 - 🟢 **AngelSpec: Towards Real-World High Performance Inference with Speculative Decoding** — arXiv cs.CL — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25852
-  - arXiv:2607.25852v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference without changing the target distribution, but no single drafting structure performs best across real-world workloads. Autoregressive multi-token prediction (MTP) is a lightweight, stable p
+  - arXiv:2607.25852v2 Announce Type: new Abstract: Speculative decoding accelerates large language model inference without changing the target distribution, but no single drafting structure performs best across real-world workloads. Autoregressive multi-token prediction (MTP) is a lightweight, stable p
 - 🟢 **Shieldstral** — arXiv cs.CL — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25857
   - arXiv:2607.25857v1 Announce Type: new Abstract: We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7$\times$ its size on text safety benchmarks and sets a new state of the art on multimodal safety classification. Shieldstra
@@ -290,7 +285,7 @@
   - arXiv:2607.25953v1 Announce Type: new Abstract: As LLMs increasingly mediate the political information citizens rely on, there is still no standardized way to assess whether they do so responsibly. We introduce Polistemics, a theory-grounded benchmark for evaluating LLMs as mediators of political in
 - 🟢 **Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs** — arXiv cs.CL — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25959
-  - arXiv:2607.25959v1 Announce Type: new Abstract: Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when the
+  - arXiv:2607.25959v2 Announce Type: new Abstract: Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when the
 - 🟢 **Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do** — arXiv cs.CL — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26015
   - arXiv:2607.26015v1 Announce Type: new Abstract: Syntactic convergence (the tendency of speakers to adapt in language towards the grammatical profiles of their interlocutors) is a well-documented feature of human dialogue widely considered to operate below conscious awareness. Whether large language 
@@ -350,7 +345,7 @@
   - arXiv:2607.25123v1 Announce Type: new Abstract: Experience replay remains one of the most practical and useful algorithmic tools in the deep reinforcement learning (DRL) toolbox. Aside from the limited success of prioritized replay and specialized approaches for large asynchronous systems, most DRL 
 - 🟢 **Interpretable GOHR Agents via Sparse Autoencoders** — arXiv cs.LG — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25132
-  - arXiv:2607.25132v1 Announce Type: new Abstract: A central challenge in interpreting learned decision-making systems is to determine whether their internal representations contain concepts that help explain their behavior. We report interpretability experiments for a tokenized autoregressive Transfor
+  - arXiv:2607.25132v2 Announce Type: new Abstract: A central challenge in interpreting learned decision-making systems is to determine whether their internal representations contain concepts that help explain their behavior. We report interpretability experiments for a tokenized autoregressive Transfor
 - 🟢 **Physics-Informed CNN-LSTM for Street-Scale Urban Flood Prediction: Reconciling Aggregate Accuracy and Street-Level Plausibility** — arXiv cs.LG — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25148
   - arXiv:2607.25148v1 Announce Type: new Abstract: Deep learning surrogate models trained with mean-squared-error loss produce statistically accurate but physically unconstrained flood predictions: water may flow uphill, appear spontaneously, or smooth over street-level corridors. We develop a physics-
@@ -422,7 +417,7 @@
   - arXiv:2607.24835v1 Announce Type: new Abstract: Weakly supervised hierarchical models exhibit a persistent asymmetry: coarse lesion-type features are preserved under reconstruction while fine-grained malignancy cues degrade---a pattern with direct consequences for the clinical reliability of breast 
 - 🟢 **Track-Leakage-Free Hold-Out Self-Validation for Photogrammetric Reconstruction: Protocol, Sensitivity, and Limits** — arXiv cs.CV — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.24852
-  - arXiv:2607.24852v1 Announce Type: new Abstract: Automated photogrammetric inspection emits metric measurements from a 3D reconstruction whose own correctness is normally unknown without an external survey. Can a reconstruction estimate its own reliability with no ground truth? We formalise a track-l
+  - arXiv:2607.24852v2 Announce Type: new Abstract: Automated photogrammetric inspection emits metric measurements from reconstructions whose correctness is normally unknown without an external survey. Can a reconstruction estimate its own reliability with no ground truth, and what would such an estimat
 - 🟢 **DisasterTD: Disaster Toponym Disambiguation Using Multimodal LLMs and Cross-View Geolocalization** — arXiv cs.CV — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.24856
   - arXiv:2607.24856v1 Announce Type: new Abstract: Social media imagery (SMI) provides timely and fine-grained ground perspectives that are valuable for situational awareness and emergency response. Unlike satellite or aerial imagery, SMI can capture disaster impacts and ground-level conditions in a ti
@@ -473,7 +468,7 @@
   - arXiv:2607.25210v1 Announce Type: new Abstract: Oblique-view urban remote sensing imagery inevitably exhibits geometric projection displacements between building roofs and footprints, leading to significant distortions in spatial structure. Existing approaches either ignore these deformations or han
 - 🟢 **WHTMix: Efficient Stereo Depth Estimation via Walsh-Hadamard Token Mixing** — arXiv cs.CV — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25234
-  - arXiv:2607.25234v1 Announce Type: new Abstract: Stereo depth estimation for driving, robotics and augmented reality must run at high resolution under tight latency budgets, yet in transformer-based matchers the global self-attention that aggregates scene context grows quadratically with the number o
+  - arXiv:2607.25234v2 Announce Type: new Abstract: Stereo depth estimation for driving, robotics and augmented reality must run at high resolution under tight latency budgets, yet in transformer-based matchers the global self-attention that aggregates scene context grows quadratically with the number o
 - 🟢 **CD-RMOT-Bench: Benchmarking the Cross-Domain Referring Multi-Object Tracking** — arXiv cs.CV — `2026-07-29T04:00:00+00:00`
   - https://arxiv.org/abs/2607.25239
   - arXiv:2607.25239v1 Announce Type: new Abstract: Referring multi-object tracking (RMOT) extends tracking from category-driven perception to language-guided understanding by grounding object trajectories in natural-language expressions. Despite recent progress, existing RMOT studies are largely conduc
@@ -582,6 +577,9 @@
 
 ## Tin tức
 
+- 🔵 **Microsoft is openly competing with OpenAI, Anthropic more than ever** — TechCrunch AI — `2026-07-30T00:21:06+00:00`
+  - https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/
+  - Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.
 - 🔵 **Mark Zuckerberg predicts that billions of people will have personal AI agents in five years** — TechCrunch AI — `2026-07-29T23:00:11+00:00`
   - https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/
   - As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.
@@ -696,9 +694,6 @@
 - 🔵 **Microsoft unveils AI security tools it says outperform competing platforms** — Ars Technica AI — `2026-07-27T21:56:14+00:00`
   - https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/
   - Microsoft says tools cost less than competing ones and outperform them, too.
-- 🔵 **Satya Nadella says companies that trust one AI for everything may not survive** — TechCrunch AI — `2026-07-27T21:17:11+00:00`
-  - https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
-  - Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.
 - 🔵 **“Google and Reddit do not own the Internet," web scraper says after court win** — Ars Technica AI — `2026-07-27T20:12:42+00:00`
   - https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/
   - Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.

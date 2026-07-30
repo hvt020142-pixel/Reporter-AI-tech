@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T23:10:55.206074+00:00",
+  "generated_at": "2026-07-30T03:22:18.282935+00:00",
   "lookback_hours": 72,
-  "item_count": 232,
+  "item_count": 230,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,13 +24,13 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 18
     },
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 833
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-30T00:21:06+00:00",
+      "published_ts": 1785370866.0,
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
+    },
     {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
       "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
@@ -414,7 +424,7 @@
       "tier": "primary",
       "published_iso": "2026-07-29T04:00:00+00:00",
       "published_ts": 1785297600.0,
-      "summary": "arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment a"
+      "summary": "arXiv:2607.24758v2 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment a"
     },
     {
       "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
@@ -794,7 +804,7 @@
       "tier": "primary",
       "published_iso": "2026-07-29T04:00:00+00:00",
       "published_ts": 1785297600.0,
-      "summary": "arXiv:2607.25082v1 Announce Type: new Abstract: Open agent systems (OASYS) are increasingly prevalent in real-world domains where the sets of agents and tasks change unpredictably over time. Such openness, including agent openness (AO) and task openness (TO), poses a fundamental challenge to multi-a"
+      "summary": "arXiv:2607.25082v2 Announce Type: new Abstract: Open agent systems (OASYS) are increasingly prevalent in real-world domains where the sets of agents and tasks change unpredictably over time. Such openness, including agent openness (AO) and task openness (TO), poses a fundamental challenge to multi-a"
     },
     {
       "title": "Matryoshka Agent: Unfolding Sub-Agents for Long-Horizon Machine Learning Engineering",
@@ -874,7 +884,7 @@
       "tier": "primary",
       "published_iso": "2026-07-29T04:00:00+00:00",
       "published_ts": 1785297600.0,
-      "summary": "arXiv:2607.25094v1 Announce Type: new Abstract: Human language is driven by unspoken beliefs and belief updates, making these critical to model for successful communication between large language models (LLMs) and their users. In this paper, we evaluate the ability of LLMs to recognize unspoken beli"
+      "summary": "arXiv:2607.25094v2 Announce Type: new Abstract: Human language is driven by unspoken beliefs and belief updates, making these critical to model for successful communication between large language models (LLMs) and their users. In this paper, we evaluate the ability of LLMs to recognize unspoken beli"
     },
     {
       "title": "Deep Label-Wise Attentive Temporal Convolutional Networks Improve Medical Coding",
@@ -994,7 +1004,7 @@
       "tier": "primary",
       "published_iso": "2026-07-29T04:00:00+00:00",
       "published_ts": 1785297600.0,
-      "summary": "arXiv:2607.25335v1 Announce Type: new Abstract: Prompt compression shortens LLM input to reduce inference cost, yet existing methods score token importance through LM forward passes. It remains questionable whether such nuanced, costly token selection is necessary. Compression requires identifying i"
+      "summary": "arXiv:2607.25335v2 Announce Type: new Abstract: Prompt compression shortens LLM input to reduce inference cost, yet existing methods score token importance through LM forward passes. It remains questionable whether such nuanced, costly token selection is necessary. Compression requires identifying i"
     },
     {
       "title": "Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control",
@@ -1004,7 +1014,7 @@
       "tier": "primary",
       "published_iso": "2026-07-29T04:00:00+00:00",
       "published_ts": 1785297600.0,
-      "summary": "arXiv:2607.25337v1 Announce Type: new Abstract: Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style "
+      "summary": "arXiv:2607.25337v2 Announce Type: new Abstract: Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style "
     },
     {
       "title": "Inspect India Evals: An Open Benchmarking Framework for Evaluating Large Language Models in the Indian Linguistic and Cultural Context",
@@ -1134,7 +1144,7 @@
       "tier": "primary",
       "published_iso": "2026-07-29T04:00:00+00:00",
       "published_ts": 1785297600.0,
-      "summary": "arXiv:2607.25852v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference without changing the target distribution, but no single drafting structure performs best across real-world workloads. Autoregressive multi-token prediction (MTP) is a lightweight, stable p"
+      "summary": "arXiv:2607.25852v2 Announce Type: new Abstract: Speculative decoding accelerates large language model inference without changing the target distribution, but no single drafting structure performs best across real-world workloads. Autoregressive multi-token prediction (MTP) is a lightweight, stable p"
     },
     {
       "title": "Shieldstral",
@@ -1184,7 +1194,7 @@
       "tier": "primary",
       "published_iso": "2026-07-29T04:00:00+00:00",
       "published_ts": 1785297600.0,
-      "summary": "arXiv:2607.25959v1 Announce Type: new Abstract: Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when the"
+      "summary": "arXiv:2607.25959v2 Announce Type: new Abstract: Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when the"
     },
     {
       "title": "Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do",
@@ -1384,7 +1394,7 @@
       "tier": "primary",
       "published_iso": "2026-07-29T04:00:00+00:00",
       "published_ts": 1785297600.0,
-      "summary": "arXiv:2607.25132v1 Announce Type: new Abstract: A central challenge in interpreting learned decision-making systems is to determine whether their internal representations contain concepts that help explain their behavior. We report interpretability experiments for a tokenized autoregressive Transfor"
+      "summary": "arXiv:2607.25132v2 Announce Type: new Abstract: A central challenge in interpreting learned decision-making systems is to determine whether their internal representations contain concepts that help explain their behavior. We report interpretability experiments for a tokenized autoregressive Transfor"
     },
     {
       "title": "Physics-Informed CNN-LSTM for Street-Scale Urban Flood Prediction: Reconciling Aggregate Accuracy and Street-Level Plausibility",
@@ -1624,7 +1634,7 @@
       "tier": "primary",
       "published_iso": "2026-07-29T04:00:00+00:00",
       "published_ts": 1785297600.0,
-      "summary": "arXiv:2607.24852v1 Announce Type: new Abstract: Automated photogrammetric inspection emits metric measurements from a 3D reconstruction whose own correctness is normally unknown without an external survey. Can a reconstruction estimate its own reliability with no ground truth? We formalise a track-l"
+      "summary": "arXiv:2607.24852v2 Announce Type: new Abstract: Automated photogrammetric inspection emits metric measurements from reconstructions whose correctness is normally unknown without an external survey. Can a reconstruction estimate its own reliability with no ground truth, and what would such an estimat"
     },
     {
       "title": "DisasterTD: Disaster Toponym Disambiguation Using Multimodal LLMs and Cross-View Geolocalization",
@@ -1794,7 +1804,7 @@
       "tier": "primary",
       "published_iso": "2026-07-29T04:00:00+00:00",
       "published_ts": 1785297600.0,
-      "summary": "arXiv:2607.25234v1 Announce Type: new Abstract: Stereo depth estimation for driving, robotics and augmented reality must run at high resolution under tight latency budgets, yet in transformer-based matchers the global self-attention that aggregates scene context grows quadratically with the number o"
+      "summary": "arXiv:2607.25234v2 Announce Type: new Abstract: Stereo depth estimation for driving, robotics and augmented reality must run at high resolution under tight latency budgets, yet in transformer-based matchers the global self-attention that aggregates scene context grows quadratically with the number o"
     },
     {
       "title": "CD-RMOT-Bench: Benchmarking the Cross-Domain Referring Multi-Object Tracking",
@@ -2257,16 +2267,6 @@
       "summary": "Microsoft says tools cost less than competing ones and outperform them, too."
     },
     {
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-27T21:17:11+00:00",
-      "published_ts": 1785187031.0,
-      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says."
-    },
-    {
       "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
       "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
       "source": "Ars Technica AI",
@@ -2395,26 +2395,6 @@
       "published_iso": "2026-07-27T03:30:00+00:00",
       "published_ts": 1785123000.0,
       "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
-    },
-    {
-      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
-      "source": "NVIDIA",
-      "category": "Hạ tầng & phần cứng",
-      "tier": "primary",
-      "published_iso": "2026-07-27T00:45:42+00:00",
-      "published_ts": 1785113142.0,
-      "summary": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating with industry leaders Cadence and Synopsys to optimize critical electronic design automation (EDA) ap"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face",
-      "category": "Mô hình mở",
-      "tier": "primary",
-      "published_iso": "2026-07-27T00:00:00+00:00",
-      "published_ts": 1785110400.0,
-      "summary": ""
     }
   ]
 }
