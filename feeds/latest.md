@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-30T21:20:15.453092+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-30T23:16:49.676774+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -567,12 +567,18 @@
 
 ## Tin tức
 
+- 🔵 **Investors love AI, as long as you’re a cloud host** — TechCrunch AI — `2026-07-30T22:41:41+00:00`
+  - https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/
+  - Amazon isn't slowing down on data center spending — but investors don't seem to mind.
+- 🔵 **Tim Cook hints at iCloud Plus tier for AI power users** — The Verge AI — `2026-07-30T22:29:45+00:00`
+  - https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai
+  - Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI "a lot," adding that "we will have some kind of upgrade possibilities on iCloud Plus where
 - 🔵 **The loss of Situational Awareness** — The Verge AI — `2026-07-30T20:46:25+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks
-  - I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like "Long-Term Capital Management," or "Amaranth Advisors" (named for the floral symbol for [&#8230;]
-- 🔵 **Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label** — TechCrunch AI — `2026-07-30T20:26:38+00:00`
+  - I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like "Long-Term Capital Management" or "Amaranth Advisors" (named for the floral symbol for [&#8230;]
+- 🔵 **Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label** — TechCrunch AI — `2026-07-30T20:26:38+00:00`
   - https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/
-  - A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.
+  - A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.
 - 🔵 **Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag** — TechCrunch AI — `2026-07-30T19:44:16+00:00`
   - https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/
   - Friend, the AI wearable, can now talk to its users — for an enhanced price.
@@ -669,18 +675,12 @@
 - 🔵 **Anthropic is finding bugs faster than Microsoft can fix them** — Ars Technica AI — `2026-07-29T15:52:48+00:00`
   - https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/
   - Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.
-- 🔵 **Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners** — TechCrunch AI — `2026-07-29T15:35:09+00:00`
-  - https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/
-  - AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.
 - 🔵 **What happens when you put AI to work deciphering lost languages?** — Ars Technica AI — `2026-07-29T13:23:31+00:00`
   - https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/
   - AI is fantastic at spotting patterns, but human insight is the key.
 - 🔵 **Artists are lawyering up against AI slop, and some are even winning** — The Verge AI — `2026-07-29T12:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic
   - When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes t
-- 🔵 **OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face** — The Verge AI — `2026-07-29T11:54:29+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face
-  - The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversi
 - 🔵 **Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation** — Ars Technica AI — `2026-07-29T11:00:39+00:00`
   - https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/
   - Deciding what's real on the Internet won't be easy in the future.
@@ -690,9 +690,6 @@
 - 🔵 **Despite AI hype, Google's data shows workers aren't automating themselves away** — Ars Technica AI — `2026-07-28T20:20:20+00:00`
   - https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/
   - Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.
-- 🔵 **Microsoft unveils AI security tools it says outperform competing platforms** — Ars Technica AI — `2026-07-27T21:56:14+00:00`
-  - https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/
-  - Microsoft says tools cost less than competing ones and outperform them, too.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

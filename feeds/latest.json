@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T21:20:15.453092+00:00",
+  "generated_at": "2026-07-30T23:16:49.676774+00:00",
   "lookback_hours": 72,
-  "item_count": 226,
+  "item_count": 225,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 12,
+      "items_kept": 11,
       "items_total": 20
     },
     {
@@ -97,6 +97,26 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-30T22:41:41+00:00",
+      "published_ts": 1785451301.0,
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
+    },
+    {
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-30T22:29:45+00:00",
+      "published_ts": 1785450585.0,
+      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where"
+    },
+    {
       "title": "The loss of Situational Awareness",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
       "source": "The Verge AI",
@@ -104,17 +124,17 @@
       "tier": "reputable",
       "published_iso": "2026-07-30T20:46:25+00:00",
       "published_ts": 1785444385.0,
-      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]"
+      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]"
     },
     {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
       "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
       "tier": "reputable",
       "published_iso": "2026-07-30T20:26:38+00:00",
       "published_ts": 1785443198.0,
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology."
+      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
     },
     {
       "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
@@ -2107,16 +2127,6 @@
       "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them."
     },
     {
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T15:35:09+00:00",
-      "published_ts": 1785339309.0,
-      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app."
-    },
-    {
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "source": "OpenAI",
@@ -2165,16 +2175,6 @@
       "published_iso": "2026-07-29T12:00:00+00:00",
       "published_ts": 1785326400.0,
       "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes t"
-    },
-    {
-      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T11:54:29+00:00",
-      "published_ts": 1785326069.0,
-      "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversi"
     },
     {
       "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
@@ -2345,16 +2345,6 @@
       "published_iso": "2026-07-28T09:18:57+00:00",
       "published_ts": 1785230337.0,
       "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w"
-    },
-    {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-27T21:56:14+00:00",
-      "published_ts": 1785189374.0,
-      "summary": "Microsoft says tools cost less than competing ones and outperform them, too."
     }
   ]
 }
