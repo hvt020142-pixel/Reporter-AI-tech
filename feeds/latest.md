@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-30T14:27:56.310919+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-30T17:44:44.338465+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,6 +14,12 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration** — Google DeepMind — `2026-07-30T15:00:59+00:00`
+  - https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/
+  - Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
+- 🟢 **Advancing the price-performance frontier with GPT-5.6** — OpenAI — `2026-07-30T10:00:00+00:00`
+  - https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
+  - Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.
 - 🟢 **We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control** — Google DeepMind — `2026-07-29T16:02:10+00:00`
   - https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/
 - 🟢 **How enabling two settings tripled our scores on the ARC-AGI-3 benchmark** — OpenAI — `2026-07-29T15:00:00+00:00`
@@ -31,6 +37,8 @@
 - 🟢 **Gemini API Managed Agents: 3.6 Flash, hooks, and more** — Google (Keyword AI) — `2026-07-28T16:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/
   - We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.
+- 🟢 **Gemini Robotics 2 brings whole body intelligence to robots** — Google DeepMind — `2026-07-28T13:21:37+00:00`
+  - https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
 - 🟢 **5 ways AI Mode in Search helps you enjoy the real world** — Google (Keyword AI) — `2026-07-28T13:00:00+00:00`
   - https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/
   - It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…
@@ -40,6 +48,8 @@
 
 ## Mô hình mở
 
+- 🟢 **GPU Management: Why Idle GPUs Are the New Grounded Aircraft** — Hugging Face — `2026-07-30T15:09:09+00:00`
+  - https://huggingface.co/blog/Dharma-AI/gpu-management
 - 🟢 **The OlmoEarth Platform: Geospatial inference at planetary scale** — Hugging Face — `2026-07-28T16:27:42+00:00`
   - https://huggingface.co/blog/allenai/olmoearth-infrastructure
 - 🟢 **LFM2.5-Encoders for Fast Long-Context Inference on CPU** — Hugging Face — `2026-07-28T15:01:45+00:00`
@@ -521,6 +531,9 @@
 
 ## Phân tích
 
+- 🔵 **Montana’s plan to become an experimental medical hub just pushed forward** — MIT Tech Review — `2026-07-30T17:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/
+  - As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once 
 - 🔵 **The Download: tricking LLMs, and reviving geothermal plants** — MIT Tech Review — `2026-07-30T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a 
@@ -557,6 +570,30 @@
 
 ## Tin tức
 
+- 🔵 **Google DeepMind’s new AI model can control a robot’s entire body** — The Verge AI — `2026-07-30T17:18:45+00:00`
+  - https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body
+  - Google DeepMind says the latest version of its Gemini Robotics AI model can "control entire humanoid robots." While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports "whole-body motions" ranging from its feet to fingertips, according to an announ
+- 🔵 **Friend re-launches its AI pendant with a speaker that talks to you, for twice the price** — The Verge AI — `2026-07-30T16:33:32+00:00`
+  - https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price
+  - Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This morning, Frie
+- 🔵 **Okta buys AI security startup Permiso; source says for about $200M** — TechCrunch AI — `2026-07-30T16:09:42+00:00`
+  - https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/
+  - The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.
+- 🔵 **Meta says AI is making it easier to build new apps — and more are coming** — TechCrunch AI — `2026-07-30T15:41:16+00:00`
+  - https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/
+  - Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.
+- 🔵 **Nscale buys Anyscale as it seeks to own more of the AI compute stack** — TechCrunch AI — `2026-07-30T15:19:15+00:00`
+  - https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/
+  - British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.
+- 🔵 **Forward-deployed engineers are the AI industry’s latest talent obsession** — TechCrunch AI — `2026-07-30T15:00:00+00:00`
+  - https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/
+  - A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.
+- 🔵 **New MCP specification addresses the main barrier to enterprise adoption** — Ars Technica AI — `2026-07-30T14:53:07+00:00`
+  - https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/
+  - Plus, a new policy for the AI protocol ensures features aren't removed suddenly.
+- 🔵 **In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable** — TechCrunch AI — `2026-07-30T14:48:32+00:00`
+  - https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/
+  - Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.
 - 🔵 **TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come** — TechCrunch AI — `2026-07-30T14:00:00+00:00`
   - https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/
   - The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.
@@ -644,33 +681,12 @@
 - 🔵 **Bot-detection startup Spur nabs $200M from Insight** — TechCrunch AI — `2026-07-28T21:29:34+00:00`
   - https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/
   - Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.
-- 🔵 **MCP startup Runlayer accuses Rippling of stealing its product idea** — TechCrunch AI — `2026-07-28T20:45:12+00:00`
-  - https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/
-  - Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.
 - 🔵 **Despite AI hype, Google's data shows workers aren't automating themselves away** — Ars Technica AI — `2026-07-28T20:20:20+00:00`
   - https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/
   - Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.
-- 🔵 **Sam Altman is ready to decelerate** — TechCrunch AI — `2026-07-28T20:17:08+00:00`
-  - https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/
-  - His change of position comes after "the first security incident that I have felt very viscerally."
 - 🔵 **AI leaders sign a statement asking the government to do something about automated AI** — The Verge AI — `2026-07-28T19:46:43+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta
   - Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance e
-- 🔵 **AI’s finally expensive enough to make Wall Street nervous** — The Verge AI — `2026-07-28T19:33:03+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex
-  - It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company h
-- 🔵 **Data centers may face temporary power cuts to prevent blackouts on largest US grid** — TechCrunch AI — `2026-07-28T15:42:26+00:00`
-  - https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/
-  - The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.
-- 🔵 **Fish Audio raises $52M seed to build AI voice models for creators and enterprises** — TechCrunch AI — `2026-07-28T14:00:00+00:00`
-  - https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
-  - Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.
-- 🔵 **Recursive Superintelligence signs $410M compute deal with Amazon** — TechCrunch AI — `2026-07-28T13:19:17+00:00`
-  - https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/
-  - Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.
-- 🔵 **Perplexity’s Personal Computer turns Windows PCs into AI agents** — The Verge AI — `2026-07-28T12:30:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents
-  - Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a "general-purpose digital worker" 
 - 🔵 **Microsoft unveils AI security tools it says outperform competing platforms** — Ars Technica AI — `2026-07-27T21:56:14+00:00`
   - https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/
   - Microsoft says tools cost less than competing ones and outperform them, too.
@@ -680,9 +696,6 @@
 - 🔵 **Verizon touts $1B dark fiber deal for Google data centers as first of many** — Ars Technica AI — `2026-07-27T18:48:41+00:00`
   - https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/
   - Telecom expects AI revenue from dark fiber deals and retrofitted data centers.
-- 🔵 **ChatGPT starts blocking direct requests to copy an author's style** — Ars Technica AI — `2026-07-27T16:58:46+00:00`
-  - https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/
-  - New behavior capturing a writer's "broad qualities" could have legal implications.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
