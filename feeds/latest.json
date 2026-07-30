@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T19:47:22.772471+00:00",
+  "generated_at": "2026-07-30T21:20:15.453092+00:00",
   "lookback_hours": 72,
   "item_count": 226,
   "sources_ok": [
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 13,
+      "items_kept": 12,
       "items_total": 20
     },
     {
@@ -90,12 +90,32 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "The loss of Situational Awareness",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-30T20:46:25+00:00",
+      "published_ts": 1785444385.0,
+      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]"
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-30T20:26:38+00:00",
+      "published_ts": 1785443198.0,
+      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology."
+    },
     {
       "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
       "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
@@ -275,6 +295,16 @@
       "published_iso": "2026-07-30T14:00:00+00:00",
       "published_ts": 1785420000.0,
       "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade."
+    },
+    {
+      "title": "Are AI Models Working Harder Than They Need to?",
+      "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-30T13:35:32+00:00",
+      "published_ts": 1785418532.0,
+      "summary": "Much of modern AI runs on multiplication. Neural networks behind everything from generated answers to photo organization and song recommendations perform millions or billions of operations that multiply inputs by learned weights. Lizy K. John thinks that’s more work than the job requires. John, a pr"
     },
     {
       "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
@@ -2097,16 +2127,6 @@
       "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
     },
     {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T14:41:06+00:00",
-      "published_ts": 1785336066.0,
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents."
-    },
-    {
       "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
       "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
       "source": "IEEE Spectrum AI",
@@ -2175,16 +2195,6 @@
       "published_iso": "2026-07-29T11:00:04+00:00",
       "published_ts": 1785322804.0,
       "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry"
-    },
-    {
-      "title": "We’re running out of reasons to ignore AI safety",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T11:00:00+00:00",
-      "published_ts": 1785322800.0,
-      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Ad"
     },
     {
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
@@ -2345,16 +2355,6 @@
       "published_iso": "2026-07-27T21:56:14+00:00",
       "published_ts": 1785189374.0,
       "summary": "Microsoft says tools cost less than competing ones and outperform them, too."
-    },
-    {
-      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-27T20:12:42+00:00",
-      "published_ts": 1785183162.0,
-      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says."
     }
   ]
 }

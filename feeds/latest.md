@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-30T19:47:22.772471+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-30T21:20:15.453092+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -534,6 +534,9 @@
 - 🔵 **Montana’s plan to become an experimental medical hub just pushed forward** — MIT Tech Review — `2026-07-30T17:10:00+00:00`
   - https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/
   - As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once 
+- 🔵 **Are AI Models Working Harder Than They Need to?** — IEEE Spectrum AI — `2026-07-30T13:35:32+00:00`
+  - https://spectrum.ieee.org/ai-energy-weightless-neural-networks
+  - Much of modern AI runs on multiplication. Neural networks behind everything from generated answers to photo organization and song recommendations perform millions or billions of operations that multiply inputs by learned weights. Lizy K. John thinks that’s more work than the job requires. John, a pr
 - 🔵 **The Download: tricking LLMs, and reviving geothermal plants** — MIT Tech Review — `2026-07-30T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a 
@@ -564,6 +567,12 @@
 
 ## Tin tức
 
+- 🔵 **The loss of Situational Awareness** — The Verge AI — `2026-07-30T20:46:25+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks
+  - I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like "Long-Term Capital Management," or "Amaranth Advisors" (named for the floral symbol for [&#8230;]
+- 🔵 **Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label** — TechCrunch AI — `2026-07-30T20:26:38+00:00`
+  - https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/
+  - A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.
 - 🔵 **Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag** — TechCrunch AI — `2026-07-30T19:44:16+00:00`
   - https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/
   - Friend, the AI wearable, can now talk to its users — for an enhanced price.
@@ -663,9 +672,6 @@
 - 🔵 **Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners** — TechCrunch AI — `2026-07-29T15:35:09+00:00`
   - https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/
   - AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.
-- 🔵 **Encore AI raises $30M to build AI agents that learn from customer calls** — TechCrunch AI — `2026-07-29T14:41:06+00:00`
-  - https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/
-  - The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.
 - 🔵 **What happens when you put AI to work deciphering lost languages?** — Ars Technica AI — `2026-07-29T13:23:31+00:00`
   - https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/
   - AI is fantastic at spotting patterns, but human insight is the key.
@@ -678,9 +684,6 @@
 - 🔵 **Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation** — Ars Technica AI — `2026-07-29T11:00:39+00:00`
   - https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/
   - Deciding what's real on the Internet won't be easy in the future.
-- 🔵 **We’re running out of reasons to ignore AI safety** — The Verge AI — `2026-07-29T11:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning
-  - Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Ad
 - 🔵 **We now have a better understanding how OpenAI hacked into Hugging Face** — Ars Technica AI — `2026-07-28T21:36:39+00:00`
   - https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/
   - 10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.
@@ -690,9 +693,6 @@
 - 🔵 **Microsoft unveils AI security tools it says outperform competing platforms** — Ars Technica AI — `2026-07-27T21:56:14+00:00`
   - https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/
   - Microsoft says tools cost less than competing ones and outperform them, too.
-- 🔵 **“Google and Reddit do not own the Internet," web scraper says after court win** — Ars Technica AI — `2026-07-27T20:12:42+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/
-  - Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
