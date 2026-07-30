@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-30T10:32:53.841162+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-30T14:27:56.310919+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW** — NVIDIA — `2026-07-30T13:00:20+00:00`
+  - https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/
+  - Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign E
 - 🟢 **Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson** — NVIDIA — `2026-07-28T15:00:19+00:00`
   - https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/
   - As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how t
@@ -518,6 +521,12 @@
 
 ## Phân tích
 
+- 🔵 **The Download: tricking LLMs, and reviving geothermal plants** — MIT Tech Review — `2026-07-30T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a 
+- 🔵 **A fundamental flaw leaves LLMs strikingly vulnerable to attack** — MIT Tech Review — `2026-07-30T10:15:19+00:00`
+  - https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/
+  - It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf
 - 🔵 **How an overlooked geothermal plant got a second chance** — MIT Tech Review — `2026-07-29T17:58:44+00:00`
   - https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/
   - In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again
@@ -545,21 +554,15 @@
 - 🔵 **Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare** — IEEE Spectrum AI — `2026-07-27T17:54:07+00:00`
   - https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/
   - An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures. What Attendees will Learn Why mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-a
-- 🔵 **How lasers could help provide fuel for nuclear reactors** — MIT Tech Review — `2026-07-27T14:24:42+00:00`
-  - https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/
-  - Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old ma
-- 🔵 **The Download: lasers for nuclear fuel, and organ preservation advances** — MIT Tech Review — `2026-07-27T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tic
-- 🔵 **The path to artificial superintelligence** — MIT Tech Review — `2026-07-27T12:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/
-  - Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not
-- 🔵 **Closing the data loop in AI-driven drug discovery** — MIT Tech Review — `2026-07-27T11:40:16+00:00`
-  - https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/
-  - Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug
 
 ## Tin tức
 
+- 🔵 **TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come** — TechCrunch AI — `2026-07-30T14:00:00+00:00`
+  - https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/
+  - The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.
+- 🔵 **Dili raises $21.7M to bring AI compliance to the infrastructure boom** — TechCrunch AI — `2026-07-30T13:00:00+00:00`
+  - https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
+  - The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.
 - 🔵 **Microsoft is openly competing with OpenAI, Anthropic more than ever** — TechCrunch AI — `2026-07-30T00:21:06+00:00`
   - https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/
   - Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.
@@ -668,12 +671,6 @@
 - 🔵 **Perplexity’s Personal Computer turns Windows PCs into AI agents** — The Verge AI — `2026-07-28T12:30:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents
   - Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a "general-purpose digital worker" 
-- 🔵 **Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing** — TechCrunch AI — `2026-07-28T04:30:00+00:00`
-  - https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/
-  - Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.
-- 🔵 **Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI** — TechCrunch AI — `2026-07-28T00:13:33+00:00`
-  - https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/
-  - Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.
 - 🔵 **Microsoft unveils AI security tools it says outperform competing platforms** — Ars Technica AI — `2026-07-27T21:56:14+00:00`
   - https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/
   - Microsoft says tools cost less than competing ones and outperform them, too.
@@ -686,9 +683,6 @@
 - 🔵 **ChatGPT starts blocking direct requests to copy an author's style** — Ars Technica AI — `2026-07-27T16:58:46+00:00`
   - https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/
   - New behavior capturing a writer's "broad qualities" could have legal implications.
-- 🔵 **Artist sues AI meme generator for selling deeply personal comic as ad template** — Ars Technica AI — `2026-07-27T10:50:37+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/
-  - Meme generator may have screwed up by using templates in outputs, expert says.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
