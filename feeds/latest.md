@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-31T17:49:20.493374+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-31T19:48:21.689366+00:00 (UTC) — cửa sổ 72h — 229 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -570,6 +570,18 @@
 
 ## Tin tức
 
+- 🔵 **Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation** — TechCrunch AI — `2026-07-31T19:47:28+00:00`
+  - https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/
+  - A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.
+- 🔵 **Google Earth&#8217;s AI deepfake tool only lasted one day** — The Verge AI — `2026-07-31T19:13:29+00:00`
+  - https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool
+  - Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images 
+- 🔵 **Would you get tattooed just to interview at a 7-days-a-week AI startup?** — Ars Technica AI — `2026-07-31T19:04:56+00:00`
+  - https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/
+  - LemonLime’s CEO got “carried away” with tattoo gimmick.
+- 🔵 **High school defends staying silent while boys made AI nudes of 59 classmates** — Ars Technica AI — `2026-07-31T18:11:55+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/
+  - Gaps in laws may help Pennsylvania high school escape AI nudes scandal.
 - 🔵 **Sam Altman isn’t the only one who wants to pump the brakes on AI** — TechCrunch AI — `2026-07-31T17:26:32+00:00`
   - https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/
   - After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging
@@ -669,12 +681,6 @@
 - 🔵 **In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable** — TechCrunch AI — `2026-07-30T14:48:32+00:00`
   - https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/
   - Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.
-- 🔵 **TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come** — TechCrunch AI — `2026-07-30T14:00:00+00:00`
-  - https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/
-  - The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.
-- 🔵 **Microsoft confirms Copilot ‘super app’ coming this year** — The Verge AI — `2026-07-29T22:17:38+00:00`
-  - https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed
-  - Microsoft is working on an AI "super app" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span "both consumer and commercial experiences" when it launches this year. "Copilot is evolving rapidly from 
 - 🔵 **Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission** — Ars Technica AI — `2026-07-29T22:07:06+00:00`
   - https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/
   - HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.
