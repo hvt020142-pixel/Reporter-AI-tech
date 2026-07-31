@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-31T14:31:12.880581+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-31T17:49:20.493374+00:00 (UTC) — cửa sổ 72h — 227 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -8,15 +8,18 @@
 - 🟢 **Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW** — NVIDIA — `2026-07-30T13:00:20+00:00`
   - https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/
   - Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign E
-- 🟢 **Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson** — NVIDIA — `2026-07-28T15:00:19+00:00`
-  - https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/
-  - As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how t
 
 ## Mô hình & LLM
 
+- 🟢 **Disrupting a Criminal Scam Operation** — OpenAI — `2026-08-04T00:00:00+00:00`
+  - https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
+  - OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.
 - 🟢 **Advancing responsible AI across Europe** — OpenAI — `2026-07-31T15:00:00+00:00`
   - https://openai.com/index/advancing-responsible-ai-across-europe
   - OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.
+- 🟢 **Building abundant intelligence** — OpenAI — `2026-07-31T15:00:00+00:00`
+  - https://openai.com/index/building-abundant-intelligence
+  - A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.
 - 🟢 **Univé builds an AI-ready workforce** — OpenAI — `2026-07-31T07:00:00+00:00`
   - https://openai.com/index/unive
   - See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.
@@ -40,21 +43,11 @@
 - 🟢 **How GPT-5.6 fuses frontier intelligence with frontier efficiency** — OpenAI — `2026-07-29T00:00:00+00:00`
   - https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
   - GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.
-- 🟢 **Scientific computing in the age of agentic AI** — OpenAI — `2026-07-28T17:00:00+00:00`
-  - https://openai.com/index/scientific-computing-agentic-ai
-  - A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.
-- 🟢 **Gemini API Managed Agents: 3.6 Flash, hooks, and more** — Google (Keyword AI) — `2026-07-28T16:00:00+00:00`
-  - https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/
-  - We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.
 
 ## Mô hình mở
 
 - 🟢 **GPU Management: Why Idle GPUs Are the New Grounded Aircraft** — Hugging Face — `2026-07-30T15:09:09+00:00`
   - https://huggingface.co/blog/Dharma-AI/gpu-management
-- 🟢 **The OlmoEarth Platform: Geospatial inference at planetary scale** — Hugging Face — `2026-07-28T16:27:42+00:00`
-  - https://huggingface.co/blog/allenai/olmoearth-infrastructure
-- 🟢 **LFM2.5-Encoders for Fast Long-Context Inference on CPU** — Hugging Face — `2026-07-28T15:01:45+00:00`
-  - https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 
 ## Nghiên cứu
 
@@ -577,12 +570,36 @@
 
 ## Tin tức
 
+- 🔵 **Sam Altman isn’t the only one who wants to pump the brakes on AI** — TechCrunch AI — `2026-07-31T17:26:32+00:00`
+  - https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/
+  - After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging
+- 🔵 **Here’s the problem with putting an AI image generator in Google Earth** — The Verge AI — `2026-07-31T17:05:46+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images
+  - Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by Digital Digging's Henk van Ess that show "refugees near the Mexican border" and a bomb crater near a hospital in Gaza. Google responded to Digit
+- 🔵 **Snapchat no longer rewards fully AI-generated Spotlight content** — TechCrunch AI — `2026-07-31T16:49:08+00:00`
+  - https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/
+  - Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.
+- 🔵 **The major labels propose rules to keep AI slop off the charts** — The Verge AI — `2026-07-31T16:36:48+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts
+  - Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the Internation
+- 🔵 **Siri AI could come with a paywall for power users** — TechCrunch AI — `2026-07-31T16:08:18+00:00`
+  - https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/
+  - Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.
+- 🔵 **SpaceX won’t remove all of xAI’s unpermitted turbines for another year** — TechCrunch AI — `2026-07-31T15:16:17+00:00`
+  - https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/
+  - SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.
+- 🔵 **Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human** — TechCrunch AI — `2026-07-31T14:47:11+00:00`
+  - https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/
+  - The startup is building voice models designed to make AI phone calls pass the Turing test.
 - 🔵 **It’s time to panic about AI safety** — The Verge AI — `2026-07-31T14:03:04+00:00`
   - https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast
   - When the phrase "OpenAI hacked Hugging Face" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, 
 - 🔵 **AI scammers outperform humans when it comes to building trust** — Ars Technica AI — `2026-07-31T14:01:40+00:00`
   - https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/
   - The AI chatbot was more effective at creating “exploitable trust” than the humans.
+- 🔵 **AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off** — TechCrunch AI — `2026-07-31T14:00:00+00:00`
+  - https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/
+  - After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging
 - 🔵 **Anthropic says Claude accidentally hacked real companies too** — The Verge AI — `2026-07-31T13:41:17+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests
   - Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face,
@@ -591,7 +608,7 @@
   - A disputed exam, an unreliable detector, and one very late Apple Pages file.
 - 🔵 **Anthropic says its own AI models breached three companies during security tests** — TechCrunch AI — `2026-07-31T01:06:54+00:00`
   - https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/
-  - After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents
+  - After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.
 - 🔵 **AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares** — TechCrunch AI — `2026-07-30T23:25:58+00:00`
   - https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/
   - The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.
@@ -655,36 +672,12 @@
 - 🔵 **TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come** — TechCrunch AI — `2026-07-30T14:00:00+00:00`
   - https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/
   - The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.
-- 🔵 **Dili raises $21.7M to bring AI compliance to the infrastructure boom** — TechCrunch AI — `2026-07-30T13:00:00+00:00`
-  - https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
-  - The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.
-- 🔵 **Microsoft is openly competing with OpenAI, Anthropic more than ever** — TechCrunch AI — `2026-07-30T00:21:06+00:00`
-  - https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/
-  - Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.
-- 🔵 **Mark Zuckerberg predicts that billions of people will have personal AI agents in five years** — TechCrunch AI — `2026-07-29T23:00:11+00:00`
-  - https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/
-  - As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.
-- 🔵 **Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag** — TechCrunch AI — `2026-07-29T22:46:03+00:00`
-  - https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/
-  - When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.
-- 🔵 **Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents** — TechCrunch AI — `2026-07-29T22:23:12+00:00`
-  - https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
-  - On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.
 - 🔵 **Microsoft confirms Copilot ‘super app’ coming this year** — The Verge AI — `2026-07-29T22:17:38+00:00`
   - https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed
   - Microsoft is working on an AI "super app" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span "both consumer and commercial experiences" when it launches this year. "Copilot is evolving rapidly from 
 - 🔵 **Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission** — Ars Technica AI — `2026-07-29T22:07:06+00:00`
   - https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/
   - HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.
-- 🔵 **Mark Zuckerberg is planning a big push into personal AI agents** — The Verge AI — `2026-07-29T21:48:07+00:00`
-  - https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents
-  - Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do
-- 🔵 **Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026** — TechCrunch AI — `2026-07-29T21:16:39+00:00`
-  - https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/
-  - At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
-- 🔵 **xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law** — The Verge AI — `2026-07-29T21:06:52+00:00`
-  - https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit
-  - xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets "nudification" apps, claiming that the statute's punitive provisions leave the company with "no practical choice but to restrict Grok Imagine's image-editing features in various ways." The law, t
 - 🔵 **Who wins and who loses after US bans foreign robots?** — Ars Technica AI — `2026-07-29T20:03:42+00:00`
   - https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/
   - Government ban on foreign-made robots may hinder instead of help US robotics.
