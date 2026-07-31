@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-31T06:52:24.363282+00:00 (UTC) — cửa sổ 72h — 229 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-31T10:49:13.036499+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,6 +14,12 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Advancing responsible AI across Europe** — OpenAI — `2026-07-31T15:00:00+00:00`
+  - https://openai.com/index/advancing-responsible-ai-across-europe
+  - OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.
+- 🟢 **Univé builds an AI-ready workforce** — OpenAI — `2026-07-31T07:00:00+00:00`
+  - https://openai.com/index/unive
+  - See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.
 - 🟢 **Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration** — Google DeepMind — `2026-07-30T15:00:59+00:00`
   - https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/
   - Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
@@ -543,6 +549,9 @@
 
 ## Phân tích
 
+- 🔵 **Montana’s new “right to try” law can’t come soon enough for some** — MIT Tech Review — `2026-07-31T09:00:00+00:00`
+  - https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/
+  - Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old
 - 🔵 **Montana’s plan to become an experimental medical hub just pushed forward** — MIT Tech Review — `2026-07-30T17:10:00+00:00`
   - https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/
   - As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once 
@@ -573,9 +582,6 @@
 - 🔵 **The Download: OpenAI’s predictable hack, and an AI stock sell-off** — MIT Tech Review — `2026-07-28T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account
-- 🔵 **Samsung’s chip workers are jumping ship to rival SK Hynix** — MIT Tech Review — `2026-07-28T09:18:57+00:00`
-  - https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/
-  - Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w
 
 ## Tin tức
 
