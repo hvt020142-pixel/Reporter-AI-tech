@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-31T10:49:13.036499+00:00 (UTC) — cửa sổ 72h — 231 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-31T14:31:12.880581+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -46,14 +46,6 @@
 - 🟢 **Gemini API Managed Agents: 3.6 Flash, hooks, and more** — Google (Keyword AI) — `2026-07-28T16:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/
   - We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.
-- 🟢 **Gemini Robotics 2 brings whole body intelligence to robots** — Google DeepMind — `2026-07-28T13:21:37+00:00`
-  - https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
-- 🟢 **5 ways AI Mode in Search helps you enjoy the real world** — Google (Keyword AI) — `2026-07-28T13:00:00+00:00`
-  - https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/
-  - It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…
-- 🟢 **5 ways to host the ultimate dinner party with Google Search** — Google (Keyword AI) — `2026-07-28T13:00:00+00:00`
-  - https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/
-  - These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.
 
 ## Mô hình mở
 
@@ -549,6 +541,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: Montana’s new experimental drug rules** — MIT Tech Review — `2026-07-31T12:16:00+00:00`
+  - https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through p
 - 🔵 **Montana’s new “right to try” law can’t come soon enough for some** — MIT Tech Review — `2026-07-31T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/
   - Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old
@@ -579,12 +574,21 @@
 - 🔵 **The AI Hype Index: Unsexy AI** — MIT Tech Review — `2026-07-29T08:42:57+00:00`
   - https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
   - It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,
-- 🔵 **The Download: OpenAI’s predictable hack, and an AI stock sell-off** — MIT Tech Review — `2026-07-28T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account
 
 ## Tin tức
 
+- 🔵 **It’s time to panic about AI safety** — The Verge AI — `2026-07-31T14:03:04+00:00`
+  - https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast
+  - When the phrase "OpenAI hacked Hugging Face" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, 
+- 🔵 **AI scammers outperform humans when it comes to building trust** — Ars Technica AI — `2026-07-31T14:01:40+00:00`
+  - https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/
+  - The AI chatbot was more effective at creating “exploitable trust” than the humans.
+- 🔵 **Anthropic says Claude accidentally hacked real companies too** — The Verge AI — `2026-07-31T13:41:17+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests
+  - Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face,
+- 🔵 **How a Yale AI-cheating dispute became a 13-count federal lawsuit** — Ars Technica AI — `2026-07-31T11:00:52+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/
+  - A disputed exam, an unreliable detector, and one very late Apple Pages file.
 - 🔵 **Anthropic says its own AI models breached three companies during security tests** — TechCrunch AI — `2026-07-31T01:06:54+00:00`
   - https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/
   - After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents
@@ -684,9 +688,6 @@
 - 🔵 **Who wins and who loses after US bans foreign robots?** — Ars Technica AI — `2026-07-29T20:03:42+00:00`
   - https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/
   - Government ban on foreign-made robots may hinder instead of help US robotics.
-- 🔵 **OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots** — The Verge AI — `2026-07-29T18:15:02+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview
-  - In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a "family of devices" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be la
 - 🔵 **Elon Musk’s xAI is trying to sue its way out of a Grok reckoning** — Ars Technica AI — `2026-07-29T17:58:24+00:00`
   - https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/
   - Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.
@@ -696,9 +697,6 @@
 - 🔵 **What happens when you put AI to work deciphering lost languages?** — Ars Technica AI — `2026-07-29T13:23:31+00:00`
   - https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/
   - AI is fantastic at spotting patterns, but human insight is the key.
-- 🔵 **Artists are lawyering up against AI slop, and some are even winning** — The Verge AI — `2026-07-29T12:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic
-  - When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes t
 - 🔵 **Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation** — Ars Technica AI — `2026-07-29T11:00:39+00:00`
   - https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/
   - Deciding what's real on the Internet won't be easy in the future.

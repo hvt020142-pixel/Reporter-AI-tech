@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T10:49:13.036499+00:00",
+  "generated_at": "2026-07-31T14:31:12.880581+00:00",
   "lookback_hours": 72,
-  "item_count": 231,
+  "item_count": 230,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -12,13 +12,13 @@
     {
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/rss.xml",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 100
     },
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 3,
+      "items_kept": 1,
       "items_total": 20
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 11,
+      "items_kept": 13,
       "items_total": 20
     },
     {
@@ -105,6 +105,56 @@
       "published_iso": "2026-07-31T15:00:00+00:00",
       "published_ts": 1785510000.0,
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
+    },
+    {
+      "title": "It’s time to panic about AI safety",
+      "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-31T14:03:04+00:00",
+      "published_ts": 1785506584.0,
+      "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, "
+    },
+    {
+      "title": "AI scammers outperform humans when it comes to building trust",
+      "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-31T14:01:40+00:00",
+      "published_ts": 1785506500.0,
+      "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans."
+    },
+    {
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-31T13:41:17+00:00",
+      "published_ts": 1785505277.0,
+      "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face,"
+    },
+    {
+      "title": "The Download: Montana’s new experimental drug rules",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-07-31T12:16:00+00:00",
+      "published_ts": 1785500160.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through p"
+    },
+    {
+      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-31T11:00:52+00:00",
+      "published_ts": 1785495652.0,
+      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file."
     },
     {
       "title": "Montana’s new “right to try” law can’t come soon enough for some",
@@ -2147,16 +2197,6 @@
       "summary": "Government ban on foreign-made robots may hinder instead of help US robotics."
     },
     {
-      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T18:15:02+00:00",
-      "published_ts": 1785348902.0,
-      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be la"
-    },
-    {
       "title": "How an overlooked geothermal plant got a second chance",
       "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
       "source": "MIT Tech Review",
@@ -2235,16 +2275,6 @@
       "published_iso": "2026-07-29T12:10:00+00:00",
       "published_ts": 1785327000.0,
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s be"
-    },
-    {
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T12:00:00+00:00",
-      "published_ts": 1785326400.0,
-      "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes t"
     },
     {
       "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
@@ -2365,46 +2395,6 @@
       "published_iso": "2026-07-28T15:00:19+00:00",
       "published_ts": 1785250819.0,
       "summary": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how t"
-    },
-    {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "source": "Google DeepMind",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-28T13:21:37+00:00",
-      "published_ts": 1785244897.0,
-      "summary": ""
-    },
-    {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google (Keyword AI)",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-28T13:00:00+00:00",
-      "published_ts": 1785243600.0,
-      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…"
-    },
-    {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google (Keyword AI)",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-28T13:00:00+00:00",
-      "published_ts": 1785243600.0,
-      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
-    },
-    {
-      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-28T12:10:00+00:00",
-      "published_ts": 1785240600.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account"
     }
   ]
 }
