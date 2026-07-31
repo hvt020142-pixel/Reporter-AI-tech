@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-30T23:16:49.676774+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-31T03:46:34.302885+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,6 +20,9 @@
 - 🟢 **Advancing the price-performance frontier with GPT-5.6** — OpenAI — `2026-07-30T10:00:00+00:00`
   - https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
   - Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.
+- 🟢 **How avatarin built a 24/7 retail agent with GPT-Realtime** — OpenAI — `2026-07-30T00:00:00+00:00`
+  - https://openai.com/index/avatarin
+  - avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.
 - 🟢 **We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control** — Google DeepMind — `2026-07-29T16:02:10+00:00`
   - https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/
 - 🟢 **How enabling two settings tripled our scores on the ARC-AGI-3 benchmark** — OpenAI — `2026-07-29T15:00:00+00:00`
@@ -234,9 +237,9 @@
 - 🟢 **CMT-RAG: Complementary Memory Traces for Multi-turn Multi-hop RAG** — arXiv cs.CL — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26470
   - arXiv:2607.26470v1 Announce Type: new Abstract: Multi-turn information-seeking conversations require both multi-hop reasoning and long-range dependency tracking across turns. However, existing RAG systems typically represent conversational memory as raw dialogue history, rewritten queries, or unstru
-- 🟢 **Which RAG Paradigm Wins at Scale? A Scaling Study of Retrieval-Augmented Generation Paradigms** — arXiv cs.CL — `2026-07-30T04:00:00+00:00`
+- 🟢 **BM25 Wins at Scale: A Scaling Study of Retrieval-Augmented Generation Paradigms** — arXiv cs.CL — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26497
-  - arXiv:2607.26497v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) methods range from lexical and dense retrieval to graph-based indexing and agentic search. They are usually evaluated on different benchmarks at one corpus size, leaving their accuracy-cost scaling unclear. To bridg
+  - arXiv:2607.26497v2 Announce Type: new Abstract: Retrieval-augmented generation (RAG) spans lexical and dense retrieval, graph-based indexing, and agentic search, but these paradigms are usually evaluated on different benchmarks at one corpus size, leaving their accuracy-cost scaling unclear. To brid
 - 🟢 **Where Detectors Fail: Closing the Tail-Domain Gap with Expert-Guided Mutual Distillation** — arXiv cs.CL — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26555
   - arXiv:2607.26555v1 Announce Type: new Abstract: Multimodal fake news detectors often generalize poorly across domains because they learn to trust unreliable evidence: domain-specific shortcuts amplified by imbalanced data and semantically inconsistent text-image pairs that make cross-modal evidence 
@@ -254,7 +257,7 @@
   - arXiv:2607.26640v1 Announce Type: new Abstract: Current human evaluation of machine translation typically assesses single outputs in isolation, a paradigm that suffers from high annotator noise and cost. We introduce Contrastive Error Span Annotation (cESA), a protocol that presents multiple transla
 - 🟢 **Constitutional Midtraining: Content Presence Drives Alignment Gains** — arXiv cs.CL — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26654
-  - arXiv:2607.26654v1 Announce Type: new Abstract: Post-training alignment is often shallow, eroding under fine-tuning. Whether midtraining interventions, cleanly isolated from post-training, can produce durable alignment remains untested. We test this via constitutional midtraining: inserting principl
+  - arXiv:2607.26654v2 Announce Type: new Abstract: Post-training alignment is often shallow, eroding under fine-tuning. It remains untested as to whether constitutional midtraining interventions can produce durable alignment when cleanly isolated from post-training. We build a 394M-token constitutional
 - 🟢 **Automated Multilabel Mpox Research Classification with Explainable Transformer Models** — arXiv cs.CL — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26700
   - arXiv:2607.26700v1 Announce Type: new Abstract: The Mpox outbreak remains a serious public health issue, with the WHO (World Health Organization) reporting increasing cases in some regions. Research on Mpox is vital for several reasons, including vaccine development, diagnostic improvement, viral ev
@@ -278,7 +281,7 @@
   - arXiv:2607.26795v1 Announce Type: new Abstract: Span-guided rewriting aims to preserve meaning by localizing edits to annotated harmful spans, but the same constraint can leave harmful intent insufficiently mitigated. We present a controlled exploratory comparison of span-guided and unguided detoxif
 - 🟢 **From Found to Designed: Concepts as a Design Axis for Large Language Models** — arXiv cs.CL — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26825
-  - arXiv:2607.26825v1 Announce Type: new Abstract: Large language models (LLMs) encode rich concept-like information, but represent it implicitly through distributed statistical associations rather than as explicit, structured, compositional concepts. Consequently, concept-level structure is typically 
+  - arXiv:2607.26825v2 Announce Type: new Abstract: Large language models (LLMs) encode rich concept-like information, but represent it implicitly through distributed statistical associations rather than as explicit, structured, compositional concepts. Consequently, concept-level structure is typically 
 - 🟢 **Language Models are not Equally Robust to Non-Canonical Tokenization across Languages** — arXiv cs.CL — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26831
   - arXiv:2607.26831v1 Announce Type: new Abstract: Despite the existence of exponentially many valid tokenizations for a given string, language models operate on a single canonical sequence deterministically produced by the tokenizer, leaving the broader tokenization space largely uncharacterized. In t
@@ -488,7 +491,7 @@
   - arXiv:2607.26511v1 Announce Type: new Abstract: UAV Anti-UAV tracking is an emerging low-altitude security task for localizing an adversarial UAV using the onboard camera of a moving observer UAV. It differs from conventional UAV tracking and ground-based Anti-UAV tracking because both the camera pl
 - 🟢 **EgoSafe: A First-Person Mobile-Captured Benchmark for Visual Safety Understanding** — arXiv cs.CV — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26518
-  - arXiv:2607.26518v1 Announce Type: new Abstract: Reliable visual safety understanding in real-world scenarios demands more than just object recognition; it requires causal reasoning under epistemic uncertainty. While Large Vision-Language Models (LVLMs) demonstrate impressive semantic alignment on st
+  - arXiv:2607.26518v2 Announce Type: new Abstract: Reliable visual safety understanding in real-world scenarios demands more than just object recognition; it requires causal reasoning under epistemic uncertainty. While Large Vision-Language Models (LVLMs) demonstrate impressive semantic alignment on st
 - 🟢 **CineWeaver: Training-Free Reference-Controllable Multi-Shot Long Video Generation for Cinematic Storytelling** — arXiv cs.CV — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26529
   - arXiv:2607.26529v1 Announce Type: new Abstract: Cinematic video generation is challenging for text-to-video diffusion models due to concurrent requirements on multi-shot generation, fine-grained controllability over characters and scenes, and long-form generation across extended temporal horizons. E
@@ -503,7 +506,7 @@
   - arXiv:2607.26554v1 Announce Type: new Abstract: Integrating 3D medical images with vision-language models (VLMs) holds substantial promise for computer-aided diagnosis. However, volumetric images generate prohibitively long visual-token sequences with considerable spatial and inter-slice redundancy.
 - 🟢 **Representation Trajectories Matters: Complementary Evidence for OOD Detection and Image Classification** — arXiv cs.CV — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26565
-  - arXiv:2607.26565v1 Announce Type: new Abstract: Vision models do not form a representation at once; each block revises it. We ask whether the resulting computation path contains evidence that the final representation discards, and whether that evidence improves OOD detection and image classification
+  - arXiv:2607.26565v2 Announce Type: new Abstract: Vision models do not form a representation at once; each block revises it. We ask whether the resulting computation path contains evidence that the final representation discards, and whether that evidence improves OOD detection and image classification
 - 🟢 **3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis** — arXiv cs.CV — `2026-07-30T04:00:00+00:00`
   - https://arxiv.org/abs/2607.26578
   - arXiv:2607.26578v1 Announce Type: new Abstract: Three-dimensional Gaussian Splatting (3DGS) enables high-quality real-time novel-view synthesis through explicit Gaussian primitives and differentiable rasterization. 3DGS and Granular Ball Computing (GBC), proposed in 2019, share a natural compatibili
@@ -567,6 +570,15 @@
 
 ## Tin tức
 
+- 🔵 **Anthropic says its own AI models breached three companies during security tests** — TechCrunch AI — `2026-07-31T01:06:54+00:00`
+  - https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/
+  - After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents
+- 🔵 **AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares** — TechCrunch AI — `2026-07-30T23:25:58+00:00`
+  - https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/
+  - The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.
+- 🔵 **Reddit reports a solid quarter but shows signs of AI’s impact** — TechCrunch AI — `2026-07-30T23:08:58+00:00`
+  - https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/
+  - Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.
 - 🔵 **Investors love AI, as long as you’re a cloud host** — TechCrunch AI — `2026-07-30T22:41:41+00:00`
   - https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/
   - Amazon isn't slowing down on data center spending — but investors don't seem to mind.
@@ -651,21 +663,12 @@
 - 🔵 **Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026** — TechCrunch AI — `2026-07-29T21:16:39+00:00`
   - https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/
   - At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
-- 🔵 **Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI** — TechCrunch AI — `2026-07-29T21:07:48+00:00`
-  - https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/
-  - Weng previously served as the VP of AI Safety Research at OpenAI.
 - 🔵 **xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law** — The Verge AI — `2026-07-29T21:06:52+00:00`
   - https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit
   - xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets "nudification" apps, claiming that the statute's punitive provisions leave the company with "no practical choice but to restrict Grok Imagine's image-editing features in various ways." The law, t
 - 🔵 **Who wins and who loses after US bans foreign robots?** — Ars Technica AI — `2026-07-29T20:03:42+00:00`
   - https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/
   - Government ban on foreign-made robots may hinder instead of help US robotics.
-- 🔵 **The Hugging Face break-in explained** — TechCrunch AI — `2026-07-29T19:44:49+00:00`
-  - https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/
-  - Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)
-- 🔵 **Claude Opus 5 became downright ruthless when tasked with running a vending machine** — TechCrunch AI — `2026-07-29T18:45:27+00:00`
-  - https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/
-  - Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.
 - 🔵 **OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots** — The Verge AI — `2026-07-29T18:15:02+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview
   - In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a "family of devices" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be la

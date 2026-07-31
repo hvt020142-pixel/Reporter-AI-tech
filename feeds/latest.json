@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T23:16:49.676774+00:00",
+  "generated_at": "2026-07-31T03:46:34.302885+00:00",
   "lookback_hours": 72,
-  "item_count": 225,
+  "item_count": 226,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 5,
-      "items_total": 1056
+      "items_kept": 6,
+      "items_total": 1057
     },
     {
       "source": "Google DeepMind",
@@ -96,6 +96,36 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-31T01:06:54+00:00",
+      "published_ts": 1785460014.0,
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-30T23:25:58+00:00",
+      "published_ts": 1785453958.0,
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-30T23:08:58+00:00",
+      "published_ts": 1785452938.0,
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
+    },
     {
       "title": "Investors love AI, as long as you’re a cloud host",
       "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
@@ -967,14 +997,14 @@
       "summary": "arXiv:2607.26470v1 Announce Type: new Abstract: Multi-turn information-seeking conversations require both multi-hop reasoning and long-range dependency tracking across turns. However, existing RAG systems typically represent conversational memory as raw dialogue history, rewritten queries, or unstru"
     },
     {
-      "title": "Which RAG Paradigm Wins at Scale? A Scaling Study of Retrieval-Augmented Generation Paradigms",
+      "title": "BM25 Wins at Scale: A Scaling Study of Retrieval-Augmented Generation Paradigms",
       "url": "https://arxiv.org/abs/2607.26497",
       "source": "arXiv cs.CL",
       "category": "Nghiên cứu",
       "tier": "primary",
       "published_iso": "2026-07-30T04:00:00+00:00",
       "published_ts": 1785384000.0,
-      "summary": "arXiv:2607.26497v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) methods range from lexical and dense retrieval to graph-based indexing and agentic search. They are usually evaluated on different benchmarks at one corpus size, leaving their accuracy-cost scaling unclear. To bridg"
+      "summary": "arXiv:2607.26497v2 Announce Type: new Abstract: Retrieval-augmented generation (RAG) spans lexical and dense retrieval, graph-based indexing, and agentic search, but these paradigms are usually evaluated on different benchmarks at one corpus size, leaving their accuracy-cost scaling unclear. To brid"
     },
     {
       "title": "Where Detectors Fail: Closing the Tail-Domain Gap with Expert-Guided Mutual Distillation",
@@ -1034,7 +1064,7 @@
       "tier": "primary",
       "published_iso": "2026-07-30T04:00:00+00:00",
       "published_ts": 1785384000.0,
-      "summary": "arXiv:2607.26654v1 Announce Type: new Abstract: Post-training alignment is often shallow, eroding under fine-tuning. Whether midtraining interventions, cleanly isolated from post-training, can produce durable alignment remains untested. We test this via constitutional midtraining: inserting principl"
+      "summary": "arXiv:2607.26654v2 Announce Type: new Abstract: Post-training alignment is often shallow, eroding under fine-tuning. It remains untested as to whether constitutional midtraining interventions can produce durable alignment when cleanly isolated from post-training. We build a 394M-token constitutional"
     },
     {
       "title": "Automated Multilabel Mpox Research Classification with Explainable Transformer Models",
@@ -1114,7 +1144,7 @@
       "tier": "primary",
       "published_iso": "2026-07-30T04:00:00+00:00",
       "published_ts": 1785384000.0,
-      "summary": "arXiv:2607.26825v1 Announce Type: new Abstract: Large language models (LLMs) encode rich concept-like information, but represent it implicitly through distributed statistical associations rather than as explicit, structured, compositional concepts. Consequently, concept-level structure is typically "
+      "summary": "arXiv:2607.26825v2 Announce Type: new Abstract: Large language models (LLMs) encode rich concept-like information, but represent it implicitly through distributed statistical associations rather than as explicit, structured, compositional concepts. Consequently, concept-level structure is typically "
     },
     {
       "title": "Language Models are not Equally Robust to Non-Canonical Tokenization across Languages",
@@ -1814,7 +1844,7 @@
       "tier": "primary",
       "published_iso": "2026-07-30T04:00:00+00:00",
       "published_ts": 1785384000.0,
-      "summary": "arXiv:2607.26518v1 Announce Type: new Abstract: Reliable visual safety understanding in real-world scenarios demands more than just object recognition; it requires causal reasoning under epistemic uncertainty. While Large Vision-Language Models (LVLMs) demonstrate impressive semantic alignment on st"
+      "summary": "arXiv:2607.26518v2 Announce Type: new Abstract: Reliable visual safety understanding in real-world scenarios demands more than just object recognition; it requires causal reasoning under epistemic uncertainty. While Large Vision-Language Models (LVLMs) demonstrate impressive semantic alignment on st"
     },
     {
       "title": "CineWeaver: Training-Free Reference-Controllable Multi-Shot Long Video Generation for Cinematic Storytelling",
@@ -1864,7 +1894,7 @@
       "tier": "primary",
       "published_iso": "2026-07-30T04:00:00+00:00",
       "published_ts": 1785384000.0,
-      "summary": "arXiv:2607.26565v1 Announce Type: new Abstract: Vision models do not form a representation at once; each block revises it. We ask whether the resulting computation path contains evidence that the final representation discards, and whether that evidence improves OOD detection and image classification"
+      "summary": "arXiv:2607.26565v2 Announce Type: new Abstract: Vision models do not form a representation at once; each block revises it. We ask whether the resulting computation path contains evidence that the final representation discards, and whether that evidence improves OOD detection and image classification"
     },
     {
       "title": "3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis",
@@ -1957,6 +1987,16 @@
       "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
     },
     {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-07-30T00:00:00+00:00",
+      "published_ts": 1785369600.0,
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
+    },
+    {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
       "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
       "source": "TechCrunch AI",
@@ -2027,16 +2067,6 @@
       "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
     },
     {
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T21:07:48+00:00",
-      "published_ts": 1785359268.0,
-      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI."
-    },
-    {
       "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
       "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
       "source": "The Verge AI",
@@ -2055,26 +2085,6 @@
       "published_iso": "2026-07-29T20:03:42+00:00",
       "published_ts": 1785355422.0,
       "summary": "Government ban on foreign-made robots may hinder instead of help US robotics."
-    },
-    {
-      "title": "The Hugging Face break-in explained",
-      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T19:44:49+00:00",
-      "published_ts": 1785354289.0,
-      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)"
-    },
-    {
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T18:45:27+00:00",
-      "published_ts": 1785350727.0,
-      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
     },
     {
       "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
