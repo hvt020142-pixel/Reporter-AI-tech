@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-31T21:17:24.133956+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-07-31T23:13:42.200905+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -570,6 +570,12 @@
 
 ## Tin tức
 
+- 🔵 **OpenAI reportedly finds evidence that more of its agents ran amok** — TechCrunch AI — `2026-07-31T22:47:26+00:00`
+  - https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/
+  - OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
+- 🔵 **Reddit keeps its strange DMCA fight over Google search results alive** — Ars Technica AI — `2026-07-31T21:19:39+00:00`
+  - https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/
+  - Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.
 - 🔵 **India is starting to pay for apps, not just download them** — TechCrunch AI — `2026-07-31T21:07:45+00:00`
   - https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/
   - India's app market generated a record $345 million in Q2.
@@ -681,9 +687,6 @@
 - 🔵 **Nscale buys Anyscale as it seeks to own more of the AI compute stack** — TechCrunch AI — `2026-07-30T15:19:15+00:00`
   - https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/
   - British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.
-- 🔵 **Forward-deployed engineers are the AI industry’s latest talent obsession** — TechCrunch AI — `2026-07-30T15:00:00+00:00`
-  - https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/
-  - A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.
 - 🔵 **New MCP specification addresses the main barrier to enterprise adoption** — Ars Technica AI — `2026-07-30T14:53:07+00:00`
   - https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/
   - Plus, a new policy for the AI protocol ensures features aren't removed suddenly.
@@ -705,9 +708,6 @@
 - 🔵 **Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation** — Ars Technica AI — `2026-07-29T11:00:39+00:00`
   - https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/
   - Deciding what's real on the Internet won't be easy in the future.
-- 🔵 **We now have a better understanding how OpenAI hacked into Hugging Face** — Ars Technica AI — `2026-07-28T21:36:39+00:00`
-  - https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/
-  - 10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

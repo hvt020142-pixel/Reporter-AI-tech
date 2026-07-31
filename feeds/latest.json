@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T21:17:24.133956+00:00",
+  "generated_at": "2026-07-31T23:13:42.200905+00:00",
   "lookback_hours": 72,
   "item_count": 230,
   "sources_ok": [
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-31T22:47:26+00:00",
+      "published_ts": 1785538046.0,
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+    },
+    {
+      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-07-31T21:19:39+00:00",
+      "published_ts": 1785532779.0,
+      "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper."
+    },
     {
       "title": "India is starting to pay for apps, not just download them",
       "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
@@ -2157,16 +2177,6 @@
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
     },
     {
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-30T15:00:00+00:00",
-      "published_ts": 1785423600.0,
-      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale."
-    },
-    {
       "title": "New MCP specification addresses the main barrier to enterprise adoption",
       "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
       "source": "Ars Technica AI",
@@ -2385,16 +2395,6 @@
       "published_iso": "2026-07-29T00:00:00+00:00",
       "published_ts": 1785283200.0,
       "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
-    },
-    {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-28T21:36:39+00:00",
-      "published_ts": 1785274599.0,
-      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch."
     }
   ]
 }
