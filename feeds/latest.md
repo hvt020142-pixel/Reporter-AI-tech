@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-07-31T23:13:42.200905+00:00 (UTC) — cửa sổ 72h — 230 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-01T03:45:43.375072+00:00 (UTC) — cửa sổ 72h — 229 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -40,9 +40,6 @@
 - 🟢 **Accelerating scientific discovery with ChatGPT for Academic Researchers** — OpenAI — `2026-07-29T10:00:00+00:00`
   - https://openai.com/index/chatgpt-for-academic-researchers
   - OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
-- 🟢 **How GPT-5.6 fuses frontier intelligence with frontier efficiency** — OpenAI — `2026-07-29T00:00:00+00:00`
-  - https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
-  - GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.
 
 ## Mô hình mở
 
