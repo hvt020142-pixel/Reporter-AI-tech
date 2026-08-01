@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-01T15:14:06.847339+00:00 (UTC) — cửa sổ 72h — 64 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-01T17:11:15.106920+00:00 (UTC) — cửa sổ 72h — 62 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -35,8 +35,6 @@
 - 🟢 **How avatarin built a 24/7 retail agent with GPT-Realtime** — OpenAI — `2026-07-30T00:00:00+00:00`
   - https://openai.com/index/avatarin
   - avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.
-- 🟢 **We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control** — Google DeepMind — `2026-07-29T16:02:10+00:00`
-  - https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/
 
 ## Mô hình mở
 
@@ -72,6 +70,12 @@
 
 ## Tin tức
 
+- 🔵 **Sam Altman is still making the case for parenting via ChatGPT** — TechCrunch AI — `2026-08-01T17:07:34+00:00`
+  - https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/
+  - OpenAI's CEO seemed excited to share a "cool use case" for parents.
+- 🔵 **This $9 key physically locks your most addictive apps** — TechCrunch AI — `2026-08-01T15:58:17+00:00`
+  - https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/
+  - This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.
 - 🔵 **As Reddit stock falls, CEO questions value of Google's AI Overviews** — Ars Technica AI — `2026-08-01T12:30:36+00:00`
   - https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/
   - Reddit may still be considering ending its licensing deal with Google.
@@ -186,12 +190,6 @@
 - 🔵 **Okta buys AI security startup Permiso — source says for about $200M** — TechCrunch AI — `2026-07-30T16:09:42+00:00`
   - https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/
   - The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.
-- 🔵 **Meta says AI is making it easier to build new apps — and more are coming** — TechCrunch AI — `2026-07-30T15:41:16+00:00`
-  - https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/
-  - Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.
-- 🔵 **Nscale buys Anyscale as it seeks to own more of the AI compute stack** — TechCrunch AI — `2026-07-30T15:19:15+00:00`
-  - https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/
-  - British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.
 - 🔵 **New MCP specification addresses the main barrier to enterprise adoption** — Ars Technica AI — `2026-07-30T14:53:07+00:00`
   - https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/
   - Plus, a new policy for the AI protocol ensures features aren't removed suddenly.
@@ -204,9 +202,6 @@
 - 🔵 **Elon Musk’s xAI is trying to sue its way out of a Grok reckoning** — Ars Technica AI — `2026-07-29T17:58:24+00:00`
   - https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/
   - Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.
-- 🔵 **Anthropic is finding bugs faster than Microsoft can fix them** — Ars Technica AI — `2026-07-29T15:52:48+00:00`
-  - https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/
-  - Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

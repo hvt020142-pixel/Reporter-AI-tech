@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T15:14:06.847339+00:00",
+  "generated_at": "2026-08-01T17:11:15.106920+00:00",
   "lookback_hours": 72,
-  "item_count": 64,
+  "item_count": 62,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -12,7 +12,7 @@
     {
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/rss.xml",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 100
     },
     {
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 15,
+      "items_kept": 14,
       "items_total": 20
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-01T17:07:34+00:00",
+      "published_ts": 1785604054.0,
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-01T15:58:17+00:00",
+      "published_ts": 1785599897.0,
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+    },
     {
       "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
       "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
@@ -567,26 +587,6 @@
       "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments."
     },
     {
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-30T15:41:16+00:00",
-      "published_ts": 1785426076.0,
-      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way."
-    },
-    {
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-30T15:19:15+00:00",
-      "published_ts": 1785424755.0,
-      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers."
-    },
-    {
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "source": "Hugging Face",
@@ -715,26 +715,6 @@
       "published_iso": "2026-07-29T17:58:24+00:00",
       "published_ts": 1785347904.0,
       "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional."
-    },
-    {
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "source": "Google DeepMind",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-07-29T16:02:10+00:00",
-      "published_ts": 1785340930.0,
-      "summary": ""
-    },
-    {
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T15:52:48+00:00",
-      "published_ts": 1785340368.0,
-      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them."
     }
   ]
 }
