@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-01T21:06:55.741984+00:00 (UTC) — cửa sổ 72h — 59 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-01T23:07:27.569292+00:00 (UTC) — cửa sổ 72h — 58 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -190,9 +190,6 @@
 - 🔵 **New MCP specification addresses the main barrier to enterprise adoption** — Ars Technica AI — `2026-07-30T14:53:07+00:00`
   - https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/
   - Plus, a new policy for the AI protocol ensures features aren't removed suddenly.
-- 🔵 **Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission** — Ars Technica AI — `2026-07-29T22:07:06+00:00`
-  - https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/
-  - HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
