@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T19:30:05.563066+00:00",
+  "generated_at": "2026-08-01T21:06:55.741984+00:00",
   "lookback_hours": 72,
-  "item_count": 60,
+  "item_count": 59,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 13,
+      "items_kept": 12,
       "items_total": 20
     },
     {
@@ -96,6 +96,26 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-01T20:26:04+00:00",
+      "published_ts": 1785615964.0,
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-01T19:45:45+00:00",
+      "published_ts": 1785613545.0,
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+    },
     {
       "title": "Is this Billboard Hot 100 hit AI slop?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
@@ -537,16 +557,6 @@
       "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]"
     },
     {
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-30T18:05:21+00:00",
-      "published_ts": 1785434721.0,
-      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool."
-    },
-    {
       "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
       "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
       "source": "Ars Technica AI",
@@ -575,16 +585,6 @@
       "published_iso": "2026-07-30T17:10:00+00:00",
       "published_ts": 1785431400.0,
       "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once "
-    },
-    {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-30T16:09:42+00:00",
-      "published_ts": 1785427782.0,
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments."
     },
     {
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
@@ -685,16 +685,6 @@
       "published_iso": "2026-07-29T22:07:06+00:00",
       "published_ts": 1785362826.0,
       "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos."
-    },
-    {
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T20:03:42+00:00",
-      "published_ts": 1785355422.0,
-      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics."
     }
   ]
 }

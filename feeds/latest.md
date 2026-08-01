@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-01T19:30:05.563066+00:00 (UTC) — cửa sổ 72h — 60 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-01T21:06:55.741984+00:00 (UTC) — cửa sổ 72h — 59 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -67,6 +67,12 @@
 
 ## Tin tức
 
+- 🔵 **Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps** — TechCrunch AI — `2026-08-01T20:26:04+00:00`
+  - https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/
+  - Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
+- 🔵 **YouTuber Hank Green says his AI usage is ‘not healthy’** — TechCrunch AI — `2026-08-01T19:45:45+00:00`
+  - https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/
+  - Green offered a remarkable apology, saying that "the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world."
 - 🔵 **Is this Billboard Hot 100 hit AI slop?** — The Verge AI — `2026-08-01T18:20:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
   - Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track "Rubberz," which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula
@@ -175,27 +181,18 @@
 - 🔵 **LinkedIn actually adds a ‘seems like AI slop’ button** — The Verge AI — `2026-07-30T18:43:26+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button
   - A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that "Seems like AI [&#8230;]
-- 🔵 **LinkedIn adds a button to report AI-generated ‘slop’** — TechCrunch AI — `2026-07-30T18:05:21+00:00`
-  - https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/
-  - LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.
 - 🔵 **Google reveals Gemini Robotics 2.0, promising improved dexterity and safety** — Ars Technica AI — `2026-07-30T17:58:02+00:00`
   - https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/
   - Gemini Robotics 2 includes three models, but only one is publicly available right now.
 - 🔵 **Google DeepMind’s new AI model can control a robot’s entire body** — The Verge AI — `2026-07-30T17:18:45+00:00`
   - https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body
   - Google DeepMind says the latest version of its Gemini Robotics AI model can "control entire humanoid robots." While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports "whole-body motions" ranging from its feet to fingertips, according to an announ
-- 🔵 **Okta buys AI security startup Permiso — source says for about $200M** — TechCrunch AI — `2026-07-30T16:09:42+00:00`
-  - https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/
-  - The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.
 - 🔵 **New MCP specification addresses the main barrier to enterprise adoption** — Ars Technica AI — `2026-07-30T14:53:07+00:00`
   - https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/
   - Plus, a new policy for the AI protocol ensures features aren't removed suddenly.
 - 🔵 **Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission** — Ars Technica AI — `2026-07-29T22:07:06+00:00`
   - https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/
   - HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.
-- 🔵 **Who wins and who loses after US bans foreign robots?** — Ars Technica AI — `2026-07-29T20:03:42+00:00`
-  - https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/
-  - Government ban on foreign-made robots may hinder instead of help US robotics.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
