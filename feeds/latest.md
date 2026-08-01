@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-01T06:38:31.007483+00:00 (UTC) — cửa sổ 72h — 69 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-01T10:07:55.799145+00:00 (UTC) — cửa sổ 72h — 68 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -11,6 +11,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Ten advances in mathematics and theoretical computer science** — OpenAI — `2026-08-01T00:00:00+00:00`
+  - https://openai.com/index/ten-advances-in-mathematics
+  - OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 - 🟢 **Advancing responsible AI across Europe** — OpenAI — `2026-07-31T15:00:00+00:00`
   - https://openai.com/index/advancing-responsible-ai-across-europe
   - OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.
@@ -37,9 +40,6 @@
 - 🟢 **How enabling two settings tripled our scores on the ARC-AGI-3 benchmark** — OpenAI — `2026-07-29T15:00:00+00:00`
   - https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
   - How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.
-- 🟢 **Accelerating scientific discovery with ChatGPT for Academic Researchers** — OpenAI — `2026-07-29T10:00:00+00:00`
-  - https://openai.com/index/chatgpt-for-academic-researchers
-  - OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
 
 ## Mô hình mở
 
@@ -78,9 +78,6 @@
 - 🔵 **AI Is Hyper-Scaling Digital Inequality** — IEEE Spectrum AI — `2026-07-29T11:00:04+00:00`
   - https://spectrum.ieee.org/ai-digital-divide
   - Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry
-- 🔵 **The AI Hype Index: Unsexy AI** — MIT Tech Review — `2026-07-29T08:42:57+00:00`
-  - https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/
-  - It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,
 
 ## Tin tức
 
