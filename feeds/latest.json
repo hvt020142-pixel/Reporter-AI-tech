@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:32:35.387171+00:00",
+  "generated_at": "2026-08-01T13:49:32.189139+00:00",
   "lookback_hours": 72,
   "item_count": 66,
   "sources_ok": [
@@ -84,18 +84,38 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 7,
+      "items_kept": 6,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-01T12:30:36+00:00",
+      "published_ts": 1785587436.0,
+      "summary": "Reddit may still be considering ending its licensing deal with Google."
+    },
+    {
+      "title": "Fridays With Bob",
+      "url": "https://spectrum.ieee.org/risk",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-08-01T12:00:01+00:00",
+      "published_ts": 1785585601.0,
+      "summary": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challen"
+    },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics",
@@ -735,26 +755,6 @@
       "published_iso": "2026-07-29T14:00:02+00:00",
       "published_ts": 1785333602.0,
       "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and "
-    },
-    {
-      "title": "What happens when you put AI to work deciphering lost languages?",
-      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T13:23:31+00:00",
-      "published_ts": 1785331411.0,
-      "summary": "AI is fantastic at spotting patterns, but human insight is the key."
-    },
-    {
-      "title": "The Download: a chip talent battle, and deflating AI hype",
-      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T12:10:00+00:00",
-      "published_ts": 1785327000.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s be"
     }
   ]
 }

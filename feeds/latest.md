@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-01T11:32:35.387171+00:00 (UTC) — cửa sổ 72h — 66 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-01T13:49:32.189139+00:00 (UTC) — cửa sổ 72h — 66 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -48,6 +48,9 @@
 
 ## Phân tích
 
+- 🔵 **Fridays With Bob** — IEEE Spectrum AI — `2026-08-01T12:00:01+00:00`
+  - https://spectrum.ieee.org/risk
+  - When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challen
 - 🔵 **The Download: Montana’s new experimental drug rules** — MIT Tech Review — `2026-07-31T12:16:00+00:00`
   - https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through p
@@ -72,12 +75,12 @@
 - 🔵 **Siobahn Day Grady Wants Everyone to Be AI Literate** — IEEE Spectrum AI — `2026-07-29T14:00:02+00:00`
   - https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu
   - Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and 
-- 🔵 **The Download: a chip talent battle, and deflating AI hype** — MIT Tech Review — `2026-07-29T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s be
 
 ## Tin tức
 
+- 🔵 **As Reddit stock falls, CEO questions value of Google's AI Overviews** — Ars Technica AI — `2026-08-01T12:30:36+00:00`
+  - https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/
+  - Reddit may still be considering ending its licensing deal with Google.
 - 🔵 **OpenAI reportedly finds evidence that more of its agents ran amok** — TechCrunch AI — `2026-07-31T22:47:26+00:00`
   - https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/
   - OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
@@ -210,9 +213,6 @@
 - 🔵 **Anthropic is finding bugs faster than Microsoft can fix them** — Ars Technica AI — `2026-07-29T15:52:48+00:00`
   - https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/
   - Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.
-- 🔵 **What happens when you put AI to work deciphering lost languages?** — Ars Technica AI — `2026-07-29T13:23:31+00:00`
-  - https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/
-  - AI is fantastic at spotting patterns, but human insight is the key.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
