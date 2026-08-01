@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-01T17:11:15.106920+00:00 (UTC) — cửa sổ 72h — 62 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-01T19:30:05.563066+00:00 (UTC) — cửa sổ 72h — 60 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -64,12 +64,12 @@
 - 🔵 **A fundamental flaw leaves LLMs strikingly vulnerable to attack** — MIT Tech Review — `2026-07-30T10:15:19+00:00`
   - https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/
   - It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf
-- 🔵 **How an overlooked geothermal plant got a second chance** — MIT Tech Review — `2026-07-29T17:58:44+00:00`
-  - https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/
-  - In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again
 
 ## Tin tức
 
+- 🔵 **Is this Billboard Hot 100 hit AI slop?** — The Verge AI — `2026-08-01T18:20:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
+  - Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track "Rubberz," which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula
 - 🔵 **Sam Altman is still making the case for parenting via ChatGPT** — TechCrunch AI — `2026-08-01T17:07:34+00:00`
   - https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/
   - OpenAI's CEO seemed excited to share a "cool use case" for parents.
@@ -184,9 +184,6 @@
 - 🔵 **Google DeepMind’s new AI model can control a robot’s entire body** — The Verge AI — `2026-07-30T17:18:45+00:00`
   - https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body
   - Google DeepMind says the latest version of its Gemini Robotics AI model can "control entire humanoid robots." While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports "whole-body motions" ranging from its feet to fingertips, according to an announ
-- 🔵 **Friend re-launches its AI pendant with a speaker that talks to you, for twice the price** — The Verge AI — `2026-07-30T16:33:32+00:00`
-  - https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price
-  - Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This mo
 - 🔵 **Okta buys AI security startup Permiso — source says for about $200M** — TechCrunch AI — `2026-07-30T16:09:42+00:00`
   - https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/
   - The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.
@@ -199,9 +196,6 @@
 - 🔵 **Who wins and who loses after US bans foreign robots?** — Ars Technica AI — `2026-07-29T20:03:42+00:00`
   - https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/
   - Government ban on foreign-made robots may hinder instead of help US robotics.
-- 🔵 **Elon Musk’s xAI is trying to sue its way out of a Grok reckoning** — Ars Technica AI — `2026-07-29T17:58:24+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/
-  - Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

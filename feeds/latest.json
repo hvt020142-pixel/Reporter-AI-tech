@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T17:11:15.106920+00:00",
+  "generated_at": "2026-08-01T19:30:05.563066+00:00",
   "lookback_hours": 72,
-  "item_count": 62,
+  "item_count": 60,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,13 +78,13 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 14,
+      "items_kept": 13,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 6,
+      "items_kept": 5,
       "items_total": 10
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-01T18:20:00+00:00",
+      "published_ts": 1785608400.0,
+      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula"
+    },
     {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
       "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
@@ -567,16 +577,6 @@
       "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once "
     },
     {
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-30T16:33:32+00:00",
-      "published_ts": 1785429212.0,
-      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This mo"
-    },
-    {
       "title": "Okta buys AI security startup Permiso — source says for about $200M",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
       "source": "TechCrunch AI",
@@ -695,26 +695,6 @@
       "published_iso": "2026-07-29T20:03:42+00:00",
       "published_ts": 1785355422.0,
       "summary": "Government ban on foreign-made robots may hinder instead of help US robotics."
-    },
-    {
-      "title": "How an overlooked geothermal plant got a second chance",
-      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T17:58:44+00:00",
-      "published_ts": 1785347924.0,
-      "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again"
-    },
-    {
-      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T17:58:24+00:00",
-      "published_ts": 1785347904.0,
-      "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional."
     }
   ]
 }
