@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-01T13:49:32.189139+00:00 (UTC) — cửa sổ 72h — 66 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-01T15:14:06.847339+00:00 (UTC) — cửa sổ 72h — 64 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -37,9 +37,6 @@
   - avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.
 - 🟢 **We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control** — Google DeepMind — `2026-07-29T16:02:10+00:00`
   - https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/
-- 🟢 **How enabling two settings tripled our scores on the ARC-AGI-3 benchmark** — OpenAI — `2026-07-29T15:00:00+00:00`
-  - https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
-  - How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.
 
 ## Mô hình mở
 
@@ -72,9 +69,6 @@
 - 🔵 **How an overlooked geothermal plant got a second chance** — MIT Tech Review — `2026-07-29T17:58:44+00:00`
   - https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/
   - In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again
-- 🔵 **Siobahn Day Grady Wants Everyone to Be AI Literate** — IEEE Spectrum AI — `2026-07-29T14:00:02+00:00`
-  - https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu
-  - Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and 
 
 ## Tin tức
 
