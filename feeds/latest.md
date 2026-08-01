@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-01T10:07:55.799145+00:00 (UTC) — cửa sổ 72h — 68 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-01T11:32:35.387171+00:00 (UTC) — cửa sổ 72h — 66 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -75,9 +75,6 @@
 - 🔵 **The Download: a chip talent battle, and deflating AI hype** — MIT Tech Review — `2026-07-29T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s be
-- 🔵 **AI Is Hyper-Scaling Digital Inequality** — IEEE Spectrum AI — `2026-07-29T11:00:04+00:00`
-  - https://spectrum.ieee.org/ai-digital-divide
-  - Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry
 
 ## Tin tức
 
@@ -216,9 +213,6 @@
 - 🔵 **What happens when you put AI to work deciphering lost languages?** — Ars Technica AI — `2026-07-29T13:23:31+00:00`
   - https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/
   - AI is fantastic at spotting patterns, but human insight is the key.
-- 🔵 **Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation** — Ars Technica AI — `2026-07-29T11:00:39+00:00`
-  - https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/
-  - Deciding what's real on the Internet won't be easy in the future.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

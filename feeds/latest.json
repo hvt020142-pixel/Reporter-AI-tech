@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T10:07:55.799145+00:00",
+  "generated_at": "2026-08-01T11:32:35.387171+00:00",
   "lookback_hours": 72,
-  "item_count": 68,
+  "item_count": 66,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 16,
+      "items_kept": 15,
       "items_total": 20
     },
     {
@@ -90,7 +90,7 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 30
     }
   ],
@@ -755,26 +755,6 @@
       "published_iso": "2026-07-29T12:10:00+00:00",
       "published_ts": 1785327000.0,
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s be"
-    },
-    {
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T11:00:39+00:00",
-      "published_ts": 1785322839.0,
-      "summary": "Deciding what's real on the Internet won't be easy in the future."
-    },
-    {
-      "title": "AI Is Hyper-Scaling Digital Inequality",
-      "url": "https://spectrum.ieee.org/ai-digital-divide",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-07-29T11:00:04+00:00",
-      "published_ts": 1785322804.0,
-      "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry"
     }
   ]
 }
