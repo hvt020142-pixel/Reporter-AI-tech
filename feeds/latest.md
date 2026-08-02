@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-02T13:49:40.868856+00:00 (UTC) — cửa sổ 72h — 52 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-02T15:15:15.499925+00:00 (UTC) — cửa sổ 72h — 49 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -20,14 +20,6 @@
 - 🟢 **Disrupting a Criminal Scam Operation** — OpenAI — `2026-07-31T00:00:00+00:00`
   - https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
   - OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.
-- 🟢 **Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration** — Google DeepMind — `2026-07-30T15:00:59+00:00`
-  - https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/
-  - Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
-
-## Mô hình mở
-
-- 🟢 **GPU Management: Why Idle GPUs Are the New Grounded Aircraft** — Hugging Face — `2026-07-30T15:09:09+00:00`
-  - https://huggingface.co/blog/Dharma-AI/gpu-management
 
 ## Phân tích
 
@@ -166,9 +158,6 @@
 - 🔵 **Google reveals Gemini Robotics 2.0, promising improved dexterity and safety** — Ars Technica AI — `2026-07-30T17:58:02+00:00`
   - https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/
   - Gemini Robotics 2 includes three models, but only one is publicly available right now.
-- 🔵 **New MCP specification addresses the main barrier to enterprise adoption** — Ars Technica AI — `2026-07-30T14:53:07+00:00`
-  - https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/
-  - Plus, a new policy for the AI protocol ensures features aren't removed suddenly.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
