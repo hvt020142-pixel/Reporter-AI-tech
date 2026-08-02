@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-02T15:15:15.499925+00:00 (UTC) — cửa sổ 72h — 49 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-02T17:11:39.258552+00:00 (UTC) — cửa sổ 72h — 48 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -32,9 +32,6 @@
 - 🔵 **Montana’s new “right to try” law can’t come soon enough for some** — MIT Tech Review — `2026-07-31T09:00:00+00:00`
   - https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/
   - Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old
-- 🔵 **Montana’s plan to become an experimental medical hub just pushed forward** — MIT Tech Review — `2026-07-30T17:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/
-  - As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once 
 
 ## Tin tức
 
