@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-02T21:07:34.818352+00:00 (UTC) — cửa sổ 72h — 43 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-02T23:07:16.700354+00:00 (UTC) — cửa sổ 72h — 41 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -134,12 +134,6 @@
 - 🔵 **Reddit reports a solid quarter but shows signs of AI’s impact** — TechCrunch AI — `2026-07-30T23:08:58+00:00`
   - https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/
   - Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.
-- 🔵 **Investors love AI, as long as you’re a cloud host** — TechCrunch AI — `2026-07-30T22:41:41+00:00`
-  - https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/
-  - Amazon isn't slowing down on data center spending — but investors don't seem to mind.
-- 🔵 **Tim Cook hints at iCloud Plus tier for AI power users** — The Verge AI — `2026-07-30T22:29:45+00:00`
-  - https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai
-  - Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI "a lot," adding that "we will have some kind of upgrade possibilities on iCloud Plus where
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
