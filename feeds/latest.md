@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-01T23:07:27.569292+00:00 (UTC) — cửa sổ 72h — 58 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-02T03:48:04.509852+00:00 (UTC) — cửa sổ 72h — 57 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -32,9 +32,6 @@
 - 🟢 **Advancing the price-performance frontier with GPT-5.6** — OpenAI — `2026-07-30T10:00:00+00:00`
   - https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
   - Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.
-- 🟢 **How avatarin built a 24/7 retail agent with GPT-Realtime** — OpenAI — `2026-07-30T00:00:00+00:00`
-  - https://openai.com/index/avatarin
-  - avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.
 
 ## Mô hình mở
 
