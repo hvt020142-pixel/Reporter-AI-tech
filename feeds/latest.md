@@ -1,13 +1,7 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-02T11:32:08.391342+00:00 (UTC) — cửa sổ 72h — 55 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-02T13:49:40.868856+00:00 (UTC) — cửa sổ 72h — 52 mục — nguồn sơ cấp/uy tín.*
 
-
-## Hạ tầng & phần cứng
-
-- 🟢 **Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW** — NVIDIA — `2026-07-30T13:00:20+00:00`
-  - https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/
-  - Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign E
 
 ## Mô hình & LLM
 
@@ -49,15 +43,12 @@
 - 🔵 **Montana’s plan to become an experimental medical hub just pushed forward** — MIT Tech Review — `2026-07-30T17:10:00+00:00`
   - https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/
   - As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once 
-- 🔵 **Are AI Models Working Harder Than They Need to?** — IEEE Spectrum AI — `2026-07-30T13:35:32+00:00`
-  - https://spectrum.ieee.org/ai-energy-weightless-neural-networks
-  - Much of modern AI runs on multiplication. Neural networks behind everything from generated answers to photo organization and song recommendations perform millions or billions of operations that multiply inputs by learned weights. Lizy K. John thinks that’s more work than the job requires. John, a pr
-- 🔵 **The Download: tricking LLMs, and reviving geothermal plants** — MIT Tech Review — `2026-07-30T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a 
 
 ## Tin tức
 
+- 🔵 **Is paying artists enough to convince them to embrace AI?** — The Verge AI — `2026-08-02T13:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties
+  - Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the tec
 - 🔵 **Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps** — TechCrunch AI — `2026-08-01T20:26:04+00:00`
   - https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/
   - Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
@@ -175,9 +166,6 @@
 - 🔵 **Google reveals Gemini Robotics 2.0, promising improved dexterity and safety** — Ars Technica AI — `2026-07-30T17:58:02+00:00`
   - https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/
   - Gemini Robotics 2 includes three models, but only one is publicly available right now.
-- 🔵 **Google DeepMind’s new AI model can control a robot’s entire body** — The Verge AI — `2026-07-30T17:18:45+00:00`
-  - https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body
-  - Google DeepMind says the latest version of its Gemini Robotics AI model can "control entire humanoid robots." While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports "whole-body motions" ranging from its feet to fingertips, according to an announ
 - 🔵 **New MCP specification addresses the main barrier to enterprise adoption** — Ars Technica AI — `2026-07-30T14:53:07+00:00`
   - https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/
   - Plus, a new policy for the AI protocol ensures features aren't removed suddenly.
