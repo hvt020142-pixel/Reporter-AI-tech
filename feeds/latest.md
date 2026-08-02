@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-02T19:30:48.175996+00:00 (UTC) — cửa sổ 72h — 44 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-02T21:07:34.818352+00:00 (UTC) — cửa sổ 72h — 43 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -35,6 +35,12 @@
 
 ## Tin tức
 
+- 🔵 **Sam Altman and AI’s decel debate** — TechCrunch AI — `2026-08-02T20:54:22+00:00`
+  - https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/
+  - On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to "pace the rate of AI development."
+- 🔵 **Fender’s CEO seems to think your bandmates are just analog AI** — The Verge AI — `2026-08-02T19:36:08+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music
+  - Fender CEO Edward "Bud" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company
 - 🔵 **Is paying artists enough to convince them to embrace AI?** — The Verge AI — `2026-08-02T13:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties
   - Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the tec
@@ -134,15 +140,6 @@
 - 🔵 **Tim Cook hints at iCloud Plus tier for AI power users** — The Verge AI — `2026-07-30T22:29:45+00:00`
   - https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai
   - Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI "a lot," adding that "we will have some kind of upgrade possibilities on iCloud Plus where
-- 🔵 **The loss of Situational Awareness** — The Verge AI — `2026-07-30T20:46:25+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks
-  - I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like "Long-Term Capital Management" or "Amaranth Advisors" (named for the floral symbol for [&#8230;]
-- 🔵 **Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label** — TechCrunch AI — `2026-07-30T20:26:38+00:00`
-  - https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/
-  - A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.
-- 🔵 **Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag** — TechCrunch AI — `2026-07-30T19:44:16+00:00`
-  - https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/
-  - Friend, the AI wearable, can now talk to its users — for an enhanced price.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
