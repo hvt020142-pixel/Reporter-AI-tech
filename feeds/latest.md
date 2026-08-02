@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-02T06:42:46.225126+00:00 (UTC) — cửa sổ 72h — 57 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-02T10:05:49.233640+00:00 (UTC) — cửa sổ 72h — 56 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -29,9 +29,6 @@
 - 🟢 **Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration** — Google DeepMind — `2026-07-30T15:00:59+00:00`
   - https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/
   - Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
-- 🟢 **Advancing the price-performance frontier with GPT-5.6** — OpenAI — `2026-07-30T10:00:00+00:00`
-  - https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
-  - Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.
 
 ## Mô hình mở
 
