@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T17:11:39.258552+00:00",
+  "generated_at": "2026-08-02T19:30:48.175996+00:00",
   "lookback_hours": 72,
-  "item_count": 48,
+  "item_count": 44,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 20,
+      "items_kept": 19,
       "items_total": 20
     },
     {
@@ -72,13 +72,13 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 10,
+      "items_kept": 9,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 10,
+      "items_kept": 8,
       "items_total": 20
     },
     {
@@ -535,46 +535,6 @@
       "published_iso": "2026-07-30T19:44:16+00:00",
       "published_ts": 1785440656.0,
       "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
-    },
-    {
-      "title": "Chrome may get faster updates with no restart required",
-      "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-30T19:26:56+00:00",
-      "published_ts": 1785439616.0,
-      "summary": "The last two versions of Chrome have included more patches than the previous 23 combined."
-    },
-    {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-30T18:57:58+00:00",
-      "published_ts": 1785437878.0,
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools."
-    },
-    {
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-30T18:43:26+00:00",
-      "published_ts": 1785437006.0,
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]"
-    },
-    {
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-30T17:58:02+00:00",
-      "published_ts": 1785434282.0,
-      "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now."
     }
   ]
 }

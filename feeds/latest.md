@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-02T17:11:39.258552+00:00 (UTC) — cửa sổ 72h — 48 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-02T19:30:48.175996+00:00 (UTC) — cửa sổ 72h — 44 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -143,18 +143,6 @@
 - 🔵 **Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag** — TechCrunch AI — `2026-07-30T19:44:16+00:00`
   - https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/
   - Friend, the AI wearable, can now talk to its users — for an enhanced price.
-- 🔵 **Chrome may get faster updates with no restart required** — Ars Technica AI — `2026-07-30T19:26:56+00:00`
-  - https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/
-  - The last two versions of Chrome have included more patches than the previous 23 combined.
-- 🔵 **Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI** — TechCrunch AI — `2026-07-30T18:57:58+00:00`
-  - https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/
-  - As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.
-- 🔵 **LinkedIn actually adds a ‘seems like AI slop’ button** — The Verge AI — `2026-07-30T18:43:26+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button
-  - A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that "Seems like AI [&#8230;]
-- 🔵 **Google reveals Gemini Robotics 2.0, promising improved dexterity and safety** — Ars Technica AI — `2026-07-30T17:58:02+00:00`
-  - https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/
-  - Gemini Robotics 2 includes three models, but only one is publicly available right now.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
