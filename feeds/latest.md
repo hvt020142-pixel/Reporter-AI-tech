@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-02T10:05:49.233640+00:00 (UTC) — cửa sổ 72h — 56 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-02T11:32:08.391342+00:00 (UTC) — cửa sổ 72h — 55 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -55,9 +55,6 @@
 - 🔵 **The Download: tricking LLMs, and reviving geothermal plants** — MIT Tech Review — `2026-07-30T12:10:00+00:00`
   - https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a 
-- 🔵 **A fundamental flaw leaves LLMs strikingly vulnerable to attack** — MIT Tech Review — `2026-07-30T10:15:19+00:00`
-  - https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/
-  - It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf
 
 ## Tin tức
 
