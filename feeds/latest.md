@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-03T11:39:43.626202+00:00 (UTC) — cửa sổ 72h — 197 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-03T15:12:01.967663+00:00 (UTC) — cửa sổ 72h — 190 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -8,12 +8,6 @@
 - 🟢 **Ten advances in mathematics and theoretical computer science** — OpenAI — `2026-08-01T00:00:00+00:00`
   - https://openai.com/index/ten-advances-in-mathematics
   - OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
-- 🟢 **Advancing responsible AI across Europe** — OpenAI — `2026-07-31T15:00:00+00:00`
-  - https://openai.com/index/advancing-responsible-ai-across-europe
-  - OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.
-- 🟢 **Building abundant intelligence** — OpenAI — `2026-07-31T15:00:00+00:00`
-  - https://openai.com/index/building-abundant-intelligence
-  - A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.
 
 ## Nghiên cứu
 
@@ -500,15 +494,15 @@
 
 ## Phân tích
 
+- 🔵 **The Download: reward hacking explained, and suspected Iranian cyberattacks** — MIT Tech Review — `2026-08-03T12:08:00+00:00`
+  - https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money 
 - 🔵 **Here’s why AI agents lie and cheat to reach their goals** — MIT Tech Review — `2026-08-03T08:30:05+00:00`
   - https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/
   - MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage
 - 🔵 **Fridays With Bob** — IEEE Spectrum AI — `2026-08-01T12:00:01+00:00`
   - https://spectrum.ieee.org/risk
   - When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challen
-- 🔵 **The Download: Montana’s new experimental drug rules** — MIT Tech Review — `2026-07-31T12:16:00+00:00`
-  - https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through p
 
 ## Tin tức
 
@@ -590,21 +584,6 @@
 - 🔵 **SpaceX won’t remove all of xAI’s unpermitted turbines for another year** — TechCrunch AI — `2026-07-31T15:16:17+00:00`
   - https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/
   - SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.
-- 🔵 **Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human** — TechCrunch AI — `2026-07-31T14:47:11+00:00`
-  - https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/
-  - The startup is building voice models designed to make AI phone calls pass the Turing test.
-- 🔵 **It’s time to panic about AI safety** — The Verge AI — `2026-07-31T14:03:04+00:00`
-  - https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast
-  - When the phrase "OpenAI hacked Hugging Face" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, 
-- 🔵 **AI scammers outperform humans when it comes to building trust** — Ars Technica AI — `2026-07-31T14:01:40+00:00`
-  - https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/
-  - The AI chatbot was more effective at creating “exploitable trust” than the humans.
-- 🔵 **AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off** — TechCrunch AI — `2026-07-31T14:00:00+00:00`
-  - https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/
-  - After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging
-- 🔵 **Anthropic says Claude accidentally hacked real companies too** — The Verge AI — `2026-07-31T13:41:17+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests
-  - Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face,
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
