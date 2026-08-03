@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T21:17:47.839396+00:00",
+  "generated_at": "2026-08-03T23:16:44.490840+00:00",
   "lookback_hours": 72,
-  "item_count": 186,
+  "item_count": 185,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 12,
+      "items_kept": 11,
       "items_total": 20
     },
     {
@@ -97,6 +97,16 @@
   "sources_failed": [],
   "items": [
     {
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-03T22:11:39+00:00",
+      "published_ts": 1785795099.0,
+      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities."
+    },
+    {
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
       "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
       "source": "TechCrunch AI",
@@ -104,17 +114,17 @@
       "tier": "reputable",
       "published_iso": "2026-08-03T20:00:00+00:00",
       "published_ts": 1785787200.0,
-      "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models."
+      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
     },
     {
-      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
       "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
       "tier": "reputable",
       "published_iso": "2026-08-03T19:28:57+00:00",
       "published_ts": 1785785337.0,
-      "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
     },
     {
       "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
@@ -1935,26 +1945,6 @@
       "published_iso": "2026-08-01T00:00:00+00:00",
       "published_ts": 1785542400.0,
       "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
-    },
-    {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-31T22:47:26+00:00",
-      "published_ts": 1785538046.0,
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
-    },
-    {
-      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-31T21:19:39+00:00",
-      "published_ts": 1785532779.0,
-      "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper."
     }
   ]
 }

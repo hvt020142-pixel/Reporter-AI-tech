@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-03T21:17:47.839396+00:00 (UTC) — cửa sổ 72h — 186 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-03T23:16:44.490840+00:00 (UTC) — cửa sổ 72h — 185 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -512,12 +512,15 @@
 
 ## Tin tức
 
+- 🔵 **US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own** — Ars Technica AI — `2026-08-03T22:11:39+00:00`
+  - https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/
+  - $100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.
 - 🔵 **AWS is helping vibe-coding startup Superblocks, and the implications are big** — TechCrunch AI — `2026-08-03T20:00:00+00:00`
   - https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
-  - AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.
-- 🔵 **DesignArena creators raise $7.9 million to bring taste to AI models** — TechCrunch AI — `2026-08-03T19:28:57+00:00`
+  - AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.
+- 🔵 **Design Arena creators raise $7.9 million to bring taste to AI models** — TechCrunch AI — `2026-08-03T19:28:57+00:00`
   - https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/
-  - DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
+  - Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
 - 🔵 **Influencers draw backlash for attending OpenAI’s first luxury trip** — TechCrunch AI — `2026-08-03T19:09:56+00:00`
   - https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/
   - OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.
@@ -566,12 +569,6 @@
 - 🔵 **As Reddit stock falls, CEO questions value of Google's AI Overviews** — Ars Technica AI — `2026-08-01T12:30:36+00:00`
   - https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/
   - Reddit may still be considering ending its licensing deal with Google.
-- 🔵 **OpenAI reportedly finds evidence that more of its agents ran amok** — TechCrunch AI — `2026-07-31T22:47:26+00:00`
-  - https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/
-  - OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
-- 🔵 **Reddit keeps its strange DMCA fight over Google search results alive** — Ars Technica AI — `2026-07-31T21:19:39+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/
-  - Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
