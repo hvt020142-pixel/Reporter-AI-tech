@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-02T23:07:16.700354+00:00 (UTC) — cửa sổ 72h — 41 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-03T03:49:38.670447+00:00 (UTC) — cửa sổ 72h — 37 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -17,9 +17,6 @@
 - 🟢 **Univé builds an AI-ready workforce** — OpenAI — `2026-07-31T07:00:00+00:00`
   - https://openai.com/index/unive
   - See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.
-- 🟢 **Disrupting a Criminal Scam Operation** — OpenAI — `2026-07-31T00:00:00+00:00`
-  - https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
-  - OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.
 
 ## Phân tích
 
@@ -125,15 +122,6 @@
 - 🔵 **How a Yale AI-cheating dispute became a 13-count federal lawsuit** — Ars Technica AI — `2026-07-31T11:00:52+00:00`
   - https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/
   - A disputed exam, an unreliable detector, and one very late Apple Pages file.
-- 🔵 **Anthropic says its own AI models breached three companies during security tests** — TechCrunch AI — `2026-07-31T01:06:54+00:00`
-  - https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/
-  - After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.
-- 🔵 **AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares** — TechCrunch AI — `2026-07-30T23:25:58+00:00`
-  - https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/
-  - The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.
-- 🔵 **Reddit reports a solid quarter but shows signs of AI’s impact** — TechCrunch AI — `2026-07-30T23:08:58+00:00`
-  - https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/
-  - Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
