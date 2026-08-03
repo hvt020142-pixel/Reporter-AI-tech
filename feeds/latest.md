@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-03T03:49:38.670447+00:00 (UTC) — cửa sổ 72h — 37 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-03T07:40:19.428591+00:00 (UTC) — cửa sổ 72h — 196 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -14,9 +14,489 @@
 - 🟢 **Building abundant intelligence** — OpenAI — `2026-07-31T15:00:00+00:00`
   - https://openai.com/index/building-abundant-intelligence
   - A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.
-- 🟢 **Univé builds an AI-ready workforce** — OpenAI — `2026-07-31T07:00:00+00:00`
-  - https://openai.com/index/unive
-  - See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.
+
+## Nghiên cứu
+
+- 🟢 **OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28629
+  - arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers 
+- 🟢 **Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28631
+  - arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose and implement a rigorous
+- 🟢 **LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28632
+  - arXiv:2607.28632v1 Announce Type: new Abstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for 
+- 🟢 **ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28642
+  - arXiv:2607.28642v1 Announce Type: new Abstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error anchoring. We argue that under bounded context windows, the core bottleneck is not trajectory compress
+- 🟢 **TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28657
+  - arXiv:2607.28657v1 Announce Type: new Abstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reformu
+- 🟢 **Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28659
+  - arXiv:2607.28659v1 Announce Type: new Abstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across multiple domains. Recently, generative recommendation (GR) has emerged. It first learns semantic identifiers (SIDs) from item
+- 🟢 **An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28662
+  - arXiv:2607.28662v1 Announce Type: new Abstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabularies fracture across documents, the same person surfaces under several name variants, relationships duplicate, and distinct i
+- 🟢 **How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28674
+  - arXiv:2607.28674v1 Announce Type: new Abstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpretability methods rely on output-level signals or collapse processing depth into a single trajectory
+- 🟢 **Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28677
+  - arXiv:2607.28677v1 Announce Type: new Abstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for symptom assessment and clinical decision support in diagnostic and treatment guidan
+- 🟢 **ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28678
+  - arXiv:2607.28678v1 Announce Type: new Abstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally grounded reasoning. However, existing agentic memory approaches often discard fine-grained dentity c
+- 🟢 **Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28679
+  - arXiv:2607.28679v1 Announce Type: new Abstract: Multi-agent planning problems arise in a variety of engineering applications, such as multi-robot wildfire fighting and unmanned aerial inspection in factories. A particular challenge is the existence of spatio-temporal (i.e., when and/or where an agen
+- 🟢 **Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28684
+  - arXiv:2607.28684v1 Announce Type: new Abstract: Existing benchmarks for scientific equation discovery are largely composed of well-known equations available in the public domain, making it difficult to determine whether a model is discovering laws from data or merely recalling answers from its train
+- 🟢 **Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28685
+  - arXiv:2607.28685v1 Announce Type: new Abstract: Agent-safety benchmarks measure different behaviors, and their scores get quoted interchangeably as an agent's safety. We treat four of them (R-Judge, InjecAgent, AgentHarm, AgentDojo) as measurements to be validated, running each under its official im
+- 🟢 **SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28692
+  - arXiv:2607.28692v1 Announce Type: new Abstract: Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits their applicability to o
+- 🟢 **EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28788
+  - arXiv:2607.28788v1 Announce Type: new Abstract: Clinical diagnosis at hospital admission must be made rapidly from limited, incomplete evidence. Existing diagnosis-prediction benchmarks are poorly suited to this setting: they restrict prediction to closed code sets, exclude free-text notes, and supe
+- 🟢 **Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28802
+  - arXiv:2607.28802v1 Announce Type: new Abstract: Existing evaluations often reduce agent failures to system-level outcomes, obscuring where the fault originated and which intervention would improve the agent system. This creates a repair-assignment problem: the same visible failure may call for model
+- 🟢 **Best Friends, Not Forever: Evaluating Long-Horizon Persona Collapse and Behavioral Drift in AI Companions** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28818
+  - arXiv:2607.28818v1 Announce Type: new Abstract: As AI companions increasingly mediate repeated social interaction, users may rely on a stable role and shared history, yet locally acceptable replies do not ensure that either persists. We study two observable long-horizon failures: 'persona collapse',
+- 🟢 **Fragility of Value under Imperfect Alignment** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28881
+  - arXiv:2607.28881v1 Announce Type: new Abstract: As more responsibility is placed upon AI systems, it becomes increasingly important to guarantee that these systems are aligned with humanity. A common fear in AI safety is that human value is fragile -- that is, optimizing too heavily for an imperfect
+- 🟢 **Identifying Informative Environments for Cognition Parameter Inference via Bayesian Experimental Design** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28894
+  - arXiv:2607.28894v1 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a principled framework for such inference, but its success depends critically on the experimental environment. 
+- 🟢 **NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28942
+  - arXiv:2607.28942v1 Announce Type: new Abstract: Recently Large Language Models (LLMs) have been increasingly deployed as autonomous agents in applications such as self-reflection, retrieval-augmented generation, and scientific discovery. In these settings, agents must act based on limited observatio
+- 🟢 **MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28956
+  - arXiv:2607.28956v1 Announce Type: new Abstract: Large language model agents are increasingly evaluated as autonomous tool users, yet most benchmarks focus on bounded tasks with immediate success criteria. Real-world deployments often require Long-Term Coherence, the capacity to preserve purposeful b
+- 🟢 **Scaling Scientific Discovery Environments for Turn-Level Agentic RL** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28990
+  - arXiv:2607.28990v1 Announce Type: new Abstract: Large language model agents have shown promising capabilities in data-driven scientific discovery tasks, where an agent interacts with an execution environment and produces a statistical claim. Long-horizon scientific analysis remains constrained by th
+- 🟢 **MMShopBench: A Real-Log Benchmark for Multimodal, Multi-Turn Shopping Agents** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29002
+  - arXiv:2607.29002v1 Announce Type: new Abstract: Online shoppers increasingly turn to AI shopping assistants, using images and multi-turn dialogue to express and refine product needs that are difficult to articulate in text alone. However, existing benchmarks largely rely on text-only or synthetic re
+- 🟢 **Evidence-Grounded Constraint Checking in Construction Documents** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29058
+  - arXiv:2607.29058v1 Announce Type: new Abstract: Professional-document review is a constraint-checking problem in which decisions depend on relations among text, geometry, pages, and document revisions. We present an evidence-grounded pipeline that normalizes extracted facts, executes four-state rule
+- 🟢 **On the Generalization of Steering Vectors for Chain-of-Thought Faithfulness** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29062
+  - arXiv:2607.29062v1 Announce Type: new Abstract: Model capabilities have improved in large part due to scaling chain of thought. This has been a promising development for AI safety--where models verbalize their reasoning, it is possible to monitor it. However, in some cases, models do not verbalize i
+- 🟢 **A Generalized-Bayes Perspective on Counterfactual Explanations: Posterior-Based Decision-Making and Evaluation** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29077
+  - arXiv:2607.29077v1 Announce Type: new Abstract: Counterfactual explanations (CEs) enhance the interpretability of machine learning models by identifying the smallest change to an input required to obtain a desired output. Although CEs are conventionally formulated as a distance-minimization problem,
+- 🟢 **Harnessing the Wisdom of LLM Crowds through Complementarity-Driven Iterative Collaboration** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29087
+  - arXiv:2607.29087v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in enterprise settings, yet individual models remain bounded by model-specific capability limitations. These heterogeneous boundaries pose a deployment challenge, but also create an opportunity: st
+- 🟢 **CAGE: Certified Authorization under Typed-Return Uncertainty for Tool-Using Agents** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29190
+  - arXiv:2607.29190v1 Announce Type: new Abstract: Tool-using LLM agents act on typed tool returns, records pairing provenance and categorical fields with numerical values. Runtime permission gates generally authorize the observed return and action, leaving the decision unprotected against small errors
+- 🟢 **MirrorCraft: Paired Evaluation under Hidden Rule Changes in Minecraft** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29218
+  - arXiv:2607.29218v1 Announce Type: new Abstract: With the prosperity of the large language models (LLMs), it has become an interesting topic: how do LLM-based agents work in Minecraft? Unfortunately, most existing benchmarks evaluate them under fixed game mechanics. High performance in these settings
+- 🟢 **Don't Mix Rewards, Mix Policies: Policy Decomposition and Optimization for Multi-Reward RL** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29246
+  - arXiv:2607.29246v1 Announce Type: new Abstract: Modern large language models (LLMs) are expected not just to answer correctly, but to adapt their behavior to different human values and use cases. As a result, multi-reward reinforcement learning (RL) has become an increasingly important problem for L
+- 🟢 **Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29254
+  - arXiv:2607.29254v1 Announce Type: new Abstract: AI agents extend large language models (LLMs) with external tools, enabling them to perform complex tasks and translate model outputs into consequential real-world actions. Yet LLMs often become substantially less safe when deployed as agents, and the 
+- 🟢 **MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29320
+  - arXiv:2607.29320v1 Announce Type: new Abstract: Graphical user interface (GUI) agents based on large language models are increasingly deployed across mobile, web, and desktop environments. However, existing agents are typically domain-specific, limiting the deployment and user experience. This motiv
+- 🟢 **Beyond Component Testing: Validating Agentic AI Systems** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29405
+  - arXiv:2607.29405v1 Announce Type: new Abstract: Agentic AI systems act through multi-step trajectories that combine planning, tool use, memory, interaction, and adaptation. This behavior stretches validation practice beyond component testing and one-shot input--output evaluation, because acceptable 
+- 🟢 **ModelEquivBench: Certifying Multi-Relational Evaluation of LLM-Generated Optimization Models** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29431
+  - arXiv:2607.29431v1 Announce Type: new Abstract: Large language models increasingly generate optimization models from natural language, but existing evaluation often reduces a generated model and its ground truth to a single equivalent/not-equivalent verdict or an execution-success rate--labels that 
+- 🟢 **Beyond Retrieval: Analytic Memory for Multimodal Agents** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29440
+  - arXiv:2607.29440v1 Announce Type: new Abstract: Long-term multimodal memory must support not only retrieving relevant information but also computing over observations accumulated across interactions. Existing systems largely emphasize \emph{retrieval memory}, organizing interaction histories through
+- 🟢 **Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29468
+  - arXiv:2607.29468v1 Announce Type: new Abstract: Self-play agents can generate training problems without questions from target benchmarks, but their curricula lack persistent state: failures affect gradients yet do not explicitly shape future practice. External skill memories preserve procedural expe
+- 🟢 **AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29549
+  - arXiv:2607.29549v1 Announce Type: new Abstract: Large language models have demonstrated strong mathematical problem-solving capabilities, yet reliably verifying their candidate answers remains challenging. Existing representative methods mainly revise outputs through natural-language reflection or a
+- 🟢 **COntExt: Towards Context-Aware Ontology Extension from Operational Metrics** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29553
+  - arXiv:2607.29553v1 Announce Type: new Abstract: Organizations increasingly define operational metrics in structured, machine-readable formats to monitor systems, processes, and compliance. These metric definitions implicitly encode domain knowledge, such as referencing concepts, properties, and rela
+- 🟢 **LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29559
+  - arXiv:2607.29559v1 Announce Type: new Abstract: Reinforcement Learning (RL) systems are typically trained using a single, well-specified scalar reward function. However, real-world decision-making tasks often involve multiple, competing objectives, such as performance versus efficiency, where ground
+- 🟢 **DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29577
+  - arXiv:2607.29577v1 Announce Type: new Abstract: Games and simulators make valuable benchmarks by turning decisions into measurable outcomes, but many current suites under-test rules-rich tactical reasoning: the ability to choose well when geometry, timing, resources, objectives, and rule interaction
+- 🟢 **Can LLMs Really Understand Item Difficulty Levels? Implications for Automated Item Generation Using LLMs** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28634
+  - arXiv:2607.28634v1 Announce Type: new Abstract: The estimation of item difficulty plays a key role in both formative assessment and large-scale high-stakes summative assessments. This study explores how large language models (LLMs) perform in predicting item difficulty levels using items from a larg
+- 🟢 **Imbalanced Data Clustering via Targeted Data Augmentation Using GMM and LLM** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28635
+  - arXiv:2607.28635v1 Announce Type: new Abstract: In Natural Language Processing (NLP), dealing with underrepresented topics is challenging, especially in unsupervised tasks where clustering might not adequately capture minority topics. To tackle this challenge, our paper presents a novel unsupervised
+- 🟢 **Chain-of-Models: Cross-Model Auditing for Bias-Robust LLM Judges** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28636
+  - arXiv:2607.28636v1 Announce Type: new Abstract: LLMs increasingly serve as automated judges, but their judgments remain vulnerable to cognitive biases. Existing mitigations mostly rely on prompt-driven debiasing, which is brittle across bias types, or human evaluation, which does not scale. We study
+- 🟢 **ZeroR@CHiPSAL 2026: Two-Stage Vision-Language Adaptation with Contrastive Learning for Nepali Meme Classification** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28637
+  - arXiv:2607.28637v1 Announce Type: new Abstract: This paper presents our system for the CHiPSAL 2026 shared task on multimodal hate speech and sentiment detection in Nepali memes. We address both subtasks: binary hate speech classification and three-class sentiment analysis. Our approach adapts the R
+- 🟢 **Learning Stateful Predictive Knowledge From Experience** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28638
+  - arXiv:2607.28638v1 Announce Type: new Abstract: As large language model (LLM) agents increasingly learn from experience, they primarily rely on trajectory-level reflection to extract insights. Viewed through the lens of predictive knowledge, we argue that this approach operates on episodic hindsight
+- 🟢 **The Asymmetric Effects of Knowledge Distillation on Bias in Small Language Models** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28639
+  - arXiv:2607.28639v1 Announce Type: new Abstract: We show that knowledge distillation in small instruction-tuned language models has asymmetric effects on bias. On unambiguous tasks (BBQ-disambig), response-based distillation from a Gemma-2-9B teacher improves context-following: for the most biased ba
+- 🟢 **TokenSwap: Benchmarking and Reducing the Modality Gap in Multimodal LLMs** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28640
+  - arXiv:2607.28640v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) should generate consistent responses given semantically equivalent inputs across modalities. However, we observe a systematic discrepancy in model predictions under such cross-modal variations. Specifically, we 
+- 🟢 **The Formalism Trap: Are LLM-as-a-Judge Evaluators Blinded by Consensus Mimicry under Social Load?** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28641
+  - arXiv:2607.28641v1 Announce Type: new Abstract: We introduce the \textit{Agentic Formalism Trap} and the Evaluative Dissonance Index ($D_E$), quantifying how LLM-as-a-Judge systems conflate structural proceduralism with semantic truth under adversarial load. Analyzing 22,500 trajectories across 3 do
+- 🟢 **Evaluating Federated Pre-Training: On the Reliability of Downstream Fine-Tuning and Intrinsic Evaluation** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28658
+  - arXiv:2607.28658v1 Announce Type: new Abstract: Federated pre-training offers a way to train foundation models on private or distributed data without centralizing the underlying datasets. However, evaluating federated pre-training remains challenging because differences in client participation and l
+- 🟢 **Are the Financial Reasoning from LLMs Credible? A Real World Test over Long-Horizon Statements** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28661
+  - arXiv:2607.28661v1 Announce Type: new Abstract: Do Large Language Models (LLMs) possess genuine structural reasoning, or merely rely on surface-level pattern matching? The financial domain, demanding numerical precision and multi-step logic over long contexts, is an ideal testbed. Existing benchmark
+- 🟢 **The Checking Problem: What must be true before AI ships in a regulated firm** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28666
+  - arXiv:2607.28666v1 Announce Type: new Abstract: Enterprise AI programmes stall at a rate that is widely quoted and poorly explained. This paper measures the mechanism. Six document-heavy workflows of the kind performed daily in regulated financial services were run across four model families and thr
+- 🟢 **TELLER: Dual-Path Iterative Preference Optimization for Table Entity Linking** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28680
+  - arXiv:2607.28680v1 Announce Type: new Abstract: Entity linking in tables matches short and ambiguous cell mentions to their corresponding knowledge-base entities. Existing approaches typically rely on data preprocessing pipelines that retain either compact or extensive table content as contextual ev
+- 🟢 **Demystifying Entropy-based Selection for Chain-of-Thought Compression in Large Reasoning Models** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28707
+  - arXiv:2607.28707v1 Announce Type: new Abstract: Entropy-based pruning has been proposed as an effective method for compressing Chain-of-Thought (CoT) reasoning with negligible accuracy loss. We test the robustness of low- and high-entropy CoT step selection methods across various models and reasonin
+- 🟢 **The Morphological Core of Dungan: A Two-Dialect Finite-State Model and a Multi-Genre Evaluation** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28766
+  - arXiv:2607.28766v1 Announce Type: new Abstract: Dungan, a Sinitic language of Central Asia written in a Cyrillic-based script, is described in detail in the grammatical literature, yet the quantitative properties of its morphology in actual usage have, to the best of our knowledge, never been measur
+- 🟢 **Self-Supervised Skill Optimization** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28777
+  - arXiv:2607.28777v1 Announce Type: new Abstract: Agent skills provide frozen large language model (LLM) agents with reusable procedural guidance, and recent work shows that such skills can be optimized with ground-truth (GT) feedback. Many applications, however, lack GT labels, task scores, rewards, 
+- 🟢 **Benchmarks Are Not Monolithic: Sample-Level Auditing and Orchestration for LLM Evaluation** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28801
+  - arXiv:2607.28801v1 Announce Type: new Abstract: Benchmark datasets are central to evaluating Large Language Models (LLMs), yet they are typically conceived as monolithic tasks, obscuring substantial variation in the demands of individual samples. We introduce a dataset-centric meta-evaluation framew
+- 🟢 **Rolling With Resistance: Preference-Optimized LLM Counselors Can Trade Goal Persistence for Relational Attunement in Motivational Interviewing** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28814
+  - arXiv:2607.28814v1 Announce Type: new Abstract: In Motivational Interviewing (MI), a client's sustain talk (arguments for the status quo) calls for the counselor to roll with resistance, a move that can fail in two opposite ways: capitulation (abandoning the change agenda to preserve rapport) or con
+- 🟢 **Benchmarks Are Not Validation: A System-Level View of Financial LLM Applications** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28840
+  - arXiv:2607.28840v1 Announce Type: new Abstract: Large language models are increasingly deployed in financial applications that combine retrieval, proprietary data, tool use, orchestration logic, monitoring, and human escalation. Yet evaluation often remains model-centric: benchmark scores, task accu
+- 🟢 **TextCloak: Thwarting Unauthorized LLM Exploitation via RL-Driven Unlearnable Text** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28862
+  - arXiv:2607.28862v1 Announce Type: new Abstract: The rapid development of Large Language Models (LLMs) has led to significant advances across a wide range of language tasks, while simultaneously raising growing concerns about unauthorized data exploitation and privacy leakage. Unlearnable examples (U
+- 🟢 **Token-Level Diagnosis of Sycophancy in LLMs with Attribution-Guided Steering** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28906
+  - arXiv:2607.28906v1 Announce Type: new Abstract: Sycophancy refers to the tendency for large language models (LLMs) to match user beliefs at the cost of factual correctness, thereby undermining model reliability. Prior work on evaluating sycophancy in LLMs aims to assess whether a model's output matc
+- 🟢 **FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28934
+  - arXiv:2607.28934v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly involved in the distribution of scarce resources, raising concerns about biased allocations based on characteristics like race and gender. Recent LLM audits have produced inconsistent results, however, find
+- 🟢 **BLADE: Boundary-Expanded and Layer-Adaptive Dynamic Exit for Efficient LLM Reasoning** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28966
+  - arXiv:2607.28966v1 Announce Type: new Abstract: Large language models often improve task performance by generating long reasoning traces, but the resulting computation is frequently wasted on redundant verification and revision. Existing probe-based early-exit approaches mainly inspect explicit self
+- 🟢 **Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28979
+  - arXiv:2607.28979v1 Announce Type: new Abstract: Heterogeneous Large Language Model (LLM) systems increasingly rely on shared contexts, retrieved evidence, and multi-agent dialogue histories, yet their internal key-value (KV) caches remain model-specific and cannot be reused across architectures. Con
+- 🟢 **PARALLEL: A Prefrontal-Aligned Reinforcement inspired Approach for Language-Model Learning under Explicit Limits** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28982
+  - arXiv:2607.28982v1 Announce Type: new Abstract: Recent language models achieve strong performance across a variety of tasks, but conventional adaptation applies updates uniformly across training samples regardless of their local update benefit. We propose PARALLEL, a prefrontal-aligned reinforcement
+- 🟢 **From Inline Notes to Collected Commentaries: Toward Context-Preserving Organization of Exegetical Knowledge in Classical Chinese Texts** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29044
+  - arXiv:2607.29044v1 Announce Type: new Abstract: Inline notes and collected commentaries are important forms of scholarly communication that evolved within the Confucian exegetical tradition, yet have received little computational attention. Drawing on traditional Chinese exegetics and philology, thi
+- 🟢 **Tokenizer-Agnostic Engram Module** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29065
+  - arXiv:2607.29065v1 Announce Type: new Abstract: Deepseek's Engram, a conditional memory module, was introduced to trade-off storage versus reasoning in large language models. However, the module relies on token-level $N$-gram hashing for Engram embedding lookup, introducing a tight coupling to the t
+- 🟢 **Semantics of Subterfuge: Benchmarking Legal Deception Detection Against General-domain State-of-the-Art** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29066
+  - arXiv:2607.29066v1 Announce Type: new Abstract: Deception detection has critical implications for legal proceedings, law enforcement, and online security. Although human judgment is limited in accuracy and scalability, Natural Language Processing (NLP) offers a data-driven alternative. We present a 
+- 🟢 **Faster but Different: Diagnosing and Controlling Content Drift in Accelerated Multimodal Diffusion Language Models** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29079
+  - arXiv:2607.29079v1 Announce Type: new Abstract: Training-free acceleration makes diffusion-based multimodal large language models (dMLLMs) more deployable, but it may silently change generated content. We study this serving-time consistency problem on 300 real images, comparing Fast-dLLM outputs wit
+- 🟢 **Can Zero-Shot LLMs Predict Child Malnutrition? A Fairness and Temporal Robustness Study** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29082
+  - arXiv:2607.29082v1 Announce Type: new Abstract: Child malnutrition remains a major public health challenge in low- and middle-income countries, particularly in South Asia, where early identification of vulnerable children is critical for timely intervention and resource allocation. This study aims t
+- 🟢 **M3-DuplexBench: A Multi-Turn, Multilingual, Multidomain Benchmark for Full-Duplex Spoken Dialogue Models** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29125
+  - arXiv:2607.29125v1 Announce Type: new Abstract: Full-duplex spoken dialogue systems (FDSDSs) can listen while speaking, enabling natural behaviors such as smooth turn-taking, backchannel handling, and user barge-in handling. However, fair comparisons in multi-turn conversations remain a challenge. I
+- 🟢 **Authorship Verification of Transcribed German-Language Videos** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29168
+  - arXiv:2607.29168v1 Announce Type: new Abstract: Authorship Verification (AV) represents an important subfield of digital text forensics and addresses the fundamental question of whether two texts were written by the same author. Although the field has made substantial progress over the past two deca
+- 🟢 **Learning Latent Reasoning Traces for Scalar Reward Models End-to-End** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29185
+  - arXiv:2607.29185v1 Announce Type: new Abstract: Reward models (RMs) are central to aligning large language models with human preferences via reinforcement learning. Although traditional scalar RMs enable efficient and probabilistic reward modeling, they rely on superficial cues that fail to generali
+- 🟢 **Detecting Experiential Intertextuality Across Migration Routes: Beyond Surface Similarity in French Narratives** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29188
+  - arXiv:2607.29188v1 Announce Type: new Abstract: Migrants traversing geographically distinct routes such as the Trans-Saharan and Balkan corridors often recount strikingly parallel lived experiences: police violence, smuggler exploitation, dangerous crossings, and family separation. We introduce the 
+- 🟢 **Hy-MultiTurn: A Six-Dimensional Benchmark for Deep Multi-Turn Dialogue Understanding** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29196
+  - arXiv:2607.29196v1 Announce Type: new Abstract: Long-running multi-turn interactions with chatbots and agents are now common, and a correct response often depends on remembering earlier details, tracking later revisions, identifying intended objects or referents, and withholding action when required
+- 🟢 **Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29211
+  - arXiv:2607.29211v1 Announce Type: new Abstract: Large language models generate computationally expensive yet semantically void reasoning on beyond-capability tasks, creating risks where plausible-sounding but incorrect derivations mislead users. We characterize this \textit{futile reasoning} phenome
+- 🟢 **Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29238
+  - arXiv:2607.29238v1 Announce Type: new Abstract: InMyStyle is a privacy first, single user system that adapts small language models to rewrite AI-edited text towards an individual user's writing style without an instruction prompt at inference. Given a user's documents, it uses multiple local helper 
+- 🟢 **Data Turnstile: A Scalable Open Framework for Function-Calling Data Generation** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29250
+  - arXiv:2607.29250v1 Announce Type: new Abstract: Small language models (SLMs) are attractive for agentic deployment due to low latency, reduced cost, and on-device privacy, yet they struggle with tool-use tasks where training data is scarce and noisy. Unlike larger models, SLMs cannot compensate for 
+- 🟢 **CalibratedRubric: Task-Adaptive Rubric Banks for Open-Ended LLM Evaluation** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29252
+  - arXiv:2607.29252v1 Announce Type: new Abstract: Reliable evaluation of open-ended LLM outputs requires fine-grained rubrics, yet expert curation is costly and difficult to scale. Existing automated pipelines rely on strict judge unanimity and binary variance filters, which cannot distinguish measura
+- 🟢 **Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29287
+  - arXiv:2607.29287v1 Announce Type: new Abstract: Multi-domain machine translation (MDMT) poses a unique challenge due to varying levels of linguistic complexity across domains. Inspired by human translators' ability to adapt reasoning effort based on difficulty, we propose TwT (Translation with Thoug
+- 🟢 **Cross-Lingual Transfer for Machine Translation in Turkic Languages** — arXiv cs.CL — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29355
+  - arXiv:2607.29355v1 Announce Type: new Abstract: Cross-lingual transfer is central to low-resource machine translation, but its behavior within closely related language families remains insufficiently characterized. We study transfer among five Turkic languages; Turkish, Azerbaijani, Uzbek, Kazakh, a
+- 🟢 **Topology-Aware Data Movement for Disaggregated GPU Inference** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28633
+  - arXiv:2607.28633v1 Announce Type: new Abstract: Disaggregated LLM inference creates a datacenter networking problem that no existing system solves correctly. When prefill and decode run on separate GPU pools, the KV cache must be transferred between them. For a 70B model this is 2.6 GB per request, 
+- 🟢 **Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28665
+  - arXiv:2607.28665v1 Announce Type: new Abstract: Automated driving systems (ADSs) are becoming ubiquitous. Future Software Defined Vehicles (SDVs) may be able to run multiple ADSs, both native and aftermarket such as Comma.ai's Openpilot. Monitoring systems to independently verify which automated dri
+- 🟢 **Guarantees on Dynamical System Distinguishability for LLM Token Generation** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28667
+  - arXiv:2607.28667v1 Announce Type: new Abstract: Recent work has shown that classifying large language models (LLMs)' responses can be distinguished by modeling token embeddings as trajectories of a black-box dynamical system (DS) and comparing prediction residuals of two DSs. Despite the empirical s
+- 🟢 **LARA: Lightweight Adapters in the Residual Stream for Composable Adaptation and Alignment** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28669
+  - arXiv:2607.28669v1 Announce Type: new Abstract: We present LARA (Lightweight Additive Residual Adaptation), a method for efficient adaptation that operates in the residual stream of a frozen model rather than in its weights. Where LoRA adds an update of low rank to weight matrices, LARA reads the hi
+- 🟢 **Hierarchical Copula-Gumbel-Top-\texorpdfstring{$K$}{K} Routing: Two-Sided Dependence Control for Frozen Mixture-of-Experts at Fixed Per-Token Routing Laws** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28670
+  - arXiv:2607.28670v1 Announce Type: new Abstract: A stochastic Gumbel-Top-$K$ router defines, for every token of a mixture-of-experts (MoE) model, a \emph{routing law}: a distribution over ordered expert lists and mixture weights. We ask which \emph{joint} distributions over the routing choices of dif
+- 🟢 **LAWFUL: Law-Aligned Witness for Faithful Use of Latents** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28672
+  - arXiv:2607.28672v1 Announce Type: new Abstract: When a neural network predicts a physical system accurately, has it learned the governing law as formal, structured knowledge, and if so, does the network's internal computation actually use that representation throughout the law's domain of validity? 
+- 🟢 **MPP-GNN: Subject-Adaptive Community Detection for fMRI-Based Alzheimer's Disease Classification** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28681
+  - arXiv:2607.28681v1 Announce Type: new Abstract: Functional magnetic resonance imaging (fMRI) is a widely used technique for studying the brain. Recent methods that utilize graph neural networks (GNNs) for analysis of brain functional connectivity have shown great potential for the classification of 
+- 🟢 **Technological Advances in Detecting and Managing Cognitive Impairment in Older Adults: Trends, Challenges, and Future Directions** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28687
+  - arXiv:2607.28687v1 Announce Type: new Abstract: As populations age, cognitive decline from mild cognitive impairment (MCI) to dementia is a defining health challenge of the coming decades, yet routine assessment often misses its earliest signs. This article critically synthesizes recent technologica
+- 🟢 **SEDR-Seq2P: A Lightweight Dilated Residual Sequence-to-Point Network for Multi-Task Industrial NILM** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28693
+  - arXiv:2607.28693v1 Announce Type: new Abstract: Industrial NILM remains challenging because measurement noise and widespread concurrent machine operation reduce the generalization of models tuned on residential data. This work adopts a one-to-many, multi-task disaggregation setting, in which a singl
+- 🟢 **Predicting Steel Fatigue Life from Micrographs Using Physics-Informed Deep Learning** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28695
+  - arXiv:2607.28695v1 Announce Type: new Abstract: Here is the plain text version optimized for arXiv's submission form. Custom macros (like \CV and \SI) have been converted to standard text/math so they render correctly on the webpage: Evaluating the fatigue life of structural steels conventionally re
+- 🟢 **Mitigating Class-Tail Undercoverage in Medical Vision-Language Models under Clinical Shift** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28696
+  - arXiv:2607.28696v1 Announce Type: new Abstract: Medical vision-language models (VLMs) can retain high observed marginal coverage after clinical shift while substantially under-covering an individual disease class. The affected class varies with acquisition protocol and backbone geometry, so source p
+- 🟢 **Flow Matching with Missing Data** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28698
+  - arXiv:2607.28698v1 Announce Type: new Abstract: Flow matching assumes fully observed training data, which many real-world applications rarely provide. We propose Missing-Data Flow Matching, which treats the missing coordinates of training samples as latent variables and averages the flow matching lo
+- 🟢 **MMFGU: Multimodal Federated Graph Unlearning** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28708
+  - arXiv:2607.28708v1 Announce Type: new Abstract: Multimodal federated graph learning enables clients to collaboratively train graph models over structural, textual, and visual signals without sharing private local data. However, the presence of heterogeneous multimodal content also makes unlearning r
+- 🟢 **Mirror Learning** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28737
+  - arXiv:2607.28737v1 Announce Type: new Abstract: We investigate imitation learning through the lens of third-person observation and propose a framework for mirror learning: acquiring actionable policies from passive observation. While behavior cloning (BC) excels under dense, well-aligned first-perso
+- 🟢 **TAGTorch: A PyTorch Library for Geometry, Topology, and Symmetry-Aware Machine Learning** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28755
+  - arXiv:2607.28755v1 Announce Type: new Abstract: Over the last decade, neural networks have been applied to an increasingly diverse range of applications, including data with rich geometric, topological, or symmetry-related structure. As a result, researchers have increasingly drawn inspiration from 
+- 🟢 **Feature Interaction Modeling for Physics-Informed Neural Networks and Neural Operators** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28762
+  - arXiv:2607.28762v1 Announce Type: new Abstract: This work embeds feature interaction modules derived from factorization machines (FMs) into physics-informed neural networks (PINNs) and neural operator learning, to enhance model expressiveness for solution manifolds of parameterized partial different
+- 🟢 **Representations from Pretrained Machine-Learning Interatomic Potentials as Coarse Coordinates for Material Generation and Evaluation** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28776
+  - arXiv:2607.28776v1 Announce Type: new Abstract: Generative machine learning is increasingly used for inorganic crystal structure generation. Most models and the corresponding evaluation approaches rely on simple forms of crystal structure representation. In this paper, we showcase the power of atom-
+- 🟢 **Distilling Knowledge from Large Language Models into Lightweight Reinforcement Learning Agents for Autonomous Cyber Operations** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28826
+  - arXiv:2607.28826v1 Announce Type: new Abstract: Autonomous Cyber Operations (ACO) are increasingly important for defending enterprise networks as cyber threats continue to evolve in sophistication. ACO applications commonly employ Reinforcement Learning (RL) agents to learn defensive behaviors throu
+- 🟢 **Hypergradient-based Bilevel Reinforcement Learning with Improved Sample Complexity** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28849
+  - arXiv:2607.28849v1 Announce Type: new Abstract: Bilevel reinforcement learning (RL) is an important framework within the literature of RL that can be used to formalize various categories of problems, such as meta-learning, hierarchical task decomposition, and reinforcement learning from human feedba
+- 🟢 **An analysis of machine learning approaches for enhancing decision-making in complex discrete choice tasks** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28854
+  - arXiv:2607.28854v1 Announce Type: new Abstract: Discrete choice modeling is a common tool used for preference elicitation during policy-making, but this is typically done through parametric models. Machine learning can push the boundaries of discrete choice modeling for policy-based preference elici
+- 🟢 **Fast Rates for Swap-Agnostic Learning of Proper Losses** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28856
+  - arXiv:2607.28856v1 Announce Type: new Abstract: Swap-agnostic learning strengthens classical agnostic learning by allowing the comparator to select a different hypothesis on each level set of the learner's predictions. This benchmark captures prediction-dependent postprocessing, but appears to requi
+- 🟢 **Adaptivity via a Parallel Architecture for Stochastic Gradient Methods Adaptivity via a Parallel Architecture for Stochastic Gradient Methods Adaptivity via a Parallel Architecture for Stochastic Gradient Methods** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28902
+  - arXiv:2607.28902v1 Announce Type: new Abstract: We develop a parallel framework that assembles static gradient methods to achieve better adaptivity. A static gradient method, denoted by $\mathrm{GD}(x_0,T)$, takes as input an initial point $x_0\in\mathbb{R}^n$ and $T\in \mathbb{R}^+$ specifying the 
+- 🟢 **Reflection or Re-Generation? Why LLM Revision Fails Where Human Revision Succeeds** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28908
+  - arXiv:2607.28908v1 Announce Type: new Abstract: Reflection, the ability to revisit and revise prior reasoning, is central to how humans improve their answers. Large language models (LLMs) are increasingly prompted to "reflect," yet whether this resembles human revision remains unclear. We introduce 
+- 🟢 **Gated Q-learning: Add Off-Policy Bias to Taste** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28916
+  - arXiv:2607.28916v1 Announce Type: new Abstract: Multistep credit assignment is critical for sample-efficient reinforcement learning, yet managing off-policy bias in Q-learning remains a fundamental challenge. For 30 years, practitioners have been limited to a binary choice: eliminate the bias at the
+- 🟢 **Learning Optimal Dynamic Matching via Graph Neural Networks** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28925
+  - arXiv:2607.28925v1 Announce Type: new Abstract: Dynamic matching markets require decisions about whom to match and when: matching now yields value but removes participants who may create better future opportunities. We develop a value-based reinforcement-learning framework for this problem on finite
+- 🟢 **Latent Lie-Poisson Neural Networks (LLPNNs): Discovering the motion of Lie-Poisson systems through observable data and latent dynamics** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28939
+  - arXiv:2607.28939v1 Announce Type: new Abstract: Structure-preserving neural networks are essential for the long-term prediction of Hamiltonian systems from data. Many important Hamiltonian systems in mechanics and control admit symmetry reduction to Lie--Poisson systems, including rigid bodies, unde
+- 🟢 **FairDiffuseVQVAE: Sampling-Time Fairness in Tabular Diffusion via Conditional Refinement of Vector-Quantized Latents** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28945
+  - arXiv:2607.28945v1 Announce Type: new Abstract: Synthetic tabular data is increasingly used in privacy-preserving data sharing, data augmentation, and to mitigate downstream classifier bias. State-of-the-art tabular diffusion models such as TabDDPM and TabSyn achieve excellent distributional fidelit
+- 🟢 **Shapley-Value-Based Feature Attribution for Data Masking** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28946
+  - arXiv:2607.28946v1 Announce Type: new Abstract: Despite its many benefits, widespread access to individuals' personal data also causes severe privacy concerns for consumers, companies, and policymakers. This study proposes a novel framework that adapts the Shapley-value-based feature attribution app
+- 🟢 **Overcoming the Weakest-Link Effect in LLM-Driven Program Optimization via Heterogeneous Edit Recombination** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28947
+  - arXiv:2607.28947v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to solve complex problems by searching over program space, offering a general paradigm for scientific problems that can be naturally represented and solved as programs. Despite recent progress, identif
+- 🟢 **Mining Verdict Boundaries for Neural Network Verification** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28954
+  - arXiv:2607.28954v1 Announce Type: new Abstract: Branch and Bound (BaB) aims to achieve complete verification of neural networks by adaptively partitioning the problem and applying off-the-shelf verifiers to subproblems. Its problem-splitting history can be represented as a tree, where each subproble
+- 🟢 **Efficient LLM Adversarial Training via Low-Rank Defense and Circuit-Guided Surrogates** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28959
+  - arXiv:2607.28959v1 Announce Type: new Abstract: Adversarial training is one of the most effective defenses against adversarial attacks, yet the computational cost remains prohibitive at modern scales, especially for large language models (LLMs). While existing mitigation strategies, e.g., latent adv
+- 🟢 **Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28980
+  - arXiv:2607.28980v1 Announce Type: new Abstract: Graph Foundation Models (GFMs) have recently emerged as a promising paradigm for enabling knowledge transfer across diverse domains. Unlike traditional graph learning methods that are typically designed for in-domain settings, GFMs aim to learn transfe
+- 🟢 **SILVA Networks as Structured Implicit Layers and Vector Attractors via Dynamic Interaction Fields** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28989
+  - arXiv:2607.28989v1 Announce Type: new Abstract: Many learning problems require representations that reconcile direct input, nearby structure, and broader context. In implicit neural layers, these influences are usually absorbed into a single fixed-point update, making it hard to identify what enters
+- 🟢 **Dynamics-aware identification of governing equations from sparse and noisy data** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29036
+  - arXiv:2607.29036v1 Announce Type: new Abstract: Sparse identification of nonlinear dynamics (SINDy) and PDE functional identification (PDE-FIND) recover parsimonious ordinary and partial differential equations (ODEs and PDEs) from data. However, sparse and noisy temporal measurements can make deriva
+- 🟢 **DFSC: Error-Controlled Differentiable Mittag-Leffler Propagation for Fractional Scientific Machine Learning** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29038
+  - arXiv:2607.29038v1 Announce Type: new Abstract: Fractional scientific machine learning requires numerical operators that can be differentiated, batched, accelerated, and composed with neural networks. When the dominant linear fractional evolution is known through a Mittag-Leffler propagator, repeate
+- 🟢 **Learning Lookahead Lemmas for Neural Network Verification** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29051
+  - arXiv:2607.29051v1 Announce Type: new Abstract: State-of-the-art neural network verifiers use the branch-and-bound procedure as their core solving mechanism. We introduce an inprocessing framework for neural network verification driven by the lookahead procedure. Under this framework, lookahead deri
+- 🟢 **Who Wins Where? Conformal Model Comparison for Local Superiority** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29053
+  - arXiv:2607.29053v1 Announce Type: new Abstract: Standard model comparison is global, aggregating losses across the covariate space to declare a single winner. This can obscure heterogeneous performance, where different models are preferable in different regions. We introduce conformalized local mode
+- 🟢 **Autonomous Repair for Multi-Agent Systems via Monte-Carlo Tree Search** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29055
+  - arXiv:2607.29055v1 Announce Type: new Abstract: Multi-agent systems (MAS) are increasingly deployed to solve complex tasks. In case of incorrect or unsatisfactory outputs, users have to manually locate agent mistakes by inspecting agent trajectories (i.e., {\em failure attribution}) and provide feed
+- 🟢 **Benchmarking Frontier Large Language Models Against Official Crash Database Coding Using Police Crash Narratives** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29064
+  - arXiv:2607.29064v1 Announce Type: new Abstract: Police crash narratives contain information that may supplement structured crash databases, but manual review is labor-intensive and it remains unclear how well large language models (LLMs) reproduce official crash coding. This study benchmarked six fr
+- 🟢 **Federated Foundation Models Fine-Tuning with Heterogeneous Compressed Clients** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29071
+  - arXiv:2607.29071v1 Announce Type: new Abstract: Federated learning of foundation models faces a fundamental resource-asymmetry challenge: the institutions holding the most valuable domain-specific data cannot host billion-parameter models. Existing heterogeneous federated approaches attempt to bridg
+- 🟢 **ReLoop-UME: Recurrent Depth with Learnable Retrieval Registers for Universal Multimodal Embedding** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28751
+  - arXiv:2607.28751v1 Announce Type: new Abstract: Universal multimodal embedding (UME) maps heterogeneous multimodal inputs into a shared embedding space. Existing UME models either form embeddings through single forward encoding or add computation through explicit rationale tokens and latent autoregr
+- 🟢 **SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28759
+  - arXiv:2607.28759v1 Announce Type: new Abstract: In X-ray CT, metallic objects cause beam hardening, photon starvation, and scattering, leading to projection inconsistency, streaks, dark bands, and structural distortions that compromise clinical diagnosis and quantitative analysis. Existing metal art
+- 🟢 **WaiT for the Signal: Simple Frequency-Aware Flow-Matching** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28760
+  - arXiv:2607.28760v1 Announce Type: new Abstract: As image generation models scale to ever higher resolutions, global coherence, local detail, and texture fidelity become critical axes for generation quality. However, standard flow matching treats all spatial frequencies uniformly, ignoring the natura
+- 🟢 **Uncertainty-Aware Deepfake Detection via Multi-View Structural Learning** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28769
+  - arXiv:2607.28769v1 Announce Type: new Abstract: Security-critical biometric and forensic applications require accurate predictions and reliable confidence estimates, particularly under distribution shift. This challenge is especially acute for deepfake detection, where foundation-model-based detecto
+- 🟢 **Do Medical Foundation Models Generalize on the African Brain?** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28771
+  - arXiv:2607.28771v1 Announce Type: new Abstract: Medical foundation models (FMs) are increasingly used for brain MRI analysis. However, their evaluation remains dominated by high-resource datasets, leaving generalization to African cohorts underexplored. We assess whether FMs generalize equally to Af
+- 🟢 **Can Synthetic Data Overcome the Generalization Limits of AI-Based Flower and Pod Detection Across Cowpea Breeding Genotypes and Environments?** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28796
+  - arXiv:2607.28796v1 Announce Type: new Abstract: High-throughput phenotyping requires AI-enabled computer vision models that generalize across genotypes, locations, and growing seasons, yet such models often lose accuracy under new conditions. Annotating real imagery for every genotype-by-environment
+- 🟢 **FocusGS: Spatial Delta Layers for Local Repair and Deterministic Editing of Trained 3D Gaussian Assets** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28834
+  - arXiv:2607.28834v1 Announce Type: new Abstract: 3D Gaussian Splatting (3DGS) is evolving from one-time reconstruction into deliverable, inspectable, and maintainable visual assets. Existing workflows focus on global reconstruction, training-time density control, or open-ended generative editing, lea
+- 🟢 **A Unified Benchmark of Deep Learning Models for Multi-task 3D Brain Tumor Segmentation from Magnetic Resonance Imaging** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28858
+  - arXiv:2607.28858v1 Announce Type: new Abstract: Automatic brain tumor segmentation from magnetic resonance imaging (MRI) has become a fundamental task in computer-assisted diagnosis, treatment planning, and disease monitoring. Although numerous deep learning architectures have recently been proposed
+- 🟢 **Physics-Aligned Self-Supervised Learning for Scientific Imaging** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28868
+  - arXiv:2607.28868v1 Announce Type: new Abstract: Data augmentations define the invariances learned by self-supervised learning (SSL). Standard augmentation pipelines were designed for natural images, yet scientific imaging modalities are governed by physical measurement processes with distinct symmet
+- 🟢 **Group-wise Supervision with Focal-Dice Loss for Long-Tailed Indoor Semantic Occupancy Prediction** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28935
+  - arXiv:2607.28935v1 Announce Type: new Abstract: Recently, 3D semantic occupancy prediction has garnered increasing attention for understanding the indoor scene. However, unlike structured outdoor environments, indoor scenes feature a high diversity of object categories that exhibit a severe long-tai
+- 🟢 **DiffAttack: Evasion Attacks Against Face Recognition via Latent Diffusion Models** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28936
+  - arXiv:2607.28936v1 Announce Type: new Abstract: Facial biometric identification relies on the distinctiveness of user attributes within a high-dimensional embedding space. However, the decision boundaries of deep face recognition (FR) systems are often sufficiently narrow that they can be conflated,
+- 🟢 **Automated classification method of COVID-19 cases from chest CT volumes using 2D and 3D hybrid CNN for anisotropic volumes** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28950
+  - arXiv:2607.28950v1 Announce Type: new Abstract: This paper proposes an automated classification method of chest CT volumes based on likelihood of COVID-19 cases. Novel coronavirus disease 2019 (COVID-19) spreads over the world, causing a large number of infected patients and deaths. Sudden increase 
+- 🟢 **Retrieval-Driven Training-Free AI-Generated Video Attribution** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28955
+  - arXiv:2607.28955v1 Announce Type: new Abstract: AI-generated videos are becoming increasingly realistic and difficult to distinguish from authentic ones, which facilitates malicious misuse and poses growing threats to cybersecurity and social governance. Attributing AI-generated videos to their spec
+- 🟢 **Visual Distribution Anchoring for Efficient Prompt Tuning** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28967
+  - arXiv:2607.28967v1 Announce Type: new Abstract: Prompt tuning adapts vision--language models with few trainable parameters, but existing approaches trade off efficiency and adaptation: static textual prompts can overfit source classes, image-conditioned prompts add per-instance computation, and mult
+- 🟢 **SafeNexus: Discovering and Steering Modality-Universal Safety Neurons in MLLMs** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28969
+  - arXiv:2607.28969v1 Announce Type: new Abstract: Although Large Language Models (LLMs) have demonstrated promising safety performance, extending them to Multimodal Large Language Models (MLLMs) exposes a significant gap between expanded multimodal capabilities and existing safety mechanisms. Current 
+- 🟢 **LegoQ: Density-Matrix Representation Learning with Spectral-Spatial State Transitions for Hyperspectral Classification** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28970
+  - arXiv:2607.28970v1 Announce Type: new Abstract: Hyperspectral image classification is complicated by mixed pixels, spectral ambiguity, class imbalance, and limited annotations. Most current classifiers encode a pixel or patch as a deterministic vector and apply a linear or multilayer softmax head. A
+- 🟢 **RAID: Towards Robust AI-Generated Image Detection with Bit-Reversed Images** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28974
+  - arXiv:2607.28974v1 Announce Type: new Abstract: The rapid advancement of image generation models has made it increasingly difficult for people to distinguish AI-generated images from real ones. To prevent the potential risks associated with the misuse of fake images, AI-generated image detection has
+- 🟢 **Classification of COVID-19 cases from chest CT volumes using hybrid model of 3D CNN and 3D MLP-Mixer** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28978
+  - arXiv:2607.28978v1 Announce Type: new Abstract: This paper proposes an automated classification method of COVID-19 chest CT volumes using improved 3D MLP-Mixer. Novel coronavirus disease 2019 (COVID-19) spreads over the world, causing a large number of infected patients and deaths. Sudden increase i
+- 🟢 **Adjudicated Captioning: Multi-Agent Alignment Scoring and Consensus-Distilled Beam Arbitration for Strict Zero-Shot Image Captioning** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28986
+  - arXiv:2607.28986v1 Announce Type: new Abstract: Zero-shot image captioning (ZIC) describes images without paired image-caption supervision during captioner training, relying on text-only corpora and frozen pretrained image-text scorers. Existing retrieval-augmented methods score image-text alignment
+- 🟢 **CAER: Conflict-Aware Evidence Routing with Dual Prefix Experts for Multimodal Large Language Models** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28991
+  - arXiv:2607.28991v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabilities in multimodal understanding and generation. However, when textual inputs conflict with visual evidence, they still suffer from hallucinations and produce responses incon
+- 🟢 **SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.28996
+  - arXiv:2607.28996v1 Announce Type: new Abstract: RGB imagery offers a practical, low-cost option for Unmanned Aerial/Ground Vehicle (UAV/UGV) survey support in surface-landmine detection, but object detectors remain underexplored in this safety-critical domain. Limited cross-architecture benchmarking
+- 🟢 **Evaluation-Verification Reward for Consistent Multi-Reference Image Editing** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29025
+  - arXiv:2607.29025v1 Announce Type: new Abstract: While recent image editing models have made rapid progress, multi-reference editing remains challenging, particularly in maintaining visual consistency across references and ensuring overall visual harmony. Reinforcement learning has proven highly effe
+- 🟢 **SAM+D: Parameter-Efficient Dimensional Lifting of SAM-Family Models via Depth-Routed LoRA and Depth Shifting** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29033
+  - arXiv:2607.29033v1 Announce Type: new Abstract: Existing methods for adapting 2D foundation models such as SAM to 3D volumes either process slices independently---ignoring inter-slice context---or require substantial architectural changes and retraining. In this paper, we present \textbf{SAM+D}, a p
+- 🟢 **GO-PRE: Goal-Oriented Next-Best-View Selection via Predictive Rendering Entropy for Active 3D Reconstruction** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29037
+  - arXiv:2607.29037v1 Announce Type: new Abstract: Active 3D reconstruction relies on active view selection to maximize reconstruction fidelity under limited capture budgets. However, most existing methods rely on surrogate signals such as parameter uncertainty or geometric heuristics, but these signal
+- 🟢 **ReMoE: Report-Guided Mixture-of-Experts for Multimodal OCT/OCTA Anomaly Detection** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29039
+  - arXiv:2607.29039v1 Announce Type: new Abstract: Multimodal medical anomaly detection identifies samples deviating from normal patterns, where scarce abnormal cases make normality modeling from normal data practical. In retinal Optical Coherence Tomography (OCT) and OCT Angiography (OCTA) anomaly det
+- 🟢 **Rethinking Detection Calibration: A Coordinate and Direction Perspective** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29040
+  - arXiv:2607.29040v1 Announce Type: new Abstract: Deep learning based object detectors require trustworthiness beyond competitive detection performance, but deep neural networks are prone to overconfident predictions, assigning high confidence scores to predictions that are likely to be inaccurate. To
+- 🟢 **Adaptive Emotional Video Captioning via Affective Heterogeneous Graph Reasoning and Multi-task Joint Learning** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29045
+  - arXiv:2607.29045v1 Announce Type: new Abstract: Emotional video captioning (EVC) aims to describe a video with both factual correctness and affective expressiveness. It requires a model to perceive subtle, ambiguous, and temporally varying emotional cues and translate them into natural language with
+- 🟢 **Parameter-Efficient Fine-Tuning for Spiking Point Cloud Models** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29048
+  - arXiv:2607.29048v1 Announce Type: new Abstract: Spiking Neural Networks (SNNs) offer energy-efficient solutions for point cloud analysis on resource-constrained devices through event-driven computation. However, existing pre-trained spiking point cloud models rely on full fine-tuning for downstream 
+- 🟢 **Learning from Adversity: Semantic-Aware Mask Refinement through Adversarial Perturbation** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29059
+  - arXiv:2607.29059v1 Announce Type: new Abstract: Despite significant advances in image segmentation, even state-of-the-art models produce masks with imperfect boundaries, semantic inconsistencies, and structural errors. Mask refinement addresses these limitations, yet current approaches rely on simpl
+- 🟢 **MHRGait: Gait Recognition from Momentum Human Rig Pose** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29083
+  - arXiv:2607.29083v1 Announce Type: new Abstract: Gait recognition is shaped by its input representation. Silhouettes encode projected body shape, skeletons encode sparse joint coordinates, and 3D meshes encode dense surface geometry. In each case, identity-bearing articulation is observed through geo
+- 🟢 **Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29106
+  - arXiv:2607.29106v1 Announce Type: new Abstract: Reconstructing animatable 3D human avatars from a single image remains particularly challenging for loose garments, whose geometry and motion cannot be adequately represented by body-aligned topology and skinning. We present Forwardrobe, a feed-forward
+- 🟢 **A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29122
+  - arXiv:2607.29122v1 Announce Type: new Abstract: Pixel-space diffusion models aim to learn an end-to-end generator directly over raw pixels. This is challenging because a single model must capture both global structure and local texture in the same high-dimensional space. While recent work improves p
+- 🟢 **SciFigPlag-Bench: A Benchmark for Provenance-Aware Scientific Figure Plagiarism Detection** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29124
+  - arXiv:2607.29124v1 Announce Type: new Abstract: Scientific figures often encode the visual evidence behind scientific findings, yet figure plagiarism remains underexplored as a benchmarked multimodal evaluation problem. We present SciFigPlag-Bench, a benchmark for provenance-aware reasoning over sci
+- 🟢 **First Investigation of Deep Learning for Intraoperative Gauze Segmentation in Minimally Invasive Abdominal Surgery** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29132
+  - arXiv:2607.29132v1 Announce Type: new Abstract: Surgical gauze is an essential part of surgical procedures, primarily used for controlling bleeding and absorbing bodily fluids. The post-surgical retention of gauze can lead to serious complications and necessitate additional surgery for its removal. 
+- 🟢 **On the Efficacy of Self-Supervised Point Cloud Encoders for Efficient 3D Large Language Models** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29136
+  - arXiv:2607.29136v1 Announce Type: new Abstract: 3D point cloud-language models (3D-LLMs) enable 3D understanding by pairing point cloud encoders with large language models, but existing methods rely on costly multi-modal encoders (e.g., ULIP-2) that require image-text-point cloud alignment on 8x A10
+- 🟢 **Have I Seen You? Embedding Behavior Signals Synthetic Face Dataset Membership** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29144
+  - arXiv:2607.29144v1 Announce Type: new Abstract: Synthetic face datasets are increasingly used to reduce privacy exposure and data access constraints in biometric recognition. Yet the generators that produce these datasets are trained on real faces, so synthetic data may still reveal their real sourc
+- 🟢 **Progressive Decision-Making for Localizing Open-Ended AI-Generated Image Forgeries** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29156
+  - arXiv:2607.29156v1 Announce Type: new Abstract: AI-generated image forgeries are becoming increasingly realistic and difficult to characterize with fixed manipulation patterns. As generative models continue to evolve, it is impractical to expect a localization model to exhaustively learn all possibl
+- 🟢 **MoRAE: Flow-Friendly Self-Supervised Latents for Text-to-Motion Generation** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29180
+  - arXiv:2607.29180v1 Announce Type: new Abstract: Text-to-motion generation must produce motions that are semantically correct, temporally coherent, and physically plausible. A natural approach is to first project motion data into a structured semantic space and then train a generative model within th
+- 🟢 **Locally Consistent Transductive Information Maximization for Few-Shot Remote Sensing Scene Classification** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29192
+  - arXiv:2607.29192v1 Announce Type: new Abstract: Remote sensing scene classification is increasingly relying on foundation models pre-trained on large-scale Earth-observation data. Moreover, transductive inference, which exploits the collective statistical structure of the entire unlabeled query set,
+- 🟢 **UltraSAM3: A Concept-Driven Foundation Model for Universal Ultrasound Image Segmentation** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
+  - https://arxiv.org/abs/2607.29200
+  - arXiv:2607.29200v1 Announce Type: new Abstract: Ultrasound imaging has become increasingly widespread in clinical practice due to its portability, low cost and real-time capability, making ultrasound image segmentation important. However, ultrasound images differ substantially from CT, MRI, and othe
 
 ## Phân tích
 
