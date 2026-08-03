@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T19:53:23.438934+00:00",
+  "generated_at": "2026-08-03T21:17:47.839396+00:00",
   "lookback_hours": 72,
   "item_count": 186,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 1,
-      "items_total": 1105
+      "items_kept": 2,
+      "items_total": 1106
     },
     {
       "source": "Google DeepMind",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 20
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-03T20:00:00+00:00",
+      "published_ts": 1785787200.0,
+      "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models."
+    },
     {
       "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
       "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
@@ -117,6 +127,16 @@
       "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
     },
     {
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-03T19:00:50+00:00",
+      "published_ts": 1785783650.0,
+      "summary": "Top scores increased by 5x."
+    },
+    {
       "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
       "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
       "source": "TechCrunch AI",
@@ -124,7 +144,7 @@
       "tier": "reputable",
       "published_iso": "2026-08-03T18:43:43+00:00",
       "published_ts": 1785782623.0,
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it "
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
     },
     {
       "title": "Trump’s AI protectionism has come for robotics",
@@ -147,7 +167,7 @@
       "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting wi"
     },
     {
-      "title": "Congress’s favorite AI tool? ChatGPT",
+      "title": "Congress’ favorite AI tool? ChatGPT",
       "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
       "source": "TechCrunch AI",
       "category": "Tin tức",
@@ -195,6 +215,16 @@
       "published_iso": "2026-08-03T08:30:05+00:00",
       "published_ts": 1785745805.0,
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage"
+    },
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-08-03T07:00:00+00:00",
+      "published_ts": 1785740400.0,
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
     },
     {
       "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
@@ -1925,36 +1955,6 @@
       "published_iso": "2026-07-31T21:19:39+00:00",
       "published_ts": 1785532779.0,
       "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper."
-    },
-    {
-      "title": "India is starting to pay for apps, not just download them",
-      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-31T21:07:45+00:00",
-      "published_ts": 1785532065.0,
-      "summary": "India's app market generated a record $345 million in Q2."
-    },
-    {
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-31T20:39:14+00:00",
-      "published_ts": 1785530354.0,
-      "summary": "Had the hacks used conventional methods, someone would likely go to prison."
-    },
-    {
-      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-31T20:21:05+00:00",
-      "published_ts": 1785529265.0,
-      "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool."
     }
   ]
 }

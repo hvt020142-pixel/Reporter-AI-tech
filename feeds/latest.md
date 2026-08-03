@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-03T19:53:23.438934+00:00 (UTC) — cửa sổ 72h — 186 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-03T21:17:47.839396+00:00 (UTC) — cửa sổ 72h — 186 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
 
+- 🟢 **How we built a realtime system for responsive voice AI in six months** — OpenAI — `2026-08-03T07:00:00+00:00`
+  - https://openai.com/index/continuous-voice-interaction-with-gpt-live
+  - GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.
 - 🟢 **Ten advances in mathematics and theoretical computer science** — OpenAI — `2026-08-01T00:00:00+00:00`
   - https://openai.com/index/ten-advances-in-mathematics
   - OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
@@ -509,19 +512,25 @@
 
 ## Tin tức
 
+- 🔵 **AWS is helping vibe-coding startup Superblocks, and the implications are big** — TechCrunch AI — `2026-08-03T20:00:00+00:00`
+  - https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
+  - AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.
 - 🔵 **DesignArena creators raise $7.9 million to bring taste to AI models** — TechCrunch AI — `2026-08-03T19:28:57+00:00`
   - https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/
   - DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
 - 🔵 **Influencers draw backlash for attending OpenAI’s first luxury trip** — TechCrunch AI — `2026-08-03T19:09:56+00:00`
   - https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/
   - OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.
+- 🔵 **An AI-supervised remote exam went so badly that 58,000 students must retake it** — Ars Technica AI — `2026-08-03T19:00:50+00:00`
+  - https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/
+  - Top scores increased by 5x.
 - 🔵 **Apple finally fixed Siri. So why does it feel anticlimactic?** — TechCrunch AI — `2026-08-03T18:43:43+00:00`
   - https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/
-  - Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it 
+  - Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.
 - 🔵 **Europe’s AI labeling and transparency rules are now in effect** — The Verge AI — `2026-08-03T17:38:45+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
   - The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting wi
-- 🔵 **Congress’s favorite AI tool? ChatGPT** — TechCrunch AI — `2026-08-03T16:40:55+00:00`
+- 🔵 **Congress’ favorite AI tool? ChatGPT** — TechCrunch AI — `2026-08-03T16:40:55+00:00`
   - https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/
   - House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.
 - 🔵 **China&#8217;s Alibaba takes another swipe at America’s AI supremacy** — The Verge AI — `2026-08-03T11:01:11+00:00`
@@ -563,15 +572,6 @@
 - 🔵 **Reddit keeps its strange DMCA fight over Google search results alive** — Ars Technica AI — `2026-07-31T21:19:39+00:00`
   - https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/
   - Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.
-- 🔵 **India is starting to pay for apps, not just download them** — TechCrunch AI — `2026-07-31T21:07:45+00:00`
-  - https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/
-  - India's app market generated a record $345 million in Q2.
-- 🔵 **Claude published malicious code to the Internet and attacked 3 real companies** — Ars Technica AI — `2026-07-31T20:39:14+00:00`
-  - https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
-  - Had the hacks used conventional methods, someone would likely go to prison.
-- 🔵 **Google Earth risked ruin with retracted AI tool for making fake satellite pics** — Ars Technica AI — `2026-07-31T20:21:05+00:00`
-  - https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/
-  - “What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
