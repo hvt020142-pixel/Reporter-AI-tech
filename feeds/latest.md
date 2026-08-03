@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-03T07:40:19.428591+00:00 (UTC) — cửa sổ 72h — 196 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-03T11:39:43.626202+00:00 (UTC) — cửa sổ 72h — 197 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -500,18 +500,24 @@
 
 ## Phân tích
 
+- 🔵 **Here’s why AI agents lie and cheat to reach their goals** — MIT Tech Review — `2026-08-03T08:30:05+00:00`
+  - https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/
+  - MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage
 - 🔵 **Fridays With Bob** — IEEE Spectrum AI — `2026-08-01T12:00:01+00:00`
   - https://spectrum.ieee.org/risk
   - When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challen
 - 🔵 **The Download: Montana’s new experimental drug rules** — MIT Tech Review — `2026-07-31T12:16:00+00:00`
   - https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through p
-- 🔵 **Montana’s new “right to try” law can’t come soon enough for some** — MIT Tech Review — `2026-07-31T09:00:00+00:00`
-  - https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/
-  - Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old
 
 ## Tin tức
 
+- 🔵 **China&#8217;s Alibaba takes another swipe at America’s AI supremacy** — The Verge AI — `2026-08-03T11:01:11+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai
+  - Chinese tech giant Alibaba released what it says is its largest and "most capable AI model to date," claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, wi
+- 🔵 **A Marc Benioff-backed startup thinks AI can solve the AI deployment problem** — TechCrunch AI — `2026-08-03T10:00:00+00:00`
+  - https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
+  - June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.
 - 🔵 **Sam Altman and AI’s decel debate** — TechCrunch AI — `2026-08-02T20:54:22+00:00`
   - https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/
   - On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to "pace the rate of AI development."
@@ -599,9 +605,6 @@
 - 🔵 **Anthropic says Claude accidentally hacked real companies too** — The Verge AI — `2026-07-31T13:41:17+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests
   - Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face,
-- 🔵 **How a Yale AI-cheating dispute became a 13-count federal lawsuit** — Ars Technica AI — `2026-07-31T11:00:52+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/
-  - A disputed exam, an unreliable detector, and one very late Apple Pages file.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
