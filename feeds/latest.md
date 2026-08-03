@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-03T18:01:59.435362+00:00 (UTC) — cửa sổ 72h — 186 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-03T19:53:23.438934+00:00 (UTC) — cửa sổ 72h — 186 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -494,6 +494,9 @@
 
 ## Phân tích
 
+- 🔵 **Trump’s AI protectionism has come for robotics** — MIT Tech Review — `2026-08-03T18:43:30+00:00`
+  - https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s 
 - 🔵 **The Download: reward hacking explained, and suspected Iranian cyberattacks** — MIT Tech Review — `2026-08-03T12:08:00+00:00`
   - https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money 
@@ -506,6 +509,15 @@
 
 ## Tin tức
 
+- 🔵 **DesignArena creators raise $7.9 million to bring taste to AI models** — TechCrunch AI — `2026-08-03T19:28:57+00:00`
+  - https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/
+  - DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
+- 🔵 **Influencers draw backlash for attending OpenAI’s first luxury trip** — TechCrunch AI — `2026-08-03T19:09:56+00:00`
+  - https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/
+  - OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.
+- 🔵 **Apple finally fixed Siri. So why does it feel anticlimactic?** — TechCrunch AI — `2026-08-03T18:43:43+00:00`
+  - https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/
+  - Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it 
 - 🔵 **Europe’s AI labeling and transparency rules are now in effect** — The Verge AI — `2026-08-03T17:38:45+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
   - The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting wi
@@ -538,7 +550,7 @@
   - Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track "Rubberz," which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula
 - 🔵 **Sam Altman is still making the case for parenting via ChatGPT** — TechCrunch AI — `2026-08-01T17:07:34+00:00`
   - https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/
-  - OpenAI's CEO seemed excited to share a "cool use case" for parents.
+  - This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.
 - 🔵 **This $9 key physically locks your most addictive apps** — TechCrunch AI — `2026-08-01T15:58:17+00:00`
   - https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/
   - This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.
@@ -560,18 +572,6 @@
 - 🔵 **Google Earth risked ruin with retracted AI tool for making fake satellite pics** — Ars Technica AI — `2026-07-31T20:21:05+00:00`
   - https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/
   - “What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.
-- 🔵 **Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation** — TechCrunch AI — `2026-07-31T19:47:28+00:00`
-  - https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/
-  - A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.
-- 🔵 **Google Earth&#8217;s AI deepfake tool only lasted one day** — The Verge AI — `2026-07-31T19:13:29+00:00`
-  - https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool
-  - Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images 
-- 🔵 **Would you get tattooed just to interview at a 7-days-a-week AI startup?** — Ars Technica AI — `2026-07-31T19:04:56+00:00`
-  - https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/
-  - LemonLime’s CEO got “carried away” with tattoo gimmick.
-- 🔵 **High school defends staying silent while boys made AI nudes of 59 classmates** — Ars Technica AI — `2026-07-31T18:11:55+00:00`
-  - https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/
-  - Gaps in laws may help Pennsylvania high school escape AI nudes scandal.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

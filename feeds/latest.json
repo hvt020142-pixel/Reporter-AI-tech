@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T18:01:59.435362+00:00",
+  "generated_at": "2026-08-03T19:53:23.438934+00:00",
   "lookback_hours": 72,
   "item_count": 186,
   "sources_ok": [
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 10,
+      "items_kept": 12,
       "items_total": 20
     },
     {
@@ -72,19 +72,19 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 6,
+      "items_kept": 5,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 6,
+      "items_kept": 4,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 10
     },
     {
@@ -96,6 +96,46 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-03T19:28:57+00:00",
+      "published_ts": 1785785337.0,
+      "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-03T19:09:56+00:00",
+      "published_ts": 1785784196.0,
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-03T18:43:43+00:00",
+      "published_ts": 1785782623.0,
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it "
+    },
+    {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-08-03T18:43:30+00:00",
+      "published_ts": 1785782610.0,
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s "
+    },
     {
       "title": "Europe’s AI labeling and transparency rules are now in effect",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
@@ -1824,7 +1864,7 @@
       "tier": "reputable",
       "published_iso": "2026-08-01T17:07:34+00:00",
       "published_ts": 1785604054.0,
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+      "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience."
     },
     {
       "title": "This $9 key physically locks your most addictive apps",
@@ -1915,46 +1955,6 @@
       "published_iso": "2026-07-31T20:21:05+00:00",
       "published_ts": 1785529265.0,
       "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool."
-    },
-    {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-31T19:47:28+00:00",
-      "published_ts": 1785527248.0,
-      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
-    },
-    {
-      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-31T19:13:29+00:00",
-      "published_ts": 1785525209.0,
-      "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images "
-    },
-    {
-      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-      "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-31T19:04:56+00:00",
-      "published_ts": 1785524696.0,
-      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick."
-    },
-    {
-      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-07-31T18:11:55+00:00",
-      "published_ts": 1785521515.0,
-      "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal."
     }
   ]
 }
