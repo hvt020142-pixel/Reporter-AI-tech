@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T06:37:47.637343+00:00",
+  "generated_at": "2026-08-04T10:48:04.294325+00:00",
   "lookback_hours": 72,
-  "item_count": 187,
+  "item_count": 188,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 5,
+      "items_kept": 6,
       "items_total": 10
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-04T10:00:00+00:00",
+      "published_ts": 1785837600.0,
+      "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't pers"
+    },
     {
       "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
       "url": "https://arxiv.org/abs/2608.00001",

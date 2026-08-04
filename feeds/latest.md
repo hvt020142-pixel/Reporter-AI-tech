@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-04T06:37:47.637343+00:00 (UTC) — cửa sổ 72h — 187 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-04T10:48:04.294325+00:00 (UTC) — cửa sổ 72h — 188 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -515,6 +515,9 @@
 
 ## Tin tức
 
+- 🔵 **Can Reddit fend off a new wave of AI SEO spam?** — The Verge AI — `2026-08-04T10:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam
+  - Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. "I haven't pers
 - 🔵 **After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’** — TechCrunch AI — `2026-08-03T23:19:50+00:00`
   - https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
   - After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
