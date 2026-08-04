@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T21:32:36.650611+00:00",
+  "generated_at": "2026-08-04T23:16:07.470123+00:00",
   "lookback_hours": 72,
   "item_count": 209,
   "sources_ok": [
@@ -104,20 +104,20 @@
       "tier": "reputable",
       "published_iso": "2026-08-04T21:07:26+00:00",
       "published_ts": 1785877646.0,
-      "summary": "SpaceX has ramped up its purchases of Tesla Megapacks for its xAI data centers."
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
     },
     {
-      "title": "AMD&#8217;s datacenter business is booming while gaming takes a backseat",
+      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
       "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
       "source": "The Verge AI",
       "category": "Tin tức",
       "tier": "reputable",
       "published_iso": "2026-08-04T20:57:49+00:00",
       "published_ts": 1785877069.0,
-      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the same time, AMD's gami"
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings ca"
     },
     {
-      "title": "SpaceX has more neocloud revenue",
+      "title": "SpaceX made more revenue as an AI company than a space company",
       "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
       "source": "The Verge AI",
       "category": "Tin tức",

@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-04T21:32:36.650611+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-04T23:16:07.470123+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -552,11 +552,11 @@
 
 - 🔵 **SpaceX has bought $329M worth of Tesla Megapacks so far this year** — TechCrunch AI — `2026-08-04T21:07:26+00:00`
   - https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/
-  - SpaceX has ramped up its purchases of Tesla Megapacks for its xAI data centers.
-- 🔵 **AMD&#8217;s datacenter business is booming while gaming takes a backseat** — The Verge AI — `2026-08-04T20:57:49+00:00`
+  - The purchase illustrates just how interconnected Elon Musk's universe of companies are.
+- 🔵 **AMD&#8217;s data center business is booming while gaming takes a backseat** — The Verge AI — `2026-08-04T20:57:49+00:00`
   - https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen
-  - Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the same time, AMD's gami
-- 🔵 **SpaceX has more neocloud revenue** — The Verge AI — `2026-08-04T20:47:55+00:00`
+  - Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings ca
+- 🔵 **SpaceX made more revenue as an AI company than a space company** — The Verge AI — `2026-08-04T20:47:55+00:00`
   - https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud
   - SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source 
 - 🔵 **Texas halts data center connections to power grid amid overwhelming demand** — Ars Technica AI — `2026-08-04T20:34:28+00:00`
