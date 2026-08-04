@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-04T19:52:17.658520+00:00 (UTC) — cửa sổ 72h — 199 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-04T21:32:36.650611+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -20,6 +20,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **Third-party cyber evaluations involving OpenAI models** — OpenAI — `2026-08-04T19:00:00+00:00`
+  - https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
+  - OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
 - 🟢 **The latest AI news we announced in July 2026** — Google (Keyword AI) — `2026-08-04T13:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
   - Here are Google’s latest AI updates from July 2026
@@ -547,21 +550,48 @@
 
 ## Tin tức
 
-- 🔵 **Anthropic signs $10 billion deal with AI cloud startup Volta** — TechCrunch AI — `2026-08-04T19:48:40+00:00`
+- 🔵 **SpaceX has bought $329M worth of Tesla Megapacks so far this year** — TechCrunch AI — `2026-08-04T21:07:26+00:00`
+  - https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/
+  - SpaceX has ramped up its purchases of Tesla Megapacks for its xAI data centers.
+- 🔵 **AMD&#8217;s datacenter business is booming while gaming takes a backseat** — The Verge AI — `2026-08-04T20:57:49+00:00`
+  - https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen
+  - Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the same time, AMD's gami
+- 🔵 **SpaceX has more neocloud revenue** — The Verge AI — `2026-08-04T20:47:55+00:00`
+  - https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud
+  - SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source 
+- 🔵 **Texas halts data center connections to power grid amid overwhelming demand** — Ars Technica AI — `2026-08-04T20:34:28+00:00`
+  - https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/
+  - Governor who touted Texas as AI “epicenter” pauses data center grid connections.
+- 🔵 **Open-weight AI models are catching up to the frontier. The safety gap remains.** — TechCrunch AI — `2026-08-04T20:05:26+00:00`
+  - https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/
+  - A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.
+- 🔵 **Anthropic signs $10B deal with AI cloud startup Volta** — TechCrunch AI — `2026-08-04T19:48:40+00:00`
   - https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/
-  - Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.
+  - Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.
+- 🔵 **Meet Wrinkles, an app that uncovers the hidden stories of the places around you** — TechCrunch AI — `2026-08-04T19:34:34+00:00`
+  - https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/
+  - Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.
 - 🔵 **Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress** — TechCrunch AI — `2026-08-04T19:28:49+00:00`
   - https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/
   - The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.
+- 🔵 **How an OpenAI influencer trip backfired** — The Verge AI — `2026-08-04T17:46:41+00:00`
+  - https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing
+  - The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and pro
+- 🔵 **‘Not healthy’ LLM use is more common than you think** — The Verge AI — `2026-08-04T17:33:46+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy
+  - Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as "not healthy," but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestor
 - 🔵 **Spotify expands AI remix and covers project with Merlin partnership** — TechCrunch AI — `2026-08-04T15:50:06+00:00`
   - https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
   - Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring 
 - 🔵 **Texas halts new data centers as governor calls for audits** — TechCrunch AI — `2026-08-04T15:42:35+00:00`
   - https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/
   - Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.
+- 🔵 **Texas says data centers must pass an audit before connecting to the grid** — The Verge AI — `2026-08-04T15:33:21+00:00`
+  - https://www.theverge.com/policy/975071/texas-data-center-audit
+  - Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new
 - 🔵 **Elon Musk spends half his time talking robots and AI on Tesla earnings calls** — TechCrunch AI — `2026-08-04T15:20:06+00:00`
   - https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/
-  - An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.
+  - An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.
 - 🔵 **Apple says more ex-employees may have taken confidential data to OpenAI** — TechCrunch AI — `2026-08-04T14:03:01+00:00`
   - https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/
   - Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.
@@ -571,6 +601,12 @@
 - 🔵 **EON wants to move the data superhighway from ocean fiber to space lasers** — TechCrunch AI — `2026-08-04T12:00:00+00:00`
   - https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/
   - Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.
+- 🔵 **OpenAI drags Apple’s lawsuit into the court of public opinion** — The Verge AI — `2026-08-04T11:27:55+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages
+  - Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled "Apple is getting this wrong," OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is "carele
+- 🔵 **Can Reddit fend off a new wave of AI SEO spam?** — The Verge AI — `2026-08-04T10:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam
+  - Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. "I haven't pers
 - 🔵 **After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’** — TechCrunch AI — `2026-08-03T23:19:50+00:00`
   - https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
   - After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
@@ -610,12 +646,6 @@
 - 🔵 **Fender’s CEO seems to think your bandmates are just analog AI** — The Verge AI — `2026-08-02T19:36:08+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music
   - Fender CEO Edward "Bud" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company
-- 🔵 **Is paying artists enough to convince them to embrace AI?** — The Verge AI — `2026-08-02T13:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties
-  - Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the tec
-- 🔵 **Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps** — TechCrunch AI — `2026-08-01T20:26:04+00:00`
-  - https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/
-  - Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
