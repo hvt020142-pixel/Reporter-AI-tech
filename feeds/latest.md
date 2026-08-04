@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-04T18:00:55.079576+00:00 (UTC) — cửa sổ 72h — 204 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-04T19:52:17.658520+00:00 (UTC) — cửa sổ 72h — 199 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -547,21 +547,18 @@
 
 ## Tin tức
 
-- 🔵 **How an OpenAI influencer trip backfired** — The Verge AI — `2026-08-04T17:46:41+00:00`
-  - https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing
-  - The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and pro
-- 🔵 **‘Not healthy’ LLM use is more common than you think** — The Verge AI — `2026-08-04T17:33:46+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy
-  - Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as "not healthy," but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestor
+- 🔵 **Anthropic signs $10 billion deal with AI cloud startup Volta** — TechCrunch AI — `2026-08-04T19:48:40+00:00`
+  - https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/
+  - Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.
+- 🔵 **Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress** — TechCrunch AI — `2026-08-04T19:28:49+00:00`
+  - https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/
+  - The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.
 - 🔵 **Spotify expands AI remix and covers project with Merlin partnership** — TechCrunch AI — `2026-08-04T15:50:06+00:00`
   - https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
   - Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring 
 - 🔵 **Texas halts new data centers as governor calls for audits** — TechCrunch AI — `2026-08-04T15:42:35+00:00`
   - https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/
   - Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.
-- 🔵 **Texas says data centers must pass an audit before connecting to the grid** — The Verge AI — `2026-08-04T15:33:21+00:00`
-  - https://www.theverge.com/policy/975071/texas-data-center-audit
-  - Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new
 - 🔵 **Elon Musk spends half his time talking robots and AI on Tesla earnings calls** — TechCrunch AI — `2026-08-04T15:20:06+00:00`
   - https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/
   - An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.
@@ -574,12 +571,6 @@
 - 🔵 **EON wants to move the data superhighway from ocean fiber to space lasers** — TechCrunch AI — `2026-08-04T12:00:00+00:00`
   - https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/
   - Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.
-- 🔵 **OpenAI drags Apple’s lawsuit into the court of public opinion** — The Verge AI — `2026-08-04T11:27:55+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages
-  - Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled "Apple is getting this wrong," OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is "carele
-- 🔵 **Can Reddit fend off a new wave of AI SEO spam?** — The Verge AI — `2026-08-04T10:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam
-  - Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. "I haven't pers
 - 🔵 **After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’** — TechCrunch AI — `2026-08-03T23:19:50+00:00`
   - https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
   - After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
@@ -625,12 +616,6 @@
 - 🔵 **Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps** — TechCrunch AI — `2026-08-01T20:26:04+00:00`
   - https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/
   - Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
-- 🔵 **YouTuber Hank Green says his AI usage is ‘not healthy’** — TechCrunch AI — `2026-08-01T19:45:45+00:00`
-  - https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/
-  - Green offered a remarkable apology, saying that "the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world."
-- 🔵 **Is this Billboard Hot 100 hit AI slop?** — The Verge AI — `2026-08-01T18:20:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
-  - Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track "Rubberz," which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T18:00:55.079576+00:00",
+  "generated_at": "2026-08-04T19:52:17.658520+00:00",
   "lookback_hours": 72,
-  "item_count": 204,
+  "item_count": 199,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 16,
+      "items_kept": 17,
       "items_total": 20
     },
     {
@@ -72,7 +72,7 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 10,
+      "items_kept": 4,
       "items_total": 10
     },
     {
@@ -97,24 +97,24 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "How an OpenAI influencer trip backfired",
-      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "source": "The Verge AI",
+      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "source": "TechCrunch AI",
       "category": "Tin tức",
       "tier": "reputable",
-      "published_iso": "2026-08-04T17:46:41+00:00",
-      "published_ts": 1785865601.0,
-      "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and pro"
+      "published_iso": "2026-08-04T19:48:40+00:00",
+      "published_ts": 1785872920.0,
+      "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
     },
     {
-      "title": "‘Not healthy’ LLM use is more common than you think",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-      "source": "The Verge AI",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "source": "TechCrunch AI",
       "category": "Tin tức",
       "tier": "reputable",
-      "published_iso": "2026-08-04T17:33:46+00:00",
-      "published_ts": 1785864826.0,
-      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestor"
+      "published_iso": "2026-08-04T19:28:49+00:00",
+      "published_ts": 1785871729.0,
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
     },
     {
       "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
@@ -145,16 +145,6 @@
       "published_iso": "2026-08-04T15:42:35+00:00",
       "published_ts": 1785858155.0,
       "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink."
-    },
-    {
-      "title": "Texas says data centers must pass an audit before connecting to the grid",
-      "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-04T15:33:21+00:00",
-      "published_ts": 1785857601.0,
-      "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new"
     },
     {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
@@ -265,26 +255,6 @@
       "published_iso": "2026-08-04T12:00:00+00:00",
       "published_ts": 1785844800.0,
       "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built."
-    },
-    {
-      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-04T11:27:55+00:00",
-      "published_ts": 1785842875.0,
-      "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"carele"
-    },
-    {
-      "title": "Can Reddit fend off a new wave of AI SEO spam?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-04T10:00:00+00:00",
-      "published_ts": 1785837600.0,
-      "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't pers"
     },
     {
       "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
@@ -2115,26 +2085,6 @@
       "published_iso": "2026-08-01T20:26:04+00:00",
       "published_ts": 1785615964.0,
       "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
-    },
-    {
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-01T19:45:45+00:00",
-      "published_ts": 1785613545.0,
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
-    },
-    {
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-01T18:20:00+00:00",
-      "published_ts": 1785608400.0,
-      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula"
     }
   ]
 }
