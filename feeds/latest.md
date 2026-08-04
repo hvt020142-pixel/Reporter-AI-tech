@@ -1,10 +1,19 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-04T10:48:04.294325+00:00 (UTC) — cửa sổ 72h — 188 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-04T14:36:34.444707+00:00 (UTC) — cửa sổ 72h — 194 mục — nguồn sơ cấp/uy tín.*
 
+
+## Hạ tầng & phần cứng
+
+- 🟢 **AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency** — NVIDIA — `2026-08-04T13:00:47+00:00`
+  - https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/
+  - Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange
 
 ## Mô hình & LLM
 
+- 🟢 **The latest AI news we announced in July 2026** — Google (Keyword AI) — `2026-08-04T13:00:00+00:00`
+  - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
+  - Here are Google’s latest AI updates from July 2026
 - 🟢 **Apple is getting this wrong** — OpenAI — `2026-08-03T22:00:00+00:00`
   - https://openai.com/index/apple-is-getting-this-wrong
   - OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
@@ -14,6 +23,11 @@
 - 🟢 **Circles powers telco personalization with OpenAI technology** — OpenAI — `2026-08-03T00:00:00+00:00`
   - https://openai.com/index/circles
   - Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.
+
+## Mô hình mở
+
+- 🟢 **Deploy local agents everywhere with LFM2.5-2.6B** — Hugging Face — `2026-08-04T13:58:29+00:00`
+  - https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
 
 ## Nghiên cứu
 
@@ -500,6 +514,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: US robot restrictions, and ICE’s DNA grab** — MIT Tech Review — `2026-08-04T12:14:00+00:00`
+  - https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kic
 - 🔵 **Trump’s AI protectionism has come for robotics** — MIT Tech Review — `2026-08-03T18:43:30+00:00`
   - https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s 
@@ -509,12 +526,21 @@
 - 🔵 **Here’s why AI agents lie and cheat to reach their goals** — MIT Tech Review — `2026-08-03T08:30:05+00:00`
   - https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/
   - MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage
-- 🔵 **Fridays With Bob** — IEEE Spectrum AI — `2026-08-01T12:00:01+00:00`
-  - https://spectrum.ieee.org/risk
-  - When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challen
 
 ## Tin tức
 
+- 🔵 **Apple says more ex-employees may have taken confidential data to OpenAI** — TechCrunch AI — `2026-08-04T14:03:01+00:00`
+  - https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/
+  - Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.
+- 🔵 **Is the future of data centers portable? Runware builds a pod to find out** — TechCrunch AI — `2026-08-04T13:00:00+00:00`
+  - https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/
+  - On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.
+- 🔵 **EON wants to move the data superhighway from ocean fiber to space lasers** — TechCrunch AI — `2026-08-04T12:00:00+00:00`
+  - https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/
+  - Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.
+- 🔵 **OpenAI drags Apple’s lawsuit into the court of public opinion** — The Verge AI — `2026-08-04T11:27:55+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages
+  - Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled "Apple is getting this wrong," OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is "carele
 - 🔵 **Can Reddit fend off a new wave of AI SEO spam?** — The Verge AI — `2026-08-04T10:00:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam
   - Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. "I haven't pers
@@ -575,9 +601,6 @@
 - 🔵 **This $9 key physically locks your most addictive apps** — TechCrunch AI — `2026-08-01T15:58:17+00:00`
   - https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/
   - This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.
-- 🔵 **As Reddit stock falls, CEO questions value of Google's AI Overviews** — Ars Technica AI — `2026-08-01T12:30:36+00:00`
-  - https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/
-  - Reddit may still be considering ending its licensing deal with Google.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

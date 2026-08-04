@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T10:48:04.294325+00:00",
+  "generated_at": "2026-08-04T14:36:34.444707+00:00",
   "lookback_hours": 72,
-  "item_count": 188,
+  "item_count": 194,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -18,19 +18,19 @@
     {
       "source": "Google (Keyword AI)",
       "url": "https://blog.google/technology/ai/rss/",
-      "items_kept": 0,
+      "items_kept": 1,
       "items_total": 20
     },
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 0,
+      "items_kept": 1,
       "items_total": 18
     },
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 0,
+      "items_kept": 1,
       "items_total": 834
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 12,
+      "items_kept": 15,
       "items_total": 20
     },
     {
@@ -72,30 +72,110 @@
     {
       "source": "The Verge AI",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "items_kept": 6,
+      "items_kept": 7,
       "items_total": 10
     },
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 3,
+      "items_kept": 2,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 3,
+      "items_kept": 4,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 1,
+      "items_kept": 0,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-04T14:03:01+00:00",
+      "published_ts": 1785852181.0,
+      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
+    },
+    {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-08-04T13:58:29+00:00",
+      "published_ts": 1785851909.0,
+      "summary": ""
+    },
+    {
+      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-08-04T13:00:47+00:00",
+      "published_ts": 1785848447.0,
+      "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange"
+    },
+    {
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "Google (Keyword AI)",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-08-04T13:00:00+00:00",
+      "published_ts": 1785848400.0,
+      "summary": "Here are Google’s latest AI updates from July 2026"
+    },
+    {
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-04T13:00:00+00:00",
+      "published_ts": 1785848400.0,
+      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
+    },
+    {
+      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-08-04T12:14:00+00:00",
+      "published_ts": 1785845640.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kic"
+    },
+    {
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-04T12:00:00+00:00",
+      "published_ts": 1785844800.0,
+      "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built."
+    },
+    {
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-04T11:27:55+00:00",
+      "published_ts": 1785842875.0,
+      "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"carele"
+    },
     {
       "title": "Can Reddit fend off a new wave of AI SEO spam?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
@@ -1955,26 +2035,6 @@
       "published_iso": "2026-08-01T15:58:17+00:00",
       "published_ts": 1785599897.0,
       "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
-    },
-    {
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-01T12:30:36+00:00",
-      "published_ts": 1785587436.0,
-      "summary": "Reddit may still be considering ending its licensing deal with Google."
-    },
-    {
-      "title": "Fridays With Bob",
-      "url": "https://spectrum.ieee.org/risk",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-08-01T12:00:01+00:00",
-      "published_ts": 1785585601.0,
-      "summary": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challen"
     }
   ]
 }
