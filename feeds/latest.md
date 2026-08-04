@@ -1,10 +1,19 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-04T14:36:34.444707+00:00 (UTC) — cửa sổ 72h — 194 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-04T18:00:55.079576+00:00 (UTC) — cửa sổ 72h — 204 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US** — NVIDIA — `2026-08-04T16:00:56+00:00`
+  - https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/
+  - NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent 
+- 🟢 **NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use** — NVIDIA — `2026-08-04T15:00:49+00:00`
+  - https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/
+  - For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand
+- 🟢 **As AI Increases Demands on Memory, Storage Steps Up** — NVIDIA — `2026-08-04T15:00:47+00:00`
+  - https://blogs.nvidia.com/blog/ai-storage-fms/
+  - Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures
 - 🟢 **AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency** — NVIDIA — `2026-08-04T13:00:47+00:00`
   - https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/
   - Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange
@@ -14,9 +23,15 @@
 - 🟢 **The latest AI news we announced in July 2026** — Google (Keyword AI) — `2026-08-04T13:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
   - Here are Google’s latest AI updates from July 2026
+- 🟢 **New ways to learn and teach with ChatGPT Work and Codex** — OpenAI — `2026-08-04T00:00:00+00:00`
+  - https://openai.com/index/learn-teach-chatgpt-work-codex
+  - Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.
 - 🟢 **Apple is getting this wrong** — OpenAI — `2026-08-03T22:00:00+00:00`
   - https://openai.com/index/apple-is-getting-this-wrong
   - OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
+- 🟢 **Inside our 353,000-person vibe coding course** — Google (Keyword AI) — `2026-08-03T15:00:00+00:00`
+  - https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/
+  - Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.
 - 🟢 **How we built a realtime system for responsive voice AI in six months** — OpenAI — `2026-08-03T07:00:00+00:00`
   - https://openai.com/index/continuous-voice-interaction-with-gpt-live
   - GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.
@@ -514,12 +529,15 @@
 
 ## Phân tích
 
+- 🔵 **Why R&D Waste Persists Despite Widespread AI Adoption** — IEEE Spectrum AI — `2026-08-04T14:51:55+00:00`
+  - https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/
+  - This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well. What Attendees will Learn Where R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market. Why pro
 - 🔵 **The Download: US robot restrictions, and ICE’s DNA grab** — MIT Tech Review — `2026-08-04T12:14:00+00:00`
   - https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kic
 - 🔵 **Trump’s AI protectionism has come for robotics** — MIT Tech Review — `2026-08-03T18:43:30+00:00`
   - https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s 
+  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. 
 - 🔵 **The Download: reward hacking explained, and suspected Iranian cyberattacks** — MIT Tech Review — `2026-08-03T12:08:00+00:00`
   - https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money 
@@ -529,6 +547,24 @@
 
 ## Tin tức
 
+- 🔵 **How an OpenAI influencer trip backfired** — The Verge AI — `2026-08-04T17:46:41+00:00`
+  - https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing
+  - The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and pro
+- 🔵 **‘Not healthy’ LLM use is more common than you think** — The Verge AI — `2026-08-04T17:33:46+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy
+  - Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as "not healthy," but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestor
+- 🔵 **Spotify expands AI remix and covers project with Merlin partnership** — TechCrunch AI — `2026-08-04T15:50:06+00:00`
+  - https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
+  - Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring 
+- 🔵 **Texas halts new data centers as governor calls for audits** — TechCrunch AI — `2026-08-04T15:42:35+00:00`
+  - https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/
+  - Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.
+- 🔵 **Texas says data centers must pass an audit before connecting to the grid** — The Verge AI — `2026-08-04T15:33:21+00:00`
+  - https://www.theverge.com/policy/975071/texas-data-center-audit
+  - Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new
+- 🔵 **Elon Musk spends half his time talking robots and AI on Tesla earnings calls** — TechCrunch AI — `2026-08-04T15:20:06+00:00`
+  - https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/
+  - An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.
 - 🔵 **Apple says more ex-employees may have taken confidential data to OpenAI** — TechCrunch AI — `2026-08-04T14:03:01+00:00`
   - https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/
   - Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.
@@ -537,7 +573,7 @@
   - On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.
 - 🔵 **EON wants to move the data superhighway from ocean fiber to space lasers** — TechCrunch AI — `2026-08-04T12:00:00+00:00`
   - https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/
-  - Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.
+  - Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.
 - 🔵 **OpenAI drags Apple’s lawsuit into the court of public opinion** — The Verge AI — `2026-08-04T11:27:55+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages
   - Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled "Apple is getting this wrong," OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is "carele
@@ -595,12 +631,6 @@
 - 🔵 **Is this Billboard Hot 100 hit AI slop?** — The Verge AI — `2026-08-01T18:20:00+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop
   - Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track "Rubberz," which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula
-- 🔵 **Sam Altman is still making the case for parenting via ChatGPT** — TechCrunch AI — `2026-08-01T17:07:34+00:00`
-  - https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/
-  - This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.
-- 🔵 **This $9 key physically locks your most addictive apps** — TechCrunch AI — `2026-08-01T15:58:17+00:00`
-  - https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/
-  - This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
