@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-03T23:16:44.490840+00:00 (UTC) — cửa sổ 72h — 185 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-04T03:32:35.702740+00:00 (UTC) — cửa sổ 72h — 186 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Mô hình & LLM
@@ -8,9 +8,9 @@
 - 🟢 **How we built a realtime system for responsive voice AI in six months** — OpenAI — `2026-08-03T07:00:00+00:00`
   - https://openai.com/index/continuous-voice-interaction-with-gpt-live
   - GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.
-- 🟢 **Ten advances in mathematics and theoretical computer science** — OpenAI — `2026-08-01T00:00:00+00:00`
-  - https://openai.com/index/ten-advances-in-mathematics
-  - OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
+- 🟢 **Circles powers telco personalization with OpenAI technology** — OpenAI — `2026-08-03T00:00:00+00:00`
+  - https://openai.com/index/circles
+  - Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.
 
 ## Nghiên cứu
 
@@ -70,7 +70,7 @@
   - arXiv:2607.28881v1 Announce Type: new Abstract: As more responsibility is placed upon AI systems, it becomes increasingly important to guarantee that these systems are aligned with humanity. A common fear in AI safety is that human value is fragile -- that is, optimizing too heavily for an imperfect
 - 🟢 **Identifying Informative Environments for Cognition Parameter Inference via Bayesian Experimental Design** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
   - https://arxiv.org/abs/2607.28894
-  - arXiv:2607.28894v1 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a principled framework for such inference, but its success depends critically on the experimental environment. 
+  - arXiv:2607.28894v2 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a principled framework for such inference, but its success depends critically on the experimental environment. 
 - 🟢 **NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability** — arXiv cs.AI — `2026-08-03T04:00:00+00:00`
   - https://arxiv.org/abs/2607.28942
   - arXiv:2607.28942v1 Announce Type: new Abstract: Recently Large Language Models (LLMs) have been increasingly deployed as autonomous agents in applications such as self-reflection, retrieval-augmented generation, and scientific discovery. In these settings, agents must act based on limited observatio
@@ -317,7 +317,7 @@
 - 🟢 **Fast Rates for Swap-Agnostic Learning of Proper Losses** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
   - https://arxiv.org/abs/2607.28856
   - arXiv:2607.28856v1 Announce Type: new Abstract: Swap-agnostic learning strengthens classical agnostic learning by allowing the comparator to select a different hypothesis on each level set of the learner's predictions. This benchmark captures prediction-dependent postprocessing, but appears to requi
-- 🟢 **Adaptivity via a Parallel Architecture for Stochastic Gradient Methods Adaptivity via a Parallel Architecture for Stochastic Gradient Methods Adaptivity via a Parallel Architecture for Stochastic Gradient Methods** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
+- 🟢 **Adaptivity via a Parallel Architecture for Stochastic Gradient Methods** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
   - https://arxiv.org/abs/2607.28902
   - arXiv:2607.28902v1 Announce Type: new Abstract: We develop a parallel framework that assembles static gradient methods to achieve better adaptivity. A static gradient method, denoted by $\mathrm{GD}(x_0,T)$, takes as input an initial point $x_0\in\mathbb{R}^n$ and $T\in \mathbb{R}^+$ specifying the 
 - 🟢 **Reflection or Re-Generation? Why LLM Revision Fails Where Human Revision Succeeds** — arXiv cs.LG — `2026-08-03T04:00:00+00:00`
@@ -379,7 +379,7 @@
   - arXiv:2607.28751v1 Announce Type: new Abstract: Universal multimodal embedding (UME) maps heterogeneous multimodal inputs into a shared embedding space. Existing UME models either form embeddings through single forward encoding or add computation through explicit rationale tokens and latent autoregr
 - 🟢 **SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
   - https://arxiv.org/abs/2607.28759
-  - arXiv:2607.28759v1 Announce Type: new Abstract: In X-ray CT, metallic objects cause beam hardening, photon starvation, and scattering, leading to projection inconsistency, streaks, dark bands, and structural distortions that compromise clinical diagnosis and quantitative analysis. Existing metal art
+  - arXiv:2607.28759v2 Announce Type: new Abstract: In X-ray CT, metallic objects cause beam hardening, photon starvation, and scattering, leading to projection inconsistency, streaks, dark bands, and structural distortions that compromise clinical diagnosis and quantitative analysis. Existing metal art
 - 🟢 **WaiT for the Signal: Simple Frequency-Aware Flow-Matching** — arXiv cs.CV — `2026-08-03T04:00:00+00:00`
   - https://arxiv.org/abs/2607.28760
   - arXiv:2607.28760v1 Announce Type: new Abstract: As image generation models scale to ever higher resolutions, global coherence, local detail, and texture fidelity become critical axes for generation quality. However, standard flow matching treats all spatial frequencies uniformly, ignoring the natura
@@ -512,6 +512,9 @@
 
 ## Tin tức
 
+- 🔵 **After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’** — TechCrunch AI — `2026-08-03T23:19:50+00:00`
+  - https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
+  - After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
 - 🔵 **US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own** — Ars Technica AI — `2026-08-03T22:11:39+00:00`
   - https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/
   - $100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.

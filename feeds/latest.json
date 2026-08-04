@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T23:16:44.490840+00:00",
+  "generated_at": "2026-08-04T03:32:35.702740+00:00",
   "lookback_hours": 72,
-  "item_count": 185,
+  "item_count": 186,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
       "items_kept": 2,
-      "items_total": 1106
+      "items_total": 1107
     },
     {
       "source": "Google DeepMind",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 11,
+      "items_kept": 12,
       "items_total": 20
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-03T23:19:50+00:00",
+      "published_ts": 1785799190.0,
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
+    },
     {
       "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
       "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
@@ -424,7 +434,7 @@
       "tier": "primary",
       "published_iso": "2026-08-03T04:00:00+00:00",
       "published_ts": 1785729600.0,
-      "summary": "arXiv:2607.28894v1 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a principled framework for such inference, but its success depends critically on the experimental environment. "
+      "summary": "arXiv:2607.28894v2 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a principled framework for such inference, but its success depends critically on the experimental environment. "
     },
     {
       "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
@@ -1247,7 +1257,7 @@
       "summary": "arXiv:2607.28856v1 Announce Type: new Abstract: Swap-agnostic learning strengthens classical agnostic learning by allowing the comparator to select a different hypothesis on each level set of the learner's predictions. This benchmark captures prediction-dependent postprocessing, but appears to requi"
     },
     {
-      "title": "Adaptivity via a Parallel Architecture for Stochastic Gradient Methods Adaptivity via a Parallel Architecture for Stochastic Gradient Methods Adaptivity via a Parallel Architecture for Stochastic Gradient Methods",
+      "title": "Adaptivity via a Parallel Architecture for Stochastic Gradient Methods",
       "url": "https://arxiv.org/abs/2607.28902",
       "source": "arXiv cs.LG",
       "category": "Nghiên cứu",
@@ -1454,7 +1464,7 @@
       "tier": "primary",
       "published_iso": "2026-08-03T04:00:00+00:00",
       "published_ts": 1785729600.0,
-      "summary": "arXiv:2607.28759v1 Announce Type: new Abstract: In X-ray CT, metallic objects cause beam hardening, photon starvation, and scattering, leading to projection inconsistency, streaks, dark bands, and structural distortions that compromise clinical diagnosis and quantitative analysis. Existing metal art"
+      "summary": "arXiv:2607.28759v2 Announce Type: new Abstract: In X-ray CT, metallic objects cause beam hardening, photon starvation, and scattering, leading to projection inconsistency, streaks, dark bands, and structural distortions that compromise clinical diagnosis and quantitative analysis. Existing metal art"
     },
     {
       "title": "WaiT for the Signal: Simple Frequency-Aware Flow-Matching",
@@ -1837,6 +1847,16 @@
       "summary": "arXiv:2607.29200v1 Announce Type: new Abstract: Ultrasound imaging has become increasingly widespread in clinical practice due to its portability, low cost and real-time capability, making ultrasound image segmentation important. However, ultrasound images differ substantially from CT, MRI, and othe"
     },
     {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-08-03T00:00:00+00:00",
+      "published_ts": 1785715200.0,
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
+    },
+    {
       "title": "Sam Altman and AI’s decel debate",
       "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
       "source": "TechCrunch AI",
@@ -1935,16 +1955,6 @@
       "published_iso": "2026-08-01T12:00:01+00:00",
       "published_ts": 1785585601.0,
       "summary": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challen"
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI",
-      "category": "Mô hình & LLM",
-      "tier": "primary",
-      "published_iso": "2026-08-01T00:00:00+00:00",
-      "published_ts": 1785542400.0,
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
     }
   ]
 }
