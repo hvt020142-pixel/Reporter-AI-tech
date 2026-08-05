@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-05T19:50:35.598488+00:00 (UTC) — cửa sổ 72h — 218 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-05T21:22:49.734385+00:00 (UTC) — cửa sổ 72h — 221 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -568,6 +568,21 @@
 
 ## Tin tức
 
+- 🔵 **Meta launches Muse Code, an AI agent for large code bases** — TechCrunch AI — `2026-08-05T21:21:28+00:00`
+  - https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/
+  - Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.
+- 🔵 **Anthropic’s AI used fake identities, malware in rogue attack on GitHub project** — Ars Technica AI — `2026-08-05T20:47:11+00:00`
+  - https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/
+  - Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.
+- 🔵 **Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders** — TechCrunch AI — `2026-08-05T20:05:00+00:00`
+  - https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/
+  - The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.
+- 🔵 **Reddit signals ominous upcoming "changes” for old.reddit.com** — Ars Technica AI — `2026-08-05T20:01:32+00:00`
+  - https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/
+  - Reddit says the beloved site is used for some "bad behavior."
+- 🔵 **Hank Green found the AI problem that YouTube labels can’t catch** — Ars Technica AI — `2026-08-05T19:51:40+00:00`
+  - https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/
+  - "Slop" isn't the only problem.
 - 🔵 **Jeff Dean and other top AI researchers are leaving Google to launch their own startup** — TechCrunch AI — `2026-08-05T19:30:19+00:00`
   - https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
   - The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.
@@ -661,15 +676,9 @@
 - 🔵 **EON wants to move the data superhighway from ocean fiber to space lasers** — TechCrunch AI — `2026-08-04T12:00:00+00:00`
   - https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/
   - Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.
-- 🔵 **After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’** — TechCrunch AI — `2026-08-03T23:19:50+00:00`
-  - https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
-  - After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
 - 🔵 **US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own** — Ars Technica AI — `2026-08-03T22:11:39+00:00`
   - https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/
   - $100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.
-- 🔵 **AWS is helping vibe-coding startup Superblocks, and the implications are big** — TechCrunch AI — `2026-08-03T20:00:00+00:00`
-  - https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
-  - AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.
 - 🔵 **An AI-supervised remote exam went so badly that 58,000 students must retake it** — Ars Technica AI — `2026-08-03T19:00:50+00:00`
   - https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/
   - Top scores increased by 5x.
