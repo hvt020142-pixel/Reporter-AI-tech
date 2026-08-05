@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-05T14:28:52.911433+00:00 (UTC) — cửa sổ 72h — 214 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-05T17:51:35.438458+00:00 (UTC) — cửa sổ 72h — 216 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -532,6 +532,9 @@
 
 ## Phân tích
 
+- 🔵 **Puzzle Corner** — MIT Tech Review — `2026-08-05T14:56:29+00:00`
+  - https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/
+  - Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June 
 - 🔵 **The Download: NASA’s new telescope and Chinese tech import curbs** — MIT Tech Review — `2026-08-05T12:10:00+00:00`
   - https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telesc
@@ -559,9 +562,36 @@
 
 ## Tin tức
 
+- 🔵 **Sure seems like Fenix Flexin used AI music generator Treblo** — The Verge AI — `2026-08-05T16:57:25+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo
+  - We were pretty sure that Fenix Flexin's "Rubberz" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects 
+- 🔵 **Google just announced a major shakeup of its top AI leadership** — The Verge AI — `2026-08-05T16:47:23+00:00`
+  - https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup
+  - Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomo
+- 🔵 **SpaceX is barely Space and mostly X** — The Verge AI — `2026-08-05T16:35:56+00:00`
+  - https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space
+  - Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to S
+- 🔵 **Reddit is introducing a new moderator: AI** — The Verge AI — `2026-08-05T16:00:00+00:00`
+  - https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform
+  - Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The compan
+- 🔵 **Shopify says AI search is driving more traffic and sales, not replacing Google** — TechCrunch AI — `2026-08-05T15:56:14+00:00`
+  - https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/
+  - Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.
+- 🔵 **Hark previews its browser use agent for completing tasks** — TechCrunch AI — `2026-08-05T15:46:27+00:00`
+  - https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/
+  - Hark claims that its browser use agent is faster and cheaper than competition.
+- 🔵 **Google plans to kill Assistant on your phone on September 4** — Ars Technica AI — `2026-08-05T15:30:02+00:00`
+  - https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/
+  - Assistant will disappear, leaving only Gemini for voice control in the coming weeks.
+- 🔵 **Rogue AI agents created fake online identities in another hacking attempt** — The Verge AI — `2026-08-05T15:14:57+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking
+  - Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems.
+- 🔵 **TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals** — TechCrunch AI — `2026-08-05T15:05:00+00:00`
+  - https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/
+  - On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
 - 🔵 **Anthropic is hiring an AI chip design team** — TechCrunch AI — `2026-08-05T14:13:18+00:00`
   - https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/
-  - Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.
+  - Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.
 - 🔵 **SpaceX spooks investors with debut earnings report** — Ars Technica AI — `2026-08-05T13:59:17+00:00`
   - https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/
   - Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.
@@ -573,7 +603,7 @@
   - Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement 
 - 🔵 **AI makes weather prediction better. Can WindBorne make it lucrative?** — TechCrunch AI — `2026-08-05T11:00:00+00:00`
   - https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
-  - WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.
+  - WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.
 - 🔵 **Trump’s AI testing plan is limited and vague** — The Verge AI — `2026-08-05T10:29:47+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded
   - The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core comp
@@ -604,18 +634,12 @@
 - 🔵 **How an OpenAI influencer trip backfired** — The Verge AI — `2026-08-04T17:46:41+00:00`
   - https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing
   - The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and pro
-- 🔵 **‘Not healthy’ LLM use is more common than you think** — The Verge AI — `2026-08-04T17:33:46+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy
-  - Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as "not healthy," but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestor
 - 🔵 **Spotify expands AI remix and covers project with Merlin partnership** — TechCrunch AI — `2026-08-04T15:50:06+00:00`
   - https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
   - Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring 
 - 🔵 **Texas halts new data centers as governor calls for audits** — TechCrunch AI — `2026-08-04T15:42:35+00:00`
   - https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/
   - Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.
-- 🔵 **Texas says data centers must pass an audit before connecting to the grid** — The Verge AI — `2026-08-04T15:33:21+00:00`
-  - https://www.theverge.com/policy/975071/texas-data-center-audit
-  - Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new
 - 🔵 **Elon Musk spends half his time talking robots and AI on Tesla earnings calls** — TechCrunch AI — `2026-08-04T15:20:06+00:00`
   - https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/
   - An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.
@@ -628,12 +652,6 @@
 - 🔵 **EON wants to move the data superhighway from ocean fiber to space lasers** — TechCrunch AI — `2026-08-04T12:00:00+00:00`
   - https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/
   - Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.
-- 🔵 **OpenAI drags Apple’s lawsuit into the court of public opinion** — The Verge AI — `2026-08-04T11:27:55+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages
-  - Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled "Apple is getting this wrong," OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is "carele
-- 🔵 **Can Reddit fend off a new wave of AI SEO spam?** — The Verge AI — `2026-08-04T10:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam
-  - Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. "I haven't pers
 - 🔵 **After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’** — TechCrunch AI — `2026-08-03T23:19:50+00:00`
   - https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
   - After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
@@ -646,21 +664,9 @@
 - 🔵 **Design Arena creators raise $7.9 million to bring taste to AI models** — TechCrunch AI — `2026-08-03T19:28:57+00:00`
   - https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/
   - Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
-- 🔵 **Influencers draw backlash for attending OpenAI’s first luxury trip** — TechCrunch AI — `2026-08-03T19:09:56+00:00`
-  - https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/
-  - OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.
 - 🔵 **An AI-supervised remote exam went so badly that 58,000 students must retake it** — Ars Technica AI — `2026-08-03T19:00:50+00:00`
   - https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/
   - Top scores increased by 5x.
-- 🔵 **Apple finally fixed Siri. So why does it feel anticlimactic?** — TechCrunch AI — `2026-08-03T18:43:43+00:00`
-  - https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/
-  - Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.
-- 🔵 **Europe’s AI labeling and transparency rules are now in effect** — The Verge AI — `2026-08-03T17:38:45+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
-  - The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting wi
-- 🔵 **Congress’ favorite AI tool? ChatGPT** — TechCrunch AI — `2026-08-03T16:40:55+00:00`
-  - https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/
-  - House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
