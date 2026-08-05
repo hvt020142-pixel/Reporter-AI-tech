@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-05T06:38:47.277252+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-05T10:44:58.957112+00:00 (UTC) — cửa sổ 72h — 210 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -532,6 +532,9 @@
 
 ## Phân tích
 
+- 🔵 **NASA’s new dark energy space telescope can also detect killer asteroids** — MIT Tech Review — `2026-08-05T08:06:40+00:00`
+  - https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/
+  - At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion o
 - 🔵 **Why R&D Waste Persists Despite Widespread AI Adoption** — IEEE Spectrum AI — `2026-08-04T14:51:55+00:00`
   - https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/
   - This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well. What Attendees will Learn Where R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market. Why pro

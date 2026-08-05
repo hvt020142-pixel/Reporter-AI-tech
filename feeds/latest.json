@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T06:38:47.277252+00:00",
+  "generated_at": "2026-08-05T10:44:58.957112+00:00",
   "lookback_hours": 72,
-  "item_count": 209,
+  "item_count": 210,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -84,7 +84,7 @@
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 10
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "NASA’s new dark energy space telescope can also detect killer asteroids",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T08:06:40+00:00",
+      "published_ts": 1785917200.0,
+      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion o"
+    },
     {
       "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
       "url": "https://arxiv.org/abs/2608.00001",
