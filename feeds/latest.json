@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T17:51:35.438458+00:00",
+  "generated_at": "2026-08-05T19:50:35.598488+00:00",
   "lookback_hours": 72,
-  "item_count": 216,
+  "item_count": 218,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 4,
+      "items_kept": 5,
       "items_total": 18
     },
     {
@@ -90,12 +90,32 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 3,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T19:30:19+00:00",
+      "published_ts": 1785958219.0,
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
+    },
+    {
+      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
+      "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T18:00:03+00:00",
+      "published_ts": 1785952803.0,
+      "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point , according to the U.S. Department o"
+    },
     {
       "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
       "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
@@ -215,6 +235,16 @@
       "published_iso": "2026-08-05T13:59:17+00:00",
       "published_ts": 1785938357.0,
       "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled."
+    },
+    {
+      "title": "NVIDIA and Partners Build in America, for America",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-08-05T13:00:47+00:00",
+      "published_ts": 1785934847.0,
+      "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership."
     },
     {
       "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
@@ -2175,16 +2205,6 @@
       "published_iso": "2026-08-03T20:00:00+00:00",
       "published_ts": 1785787200.0,
       "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
-    },
-    {
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-03T19:28:57+00:00",
-      "published_ts": 1785785337.0,
-      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
     },
     {
       "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",

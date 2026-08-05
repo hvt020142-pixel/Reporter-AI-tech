@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-05T17:51:35.438458+00:00 (UTC) — cửa sổ 72h — 216 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-05T19:50:35.598488+00:00 (UTC) — cửa sổ 72h — 218 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-08-05T13:00:47+00:00`
+  - https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/
+  - NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.
 - 🟢 **NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US** — NVIDIA — `2026-08-04T16:00:56+00:00`
   - https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/
   - NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent 
@@ -532,6 +535,9 @@
 
 ## Phân tích
 
+- 🔵 **IEEE Course Teaches How to Use AI to Modernize Power Grids** — IEEE Spectrum AI — `2026-08-05T18:00:03+00:00`
+  - https://spectrum.ieee.org/ieee-course-ai-power-grids
+  - Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point , according to the U.S. Department o
 - 🔵 **Puzzle Corner** — MIT Tech Review — `2026-08-05T14:56:29+00:00`
   - https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/
   - Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June 
@@ -562,6 +568,9 @@
 
 ## Tin tức
 
+- 🔵 **Jeff Dean and other top AI researchers are leaving Google to launch their own startup** — TechCrunch AI — `2026-08-05T19:30:19+00:00`
+  - https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
+  - The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.
 - 🔵 **Sure seems like Fenix Flexin used AI music generator Treblo** — The Verge AI — `2026-08-05T16:57:25+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo
   - We were pretty sure that Fenix Flexin's "Rubberz" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects 
@@ -661,9 +670,6 @@
 - 🔵 **AWS is helping vibe-coding startup Superblocks, and the implications are big** — TechCrunch AI — `2026-08-03T20:00:00+00:00`
   - https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
   - AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.
-- 🔵 **Design Arena creators raise $7.9 million to bring taste to AI models** — TechCrunch AI — `2026-08-03T19:28:57+00:00`
-  - https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/
-  - Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
 - 🔵 **An AI-supervised remote exam went so badly that 58,000 students must retake it** — Ars Technica AI — `2026-08-03T19:00:50+00:00`
   - https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/
   - Top scores increased by 5x.
