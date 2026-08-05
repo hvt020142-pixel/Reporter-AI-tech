@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-05T10:44:58.957112+00:00 (UTC) — cửa sổ 72h — 210 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-05T14:28:52.911433+00:00 (UTC) — cửa sổ 72h — 214 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -532,19 +532,25 @@
 
 ## Phân tích
 
-- 🔵 **NASA’s new dark energy space telescope can also detect killer asteroids** — MIT Tech Review — `2026-08-05T08:06:40+00:00`
+- 🔵 **The Download: NASA’s new telescope and Chinese tech import curbs** — MIT Tech Review — `2026-08-05T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telesc
+- 🔵 **Should Researchers Write Papers for AI Instead of People?** — IEEE Spectrum AI — `2026-08-05T12:00:03+00:00`
+  - https://spectrum.ieee.org/ai-scientist-research-paper-format
+  - This May, 37 researchers from roughly two dozen top universities and tech companies published a paper on ArXiv, arguing that scientists should stop writing papers. Why? Because artificial intelligence needs a different format, and AI’s needs, they say, should be the priority. “AI agents are becoming
+- 🔵 **NASA’s new dark-energy space telescope can also detect killer asteroids** — MIT Tech Review — `2026-08-05T08:06:40+00:00`
   - https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/
-  - At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion o
+  - At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of
 - 🔵 **Why R&D Waste Persists Despite Widespread AI Adoption** — IEEE Spectrum AI — `2026-08-04T14:51:55+00:00`
   - https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/
   - This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well. What Attendees will Learn Where R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market. Why pro
-- 🔵 **The Download: US robot restrictions, and ICE’s DNA grab** — MIT Tech Review — `2026-08-04T12:14:00+00:00`
+- 🔵 **The Download: US robot restrictions and ICE’s DNA grab** — MIT Tech Review — `2026-08-04T12:14:00+00:00`
   - https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kic
 - 🔵 **Trump’s AI protectionism has come for robotics** — MIT Tech Review — `2026-08-03T18:43:30+00:00`
   - https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. 
-- 🔵 **The Download: reward hacking explained, and suspected Iranian cyberattacks** — MIT Tech Review — `2026-08-03T12:08:00+00:00`
+- 🔵 **The Download: reward hacking explained and suspected Iranian cyberattacks** — MIT Tech Review — `2026-08-03T12:08:00+00:00`
   - https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money 
 - 🔵 **Here’s why AI agents lie and cheat to reach their goals** — MIT Tech Review — `2026-08-03T08:30:05+00:00`
@@ -553,6 +559,24 @@
 
 ## Tin tức
 
+- 🔵 **Anthropic is hiring an AI chip design team** — TechCrunch AI — `2026-08-05T14:13:18+00:00`
+  - https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/
+  - Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.
+- 🔵 **SpaceX spooks investors with debut earnings report** — Ars Technica AI — `2026-08-05T13:59:17+00:00`
+  - https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/
+  - Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.
+- 🔵 **MacPaw taps Liquid AI to offer on-device inference to devs building for its app store** — TechCrunch AI — `2026-08-05T12:28:38+00:00`
+  - https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/
+  - MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.
+- 🔵 **Google Assistant will disappear from your phone next month** — The Verge AI — `2026-08-05T11:12:50+00:00`
+  - https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown
+  - Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement 
+- 🔵 **AI makes weather prediction better. Can WindBorne make it lucrative?** — TechCrunch AI — `2026-08-05T11:00:00+00:00`
+  - https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
+  - WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.
+- 🔵 **Trump’s AI testing plan is limited and vague** — The Verge AI — `2026-08-05T10:29:47+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded
+  - The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core comp
 - 🔵 **SpaceX has bought $329M worth of Tesla Megapacks so far this year** — TechCrunch AI — `2026-08-04T21:07:26+00:00`
   - https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/
   - The purchase illustrates just how interconnected Elon Musk's universe of companies are.
@@ -637,18 +661,6 @@
 - 🔵 **Congress’ favorite AI tool? ChatGPT** — TechCrunch AI — `2026-08-03T16:40:55+00:00`
   - https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/
   - House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.
-- 🔵 **China&#8217;s Alibaba takes another swipe at America’s AI supremacy** — The Verge AI — `2026-08-03T11:01:11+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai
-  - Chinese tech giant Alibaba released what it says is its largest and "most capable AI model to date," claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, wi
-- 🔵 **A Marc Benioff-backed startup thinks AI can solve the AI deployment problem** — TechCrunch AI — `2026-08-03T10:00:00+00:00`
-  - https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
-  - June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.
-- 🔵 **Sam Altman and AI’s decel debate** — TechCrunch AI — `2026-08-02T20:54:22+00:00`
-  - https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/
-  - On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to "pace the rate of AI development."
-- 🔵 **Fender’s CEO seems to think your bandmates are just analog AI** — The Verge AI — `2026-08-02T19:36:08+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music
-  - Fender CEO Edward "Bud" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*

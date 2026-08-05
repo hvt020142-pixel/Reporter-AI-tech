@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T10:44:58.957112+00:00",
+  "generated_at": "2026-08-05T14:28:52.911433+00:00",
   "lookback_hours": 72,
-  "item_count": 210,
+  "item_count": 214,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 19,
+      "items_kept": 20,
       "items_total": 20
     },
     {
@@ -78,33 +78,113 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 3,
+      "items_kept": 4,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 5,
+      "items_kept": 6,
       "items_total": 10
     },
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 1,
+      "items_kept": 2,
       "items_total": 30
     }
   ],
   "sources_failed": [],
   "items": [
     {
-      "title": "NASA’s new dark energy space telescope can also detect killer asteroids",
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T14:13:18+00:00",
+      "published_ts": 1785939198.0,
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently."
+    },
+    {
+      "title": "SpaceX spooks investors with debut earnings report",
+      "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T13:59:17+00:00",
+      "published_ts": 1785938357.0,
+      "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled."
+    },
+    {
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T12:28:38+00:00",
+      "published_ts": 1785932918.0,
+      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models."
+    },
+    {
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T12:10:00+00:00",
+      "published_ts": 1785931800.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telesc"
+    },
+    {
+      "title": "Should Researchers Write Papers for AI Instead of People?",
+      "url": "https://spectrum.ieee.org/ai-scientist-research-paper-format",
+      "source": "IEEE Spectrum AI",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T12:00:03+00:00",
+      "published_ts": 1785931203.0,
+      "summary": "This May, 37 researchers from roughly two dozen top universities and tech companies published a paper on ArXiv, arguing that scientists should stop writing papers. Why? Because artificial intelligence needs a different format, and AI’s needs, they say, should be the priority. “AI agents are becoming"
+    },
+    {
+      "title": "Google Assistant will disappear from your phone next month",
+      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T11:12:50+00:00",
+      "published_ts": 1785928370.0,
+      "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement "
+    },
+    {
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T11:00:00+00:00",
+      "published_ts": 1785927600.0,
+      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts."
+    },
+    {
+      "title": "Trump’s AI testing plan is limited and vague",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-05T10:29:47+00:00",
+      "published_ts": 1785925787.0,
+      "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core comp"
+    },
+    {
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
       "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
       "source": "MIT Tech Review",
       "category": "Phân tích",
       "tier": "reputable",
       "published_iso": "2026-08-05T08:06:40+00:00",
       "published_ts": 1785917200.0,
-      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion o"
+      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of"
     },
     {
       "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
@@ -1947,7 +2027,7 @@
       "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
     },
     {
-      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "source": "MIT Tech Review",
       "category": "Phân tích",
@@ -2117,7 +2197,7 @@
       "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
     },
     {
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
       "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
       "source": "MIT Tech Review",
       "category": "Phân tích",
@@ -2125,26 +2205,6 @@
       "published_iso": "2026-08-03T12:08:00+00:00",
       "published_ts": 1785758880.0,
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money "
-    },
-    {
-      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-03T11:01:11+00:00",
-      "published_ts": 1785754871.0,
-      "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, wi"
-    },
-    {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-03T10:00:00+00:00",
-      "published_ts": 1785751200.0,
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
     },
     {
       "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -2175,26 +2235,6 @@
       "published_iso": "2026-08-03T00:00:00+00:00",
       "published_ts": 1785715200.0,
       "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-02T20:54:22+00:00",
-      "published_ts": 1785704062.0,
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\""
-    },
-    {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-02T19:36:08+00:00",
-      "published_ts": 1785699368.0,
-      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company"
     }
   ]
 }
