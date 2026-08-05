@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-04T23:16:07.470123+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-05T03:27:58.030741+00:00 (UTC) — cửa sổ 72h — 209 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -213,13 +213,13 @@
   - arXiv:2608.00059v1 Announce Type: new Abstract: The success of connectome mapping now shifts the challenge of understanding the nervous system to the interpretation of neural circuits. Here, we devise a new automated method, LLantia (LLM automated neural circuit inference and analysis), to systemati
 - 🟢 **LLM-OSDA: An Optimal-Stopping Dynamic Auction for Native Advertising in Multi-Turn LLM Conversations** — arXiv cs.CL — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00123
-  - arXiv:2608.00123v1 Announce Type: new Abstract: LLM-native advertising embeds sponsored content directly into model-generated responses, shifting the unit of sale from a fixed slot to a moment within an evolving conversation. Existing LLM ad-auction mechanisms primarily operate within a single respo
+  - arXiv:2608.00123v2 Announce Type: new Abstract: LLM-native advertising embeds sponsored content directly into model-generated responses, shifting the unit of sale from a fixed slot to a moment within an evolving conversation. Existing LLM ad-auction mechanisms primarily operate within a single respo
 - 🟢 **DiffusionGemma Technical Report** — arXiv cs.CL — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00146
   - arXiv:2608.00146v1 Announce Type: new Abstract: We introduce DiffusionGemma, an experimental open-weight language model that uses discrete diffusion to generate text at exceptionally high speed. Rather than decoding one token at a time, DiffusionGemma iteratively refines blocks of 256 tokens in para
 - 🟢 **A Constitution-Grid Instrument for Data-Efficient RL Alignment (C-Guard)** — arXiv cs.CL — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00180
-  - arXiv:2608.00180v1 Announce Type: new Abstract: Conflicting objectives are general in RL alignment, and training on them data-efficiently is hard. Training a safety guard with RL means optimizing two objectives that conflict: catch real harm, and do not refuse benign prompts. Our finding is that ove
+  - arXiv:2608.00180v2 Announce Type: new Abstract: Conflicting objectives are general in RL alignment, and training on them data-efficiently is hard. Training a safety guard with RL means optimizing two objectives that conflict: catch real harm, and do not refuse benign prompts. Our finding is that ove
 - 🟢 **Averaging Bias: Human Faithfulness Annotations are not Locally Faithful** — arXiv cs.CL — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00205
   - arXiv:2608.00205v1 Announce Type: new Abstract: Evaluation of faithfulness of text summarization treats a model generated summary as faithful only if every of its sentences is supported by the source document: a strict conjunctive rule under which a single unsupported sentence makes the whole summar
@@ -252,7 +252,7 @@
   - arXiv:2608.00434v1 Announce Type: new Abstract: Multi-Token Prediction (MTP) has emerged as an effective paradigm that augments a shared Large Language Model backbone with auxiliary heads, training the model to predict several future tokens in parallel to enrich its supervision signal and accelerate
 - 🟢 **SERL-SQL: Selective Hindsight Distillation for Text-to-SQL Reinforcement Agentic Learning** — arXiv cs.CL — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00485
-  - arXiv:2608.00485v1 Announce Type: new Abstract: Recent Text-to-SQL systems increasingly rely on multi-turn interaction, execution feedback, and reinforcement learning. However, most existing methods use execution correctness only as a trajectory-level reward, which provides limited guidance for iden
+  - arXiv:2608.00485v2 Announce Type: new Abstract: Recent Text-to-SQL systems increasingly rely on multi-turn interaction, execution feedback, and reinforcement learning. However, most existing methods use execution correctness only as a trajectory-level reward, which provides limited guidance for iden
 - 🟢 **The methodology of Constructing the Large-Scale Dataset for Detecting Presuicidal and Anti-Suicidal Signals in Social Media Texts in Russian** — arXiv cs.CL — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00497
   - arXiv:2608.00497v1 Announce Type: new Abstract: The suicide is a terrifying act of a person who is misled by his own mental state. This problem arises across many countries. Sadly, Russia also has quite high number of persons who committed suicide. Luckily, a subset of these people writes their stru
@@ -390,7 +390,7 @@
   - arXiv:2608.00776v1 Announce Type: new Abstract: Traditional reaction yield prediction is constrained by 1D quantum descriptors that lack explicit spatial information. To address this gap, a dual-modal Vision Cross-Attention architecture is proposed, fusing tabular physical-organic data with 2D molec
 - 🟢 **Paris as a 15-Minute City: An Explainable AI Perspective** — arXiv cs.LG — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00815
-  - arXiv:2608.00815v1 Announce Type: new Abstract: The 15-minute city promotes access to everyday services within a short walk or bicycle ride, but its relationship with observed mobility remains difficult to quantify. We investigate this relationship in the Paris metropolitan area using mobility traje
+  - arXiv:2608.00815v2 Announce Type: new Abstract: The 15-minute city promotes access to everyday services within a short walk or bicycle ride, but its relationship with observed mobility remains difficult to quantify. We investigate this relationship in the Paris metropolitan area using mobility traje
 - 🟢 **AdvPlan-Bench: Adversarial Evaluation of Structured Plan-Generation Agents** — arXiv cs.LG — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00832
   - arXiv:2608.00832v1 Announce Type: new Abstract: Structured plan-generation agents are often evaluated as if a plan has quality in isolation, yet many realistic planning tasks require asking how a candidate behaves when another agent can search for responses. We introduce AdvPlan-Bench, an offline be
@@ -414,7 +414,7 @@
   - arXiv:2608.00060v1 Announce Type: new Abstract: Here we introduce ELECTRIC (Evidential Learning-Enhanced CT Reconstruction via Iterative Correction), a physics-guided Bayesian formulation. An evidential neural network provides an image proposal and an error-predictive epistemic-uncertainty surrogate
 - 🟢 **Noise-Robust Conditional Flow Matching: Generating Clean Samples from Noisy Datasets** — arXiv cs.CV — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00064
-  - arXiv:2608.00064v1 Announce Type: new Abstract: Generative models learn the statistical properties of their training data, so high-quality generation depends on clean and representative datasets. In scientific imaging, acquisition often yields noisy measurements, while collecting clean references ca
+  - arXiv:2608.00064v2 Announce Type: new Abstract: Generative models learn the statistical properties of their training data, so high-quality generation depends on clean and representative datasets. In scientific imaging, acquisition often yields noisy measurements, while collecting clean references ca
 - 🟢 **PhysAgent: A Multi-Agent Framework for Reliable Remote Heart Rate Estimation** — arXiv cs.CV — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00066
   - arXiv:2608.00066v1 Announce Type: new Abstract: Remote photoplethysmography (rPPG) enables non-contact heart-rate estimation from facial videos, but its weak physiological signal is easily corrupted by motion, illumination changes, occlusion, skin-appearance variation, and device noise. Existing rPP
@@ -435,13 +435,13 @@
   - arXiv:2608.00074v1 Announce Type: new Abstract: This paper presents a multimodal machine-learning framework for calibration monitoring, quality assessment, and adaptive acquisition support in archaeological digitisation workflows. The proposed approach operates across photogrammetric 3D reconstructi
 - 🟢 **K-space Gaussian Representation for Parallel MRI** — arXiv cs.CV — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00075
-  - arXiv:2608.00075v1 Announce Type: new Abstract: Accelerated magnetic resonance imaging (MRI) aims to recover the k-space signal from acquired measurements, where accurate estimation of missing samples is essential for high-fidelity reconstruction. Existing k-space reconstruction methods estimate mis
+  - arXiv:2608.00075v2 Announce Type: new Abstract: Accelerated magnetic resonance imaging (MRI) aims to recover the k-space signal from acquired measurements, where accurate estimation of missing samples is essential for high-fidelity reconstruction. Existing k-space reconstruction methods estimate mis
 - 🟢 **Which Modality Decides? Counterfactual Modality Attribution for Multimodal LLMs** — arXiv cs.CV — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00076
-  - arXiv:2608.00076v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) increasingly support high-stakes decision making by combining complementary information from images and text. While existing explainability methods identify influential image regions or text tokens, they cannot 
+  - arXiv:2608.00076v2 Announce Type: new Abstract: Multimodal large language models (MLLMs) increasingly support high-stakes decision making by combining complementary information from images and text. While existing explainability methods identify influential image regions or text tokens, they cannot 
 - 🟢 **Beyond Accuracy: Auditing Spatial Provenance in Visual Token Pruning for OCR-Critical MLLM Inference** — arXiv cs.CV — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00077
-  - arXiv:2608.00077v1 Announce Type: new Abstract: Visual-token pruning is usually judged by answer quality at a fixed retention budget. For text-rich multimodal large language models (MLLMs), this protocol can miss a distinct failure: an answer remains correct even when no retained token is locally tr
+  - arXiv:2608.00077v2 Announce Type: new Abstract: Visual-token pruning is usually judged by answer quality at a fixed retention budget. For text-rich multimodal large language models (MLLMs), this protocol can miss a distinct failure: an answer remains correct even when no retained token is locally tr
 - 🟢 **Device-First Feedback: Toward Mobile-Native LLM-Driven Neural Architecture Search** — arXiv cs.CV — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00078
   - arXiv:2608.00078v1 Announce Type: new Abstract: Deploying convolutional neural networks generated by large language models (LLMs) on real mobile hardware requires more than GPU validation accuracy: INT8 TensorFlow Lite export, delegate selection, and on-device latency jointly determine whether a mod
@@ -462,7 +462,7 @@
   - arXiv:2608.00089v1 Announce Type: new Abstract: With rapid growth in the fields of empirical and computational aesthetics we have seen a vast increase in large image datasets annotated for aesthetics. As the image databases differ widely in many respects (e.g., different standards for annotation), i
 - 🟢 **Video Models as Native 4D Renderers: World-Grounded Conditioning from Animated Mesh** — arXiv cs.CV — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00094
-  - arXiv:2608.00094v1 Announce Type: new Abstract: Pretrained video diffusion models can act as renderers when the desired scene state is already specified by an animated mesh, a camera trajectory, and a reference image. This 4D generative rendering setting raises a representation question: what image-
+  - arXiv:2608.00094v2 Announce Type: new Abstract: Pretrained video diffusion models can act as renderers when the desired scene state is already specified by an animated mesh, a camera trajectory, and a reference image. This 4D generative rendering setting raises a representation question: what image-
 - 🟢 **Logographic Character Visual Pretraining via Semantic-based Contrastive Learning** — arXiv cs.CV — `2026-08-04T04:00:00+00:00`
   - https://arxiv.org/abs/2608.00096
   - arXiv:2608.00096v1 Announce Type: new Abstract: Current deep learning-based character vision studies, e.g., text recognition, character image denoising, and historical text completion, are offering new solutions for learning, managing, and utilizing character resources. However, the performance of t

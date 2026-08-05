@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:16:07.470123+00:00",
+  "generated_at": "2026-08-05T03:27:58.030741+00:00",
   "lookback_hours": 72,
   "item_count": 209,
   "sources_ok": [
@@ -924,7 +924,7 @@
       "tier": "primary",
       "published_iso": "2026-08-04T04:00:00+00:00",
       "published_ts": 1785816000.0,
-      "summary": "arXiv:2608.00123v1 Announce Type: new Abstract: LLM-native advertising embeds sponsored content directly into model-generated responses, shifting the unit of sale from a fixed slot to a moment within an evolving conversation. Existing LLM ad-auction mechanisms primarily operate within a single respo"
+      "summary": "arXiv:2608.00123v2 Announce Type: new Abstract: LLM-native advertising embeds sponsored content directly into model-generated responses, shifting the unit of sale from a fixed slot to a moment within an evolving conversation. Existing LLM ad-auction mechanisms primarily operate within a single respo"
     },
     {
       "title": "DiffusionGemma Technical Report",
@@ -944,7 +944,7 @@
       "tier": "primary",
       "published_iso": "2026-08-04T04:00:00+00:00",
       "published_ts": 1785816000.0,
-      "summary": "arXiv:2608.00180v1 Announce Type: new Abstract: Conflicting objectives are general in RL alignment, and training on them data-efficiently is hard. Training a safety guard with RL means optimizing two objectives that conflict: catch real harm, and do not refuse benign prompts. Our finding is that ove"
+      "summary": "arXiv:2608.00180v2 Announce Type: new Abstract: Conflicting objectives are general in RL alignment, and training on them data-efficiently is hard. Training a safety guard with RL means optimizing two objectives that conflict: catch real harm, and do not refuse benign prompts. Our finding is that ove"
     },
     {
       "title": "Averaging Bias: Human Faithfulness Annotations are not Locally Faithful",
@@ -1054,7 +1054,7 @@
       "tier": "primary",
       "published_iso": "2026-08-04T04:00:00+00:00",
       "published_ts": 1785816000.0,
-      "summary": "arXiv:2608.00485v1 Announce Type: new Abstract: Recent Text-to-SQL systems increasingly rely on multi-turn interaction, execution feedback, and reinforcement learning. However, most existing methods use execution correctness only as a trajectory-level reward, which provides limited guidance for iden"
+      "summary": "arXiv:2608.00485v2 Announce Type: new Abstract: Recent Text-to-SQL systems increasingly rely on multi-turn interaction, execution feedback, and reinforcement learning. However, most existing methods use execution correctness only as a trajectory-level reward, which provides limited guidance for iden"
     },
     {
       "title": "The methodology of Constructing the Large-Scale Dataset for Detecting Presuicidal and Anti-Suicidal Signals in Social Media Texts in Russian",
@@ -1514,7 +1514,7 @@
       "tier": "primary",
       "published_iso": "2026-08-04T04:00:00+00:00",
       "published_ts": 1785816000.0,
-      "summary": "arXiv:2608.00815v1 Announce Type: new Abstract: The 15-minute city promotes access to everyday services within a short walk or bicycle ride, but its relationship with observed mobility remains difficult to quantify. We investigate this relationship in the Paris metropolitan area using mobility traje"
+      "summary": "arXiv:2608.00815v2 Announce Type: new Abstract: The 15-minute city promotes access to everyday services within a short walk or bicycle ride, but its relationship with observed mobility remains difficult to quantify. We investigate this relationship in the Paris metropolitan area using mobility traje"
     },
     {
       "title": "AdvPlan-Bench: Adversarial Evaluation of Structured Plan-Generation Agents",
@@ -1594,7 +1594,7 @@
       "tier": "primary",
       "published_iso": "2026-08-04T04:00:00+00:00",
       "published_ts": 1785816000.0,
-      "summary": "arXiv:2608.00064v1 Announce Type: new Abstract: Generative models learn the statistical properties of their training data, so high-quality generation depends on clean and representative datasets. In scientific imaging, acquisition often yields noisy measurements, while collecting clean references ca"
+      "summary": "arXiv:2608.00064v2 Announce Type: new Abstract: Generative models learn the statistical properties of their training data, so high-quality generation depends on clean and representative datasets. In scientific imaging, acquisition often yields noisy measurements, while collecting clean references ca"
     },
     {
       "title": "PhysAgent: A Multi-Agent Framework for Reliable Remote Heart Rate Estimation",
@@ -1664,7 +1664,7 @@
       "tier": "primary",
       "published_iso": "2026-08-04T04:00:00+00:00",
       "published_ts": 1785816000.0,
-      "summary": "arXiv:2608.00075v1 Announce Type: new Abstract: Accelerated magnetic resonance imaging (MRI) aims to recover the k-space signal from acquired measurements, where accurate estimation of missing samples is essential for high-fidelity reconstruction. Existing k-space reconstruction methods estimate mis"
+      "summary": "arXiv:2608.00075v2 Announce Type: new Abstract: Accelerated magnetic resonance imaging (MRI) aims to recover the k-space signal from acquired measurements, where accurate estimation of missing samples is essential for high-fidelity reconstruction. Existing k-space reconstruction methods estimate mis"
     },
     {
       "title": "Which Modality Decides? Counterfactual Modality Attribution for Multimodal LLMs",
@@ -1674,7 +1674,7 @@
       "tier": "primary",
       "published_iso": "2026-08-04T04:00:00+00:00",
       "published_ts": 1785816000.0,
-      "summary": "arXiv:2608.00076v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) increasingly support high-stakes decision making by combining complementary information from images and text. While existing explainability methods identify influential image regions or text tokens, they cannot "
+      "summary": "arXiv:2608.00076v2 Announce Type: new Abstract: Multimodal large language models (MLLMs) increasingly support high-stakes decision making by combining complementary information from images and text. While existing explainability methods identify influential image regions or text tokens, they cannot "
     },
     {
       "title": "Beyond Accuracy: Auditing Spatial Provenance in Visual Token Pruning for OCR-Critical MLLM Inference",
@@ -1684,7 +1684,7 @@
       "tier": "primary",
       "published_iso": "2026-08-04T04:00:00+00:00",
       "published_ts": 1785816000.0,
-      "summary": "arXiv:2608.00077v1 Announce Type: new Abstract: Visual-token pruning is usually judged by answer quality at a fixed retention budget. For text-rich multimodal large language models (MLLMs), this protocol can miss a distinct failure: an answer remains correct even when no retained token is locally tr"
+      "summary": "arXiv:2608.00077v2 Announce Type: new Abstract: Visual-token pruning is usually judged by answer quality at a fixed retention budget. For text-rich multimodal large language models (MLLMs), this protocol can miss a distinct failure: an answer remains correct even when no retained token is locally tr"
     },
     {
       "title": "Device-First Feedback: Toward Mobile-Native LLM-Driven Neural Architecture Search",
@@ -1754,7 +1754,7 @@
       "tier": "primary",
       "published_iso": "2026-08-04T04:00:00+00:00",
       "published_ts": 1785816000.0,
-      "summary": "arXiv:2608.00094v1 Announce Type: new Abstract: Pretrained video diffusion models can act as renderers when the desired scene state is already specified by an animated mesh, a camera trajectory, and a reference image. This 4D generative rendering setting raises a representation question: what image-"
+      "summary": "arXiv:2608.00094v2 Announce Type: new Abstract: Pretrained video diffusion models can act as renderers when the desired scene state is already specified by an animated mesh, a camera trajectory, and a reference image. This 4D generative rendering setting raises a representation question: what image-"
     },
     {
       "title": "Logographic Character Visual Pretraining via Semantic-based Contrastive Learning",
