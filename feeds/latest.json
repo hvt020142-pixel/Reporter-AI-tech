@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T10:47:45.306961+00:00",
+  "generated_at": "2026-08-06T14:31:32.257020+00:00",
   "lookback_hours": 72,
-  "item_count": 218,
+  "item_count": 222,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,14 +24,14 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 5,
+      "items_kept": 7,
       "items_total": 18
     },
     {
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/feed.xml",
-      "items_kept": 1,
-      "items_total": 834
+      "items_kept": 2,
+      "items_total": 835
     },
     {
       "source": "arXiv cs.AI",
@@ -78,7 +78,7 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 8,
+      "items_kept": 9,
       "items_total": 20
     },
     {
@@ -96,6 +96,136 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "SoftBank donated $50 million to Trump’s library just months before federal data center deal",
+      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T14:30:00+00:00",
+      "published_ts": 1786026600.0,
+      "summary": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from Sen. Elizabeth Warren ("
+    },
+    {
+      "title": "The left and right agree on one thing: no data centers",
+      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T14:00:00+00:00",
+      "published_ts": 1786024800.0,
+      "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&#160; Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data ce"
+    },
+    {
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T13:31:57+00:00",
+      "published_ts": 1786023117.0,
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
+    },
+    {
+      "title": "The messy politics behind Google’s big AI shakeup",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T13:26:42+00:00",
+      "published_ts": 1786022802.0,
+      "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future s"
+    },
+    {
+      "title": "GeForce NOW Shakes Up August With 26 New Games",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-08-06T13:00:11+00:00",
+      "published_ts": 1786021211.0,
+      "summary": "August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine"
+    },
+    {
+      "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-08-06T13:00:00+00:00",
+      "published_ts": 1786021200.0,
+      "summary": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector."
+    },
+    {
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T13:00:00+00:00",
+      "published_ts": 1786021200.0,
+      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time."
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T13:00:00+00:00",
+      "published_ts": 1786021200.0,
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development."
+    },
+    {
+      "title": "AI bots started a religion — humans immediately followed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "source": "The Verge AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T13:00:00+00:00",
+      "published_ts": 1786021200.0,
+      "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The person continued that they felt their purpose was to enlighten other humans and intelligent beings a"
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T12:30:00+00:00",
+      "published_ts": 1786019400.0,
+      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
+    },
+    {
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "source": "MIT Tech Review",
+      "category": "Phân tích",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T12:10:00+00:00",
+      "published_ts": 1786018200.0,
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model"
+    },
+    {
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "source": "TechCrunch AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T12:00:00+00:00",
+      "published_ts": 1786017600.0,
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
+    },
+    {
+      "title": "AI isn’t enough to protect social media communities from AI",
+      "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+      "source": "Ars Technica AI",
+      "category": "Tin tức",
+      "tier": "reputable",
+      "published_iso": "2026-08-06T11:00:44+00:00",
+      "published_ts": 1786014044.0,
+      "summary": "Why humans need to moderate humans."
+    },
     {
       "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
       "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
@@ -1717,6 +1847,16 @@
       "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three month"
     },
     {
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
+      "source": "Hugging Face",
+      "category": "Mô hình mở",
+      "tier": "primary",
+      "published_iso": "2026-08-06T00:00:00+00:00",
+      "published_ts": 1785974400.0,
+      "summary": ""
+    },
+    {
       "title": "Meta launches Muse Code, an AI agent for large code bases",
       "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
       "source": "TechCrunch AI",
@@ -1857,16 +1997,6 @@
       "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks."
     },
     {
-      "title": "Rogue AI agents created fake online identities in another hacking attempt",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-05T15:14:57+00:00",
-      "published_ts": 1785942897.0,
-      "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems."
-    },
-    {
       "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
       "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
       "source": "TechCrunch AI",
@@ -1947,16 +2077,6 @@
       "summary": "This May, 37 researchers from roughly two dozen top universities and tech companies published a paper on ArXiv, arguing that scientists should stop writing papers. Why? Because artificial intelligence needs a different format, and AI’s needs, they say, should be the priority. “AI agents are becoming"
     },
     {
-      "title": "Google Assistant will disappear from your phone next month",
-      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-05T11:12:50+00:00",
-      "published_ts": 1785928370.0,
-      "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement "
-    },
-    {
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
       "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
       "source": "TechCrunch AI",
@@ -1965,16 +2085,6 @@
       "published_iso": "2026-08-05T11:00:00+00:00",
       "published_ts": 1785927600.0,
       "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts."
-    },
-    {
-      "title": "Trump’s AI testing plan is limited and vague",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-05T10:29:47+00:00",
-      "published_ts": 1785925787.0,
-      "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core comp"
     },
     {
       "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
@@ -1995,16 +2105,6 @@
       "published_iso": "2026-08-04T21:07:26+00:00",
       "published_ts": 1785877646.0,
       "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
-    },
-    {
-      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
-      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "source": "The Verge AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-04T20:57:49+00:00",
-      "published_ts": 1785877069.0,
-      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings ca"
     },
     {
       "title": "Texas halts data center connections to power grid amid overwhelming demand",
@@ -2087,26 +2187,6 @@
       "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring "
     },
     {
-      "title": "Texas halts new data centers as governor calls for audits",
-      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-04T15:42:35+00:00",
-      "published_ts": 1785858155.0,
-      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink."
-    },
-    {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-04T15:20:06+00:00",
-      "published_ts": 1785856806.0,
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business."
-    },
-    {
       "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
       "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
       "source": "NVIDIA",
@@ -2135,16 +2215,6 @@
       "published_iso": "2026-08-04T14:51:55+00:00",
       "published_ts": 1785855115.0,
       "summary": "This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well. What Attendees will Learn Where R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market. Why pro"
-    },
-    {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-04T14:03:01+00:00",
-      "published_ts": 1785852181.0,
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
     },
     {
       "title": "Deploy local agents everywhere with LFM2.5-2.6B",
@@ -2177,16 +2247,6 @@
       "summary": "Here are Google’s latest AI updates from July 2026"
     },
     {
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-04T13:00:00+00:00",
-      "published_ts": 1785848400.0,
-      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
-    },
-    {
       "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "source": "MIT Tech Review",
@@ -2195,16 +2255,6 @@
       "published_iso": "2026-08-04T12:14:00+00:00",
       "published_ts": 1785845640.0,
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kic"
-    },
-    {
-      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-04T12:00:00+00:00",
-      "published_ts": 1785844800.0,
-      "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built."
     },
     {
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
@@ -2265,16 +2315,6 @@
       "published_iso": "2026-08-03T15:00:00+00:00",
       "published_ts": 1785769200.0,
       "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
-    },
-    {
-      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-08-03T12:08:00+00:00",
-      "published_ts": 1785758880.0,
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money "
     }
   ]
 }

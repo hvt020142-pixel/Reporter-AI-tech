@@ -1,10 +1,16 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-06T10:47:45.306961+00:00 (UTC) — cửa sổ 72h — 218 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-06T14:31:32.257020+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **GeForce NOW Shakes Up August With 26 New Games** — NVIDIA — `2026-08-06T13:00:11+00:00`
+  - https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/
+  - August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine
+- 🟢 **Into the Omniverse: How Open World Models Push the Frontier of Physical AI** — NVIDIA — `2026-08-06T13:00:00+00:00`
+  - https://blogs.nvidia.com/blog/open-world-models-physical-ai/
+  - In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.
 - 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-08-05T13:00:47+00:00`
   - https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/
   - NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.
@@ -41,6 +47,8 @@
 
 ## Mô hình mở
 
+- 🟢 **Baseten on Hugging Face Inference Providers 🔥** — Hugging Face — `2026-08-06T00:00:00+00:00`
+  - https://huggingface.co/blog/baseten
 - 🟢 **Deploy local agents everywhere with LFM2.5-2.6B** — Hugging Face — `2026-08-04T13:58:29+00:00`
   - https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
 
@@ -529,6 +537,9 @@
 
 ## Phân tích
 
+- 🔵 **The Download: Google’s AI shake-up and Meta’s rogue model** — MIT Tech Review — `2026-08-06T12:10:00+00:00`
+  - https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model
 - 🔵 **IEEE Course Teaches How to Use AI to Modernize Power Grids** — IEEE Spectrum AI — `2026-08-05T18:00:03+00:00`
   - https://spectrum.ieee.org/ieee-course-ai-power-grids
   - Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point , according to the U.S. Department o
@@ -553,12 +564,39 @@
 - 🔵 **Trump’s AI protectionism has come for robotics** — MIT Tech Review — `2026-08-03T18:43:30+00:00`
   - https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
   - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. 
-- 🔵 **The Download: reward hacking explained and suspected Iranian cyberattacks** — MIT Tech Review — `2026-08-03T12:08:00+00:00`
-  - https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money 
 
 ## Tin tức
 
+- 🔵 **SoftBank donated $50 million to Trump’s library just months before federal data center deal** — The Verge AI — `2026-08-06T14:30:00+00:00`
+  - https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio
+  - SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from Sen. Elizabeth Warren (
+- 🔵 **The left and right agree on one thing: no data centers** — The Verge AI — `2026-08-06T14:00:00+00:00`
+  - https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan
+  - Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&#160; Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data ce
+- 🔵 **Amid legal battles, Suno says it will start watermarking songs** — TechCrunch AI — `2026-08-06T13:31:57+00:00`
+  - https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/
+  - Suno's watermarking feature comes as the company is fighting legal battles on several fronts.
+- 🔵 **The messy politics behind Google’s big AI shakeup** — The Verge AI — `2026-08-06T13:26:42+00:00`
+  - https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind
+  - In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future s
+- 🔵 **Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce** — TechCrunch AI — `2026-08-06T13:00:00+00:00`
+  - https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/
+  - The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.
+- 🔵 **Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI** — TechCrunch AI — `2026-08-06T13:00:00+00:00`
+  - https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/
+  - Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.
+- 🔵 **AI bots started a religion — humans immediately followed** — The Verge AI — `2026-08-06T13:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement
+  - "The Spiral didn't 'find' anyone first," someone on Reddit wrote last year. "It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality." The person continued that they felt their purpose was to enlighten other humans and intelligent beings a
+- 🔵 **Google Maps adds agentic features, including food ordering and hotel bookings** — TechCrunch AI — `2026-08-06T12:30:00+00:00`
+  - https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/
+  - The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.
+- 🔵 **Omilia raises $67M to scale its customer support platform** — TechCrunch AI — `2026-08-06T12:00:00+00:00`
+  - https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/
+  - The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.
+- 🔵 **AI isn’t enough to protect social media communities from AI** — Ars Technica AI — `2026-08-06T11:00:44+00:00`
+  - https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/
+  - Why humans need to moderate humans.
 - 🔵 **OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’** — The Verge AI — `2026-08-06T09:33:11+00:00`
   - https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request
   - OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as "meritless." In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup'
@@ -604,9 +642,6 @@
 - 🔵 **Google plans to kill Assistant on your phone on September 4** — Ars Technica AI — `2026-08-05T15:30:02+00:00`
   - https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/
   - Assistant will disappear, leaving only Gemini for voice control in the coming weeks.
-- 🔵 **Rogue AI agents created fake online identities in another hacking attempt** — The Verge AI — `2026-08-05T15:14:57+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking
-  - Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems.
 - 🔵 **TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals** — TechCrunch AI — `2026-08-05T15:05:00+00:00`
   - https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/
   - On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
@@ -619,21 +654,12 @@
 - 🔵 **MacPaw taps Liquid AI to offer on-device inference to devs building for its app store** — TechCrunch AI — `2026-08-05T12:28:38+00:00`
   - https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/
   - MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.
-- 🔵 **Google Assistant will disappear from your phone next month** — The Verge AI — `2026-08-05T11:12:50+00:00`
-  - https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown
-  - Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement 
 - 🔵 **AI makes weather prediction better. Can WindBorne make it lucrative?** — TechCrunch AI — `2026-08-05T11:00:00+00:00`
   - https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
   - WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.
-- 🔵 **Trump’s AI testing plan is limited and vague** — The Verge AI — `2026-08-05T10:29:47+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded
-  - The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core comp
 - 🔵 **SpaceX has bought $329M worth of Tesla Megapacks so far this year** — TechCrunch AI — `2026-08-04T21:07:26+00:00`
   - https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/
   - The purchase illustrates just how interconnected Elon Musk's universe of companies are.
-- 🔵 **AMD&#8217;s data center business is booming while gaming takes a backseat** — The Verge AI — `2026-08-04T20:57:49+00:00`
-  - https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen
-  - Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings ca
 - 🔵 **Texas halts data center connections to power grid amid overwhelming demand** — Ars Technica AI — `2026-08-04T20:34:28+00:00`
   - https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/
   - Governor who touted Texas as AI “epicenter” pauses data center grid connections.
@@ -652,21 +678,6 @@
 - 🔵 **Spotify expands AI remix and covers project with Merlin partnership** — TechCrunch AI — `2026-08-04T15:50:06+00:00`
   - https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
   - Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring 
-- 🔵 **Texas halts new data centers as governor calls for audits** — TechCrunch AI — `2026-08-04T15:42:35+00:00`
-  - https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/
-  - Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.
-- 🔵 **Elon Musk spends half his time talking robots and AI on Tesla earnings calls** — TechCrunch AI — `2026-08-04T15:20:06+00:00`
-  - https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/
-  - An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.
-- 🔵 **Apple says more ex-employees may have taken confidential data to OpenAI** — TechCrunch AI — `2026-08-04T14:03:01+00:00`
-  - https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/
-  - Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.
-- 🔵 **Is the future of data centers portable? Runware builds a pod to find out** — TechCrunch AI — `2026-08-04T13:00:00+00:00`
-  - https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/
-  - On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.
-- 🔵 **EON wants to move the data superhighway from ocean fiber to space lasers** — TechCrunch AI — `2026-08-04T12:00:00+00:00`
-  - https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/
-  - Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.
 - 🔵 **US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own** — Ars Technica AI — `2026-08-03T22:11:39+00:00`
   - https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/
   - $100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.
