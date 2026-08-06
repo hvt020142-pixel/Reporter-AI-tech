@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-06T06:41:56.073137+00:00 (UTC) — cửa sổ 72h — 220 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-06T10:47:45.306961+00:00 (UTC) — cửa sổ 72h — 218 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -38,9 +38,6 @@
 - 🟢 **Inside our 353,000-person vibe coding course** — Google (Keyword AI) — `2026-08-03T15:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/
   - Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.
-- 🟢 **How we built a realtime system for responsive voice AI in six months** — OpenAI — `2026-08-03T07:00:00+00:00`
-  - https://openai.com/index/continuous-voice-interaction-with-gpt-live
-  - GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.
 
 ## Mô hình mở
 
@@ -559,12 +556,12 @@
 - 🔵 **The Download: reward hacking explained and suspected Iranian cyberattacks** — MIT Tech Review — `2026-08-03T12:08:00+00:00`
   - https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money 
-- 🔵 **Here’s why AI agents lie and cheat to reach their goals** — MIT Tech Review — `2026-08-03T08:30:05+00:00`
-  - https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/
-  - MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage
 
 ## Tin tức
 
+- 🔵 **OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’** — The Verge AI — `2026-08-06T09:33:11+00:00`
+  - https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request
+  - OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as "meritless." In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup'
 - 🔵 **Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months** — The Verge AI — `2026-08-06T00:25:10+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead
   - xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a "massive improvement" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. "As far as we can tell, no entry has changed in more than three month
@@ -637,9 +634,6 @@
 - 🔵 **AMD&#8217;s data center business is booming while gaming takes a backseat** — The Verge AI — `2026-08-04T20:57:49+00:00`
   - https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen
   - Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings ca
-- 🔵 **SpaceX made more revenue as an AI company than a space company** — The Verge AI — `2026-08-04T20:47:55+00:00`
-  - https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud
-  - SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source 
 - 🔵 **Texas halts data center connections to power grid amid overwhelming demand** — Ars Technica AI — `2026-08-04T20:34:28+00:00`
   - https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/
   - Governor who touted Texas as AI “epicenter” pauses data center grid connections.
