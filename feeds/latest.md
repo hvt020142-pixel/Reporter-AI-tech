@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-07T13:33:36.831553+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-07T15:06:53.982006+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -17,12 +17,6 @@
 - 🟢 **NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US** — NVIDIA — `2026-08-04T16:00:56+00:00`
   - https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/
   - NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent 
-- 🟢 **NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use** — NVIDIA — `2026-08-04T15:00:49+00:00`
-  - https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/
-  - For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand
-- 🟢 **As AI Increases Demands on Memory, Storage Steps Up** — NVIDIA — `2026-08-04T15:00:47+00:00`
-  - https://blogs.nvidia.com/blog/ai-storage-fms/
-  - Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures
 
 ## Mô hình & LLM
 
@@ -48,8 +42,6 @@
 
 - 🟢 **Baseten on Hugging Face Inference Providers 🔥** — Hugging Face — `2026-08-06T00:00:00+00:00`
   - https://huggingface.co/blog/baseten
-- 🟢 **Deploy local agents everywhere with LFM2.5-2.6B** — Hugging Face — `2026-08-04T13:58:29+00:00`
-  - https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
 
 ## Nghiên cứu
 
@@ -536,6 +528,12 @@
 
 ## Phân tích
 
+- 🔵 **The Download: a censorship conspiracy theory and the first virus created by AI** — MIT Tech Review — `2026-08-07T14:20:00+00:00`
+  - https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/
+  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spre
+- 🔵 **How ideas of a vast censorship network moved from the online fringe to Trump policy** — MIT Tech Review — `2026-08-07T14:00:00+00:00`
+  - https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/
+  - This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Effic
 - 🔵 **AI Safety Regulations in the U.S. Could Give Hackers an Edge** — IEEE Spectrum AI — `2026-08-06T19:25:39+00:00`
   - https://spectrum.ieee.org/hugging-face-openai-cyberattack
   - On 11 July, Hugging Face was subjected to an intense cyberattack from a then-unknown actor. The speed and coordination of the attack on the company that hosts and supports popular AI developer resources led Hugging Face’s security team to conclude it was the work of an AI agent . Realizing this, the
@@ -557,12 +555,15 @@
 - 🔵 **NASA’s new dark-energy space telescope can also detect killer asteroids** — MIT Tech Review — `2026-08-05T08:06:40+00:00`
   - https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/
   - At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of
-- 🔵 **Why R&D Waste Persists Despite Widespread AI Adoption** — IEEE Spectrum AI — `2026-08-04T14:51:55+00:00`
-  - https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/
-  - This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well. What Attendees will Learn Where R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market. Why pro
 
 ## Tin tức
 
+- 🔵 **Airbnb says AI is helping it ship features faster as it tests a new search function** — TechCrunch AI — `2026-08-07T14:22:49+00:00`
+  - https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/
+  - Airbnb will debut a new AI-powered search experience with a toggle.
+- 🔵 **AI chatbots have failed people in crisis. Can that be fixed?** — Ars Technica AI — `2026-08-07T13:49:37+00:00`
+  - https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/
+  - Clinicians and researchers say AI companies need to open up their safety data.
 - 🔵 **ByteDance trains massive AI model in bid to rival Anthropic** — Ars Technica AI — `2026-08-07T13:29:22+00:00`
   - https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/
   - TikTok owner training a model with 10 trillion parameters.
@@ -683,9 +684,6 @@
 - 🔵 **MacPaw taps Liquid AI to offer on-device inference to devs building for its app store** — TechCrunch AI — `2026-08-05T12:28:38+00:00`
   - https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/
   - MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.
-- 🔵 **AI makes weather prediction better. Can WindBorne make it lucrative?** — TechCrunch AI — `2026-08-05T11:00:00+00:00`
-  - https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
-  - WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.
 - 🔵 **Texas halts data center connections to power grid amid overwhelming demand** — Ars Technica AI — `2026-08-04T20:34:28+00:00`
   - https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/
   - Governor who touted Texas as AI “epicenter” pauses data center grid connections.
