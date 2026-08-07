@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-06T14:31:32.257020+00:00 (UTC) — cửa sổ 72h — 222 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-07T00:12:03.472577+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -29,21 +29,23 @@
 
 ## Mô hình & LLM
 
+- 🟢 **WeatherNext: AI model achieves breakthrough in forecasting cyclones** — Google DeepMind — `2026-08-06T15:06:15+00:00`
+  - https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/
+- 🟢 **Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users** — OpenAI — `2026-08-06T10:00:00+00:00`
+  - https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
+  - ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.
+- 🟢 **Working with the American Psychological Association on youth mental health and AI** — OpenAI — `2026-08-06T06:00:00+00:00`
+  - https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
+  - OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.
+- 🟢 **From asking to doing: How the world is putting ChatGPT to work** — OpenAI — `2026-08-06T00:00:00+00:00`
+  - https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
+  - New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.
 - 🟢 **Third-party cyber evaluations involving OpenAI models** — OpenAI — `2026-08-04T19:00:00+00:00`
   - https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
   - OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
 - 🟢 **The latest AI news we announced in July 2026** — Google (Keyword AI) — `2026-08-04T13:00:00+00:00`
   - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
   - Here are Google’s latest AI updates from July 2026
-- 🟢 **New ways to learn and teach with ChatGPT Work and Codex** — OpenAI — `2026-08-04T00:00:00+00:00`
-  - https://openai.com/index/learn-teach-chatgpt-work-codex
-  - Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.
-- 🟢 **Apple is getting this wrong** — OpenAI — `2026-08-03T22:00:00+00:00`
-  - https://openai.com/index/apple-is-getting-this-wrong
-  - OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
-- 🟢 **Inside our 353,000-person vibe coding course** — Google (Keyword AI) — `2026-08-03T15:00:00+00:00`
-  - https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/
-  - Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.
 
 ## Mô hình mở
 
@@ -561,13 +563,46 @@
 - 🔵 **The Download: US robot restrictions and ICE’s DNA grab** — MIT Tech Review — `2026-08-04T12:14:00+00:00`
   - https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kic
-- 🔵 **Trump’s AI protectionism has come for robotics** — MIT Tech Review — `2026-08-03T18:43:30+00:00`
-  - https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/
-  - This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. 
 
 ## Tin tức
 
-- 🔵 **SoftBank donated $50 million to Trump’s library just months before federal data center deal** — The Verge AI — `2026-08-06T14:30:00+00:00`
+- 🔵 **OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400** — TechCrunch AI — `2026-08-06T22:43:53+00:00`
+  - https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/
+  - Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.
+- 🔵 **Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker** — The Verge AI — `2026-08-06T20:55:39+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor
+  - The AI device OpenAI is developing with former Apple designer Jony Ive is "essentially a smart speaker without a display" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price ove
+- 🔵 **Suno hopes to go legit with watermarks for AI-generated music** — Ars Technica AI — `2026-08-06T20:17:36+00:00`
+  - https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/
+  - Suno plans watermarks and download limits to stop "large-scale abuse."
+- 🔵 **Anthropic will design its own hardware to power Claude** — Ars Technica AI — `2026-08-06T20:03:44+00:00`
+  - https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/
+  - Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.
+- 🔵 **Large genome models used to design new viruses** — Ars Technica AI — `2026-08-06T19:04:57+00:00`
+  - https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/
+  - The AI system makes genetically distant versions of a bacteria-killing virus.
+- 🔵 **Suno shares plans to combat spammy AI music** — The Verge AI — `2026-08-06T17:39:43+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark
+  - Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy.
+- 🔵 **ChatGPT brings unlimited text chats to free users** — TechCrunch AI — `2026-08-06T17:34:42+00:00`
+  - https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/
+  - OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.
+- 🔵 **Naïve raises $28.5M to automate the grunt work of setting up and running a company** — TechCrunch AI — `2026-08-06T17:00:37+00:00`
+  - https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
+  - Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.
+- 🔵 **OpenAI is giving ChatGPT free users unlimited text chats** — The Verge AI — `2026-08-06T17:00:00+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats
+  - OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]
+- 🔵 **Cloudflare open-sources vibe-coding platform for people who aren't coders** — Ars Technica AI — `2026-08-06T16:15:30+00:00`
+  - https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/
+  - Cloudflare built an AI agent workspace for its employees. Now it’s open source.
+- 🔵 **Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking** — TechCrunch AI — `2026-08-06T15:53:03+00:00`
+  - https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/
+  - This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.
+- 🔵 **OpenAI says Apple’s own security practices undermine its trade secrets case** — TechCrunch AI — `2026-08-06T15:10:32+00:00`
+  - https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/
+  - Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly st
+- 🔵 **SoftBank donated $50 million to Trump’s library months before federal data center deal** — The Verge AI — `2026-08-06T14:30:00+00:00`
   - https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio
   - SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from Sen. Elizabeth Warren (
 - 🔵 **The left and right agree on one thing: no data centers** — The Verge AI — `2026-08-06T14:00:00+00:00`
@@ -581,7 +616,7 @@
   - In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future s
 - 🔵 **Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce** — TechCrunch AI — `2026-08-06T13:00:00+00:00`
   - https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/
-  - The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.
+  - The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.
 - 🔵 **Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI** — TechCrunch AI — `2026-08-06T13:00:00+00:00`
   - https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/
   - Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.
@@ -624,15 +659,6 @@
 - 🔵 **Sure seems like Fenix Flexin used AI music generator Treblo** — The Verge AI — `2026-08-05T16:57:25+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo
   - We were pretty sure that Fenix Flexin's "Rubberz" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects 
-- 🔵 **Google just announced a major shakeup of its top AI leadership** — The Verge AI — `2026-08-05T16:47:23+00:00`
-  - https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup
-  - Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomo
-- 🔵 **SpaceX is barely Space and mostly X** — The Verge AI — `2026-08-05T16:35:56+00:00`
-  - https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space
-  - Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to S
-- 🔵 **Reddit is introducing a new moderator: AI** — The Verge AI — `2026-08-05T16:00:00+00:00`
-  - https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform
-  - Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The compan
 - 🔵 **Shopify says AI search is driving more traffic and sales, not replacing Google** — TechCrunch AI — `2026-08-05T15:56:14+00:00`
   - https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/
   - Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.
@@ -663,27 +689,6 @@
 - 🔵 **Texas halts data center connections to power grid amid overwhelming demand** — Ars Technica AI — `2026-08-04T20:34:28+00:00`
   - https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/
   - Governor who touted Texas as AI “epicenter” pauses data center grid connections.
-- 🔵 **Open-weight AI models are catching up to the frontier. The safety gap remains.** — TechCrunch AI — `2026-08-04T20:05:26+00:00`
-  - https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/
-  - A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.
-- 🔵 **Anthropic signs $10B deal with AI cloud startup Volta** — TechCrunch AI — `2026-08-04T19:48:40+00:00`
-  - https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/
-  - Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.
-- 🔵 **Meet Wrinkles, an app that uncovers the hidden stories of the places around you** — TechCrunch AI — `2026-08-04T19:34:34+00:00`
-  - https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/
-  - Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.
-- 🔵 **Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress** — TechCrunch AI — `2026-08-04T19:28:49+00:00`
-  - https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/
-  - The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.
-- 🔵 **Spotify expands AI remix and covers project with Merlin partnership** — TechCrunch AI — `2026-08-04T15:50:06+00:00`
-  - https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/
-  - Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring 
-- 🔵 **US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own** — Ars Technica AI — `2026-08-03T22:11:39+00:00`
-  - https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/
-  - $100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.
-- 🔵 **An AI-supervised remote exam went so badly that 58,000 students must retake it** — Ars Technica AI — `2026-08-03T19:00:50+00:00`
-  - https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/
-  - Top scores increased by 5x.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
