@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-07T07:38:26.880768+00:00",
+  "generated_at": "2026-08-07T09:13:04.438544+00:00",
   "lookback_hours": 72,
-  "item_count": 225,
+  "item_count": 226,
   "sources_ok": [
     {
       "source": "OpenAI",
       "url": "https://openai.com/news/rss.xml",
-      "items_kept": 4,
-      "items_total": 1113
+      "items_kept": 5,
+      "items_total": 1114
     },
     {
       "source": "Google DeepMind",
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI",
+      "category": "Mô hình & LLM",
+      "tier": "primary",
+      "published_iso": "2026-08-07T09:00:00+00:00",
+      "published_ts": 1786093200.0,
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+    },
     {
       "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
       "url": "https://arxiv.org/abs/2608.05159",

@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-07T07:38:26.880768+00:00 (UTC) — cửa sổ 72h — 225 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-07T09:13:04.438544+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -29,6 +29,9 @@
 
 ## Mô hình & LLM
 
+- 🟢 **How HSP GRUPPE builds AI capabilities for tax advisory** — OpenAI — `2026-08-07T09:00:00+00:00`
+  - https://openai.com/index/hsp-gruppe
+  - Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.
 - 🟢 **WeatherNext: AI model achieves breakthrough in forecasting cyclones** — Google DeepMind — `2026-08-06T15:06:15+00:00`
   - https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/
 - 🟢 **Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users** — OpenAI — `2026-08-06T10:00:00+00:00`
