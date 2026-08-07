@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-07T17:04:07.101510+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-07T19:11:19.731479+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -34,12 +34,11 @@
 - 🟢 **From asking to doing: How the world is putting ChatGPT to work** — OpenAI — `2026-08-06T00:00:00+00:00`
   - https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
   - New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.
-- 🟢 **Third-party cyber evaluations involving OpenAI models** — OpenAI — `2026-08-04T19:00:00+00:00`
-  - https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
-  - OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
 
 ## Mô hình mở
 
+- 🟢 **TutorMoments: Do AI tutors know when to help and when to hold back?** — Hugging Face — `2026-08-07T17:53:32+00:00`
+  - https://huggingface.co/blog/allenai/tutormoments
 - 🟢 **Baseten on Hugging Face Inference Providers 🔥** — Hugging Face — `2026-08-06T00:00:00+00:00`
   - https://huggingface.co/blog/baseten
 
@@ -558,7 +557,16 @@
 
 ## Tin tức
 
-- 🔵 **What&#8217;s behind the Google AI shakeup** — The Verge AI — `2026-08-07T16:45:14+00:00`
+- 🔵 **Watching Roku’s AI channel is like eating from a trough** — The Verge AI — `2026-08-07T18:59:46+00:00`
+  - https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel
+  - The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers
+- 🔵 **OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful** — The Verge AI — `2026-08-07T18:40:34+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities
+  - OpenAI says it is pausing "internal activities" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have al
+- 🔵 **OpenAI’s expensive smart speaker will use moving parts to seem “more alive”** — Ars Technica AI — `2026-08-07T17:36:22+00:00`
+  - https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/
+  - Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.
+- 🔵 **What&#8217;s behind the Google AI shake-up** — The Verge AI — `2026-08-07T16:45:14+00:00`
   - https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast
   - Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;
 - 🔵 **Cloudflare launches Kitesurf, a browser built for AI agents** — TechCrunch AI — `2026-08-07T16:16:09+00:00`
@@ -567,6 +575,9 @@
 - 🔵 **Airbnb says AI is helping it ship features faster as it tests a new search function** — TechCrunch AI — `2026-08-07T14:22:49+00:00`
   - https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/
   - Airbnb will debut a new AI-powered search experience with a toggle.
+- 🔵 **Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers** — TechCrunch AI — `2026-08-07T14:00:00+00:00`
+  - https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/
+  - Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old “town hall in your pocket” or&#160;Anthropic
 - 🔵 **AI chatbots have failed people in crisis. Can that be fixed?** — Ars Technica AI — `2026-08-07T13:49:37+00:00`
   - https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/
   - Clinicians and researchers say AI companies need to open up their safety data.
@@ -642,12 +653,6 @@
 - 🔵 **AI isn’t enough to protect social media communities from AI** — Ars Technica AI — `2026-08-06T11:00:44+00:00`
   - https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/
   - Why humans need to moderate humans.
-- 🔵 **OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’** — The Verge AI — `2026-08-06T09:33:11+00:00`
-  - https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request
-  - OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as "meritless." In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup'
-- 🔵 **Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months** — The Verge AI — `2026-08-06T00:25:10+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead
-  - xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a "massive improvement" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. "As far as we can tell, no entry has changed in more than three month
 - 🔵 **Meta launches Muse Code, an AI agent for large code bases** — TechCrunch AI — `2026-08-05T21:21:28+00:00`
   - https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/
   - Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.
@@ -678,9 +683,6 @@
 - 🔵 **TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals** — TechCrunch AI — `2026-08-05T15:05:00+00:00`
   - https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/
   - On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
-- 🔵 **Anthropic is hiring an AI chip design team** — TechCrunch AI — `2026-08-05T14:13:18+00:00`
-  - https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/
-  - Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.
 - 🔵 **SpaceX spooks investors with debut earnings report** — Ars Technica AI — `2026-08-05T13:59:17+00:00`
   - https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/
   - Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.
