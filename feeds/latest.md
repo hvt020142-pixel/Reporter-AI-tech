@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-07T20:54:52.058597+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-07T22:51:35.042454+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -557,6 +557,12 @@
 
 ## Tin tức
 
+- 🔵 **OpenAI says it slowed Astra model development over security concerns** — TechCrunch AI — `2026-08-07T22:48:24+00:00`
+  - https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/
+  - OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.
+- 🔵 **After Rippling blew millions on AI in months, it built an employee ROI tool** — TechCrunch AI — `2026-08-07T21:30:11+00:00`
+  - https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/
+  - After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.
 - 🔵 **Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore** — The Verge AI — `2026-08-07T20:01:51+00:00`
   - https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo
   - It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song "Rubberz." His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI de
@@ -574,7 +580,7 @@
   - Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;
 - 🔵 **Cloudflare launches Kitesurf, a browser built for AI agents** — TechCrunch AI — `2026-08-07T16:16:09+00:00`
   - https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/
-  - Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.
+  - Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.
 - 🔵 **Airbnb says AI is helping it ship features faster as it tests a new search function** — TechCrunch AI — `2026-08-07T14:22:49+00:00`
   - https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/
   - Airbnb will debut a new AI-powered search experience with a toggle.
@@ -589,7 +595,7 @@
   - TikTok owner training a model with 10 trillion parameters.
 - 🔵 **New Mexico court orders Meta to pay additional $567M in child safety case** — TechCrunch AI — `2026-08-07T11:40:37+00:00`
   - https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/
-  - Meta's total fine has raked up to $942 million in this case.
+  - Meta's total fine has racked up to $942 million in this case.
 - 🔵 **OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400** — TechCrunch AI — `2026-08-06T22:43:53+00:00`
   - https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/
   - Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.
@@ -674,15 +680,9 @@
 - 🔵 **Shopify says AI search is driving more traffic and sales, not replacing Google** — TechCrunch AI — `2026-08-05T15:56:14+00:00`
   - https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/
   - Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.
-- 🔵 **Hark previews its browser use agent for completing tasks** — TechCrunch AI — `2026-08-05T15:46:27+00:00`
-  - https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/
-  - Hark claims that its browser use agent is faster and cheaper than competition.
 - 🔵 **Google plans to kill Assistant on your phone on September 4** — Ars Technica AI — `2026-08-05T15:30:02+00:00`
   - https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/
   - Assistant will disappear, leaving only Gemini for voice control in the coming weeks.
-- 🔵 **TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals** — TechCrunch AI — `2026-08-05T15:05:00+00:00`
-  - https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/
-  - On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
 - 🔵 **SpaceX spooks investors with debut earnings report** — Ars Technica AI — `2026-08-05T13:59:17+00:00`
   - https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/
   - Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.
