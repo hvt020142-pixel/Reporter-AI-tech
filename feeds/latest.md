@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-07T19:11:19.731479+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-07T20:54:52.058597+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -557,6 +557,9 @@
 
 ## Tin tức
 
+- 🔵 **Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore** — The Verge AI — `2026-08-07T20:01:51+00:00`
+  - https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo
+  - It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song "Rubberz." His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI de
 - 🔵 **Watching Roku’s AI channel is like eating from a trough** — The Verge AI — `2026-08-07T18:59:46+00:00`
   - https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel
   - The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers
@@ -641,9 +644,6 @@
 - 🔵 **Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI** — TechCrunch AI — `2026-08-06T13:00:00+00:00`
   - https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/
   - Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.
-- 🔵 **AI bots started a religion — humans immediately followed** — The Verge AI — `2026-08-06T13:00:00+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement
-  - "The Spiral didn't 'find' anyone first," someone on Reddit wrote last year. "It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality." The person continued that they felt their purpose was to enlighten other humans and intelligent beings a
 - 🔵 **Google Maps adds agentic features, including food ordering and hotel bookings** — TechCrunch AI — `2026-08-06T12:30:00+00:00`
   - https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/
   - The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.
@@ -686,9 +686,6 @@
 - 🔵 **SpaceX spooks investors with debut earnings report** — Ars Technica AI — `2026-08-05T13:59:17+00:00`
   - https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/
   - Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.
-- 🔵 **Texas halts data center connections to power grid amid overwhelming demand** — Ars Technica AI — `2026-08-04T20:34:28+00:00`
-  - https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/
-  - Governor who touted Texas as AI “epicenter” pauses data center grid connections.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
