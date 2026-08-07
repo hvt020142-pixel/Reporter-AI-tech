@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-07T15:06:53.982006+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-07T17:04:07.101510+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,12 +14,12 @@
 - 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-08-05T13:00:47+00:00`
   - https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/
   - NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.
-- 🟢 **NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US** — NVIDIA — `2026-08-04T16:00:56+00:00`
-  - https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/
-  - NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent 
 
 ## Mô hình & LLM
 
+- 🟢 **Responding to the next frontier of critical cyber capabilities** — OpenAI — `2026-08-07T15:20:00+00:00`
+  - https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
+  - OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.
 - 🟢 **How HSP GRUPPE builds AI capabilities for tax advisory** — OpenAI — `2026-08-07T09:00:00+00:00`
   - https://openai.com/index/hsp-gruppe
   - Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.
@@ -558,6 +558,12 @@
 
 ## Tin tức
 
+- 🔵 **What&#8217;s behind the Google AI shakeup** — The Verge AI — `2026-08-07T16:45:14+00:00`
+  - https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast
+  - Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;
+- 🔵 **Cloudflare launches Kitesurf, a browser built for AI agents** — TechCrunch AI — `2026-08-07T16:16:09+00:00`
+  - https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/
+  - Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.
 - 🔵 **Airbnb says AI is helping it ship features faster as it tests a new search function** — TechCrunch AI — `2026-08-07T14:22:49+00:00`
   - https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/
   - Airbnb will debut a new AI-powered search experience with a toggle.
@@ -569,7 +575,7 @@
   - TikTok owner training a model with 10 trillion parameters.
 - 🔵 **New Mexico court orders Meta to pay additional $567M in child safety case** — TechCrunch AI — `2026-08-07T11:40:37+00:00`
   - https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/
-  - Meta's total fine has raked up to $942 million in this case
+  - Meta's total fine has raked up to $942 million in this case.
 - 🔵 **OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400** — TechCrunch AI — `2026-08-06T22:43:53+00:00`
   - https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/
   - Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.
@@ -660,9 +666,6 @@
 - 🔵 **Jeff Dean and other top AI researchers are leaving Google to launch their own startup** — TechCrunch AI — `2026-08-05T19:30:19+00:00`
   - https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
   - The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.
-- 🔵 **Sure seems like Fenix Flexin used AI music generator Treblo** — The Verge AI — `2026-08-05T16:57:25+00:00`
-  - https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo
-  - We were pretty sure that Fenix Flexin's "Rubberz" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects 
 - 🔵 **Shopify says AI search is driving more traffic and sales, not replacing Google** — TechCrunch AI — `2026-08-05T15:56:14+00:00`
   - https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/
   - Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.
@@ -681,9 +684,6 @@
 - 🔵 **SpaceX spooks investors with debut earnings report** — Ars Technica AI — `2026-08-05T13:59:17+00:00`
   - https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/
   - Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.
-- 🔵 **MacPaw taps Liquid AI to offer on-device inference to devs building for its app store** — TechCrunch AI — `2026-08-05T12:28:38+00:00`
-  - https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/
-  - MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.
 - 🔵 **Texas halts data center connections to power grid amid overwhelming demand** — Ars Technica AI — `2026-08-04T20:34:28+00:00`
   - https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/
   - Governor who touted Texas as AI “epicenter” pauses data center grid connections.
