@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-07T11:04:25.177303+00:00 (UTC) — cửa sổ 72h — 226 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-07T13:33:36.831553+00:00 (UTC) — cửa sổ 72h — 224 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -23,9 +23,6 @@
 - 🟢 **As AI Increases Demands on Memory, Storage Steps Up** — NVIDIA — `2026-08-04T15:00:47+00:00`
   - https://blogs.nvidia.com/blog/ai-storage-fms/
   - Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures
-- 🟢 **AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency** — NVIDIA — `2026-08-04T13:00:47+00:00`
-  - https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/
-  - Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange
 
 ## Mô hình & LLM
 
@@ -46,9 +43,6 @@
 - 🟢 **Third-party cyber evaluations involving OpenAI models** — OpenAI — `2026-08-04T19:00:00+00:00`
   - https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
   - OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
-- 🟢 **The latest AI news we announced in July 2026** — Google (Keyword AI) — `2026-08-04T13:00:00+00:00`
-  - https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
-  - Here are Google’s latest AI updates from July 2026
 
 ## Mô hình mở
 
@@ -566,12 +560,15 @@
 - 🔵 **Why R&D Waste Persists Despite Widespread AI Adoption** — IEEE Spectrum AI — `2026-08-04T14:51:55+00:00`
   - https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/
   - This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well. What Attendees will Learn Where R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market. Why pro
-- 🔵 **The Download: US robot restrictions and ICE’s DNA grab** — MIT Tech Review — `2026-08-04T12:14:00+00:00`
-  - https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kic
 
 ## Tin tức
 
+- 🔵 **ByteDance trains massive AI model in bid to rival Anthropic** — Ars Technica AI — `2026-08-07T13:29:22+00:00`
+  - https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/
+  - TikTok owner training a model with 10 trillion parameters.
+- 🔵 **New Mexico court orders Meta to pay additional $567M in child safety case** — TechCrunch AI — `2026-08-07T11:40:37+00:00`
+  - https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/
+  - Meta's total fine has raked up to $942 million in this case
 - 🔵 **OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400** — TechCrunch AI — `2026-08-06T22:43:53+00:00`
   - https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/
   - Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.
@@ -689,9 +686,6 @@
 - 🔵 **AI makes weather prediction better. Can WindBorne make it lucrative?** — TechCrunch AI — `2026-08-05T11:00:00+00:00`
   - https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
   - WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.
-- 🔵 **SpaceX has bought $329M worth of Tesla Megapacks so far this year** — TechCrunch AI — `2026-08-04T21:07:26+00:00`
-  - https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/
-  - The purchase illustrates just how interconnected Elon Musk's universe of companies are.
 - 🔵 **Texas halts data center connections to power grid amid overwhelming demand** — Ars Technica AI — `2026-08-04T20:34:28+00:00`
   - https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/
   - Governor who touted Texas as AI “epicenter” pauses data center grid connections.
