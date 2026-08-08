@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T08:56:05.855649+00:00",
+  "generated_at": "2026-08-08T10:47:59.262601+00:00",
   "lookback_hours": 72,
-  "item_count": 62,
+  "item_count": 63,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -24,7 +24,7 @@
     {
       "source": "NVIDIA",
       "url": "https://blogs.nvidia.com/feed/",
-      "items_kept": 3,
+      "items_kept": 4,
       "items_total": 18
     },
     {
@@ -96,6 +96,16 @@
   ],
   "sources_failed": [],
   "items": [
+    {
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+      "source": "NVIDIA",
+      "category": "Hạ tầng & phần cứng",
+      "tier": "primary",
+      "published_iso": "2026-08-08T10:24:54+00:00",
+      "published_ts": 1786184694.0,
+      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Niko"
+    },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",

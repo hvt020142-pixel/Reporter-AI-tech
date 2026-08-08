@@ -1,10 +1,13 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-08T08:56:05.855649+00:00 (UTC) — cửa sổ 72h — 62 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-08T10:47:59.262601+00:00 (UTC) — cửa sổ 72h — 63 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
 
+- 🟢 **Firebird Launches CIS Region’s Largest AI Factory in Armenia** — NVIDIA — `2026-08-08T10:24:54+00:00`
+  - https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
+  - The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Niko
 - 🟢 **GeForce NOW Shakes Up August With 26 New Games** — NVIDIA — `2026-08-06T13:00:11+00:00`
   - https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/
   - August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine
