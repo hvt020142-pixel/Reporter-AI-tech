@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-08T16:49:05.756953+00:00 (UTC) — cửa sổ 72h — 57 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-08T18:54:09.806539+00:00 (UTC) — cửa sổ 72h — 56 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -56,9 +56,6 @@
 - 🔵 **The Download: Google’s AI shake-up and Meta’s rogue model** — MIT Tech Review — `2026-08-06T12:10:00+00:00`
   - https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/
   - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model
-- 🔵 **IEEE Course Teaches How to Use AI to Modernize Power Grids** — IEEE Spectrum AI — `2026-08-05T18:00:03+00:00`
-  - https://spectrum.ieee.org/ieee-course-ai-power-grids
-  - Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point , according to the U.S. Department o
 
 ## Tin tức
 

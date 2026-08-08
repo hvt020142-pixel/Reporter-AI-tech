@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T16:49:05.756953+00:00",
+  "generated_at": "2026-08-08T18:54:09.806539+00:00",
   "lookback_hours": 72,
-  "item_count": 57,
+  "item_count": 56,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -90,7 +90,7 @@
     {
       "source": "IEEE Spectrum AI",
       "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
-      "items_kept": 2,
+      "items_kept": 1,
       "items_total": 30
     }
   ],
@@ -655,16 +655,6 @@
       "published_iso": "2026-08-05T19:30:19+00:00",
       "published_ts": 1785958219.0,
       "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
-    },
-    {
-      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
-      "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
-      "source": "IEEE Spectrum AI",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-08-05T18:00:03+00:00",
-      "published_ts": 1785952803.0,
-      "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point , according to the U.S. Department o"
     }
   ]
 }
