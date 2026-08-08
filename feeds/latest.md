@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-07T22:51:35.042454+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-08T02:18:01.757048+00:00 (UTC) — cửa sổ 72h — 223 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -559,7 +559,7 @@
 
 - 🔵 **OpenAI says it slowed Astra model development over security concerns** — TechCrunch AI — `2026-08-07T22:48:24+00:00`
   - https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/
-  - OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.
+  - OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.
 - 🔵 **After Rippling blew millions on AI in months, it built an employee ROI tool** — TechCrunch AI — `2026-08-07T21:30:11+00:00`
   - https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/
   - After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.

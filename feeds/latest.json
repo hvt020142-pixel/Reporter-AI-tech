@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T22:51:35.042454+00:00",
+  "generated_at": "2026-08-08T02:18:01.757048+00:00",
   "lookback_hours": 72,
   "item_count": 223,
   "sources_ok": [
@@ -104,7 +104,7 @@
       "tier": "reputable",
       "published_iso": "2026-08-07T22:48:24+00:00",
       "published_ts": 1786142904.0,
-      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess."
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems."
     },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
