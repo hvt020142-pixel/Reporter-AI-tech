@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T14:46:05.025016+00:00",
+  "generated_at": "2026-08-08T16:49:05.756953+00:00",
   "lookback_hours": 72,
-  "item_count": 60,
+  "item_count": 57,
   "sources_ok": [
     {
       "source": "OpenAI",
@@ -60,7 +60,7 @@
     {
       "source": "TechCrunch AI",
       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "items_kept": 20,
+      "items_kept": 19,
       "items_total": 20
     },
     {
@@ -78,13 +78,13 @@
     {
       "source": "Ars Technica AI",
       "url": "https://arstechnica.com/ai/feed/",
-      "items_kept": 13,
+      "items_kept": 12,
       "items_total": 20
     },
     {
       "source": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed/",
-      "items_kept": 4,
+      "items_kept": 3,
       "items_total": 10
     },
     {
@@ -665,36 +665,6 @@
       "published_iso": "2026-08-05T18:00:03+00:00",
       "published_ts": 1785952803.0,
       "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point , according to the U.S. Department o"
-    },
-    {
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "source": "TechCrunch AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-05T15:56:14+00:00",
-      "published_ts": 1785945374.0,
-      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
-    },
-    {
-      "title": "Google plans to kill Assistant on your phone on September 4",
-      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-      "source": "Ars Technica AI",
-      "category": "Tin tức",
-      "tier": "reputable",
-      "published_iso": "2026-08-05T15:30:02+00:00",
-      "published_ts": 1785943802.0,
-      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks."
-    },
-    {
-      "title": "Puzzle Corner",
-      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-      "source": "MIT Tech Review",
-      "category": "Phân tích",
-      "tier": "reputable",
-      "published_iso": "2026-08-05T14:56:29+00:00",
-      "published_ts": 1785941789.0,
-      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June "
     }
   ]
 }

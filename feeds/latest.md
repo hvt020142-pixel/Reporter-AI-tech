@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-08T14:46:05.025016+00:00 (UTC) — cửa sổ 72h — 60 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-08T16:49:05.756953+00:00 (UTC) — cửa sổ 72h — 57 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -59,9 +59,6 @@
 - 🔵 **IEEE Course Teaches How to Use AI to Modernize Power Grids** — IEEE Spectrum AI — `2026-08-05T18:00:03+00:00`
   - https://spectrum.ieee.org/ieee-course-ai-power-grids
   - Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point , according to the U.S. Department o
-- 🔵 **Puzzle Corner** — MIT Tech Review — `2026-08-05T14:56:29+00:00`
-  - https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/
-  - Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June 
 
 ## Tin tức
 
@@ -188,12 +185,6 @@
 - 🔵 **Jeff Dean and other top AI researchers are leaving Google to launch their own startup** — TechCrunch AI — `2026-08-05T19:30:19+00:00`
   - https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
   - The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.
-- 🔵 **Shopify says AI search is driving more traffic and sales, not replacing Google** — TechCrunch AI — `2026-08-05T15:56:14+00:00`
-  - https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/
-  - Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.
-- 🔵 **Google plans to kill Assistant on your phone on September 4** — Ars Technica AI — `2026-08-05T15:30:02+00:00`
-  - https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/
-  - Assistant will disappear, leaving only Gemini for voice control in the coming weeks.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
