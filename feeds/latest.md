@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-08T07:10:19.346942+00:00 (UTC) — cửa sổ 72h — 63 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-08T08:56:05.855649+00:00 (UTC) — cửa sổ 72h — 62 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -68,9 +68,6 @@
 - 🔵 **Should Researchers Write Papers for AI Instead of People?** — IEEE Spectrum AI — `2026-08-05T12:00:03+00:00`
   - https://spectrum.ieee.org/ai-scientist-research-paper-format
   - This May, 37 researchers from roughly two dozen top universities and tech companies published a paper on ArXiv, arguing that scientists should stop writing papers. Why? Because artificial intelligence needs a different format, and AI’s needs, they say, should be the priority. “AI agents are becoming
-- 🔵 **NASA’s new dark-energy space telescope can also detect killer asteroids** — MIT Tech Review — `2026-08-05T08:06:40+00:00`
-  - https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/
-  - At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of
 
 ## Tin tức
 
