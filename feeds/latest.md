@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-08T13:09:16.096052+00:00 (UTC) — cửa sổ 72h — 61 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-08T14:46:05.025016+00:00 (UTC) — cửa sổ 72h — 60 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -194,9 +194,6 @@
 - 🔵 **Google plans to kill Assistant on your phone on September 4** — Ars Technica AI — `2026-08-05T15:30:02+00:00`
   - https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/
   - Assistant will disappear, leaving only Gemini for voice control in the coming weeks.
-- 🔵 **SpaceX spooks investors with debut earnings report** — Ars Technica AI — `2026-08-05T13:59:17+00:00`
-  - https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/
-  - Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.
 
 ---
 *🟢 nguồn sơ cấp (blog hãng/arXiv) · 🔵 báo uy tín. Tạo tự động bởi `scripts/fetch_news.py`.*
