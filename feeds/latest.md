@@ -1,6 +1,6 @@
 # Dòng tin AI gần thời gian thực
 
-*Cập nhật: 2026-08-08T10:47:59.262601+00:00 (UTC) — cửa sổ 72h — 63 mục — nguồn sơ cấp/uy tín.*
+*Cập nhật: 2026-08-08T13:09:16.096052+00:00 (UTC) — cửa sổ 72h — 61 mục — nguồn sơ cấp/uy tín.*
 
 
 ## Hạ tầng & phần cứng
@@ -14,9 +14,6 @@
 - 🟢 **Into the Omniverse: How Open World Models Push the Frontier of Physical AI** — NVIDIA — `2026-08-06T13:00:00+00:00`
   - https://blogs.nvidia.com/blog/open-world-models-physical-ai/
   - In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.
-- 🟢 **NVIDIA and Partners Build in America, for America** — NVIDIA — `2026-08-05T13:00:47+00:00`
-  - https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/
-  - NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.
 
 ## Mô hình & LLM
 
@@ -65,15 +62,12 @@
 - 🔵 **Puzzle Corner** — MIT Tech Review — `2026-08-05T14:56:29+00:00`
   - https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/
   - Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June 
-- 🔵 **The Download: NASA’s new telescope and Chinese tech import curbs** — MIT Tech Review — `2026-08-05T12:10:00+00:00`
-  - https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/
-  - This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telesc
-- 🔵 **Should Researchers Write Papers for AI Instead of People?** — IEEE Spectrum AI — `2026-08-05T12:00:03+00:00`
-  - https://spectrum.ieee.org/ai-scientist-research-paper-format
-  - This May, 37 researchers from roughly two dozen top universities and tech companies published a paper on ArXiv, arguing that scientists should stop writing papers. Why? Because artificial intelligence needs a different format, and AI’s needs, they say, should be the priority. “AI agents are becoming
 
 ## Tin tức
 
+- 🔵 **DeepMind’s hurricane breakthrough has surprised weather scientists** — Ars Technica AI — `2026-08-08T11:05:50+00:00`
+  - https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/
+  - Open source WeatherNext model can make accurate predictions with lower-resolution weather data.
 - 🔵 **OpenAI says it slowed Astra model development over security concerns** — TechCrunch AI — `2026-08-07T22:48:24+00:00`
   - https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/
   - OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.
